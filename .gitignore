@@ -1,0 +1,7 @@
+node_modules/
+.env
+docs/*.html
+!docs/.gitkeep
+*.log
+.DS_Store
+__pycache__/

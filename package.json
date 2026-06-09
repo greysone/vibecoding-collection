@@ -1,0 +1,15 @@
+{
+  "name": "vibecoding-site",
+  "version": "1.0.0",
+  "description": "VibeCoding 集 — AI 编码新手项目集合站",
+  "private": true,
+  "scripts": {
+    "build": "node src/build.js",
+    "generate": "node scripts/generate-content.js",
+    "fetch-trending": "node scripts/fetch-trending.js",
+    "dev": "node src/build.js --watch"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

@@ -8,8 +8,5 @@
     "generate": "node scripts/generate-content.js",
     "fetch-trending": "node scripts/fetch-trending.js",
     "dev": "node src/build.js --watch"
-  },
-  "dependencies": {
-    "node-fetch": "^2.7.0"
   }
 }

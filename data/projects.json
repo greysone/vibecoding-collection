@@ -1,0 +1,206 @@
+[
+  {
+    "id": "screenshot-to-code",
+    "category": "fun",
+    "title": "截图转代码 — 视觉稿秒变前端",
+    "brief": "上传设计稿截图，AI 自动生成对应的 HTML/CSS/React 代码。最适合快速验证 UI 想法的神器。",
+    "tags": ["前端", "AI 视觉", "零基础友好"],
+    "icon": "🖼️",
+    "details": {
+      "reason": "这是 AI 编码中最直观的\"所见即所得\"体验。你不需要写一行 CSS，上传一张截图就能得到一个可运行的页面。对初学者来说，这种即时反馈是建立信心最好的方式。",
+      "audience": "完全零编程基础的设计爱好者、产品经理、自媒体运营。甚至不懂 HTML 也能玩。",
+      "demo": "上传 Twitter 截图 → AI 输出完整 HTML 页面，包含布局、颜色、字体、图标。也可以上传手绘线框图，AI 理解意图后生成结构化的前端代码，交互可点击。"
+    },
+    "prompt": "参考 GitHub 项目 abi/screenshot-to-code，请帮我复现类似功能。我需要：1) 支持上传截图/设计稿图片；2) AI 识别图片内容并生成对应的 HTML/CSS 代码；3) 提供实时预览区域展示生成效果；4) 支持代码复制和下载功能。使用 React + Tailwind CSS，接入 GPT-4o 视觉模型。",
+    "ghLink": "https://github.com/abi/screenshot-to-code",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-music-generator",
+    "category": "fun",
+    "title": "AI 音乐生成器 — 文本谱曲",
+    "brief": "输入歌词与风格描述，AI 为你作曲并生成可播放的音频。零音乐基础也能创作自己的歌曲。",
+    "tags": ["音频", "生成式 AI", "创意工具"],
+    "icon": "🎵",
+    "details": {
+      "reason": "将文本转化为旋律的过程充满惊喜感。你可以为朋友生日写歌、为播客制作配乐，每一次生成的随机性都是独特的创作体验。",
+      "audience": "音乐爱好者、播客/视频创作者、喜欢尝试 AI 创作工具的技术爱好者。",
+      "demo": "输入\"欢快的电子音乐，节奏 120BPM，带钢琴旋律\"→ 30 秒内生成一段可播放的 MIDI 合成音频。支持调节参数重新生成，每次结果不同。"
+    },
+    "prompt": "参考 Suno AI 和 MusicGen 的思路，请帮我构建一个 AI 音乐生成网页应用：1) 用户输入歌词和风格描述；2) 调用 AI 音乐生成 API 生成 MIDI/音频；3) 提供播放器预览和下载功能；4) 展示乐谱可视化。使用 Next.js + Web Audio API。",
+    "ghLink": "https://github.com/facebookresearch/audiocraft",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-meme-maker",
+    "category": "fun",
+    "title": "AI 表情包工坊 — 一句话生成梗图",
+    "brief": "输入想法，AI 自动构图、配字、输出可直接发送的表情包。聊天斗图从此不愁。",
+    "tags": ["图像生成", "社交媒体", "娱乐"],
+    "icon": "🎨",
+    "details": {
+      "reason": "表情包是互联网通用语言。这个项目将复杂的图像生成模型包装成一个秒级出图的工具，你只需输入\"打工人的周一\"，AI 就会帮你完成构图、排版、文案全部流程。",
+      "audience": "社交媒体重度用户、内容创作者、任何想让日常聊天更有趣的人。",
+      "demo": "输入\"猫猫震惊.jpg + 文案：这就是你说的简单需求？\"→ AI 自动识别表情模版、合成文字、输出可直接发送的图片。支持历史记录和收藏。"
+    },
+    "prompt": "帮我构建一个 AI 表情包生成器：1) 用户输入关键词或简短描述；2) AI 根据描述生成表情包风格图片；3) 提供文字叠加功能，支持自定义字体、位置、颜色；4) 一键复制到剪贴板或下载 PNG。使用 React + Canvas API。",
+    "ghLink": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "translate-extension",
+    "category": "fun",
+    "title": "实时翻译浏览器扩展",
+    "brief": "浏览英文网页时自动双语对照翻译，保留原文排版，彻底消除语言壁垒。",
+    "tags": ["浏览器扩展", "翻译", "生产力"],
+    "icon": "🌐",
+    "details": {
+      "reason": "这是\"做完就能立刻用起来\"的项目典范。每次浏览外文网站时看到自己的工作成果，那种成就感是持续学习的最大动力。代码量适中，非常适合作为第一个自主项目。",
+      "audience": "有英语学习需求的学生/开发者、经常浏览海外技术文档的程序员、想要入门浏览器扩展开发的人。",
+      "demo": "浏览英文网页时自动在原文下方显示中文翻译。支持切换翻译服务，提供\"仅译文\"\"双语对照\"\"原文\"三种模式。"
+    },
+    "prompt": "参考沉浸式翻译项目，帮我构建一个浏览器翻译扩展：1) 自动识别网页语言；2) 点击后以双语对照形式显示翻译结果；3) 支持 OpenAI/DeepL/Google 翻译 API 切换；4) 翻译结果保留原网页排版样式。使用 Manifest V3。",
+    "ghLink": "https://github.com/immersive-translate/immersive-translate",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-note-app",
+    "category": "useful",
+    "title": "AI 智能笔记 — 语音即所得",
+    "brief": "语音输入自动整理为结构化笔记，支持 OCR 识别图片文字、自动标签分类。让想法永不丢失。",
+    "tags": ["笔记", "语音识别", "效率工具"],
+    "icon": "📝",
+    "details": {
+      "reason": "笔记工具是日常生活中最高频的工具之一。加上 AI 能力后，你可以用自然语言与笔记对话，让零散的想法自动变成可检索的知识库。",
+      "audience": "知识工作者、学生、需要记录灵感的创意人员、希望建立个人知识库的人。",
+      "demo": "说\"记录今天开会提到的三个需求\"→ AI 自动转录并整理为 Markdown 笔记，提取关键词标签，归入对应分类文件夹。支持语义搜索。"
+    },
+    "prompt": "参考 Memos 项目思路，帮我构建一个 AI 笔记应用：1) 支持语音/文字输入，AI 自动整理成结构化笔记；2) OCR 识别上传图片中的文字；3) 自动标签分类和语义搜索；4) 支持 Markdown 编辑和导出。使用 React + SQLite/IndexedDB，接入 Whisper API。",
+    "ghLink": "https://github.com/usememos/memos",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-workflow-assistant",
+    "category": "useful",
+    "title": "个人 AI 工作流助手 — Dify 入门",
+    "brief": "搭建本地化 AI 工作流，自动处理邮件摘要、周报生成、信息聚合等日常重复劳动。",
+    "tags": ["自动化", "工作流", "效率"],
+    "icon": "🤖",
+    "details": {
+      "reason": "这个项目让你真正理解\"AI Agent\"的概念。通过搭建工作流，学会如何让大模型+工具链协作完成复杂任务，这是未来工作的核心技能。",
+      "audience": "希望提升工作效率的上班族、需要处理大量信息的运营/市场人员、对 AI Agent 感兴趣的开发者。",
+      "demo": "设置每天早晨自动运行的工作流：1) 抓取 RSS 和新闻；2) AI 生成 200 字摘要；3) 推送到微信/钉钉/邮件。全程自动。"
+    },
+    "prompt": "参考 Dify 项目，帮我搭建一个本地 AI 工作流平台：1) 可视化拖拽编排工作流节点；2) 内置邮件摘要、周报生成等模板；3) 支持定时触发和 Webhook 触发；4) 输出可发送到钉钉/飞书/邮件。使用 Node.js + React Flow。",
+    "ghLink": "https://github.com/langgenius/dify",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-customer-service",
+    "category": "useful",
+    "title": "AI 客服机器人 — 5 分钟部署",
+    "brief": "将企业知识库接入 AI，构建智能客服机器人。支持网站嵌入、微信接入，自动回答常见问题。",
+    "tags": ["客服", "RAG", "企业级"],
+    "icon": "💬",
+    "details": {
+      "reason": "这是 RAG（检索增强生成）最经典的应用场景。通过这个项目，掌握\"如何让 AI 基于私有知识回答问题\"的核心能力，这是构建任何 AI 应用的基础。",
+      "audience": "小型企业主、电商运营者、技术社区维护者、任何需要提供 24/7 自助服务的场景。",
+      "demo": "上传产品手册/FAQ 文档 → AI 自动学习 → 在网站右下角嵌入聊天窗口 → 用户提问时基于知识库给出准确回答，并标注引用来源。"
+    },
+    "prompt": "帮我构建一个基于 RAG 的 AI 客服机器人：1) 上传知识库文档（PDF/Word/Markdown）；2) 文档分割并向量化存入本地向量数据库；3) 网页嵌入聊天窗口；4) 用户提问时检索相关知识片段并结合 LLM 生成回答。使用 LangChain + ChromaDB + Next.js。",
+    "ghLink": "https://github.com/langchain-ai/langchain",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-snippet-manager",
+    "category": "useful",
+    "title": "AI 代码片段管理 — 语义秒搜",
+    "brief": "用自然语言搜索和管理代码片段，一键插入编辑器。开发者效率翻倍。",
+    "tags": ["开发工具", "代码管理", "效率"],
+    "icon": "⌨️",
+    "details": {
+      "reason": "每个开发者都积累了大量代码片段，但传统文件夹管理很难检索。用自然语言搜索代码——\"找那个二分查找的函数\"——这就是 AI 时代的管理方式。",
+      "audience": "软件开发人员（不限语言）、计算机专业学生、技术博主。",
+      "demo": "搜索\"Python 发送邮件 带附件\"→ AI 理解语义，展示匹配的代码片段，高亮关键参数位置。支持一键复制或插入编辑器。"
+    },
+    "prompt": "帮我构建一个 AI 驱动的代码片段管理器：1) 多语言代码片段存储和分类；2) 语义搜索（理解\"发送 HTTP 请求\"和\"fetch/axios\"的关联）；3) 自动提取代码注释作为索引；4) VS Code 扩展形式提供侧边栏。使用 TypeScript + VS Code Extension API + 本地向量存储。",
+    "ghLink": "https://github.com/cline/cline",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-voice-assistant",
+    "category": "diy",
+    "title": "AI 语音助手 — 智能音箱 DIY",
+    "brief": "用树莓派（或旧手机）+ 麦克风 + 喇叭打造专属 AI 语音助手，实现天气查询、闹钟、智能家居控制。",
+    "tags": ["树莓派", "语音", "硬件"],
+    "icon": "🔊",
+    "details": {
+      "reason": "亲手把一个物理设备变得\"智能\"，这种满足感是纯软件项目无法替代的。不仅学会 AI 接口调用，还掌握 GPIO 控制、音频流处理等嵌入式技能。",
+      "audience": "喜欢动手的硬件爱好者、物联网入门者、想要为孩子做智能玩具的家长。",
+      "demo": "说\"今天天气怎么样\"→ LED 亮起 → AI 识别语音 → 调用天气 API → 语音播报\"深圳今天 28°C\"→ 屏幕显示图标。全程离线唤醒词触发。"
+    },
+    "prompt": "帮我用树莓派构建一个 AI 语音助手：1) USB 麦克风采集语音；2) 离线唤醒词触发；3) 接入 Whisper API 做语音识别，GPT 做对话生成；4) TTS 播放回答；5) 天气查询、定时器、音乐播放。使用 Python + Porcupine 唤醒。",
+    "ghLink": "https://github.com/home-assistant/core",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "iot-weather-station",
+    "category": "diy",
+    "title": "物联网天气站 — 实时环境监测",
+    "brief": "ESP32 + 传感器采集温湿度/气压数据，AI 分析趋势并给出生活建议。仪表盘实时展示。",
+    "tags": ["ESP32", "传感器", "数据可视化"],
+    "icon": "🌡️",
+    "details": {
+      "reason": "物联网 + AI 的经典入门项目。学会传感器数据采集、无线传输、云端存储，AI 赋予数据\"意义\"——不仅显示数字，还能给出\"今天湿度偏高\"这样的建议。",
+      "audience": "电子爱好者、环境科学爱好者、想入门物联网的软件开发者。",
+      "demo": "ESP32 采集温度/湿度/气压 → 通过 WiFi 上传 → Web 仪表盘显示实时曲线图和历史对比 → AI 给出当日生活建议。支持告警阈值和手机推送。"
+    },
+    "prompt": "帮我制作一个基于 ESP32 的物联网天气站：1) DHT22 温湿度传感器 + BMP280 气压传感器；2) ESP32 通过 MQTT/WiFi 上传数据；3) 后端 Node.js 存储到 SQLite/InfluxDB；4) Web 仪表盘展示实时图表；5) AI 分析趋势生成生活建议。使用 Arduino IDE。",
+    "ghLink": "https://github.com/espressif/arduino-esp32",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-photo-frame",
+    "category": "diy",
+    "title": "AI 智能相框 — 回忆自动播放",
+    "brief": "旧平板/屏幕改造为 AI 相框，自动精选最佳照片，AI 裁剪构图、生成标题旁白。",
+    "tags": ["旧物改造", "图像处理", "家居"],
+    "icon": "🖼️",
+    "details": {
+      "reason": "\"变废为宝\"的最佳实践——让闲置的旧平板焕发新生。AI 根据照片内容自动选择最佳构图、生成富有诗意的文案旁白。",
+      "audience": "喜欢家居装饰的人、有闲置旧设备的极客、想送给长辈独特礼物的有心人。",
+      "demo": "每天早晨自动亮屏 → 从相册精选照片 → AI 自动裁剪构图 → 生成文案（如\"去年 3 月·大理·洱海边的风\"）→ 幻灯片循环播放 → 夜间自动息屏。"
+    },
+    "prompt": "用旧平板/树莓派打造 AI 智能相框：1) 读取本地或 Google Photos 相册；2) AI 自动评价照片质量、裁剪最佳构图；3) 生成每张照片的描述文案；4) Web 界面设置展示参数；5) 全屏幻灯片展示。使用 Python + Flask。",
+    "ghLink": "https://github.com/nicedoc/smart-picture-frame",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  },
+  {
+    "id": "ai-cat-feeder",
+    "category": "diy",
+    "title": "AI 猫猫识别投食器",
+    "brief": "摄像头识别猫咪 → AI 区分自家猫/流浪猫 → 控制舵机投放猫粮 + 推送通知到手机。",
+    "tags": ["计算机视觉", "机器人", "宠物"],
+    "icon": "🐱",
+    "details": {
+      "reason": "糅合计算机视觉、嵌入式控制、通知推送三大技术栈，每部分都有成熟库封装。看到自家猫被 AI 识别并自动投食，你会觉得每行代码都值了。",
+      "audience": "养宠人士、计算机视觉入门者、喜欢做\"有温度\"科技产品的动手派。",
+      "demo": "摄像头实时分析 → 检测到猫脸 → AI 识别是否为\"自家猫\"→ 舵机转动投放猫粮 → 微信推送\"🐱 小白正在用餐～\"含抓拍照片。"
+    },
+    "prompt": "帮我做一个 AI 猫识别自动投食器：1) 树莓派 Camera Module/USB 摄像头采集视频；2) 使用 TensorFlow Lite/YOLO 进行猫脸检测和识别；3) 识别后通过 GPIO 控制舵机旋转出粮；4) 推送手机通知；5) Web 控制页面。使用 Python + OpenCV + Flask。",
+    "ghLink": "https://github.com/tensorflow/tflite-micro",
+    "source": "manual",
+    "addedAt": "2026-06-09"
+  }
+]

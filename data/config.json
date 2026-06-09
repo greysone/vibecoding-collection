@@ -1,0 +1,38 @@
+{
+  "siteName": "VibeCoding 集",
+  "siteDescription": "VibeCoding 集：面向 AI 编码新手的项目集合站，三大方向项目分类、开工提示词、GitHub 明星项目一应俱全。",
+  "hero": {
+    "badge": "🚀 面向 AI 编码新手 · 2026 精选",
+    "title": "你的 AI 编码之旅",
+    "subtitle": "从这里开始",
+    "description": "工具已就绪，只差一个好项目。VibeCoding 集为你精选 AI 辅助编程的入门项目，每个都附带可复现的开工提示词，让你直接上手而非从零迷茫。"
+  },
+  "stats": {
+    "projects": "40+",
+    "categories": "3",
+    "prompts": "100%"
+  },
+  "categories": [
+    {
+      "key": "fun",
+      "icon": "🎮",
+      "title": "最好玩的项目",
+      "description": "展示 AI 能力的炫酷演示，适合聚会炫技、社交媒体分享、或者纯粹享受科技带来的惊喜感。零基础也能快速出成果。",
+      "class": "cat-fun"
+    },
+    {
+      "key": "useful",
+      "icon": "🛠️",
+      "title": "最好用的项目",
+      "description": "融入日常工作和生活的实用工具，做完就能立刻提升效率。适合想要\"做完即用\"的务实型新手。",
+      "class": "cat-useful"
+    },
+    {
+      "key": "diy",
+      "icon": "🔧",
+      "title": "最好搓的项目",
+      "description": "软硬结合的实体项目，动手感十足。适合喜欢焊接、组装、让代码在物理世界\"动起来\"的创客型学习者。",
+      "class": "cat-diy"
+    }
+  ]
+}

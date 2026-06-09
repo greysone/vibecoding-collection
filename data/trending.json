@@ -1,0 +1,59 @@
+{
+  "fetchedAt": "2026-06-09T00:00:00Z",
+  "repos": [
+    {
+      "repo": "langgenius/dify",
+      "desc": "开源的 LLM 应用开发平台，集成 AI 工作流、RAG 管道、Agent 能力，支持模型切换。从概念到生产级 AI 应用的最快路径。",
+      "stars": "68.5k",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+1,247",
+      "tags": ["AI 工作流", "RAG", "Agent"]
+    },
+    {
+      "repo": "lobehub/lobe-chat",
+      "desc": "现代化 AI 对话框架，支持 ChatGPT/Claude/Gemini 等多模型，内置插件系统和知识库。设计精美，开箱即用。",
+      "stars": "55.2k",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+892",
+      "tags": ["Chat UI", "多模型", "插件"]
+    },
+    {
+      "repo": "n8n-io/n8n",
+      "desc": "技术型工作流自动化平台，通过可视化编排连接 400+ 服务。支持 AI 节点，可构建复杂的自动化流水线。",
+      "stars": "65.8k",
+      "lang": "TypeScript",
+      "license": "Sustainable",
+      "trend": "+1,563",
+      "tags": ["自动化", "工作流", "可视化"]
+    },
+    {
+      "repo": "deepseek-ai/DeepSeek-V3",
+      "desc": "DeepSeek 最新大语言模型，在多项基准测试中表现优异。开源模型权重，支持本地部署和 API 调用。",
+      "stars": "92.1k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+3,421",
+      "tags": ["LLM", "开源模型", "本地部署"]
+    },
+    {
+      "repo": "mendableai/firecrawl",
+      "desc": "面向 AI 的网页抓取工具，将网站转换为干净的 Markdown 或结构化数据。支持 JS 渲染、批量抓取和 API 调用。",
+      "stars": "28.3k",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+756",
+      "tags": ["爬虫", "数据", "API"]
+    },
+    {
+      "repo": "langflow-ai/langflow",
+      "desc": "低代码 AI 应用构建器，拖拽式编排 LLM 工作流。内置提示工程、RAG、Agent 等组件，适合快速原型。",
+      "stars": "42.7k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+634",
+      "tags": ["低代码", "LLM", "可视化"]
+    }
+  ]
+}

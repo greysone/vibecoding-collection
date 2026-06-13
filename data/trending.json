@@ -1,59 +1,151 @@
 {
-  "fetchedAt": "2026-06-09T00:00:00Z",
+  "fetchedAt": "2026-06-13T12:56:42.202Z",
   "repos": [
     {
-      "repo": "langgenius/dify",
-      "desc": "开源的 LLM 应用开发平台，集成 AI 工作流、RAG 管道、Agent 能力，支持模型切换。从概念到生产级 AI 应用的最快路径。",
-      "stars": "68.5k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+1,247",
-      "tags": ["AI 工作流", "RAG", "Agent"]
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "1.1k",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+1.1k total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ]
     },
     {
-      "repo": "lobehub/lobe-chat",
-      "desc": "现代化 AI 对话框架，支持 ChatGPT/Claude/Gemini 等多模型，内置插件系统和知识库。设计精美，开箱即用。",
-      "stars": "55.2k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+892",
-      "tags": ["Chat UI", "多模型", "插件"]
+      "repo": "SkyBlue997/enableMacosAI",
+      "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "stars": "879",
+      "lang": "Shell",
+      "license": "Other",
+      "trend": "+879 total",
+      "tags": [
+        "apple-intelligence"
+      ]
     },
     {
-      "repo": "n8n-io/n8n",
-      "desc": "技术型工作流自动化平台，通过可视化编排连接 400+ 服务。支持 AI 节点，可构建复杂的自动化流水线。",
-      "stars": "65.8k",
-      "lang": "TypeScript",
-      "license": "Sustainable",
-      "trend": "+1,563",
-      "tags": ["自动化", "工作流", "可视化"]
+      "repo": "GordenSun/GordenSuperPPTSkills",
+      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stars": "872",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+872 total",
+      "tags": []
     },
     {
-      "repo": "deepseek-ai/DeepSeek-V3",
-      "desc": "DeepSeek 最新大语言模型，在多项基准测试中表现优异。开源模型权重，支持本地部署和 API 调用。",
-      "stars": "92.1k",
+      "repo": "apple/coreai-models",
+      "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "stars": "851",
+      "lang": "Swift",
+      "license": "BSD-3-Clause",
+      "trend": "+851 total",
+      "tags": []
+    },
+    {
+      "repo": "JimLiu/baoyu-design",
+      "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "stars": "851",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+851 total",
+      "tags": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor"
+      ]
+    },
+    {
+      "repo": "amElnagdy/guard-skills",
+      "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "stars": "611",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+611 total",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "code-review"
+      ]
+    },
+    {
+      "repo": "xiaohuailabs/xiaohu-video-translate",
+      "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stars": "489",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+3,421",
-      "tags": ["LLM", "开源模型", "本地部署"]
+      "trend": "+489 total",
+      "tags": []
     },
     {
-      "repo": "mendableai/firecrawl",
-      "desc": "面向 AI 的网页抓取工具，将网站转换为干净的 Markdown 或结构化数据。支持 JS 渲染、批量抓取和 API 调用。",
-      "stars": "28.3k",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+756",
-      "tags": ["爬虫", "数据", "API"]
-    },
-    {
-      "repo": "langflow-ai/langflow",
-      "desc": "低代码 AI 应用构建器，拖拽式编排 LLM 工作流。内置提示工程、RAG、Agent 等组件，适合快速原型。",
-      "stars": "42.7k",
+      "repo": "khrisat/text-humanizer",
+      "desc": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "stars": "443",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+634",
-      "tags": ["低代码", "LLM", "可视化"]
+      "trend": "+443 total",
+      "tags": [
+        "ai-detection",
+        "ai-detection-bypasser",
+        "ai-humanizer",
+        "humanizer",
+        "humanizer-ai"
+      ]
+    },
+    {
+      "repo": "ziqihe10-droid/xuefeng-agent",
+      "desc": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+      "stars": "407",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+407 total",
+      "tags": []
+    },
+    {
+      "repo": "alchaincyf/fanbox",
+      "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "stars": "342",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+342 total",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "codex",
+        "electron"
+      ]
+    },
+    {
+      "repo": "orange2ai/renwei-writing",
+      "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "stars": "319",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+319 total",
+      "tags": []
+    },
+    {
+      "repo": "coder/boo",
+      "desc": "A GNU screen style terminal multiplexer built on libghostty.",
+      "stars": "314",
+      "lang": "Zig",
+      "license": "MIT",
+      "trend": "+314 total",
+      "tags": [
+        "ai",
+        "coding",
+        "ghostty",
+        "multiplexer",
+        "screen"
+      ]
     }
   ]
 }

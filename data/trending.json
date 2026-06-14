@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-13T14:01:15.003Z",
+  "fetchedAt": "2026-06-14T04:08:44.677Z",
   "repos": [
     {
       "repo": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "1.1k",
+      "stars": "1.6k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -19,30 +19,21 @@
     {
       "repo": "SkyBlue997/enableMacosAI",
       "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "stars": "891",
+      "stars": "1.0k",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+891 total",
+      "trend": "+1.0k total",
       "tags": [
         "apple-intelligence"
       ]
     },
     {
-      "repo": "GordenSun/GordenSuperPPTSkills",
-      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "stars": "875",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+875 total",
-      "tags": []
-    },
-    {
       "repo": "JimLiu/baoyu-design",
       "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "stars": "854",
+      "stars": "958",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+854 total",
+      "trend": "+958 total",
       "tags": [
         "agent-skills",
         "claude",
@@ -52,45 +43,30 @@
       ]
     },
     {
-      "repo": "apple/coreai-models",
-      "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-      "stars": "853",
-      "lang": "Swift",
-      "license": "BSD-3-Clause",
-      "trend": "+853 total",
+      "repo": "GordenSun/GordenSuperPPTSkills",
+      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stars": "886",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+886 total",
       "tags": []
     },
     {
-      "repo": "amElnagdy/guard-skills",
-      "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "stars": "611",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+611 total",
-      "tags": [
-        "agent-skills",
-        "ai",
-        "claude",
-        "claude-code",
-        "code-review"
-      ]
-    },
-    {
-      "repo": "xiaohuailabs/xiaohu-video-translate",
-      "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "stars": "489",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+489 total",
+      "repo": "apple/coreai-models",
+      "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "stars": "874",
+      "lang": "Swift",
+      "license": "BSD-3-Clause",
+      "trend": "+874 total",
       "tags": []
     },
     {
       "repo": "khrisat/text-humanizer",
       "desc": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "stars": "461",
+      "stars": "570",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+461 total",
+      "trend": "+570 total",
       "tags": [
         "ai-detection",
         "ai-detection-bypasser",
@@ -100,21 +76,30 @@
       ]
     },
     {
-      "repo": "ziqihe10-droid/xuefeng-agent",
-      "desc": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
-      "stars": "409",
-      "lang": "HTML",
+      "repo": "omnigent-ai/omnigent",
+      "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "stars": "559",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+559 total",
+      "tags": []
+    },
+    {
+      "repo": "xiaohuailabs/xiaohu-video-translate",
+      "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stars": "494",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+409 total",
+      "trend": "+494 total",
       "tags": []
     },
     {
       "repo": "alchaincyf/fanbox",
       "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "stars": "361",
+      "stars": "454",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+361 total",
+      "trend": "+454 total",
       "tags": [
         "agent",
         "ai",
@@ -126,19 +111,28 @@
     {
       "repo": "orange2ai/renwei-writing",
       "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stars": "332",
+      "stars": "448",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+332 total",
+      "trend": "+448 total",
+      "tags": []
+    },
+    {
+      "repo": "ziqihe10-droid/xuefeng-agent",
+      "desc": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+      "stars": "412",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+412 total",
       "tags": []
     },
     {
       "repo": "coder/boo",
       "desc": "A GNU screen style terminal multiplexer built on libghostty.",
-      "stars": "317",
+      "stars": "360",
       "lang": "Zig",
       "license": "MIT",
-      "trend": "+317 total",
+      "trend": "+360 total",
       "tags": [
         "ai",
         "coding",

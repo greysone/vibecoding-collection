@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-17T04:11:30.923Z",
+  "fetchedAt": "2026-06-17T15:32:30.732Z",
   "repos": [
     {
       "repo": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "26.2k",
+      "stars": "29.9k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+26.2k total",
+      "trend": "+29.9k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -17,27 +17,42 @@
       ]
     },
     {
-      "repo": "omnigent-ai/omnigent",
-      "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "stars": "2.9k",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+2.9k total",
+      "repo": "XiaomiMiMo/MiMo-Code",
+      "desc": "MiMo Code: Where Models and Agents Co-Evolve",
+      "stars": "9.5k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+9.5k total",
       "tags": [
-        "agents",
         "ai",
         "ai-agents",
-        "developer-tools",
-        "llm"
+        "cli",
+        "mimo",
+        "mimo-code"
+      ]
+    },
+    {
+      "repo": "omnigent-ai/omnigent",
+      "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": "3.3k",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+3.3k total",
+      "tags": [
+        "agent-framework",
+        "agent-governance",
+        "agent-orchestration",
+        "agents",
+        "ai"
       ]
     },
     {
       "repo": "SkyBlue997/enableMacosAI",
       "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+1.3k total",
+      "trend": "+1.4k total",
       "tags": [
         "apple-intelligence"
       ]
@@ -45,34 +60,19 @@
     {
       "repo": "orange2ai/renwei-writing",
       "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stars": "732",
+      "stars": "762",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+732 total",
+      "trend": "+762 total",
       "tags": []
-    },
-    {
-      "repo": "coder/boo",
-      "desc": "A GNU screen style terminal multiplexer built on libghostty.",
-      "stars": "643",
-      "lang": "Zig",
-      "license": "MIT",
-      "trend": "+643 total",
-      "tags": [
-        "ai",
-        "coding",
-        "ghostty",
-        "multiplexer",
-        "screen"
-      ]
     },
     {
       "repo": "nolangz/pixel2motion",
       "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "stars": "620",
+      "stars": "682",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+620 total",
+      "trend": "+682 total",
       "tags": [
         "ai-design-tools",
         "animated-logo",
@@ -82,12 +82,27 @@
       ]
     },
     {
+      "repo": "coder/boo",
+      "desc": "A GNU screen style terminal multiplexer built on libghostty.",
+      "stars": "646",
+      "lang": "Zig",
+      "license": "MIT",
+      "trend": "+646 total",
+      "tags": [
+        "ai",
+        "coding",
+        "ghostty",
+        "multiplexer",
+        "screen"
+      ]
+    },
+    {
       "repo": "alchaincyf/fanbox",
       "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "stars": "611",
+      "stars": "619",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+611 total",
+      "trend": "+619 total",
       "tags": [
         "agent",
         "ai",
@@ -97,27 +112,21 @@
       ]
     },
     {
-      "repo": "Nanako0129/coralline",
-      "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-      "stars": "326",
-      "lang": "Shell",
+      "repo": "Plaer1/junction",
+      "desc": "VS Code chat sidebar for local AI coding agents",
+      "stars": "497",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+326 total",
-      "tags": [
-        "bash",
-        "claude",
-        "claude-code",
-        "nerd-fonts",
-        "powerlevel10k"
-      ]
+      "trend": "+497 total",
+      "tags": []
     },
     {
       "repo": "TestSprite/testsprite-cli",
       "desc": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "stars": "319",
+      "stars": "375",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+319 total",
+      "trend": "+375 total",
       "tags": [
         "ai",
         "cli",
@@ -127,40 +136,31 @@
       ]
     },
     {
-      "repo": "eli-labz/Third-Eye",
-      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "stars": "292",
-      "lang": "TypeScript",
+      "repo": "Nanako0129/coralline",
+      "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "stars": "344",
+      "lang": "Shell",
       "license": "MIT",
-      "trend": "+292 total",
+      "trend": "+344 total",
       "tags": [
-        "ai",
-        "ai-agent",
-        "geospatial",
-        "maven-smart-system",
-        "palantir"
+        "bash",
+        "claude",
+        "claude-code",
+        "nerd-fonts",
+        "powerlevel10k"
       ]
     },
     {
       "repo": "buynao/aipath",
       "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "stars": "284",
+      "stars": "292",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+284 total",
+      "trend": "+292 total",
       "tags": [
         "ai",
         "machine-learning"
       ]
-    },
-    {
-      "repo": "orange2ai/orange-line-illustration",
-      "desc": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
-      "stars": "272",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+272 total",
-      "tags": []
     }
   ]
 }

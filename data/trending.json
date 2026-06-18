@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-17T15:32:30.732Z",
+  "fetchedAt": "2026-06-18T04:02:11.932Z",
   "repos": [
     {
       "repo": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "29.9k",
+      "stars": "32.5k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+29.9k total",
+      "trend": "+32.5k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -17,27 +17,12 @@
       ]
     },
     {
-      "repo": "XiaomiMiMo/MiMo-Code",
-      "desc": "MiMo Code: Where Models and Agents Co-Evolve",
-      "stars": "9.5k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+9.5k total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "cli",
-        "mimo",
-        "mimo-code"
-      ]
-    },
-    {
       "repo": "omnigent-ai/omnigent",
       "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": "3.3k",
+      "stars": "3.6k",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+3.3k total",
+      "trend": "+3.6k total",
       "tags": [
         "agent-framework",
         "agent-governance",
@@ -47,32 +32,21 @@
       ]
     },
     {
-      "repo": "SkyBlue997/enableMacosAI",
-      "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "stars": "1.4k",
-      "lang": "Shell",
-      "license": "Other",
-      "trend": "+1.4k total",
-      "tags": [
-        "apple-intelligence"
-      ]
-    },
-    {
       "repo": "orange2ai/renwei-writing",
       "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stars": "762",
+      "stars": "780",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+762 total",
+      "trend": "+780 total",
       "tags": []
     },
     {
       "repo": "nolangz/pixel2motion",
       "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "stars": "682",
+      "stars": "728",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+682 total",
+      "trend": "+728 total",
       "tags": [
         "ai-design-tools",
         "animated-logo",
@@ -82,51 +56,21 @@
       ]
     },
     {
-      "repo": "coder/boo",
-      "desc": "A GNU screen style terminal multiplexer built on libghostty.",
-      "stars": "646",
-      "lang": "Zig",
-      "license": "MIT",
-      "trend": "+646 total",
-      "tags": [
-        "ai",
-        "coding",
-        "ghostty",
-        "multiplexer",
-        "screen"
-      ]
-    },
-    {
-      "repo": "alchaincyf/fanbox",
-      "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "stars": "619",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+619 total",
-      "tags": [
-        "agent",
-        "ai",
-        "claude",
-        "codex",
-        "electron"
-      ]
-    },
-    {
       "repo": "Plaer1/junction",
       "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "497",
+      "stars": "501",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+497 total",
+      "trend": "+501 total",
       "tags": []
     },
     {
       "repo": "TestSprite/testsprite-cli",
       "desc": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "stars": "375",
+      "stars": "425",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+375 total",
+      "trend": "+425 total",
       "tags": [
         "ai",
         "cli",
@@ -138,10 +82,10 @@
     {
       "repo": "Nanako0129/coralline",
       "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-      "stars": "344",
+      "stars": "358",
       "lang": "Shell",
       "license": "MIT",
-      "trend": "+344 total",
+      "trend": "+358 total",
       "tags": [
         "bash",
         "claude",
@@ -153,14 +97,62 @@
     {
       "repo": "buynao/aipath",
       "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "stars": "292",
+      "stars": "307",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+292 total",
+      "trend": "+307 total",
       "tags": [
         "ai",
         "machine-learning"
       ]
+    },
+    {
+      "repo": "eli-labz/Third-Eye",
+      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "stars": "295",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+295 total",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "geospatial",
+        "maven-smart-system",
+        "palantir"
+      ]
+    },
+    {
+      "repo": "dongshuyan/compass-skills",
+      "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "stars": "285",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+285 total",
+      "tags": [
+        "agent-memory",
+        "agent-skills",
+        "ai-agents",
+        "ai-coding-agent",
+        "claude-code"
+      ]
+    },
+    {
+      "repo": "jd-opensource/JoyAI-VL-Interaction",
+      "desc": "(暂无描述)",
+      "stars": "274",
+      "lang": "Other",
+      "license": "Apache-2.0",
+      "trend": "+274 total",
+      "tags": []
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "stars": "248",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+248 total",
+      "tags": []
     }
   ]
 }

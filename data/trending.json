@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-18T15:26:17.049Z",
+  "fetchedAt": "2026-06-19T04:21:34.077Z",
   "repos": [
     {
       "repo": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "35.1k",
+      "stars": "37.3k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+35.1k total",
+      "trend": "+37.3k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -17,36 +17,21 @@
       ]
     },
     {
-      "repo": "omnigent-ai/omnigent",
-      "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": "3.7k",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+3.7k total",
-      "tags": [
-        "agent-framework",
-        "agent-governance",
-        "agent-orchestration",
-        "agents",
-        "ai"
-      ]
-    },
-    {
       "repo": "orange2ai/renwei-writing",
       "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stars": "804",
+      "stars": "818",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+804 total",
+      "trend": "+818 total",
       "tags": []
     },
     {
       "repo": "nolangz/pixel2motion",
       "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "stars": "782",
+      "stars": "802",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+782 total",
+      "trend": "+802 total",
       "tags": [
         "ai-design-tools",
         "animated-logo",
@@ -58,49 +43,19 @@
     {
       "repo": "Plaer1/junction",
       "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "506",
+      "stars": "510",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+506 total",
+      "trend": "+510 total",
       "tags": []
-    },
-    {
-      "repo": "TestSprite/testsprite-cli",
-      "desc": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "stars": "464",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+464 total",
-      "tags": [
-        "ai",
-        "cli",
-        "e2e-testing",
-        "playwright",
-        "qa"
-      ]
-    },
-    {
-      "repo": "Nanako0129/coralline",
-      "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-      "stars": "370",
-      "lang": "Shell",
-      "license": "MIT",
-      "trend": "+370 total",
-      "tags": [
-        "bash",
-        "claude",
-        "claude-code",
-        "nerd-fonts",
-        "powerlevel10k"
-      ]
     },
     {
       "repo": "dzcmemory-web/bazi-ziwei-skill",
       "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
-      "stars": "359",
+      "stars": "394",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+359 total",
+      "trend": "+394 total",
       "tags": [
         "ai-agent",
         "bazi",
@@ -110,12 +65,27 @@
       ]
     },
     {
+      "repo": "Nanako0129/coralline",
+      "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "stars": "382",
+      "lang": "Shell",
+      "license": "MIT",
+      "trend": "+382 total",
+      "tags": [
+        "bash",
+        "claude",
+        "claude-code",
+        "nerd-fonts",
+        "powerlevel10k"
+      ]
+    },
+    {
       "repo": "buynao/aipath",
       "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "stars": "318",
+      "stars": "323",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+318 total",
+      "trend": "+323 total",
       "tags": [
         "ai",
         "machine-learning"
@@ -124,10 +94,10 @@
     {
       "repo": "eli-labz/Third-Eye",
       "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "stars": "300",
+      "stars": "303",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+300 total",
+      "trend": "+303 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -139,10 +109,10 @@
     {
       "repo": "dongshuyan/compass-skills",
       "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "stars": "293",
+      "stars": "296",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+293 total",
+      "trend": "+296 total",
       "tags": [
         "agent-memory",
         "agent-skills",
@@ -152,12 +122,36 @@
       ]
     },
     {
-      "repo": "jd-opensource/JoyAI-VL-Interaction",
-      "desc": "(暂无描述)",
-      "stars": "289",
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "stars": "285",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+285 total",
+      "tags": []
+    },
+    {
+      "repo": "gykim80/perfectpixel-studio",
+      "desc": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "stars": "244",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+244 total",
+      "tags": [
+        "ai",
+        "game-development",
+        "golang",
+        "pixel-art",
+        "sprite"
+      ]
+    },
+    {
+      "repo": "fendouai/best-humanizer-handbook",
+      "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "stars": "241",
       "lang": "Other",
-      "license": "Apache-2.0",
-      "trend": "+289 total",
+      "license": "MIT",
+      "trend": "+241 total",
       "tags": []
     }
   ]

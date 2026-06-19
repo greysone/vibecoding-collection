@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-19T04:21:34.077Z",
+  "fetchedAt": "2026-06-19T15:18:58.210Z",
   "repos": [
     {
       "repo": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "37.3k",
+      "stars": "39.2k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+37.3k total",
+      "trend": "+39.2k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -19,19 +19,19 @@
     {
       "repo": "orange2ai/renwei-writing",
       "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stars": "818",
+      "stars": "826",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+818 total",
+      "trend": "+826 total",
       "tags": []
     },
     {
       "repo": "nolangz/pixel2motion",
       "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "stars": "802",
+      "stars": "813",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+802 total",
+      "trend": "+813 total",
       "tags": [
         "ai-design-tools",
         "animated-logo",
@@ -43,19 +43,19 @@
     {
       "repo": "Plaer1/junction",
       "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "510",
+      "stars": "512",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+510 total",
+      "trend": "+512 total",
       "tags": []
     },
     {
       "repo": "dzcmemory-web/bazi-ziwei-skill",
       "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
-      "stars": "394",
+      "stars": "416",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+394 total",
+      "trend": "+416 total",
       "tags": [
         "ai-agent",
         "bazi",
@@ -67,10 +67,10 @@
     {
       "repo": "Nanako0129/coralline",
       "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-      "stars": "382",
+      "stars": "393",
       "lang": "Shell",
       "license": "MIT",
-      "trend": "+382 total",
+      "trend": "+393 total",
       "tags": [
         "bash",
         "claude",
@@ -80,24 +80,12 @@
       ]
     },
     {
-      "repo": "buynao/aipath",
-      "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "stars": "323",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+323 total",
-      "tags": [
-        "ai",
-        "machine-learning"
-      ]
-    },
-    {
       "repo": "eli-labz/Third-Eye",
       "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "stars": "303",
+      "stars": "393",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+303 total",
+      "trend": "+393 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -107,12 +95,24 @@
       ]
     },
     {
+      "repo": "buynao/aipath",
+      "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "stars": "330",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+330 total",
+      "tags": [
+        "ai",
+        "machine-learning"
+      ]
+    },
+    {
       "repo": "dongshuyan/compass-skills",
       "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "stars": "296",
+      "stars": "329",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+296 total",
+      "trend": "+329 total",
       "tags": [
         "agent-memory",
         "agent-skills",
@@ -124,19 +124,28 @@
     {
       "repo": "majidmanzarpour/threejs-game-skills",
       "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "stars": "285",
+      "stars": "320",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+285 total",
+      "trend": "+320 total",
+      "tags": []
+    },
+    {
+      "repo": "nnecrkvenuOX/formcms",
+      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+      "stars": "268",
+      "lang": "C#",
+      "license": "MIT",
+      "trend": "+268 total",
       "tags": []
     },
     {
       "repo": "gykim80/perfectpixel-studio",
       "desc": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "stars": "244",
+      "stars": "257",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+244 total",
+      "trend": "+257 total",
       "tags": [
         "ai",
         "game-development",
@@ -144,15 +153,6 @@
         "pixel-art",
         "sprite"
       ]
-    },
-    {
-      "repo": "fendouai/best-humanizer-handbook",
-      "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "stars": "241",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+241 total",
-      "tags": []
     }
   ]
 }

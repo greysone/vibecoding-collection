@@ -1,37 +1,13 @@
 {
-  "fetchedAt": "2026-06-20T03:42:50.575Z",
+  "fetchedAt": "2026-06-20T14:05:08.963Z",
   "repos": [
-    {
-      "repo": "Plaer1/junction",
-      "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "513",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+513 total",
-      "tags": []
-    },
-    {
-      "repo": "dzcmemory-web/bazi-ziwei-skill",
-      "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
-      "stars": "433",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+433 total",
-      "tags": [
-        "ai-agent",
-        "bazi",
-        "bazi-suanming",
-        "chinese-astrology",
-        "claude-skill"
-      ]
-    },
     {
       "repo": "eli-labz/Third-Eye",
       "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "stars": "418",
+      "stars": "572",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+418 total",
+      "trend": "+572 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -41,12 +17,51 @@
       ]
     },
     {
+      "repo": "Plaer1/junction",
+      "desc": "VS Code chat sidebar for local AI coding agents",
+      "stars": "516",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+516 total",
+      "tags": []
+    },
+    {
+      "repo": "dzcmemory-web/bazi-ziwei-skill",
+      "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+      "stars": "441",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+441 total",
+      "tags": [
+        "ai-agent",
+        "bazi",
+        "bazi-suanming",
+        "chinese-astrology",
+        "claude-skill"
+      ]
+    },
+    {
+      "repo": "Forsy-AI/agent-apprenticeship",
+      "desc": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+      "stars": "435",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+435 total",
+      "tags": [
+        "agent-apprenticeship",
+        "agent-economy",
+        "agent-experience",
+        "agent-learning",
+        "agent-traces"
+      ]
+    },
+    {
       "repo": "dongshuyan/compass-skills",
       "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "stars": "356",
+      "stars": "393",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+356 total",
+      "trend": "+393 total",
       "tags": [
         "agent-memory",
         "agent-skills",
@@ -58,28 +73,28 @@
     {
       "repo": "majidmanzarpour/threejs-game-skills",
       "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "stars": "350",
+      "stars": "373",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+350 total",
+      "trend": "+373 total",
       "tags": []
     },
     {
       "repo": "nnecrkvenuOX/formcms",
       "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stars": "296",
+      "stars": "323",
       "lang": "C#",
       "license": "MIT",
-      "trend": "+296 total",
+      "trend": "+323 total",
       "tags": []
     },
     {
       "repo": "gykim80/perfectpixel-studio",
       "desc": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "stars": "266",
+      "stars": "285",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+266 total",
+      "trend": "+285 total",
       "tags": [
         "ai",
         "game-development",
@@ -91,10 +106,19 @@
     {
       "repo": "fendouai/best-humanizer-handbook",
       "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "stars": "257",
+      "stars": "262",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+257 total",
+      "trend": "+262 total",
+      "tags": []
+    },
+    {
+      "repo": "leyten/shard",
+      "desc": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "stars": "243",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+243 total",
       "tags": []
     },
     {
@@ -109,40 +133,16 @@
     {
       "repo": "ruvnet/agent-harness-generator",
       "desc": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
-      "stars": "219",
+      "stars": "236",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+219 total",
+      "trend": "+236 total",
       "tags": [
         "agent-harness",
         "agent-harness-generator",
         "agent-scaffolding",
         "agentic-ai",
         "agentic-framework"
-      ]
-    },
-    {
-      "repo": "leyten/shard",
-      "desc": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-      "stars": "207",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+207 total",
-      "tags": []
-    },
-    {
-      "repo": "yolfinance/yolfi-agent",
-      "desc": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "stars": "160",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+160 total",
-      "tags": [
-        "ai-agents",
-        "checkout",
-        "crypto-payments",
-        "mcp",
-        "payments"
       ]
     }
   ]

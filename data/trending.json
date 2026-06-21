@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-21T04:16:46.878Z",
+  "fetchedAt": "2026-06-21T14:12:11.082Z",
   "repos": [
     {
       "repo": "Forsy-AI/agent-apprenticeship",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stars": "536",
+      "stars": "581",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+536 total",
+      "trend": "+581 total",
       "tags": [
         "agent-apprenticeship",
         "agent-economy",
@@ -19,19 +19,28 @@
     {
       "repo": "Plaer1/junction",
       "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "516",
+      "stars": "517",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+516 total",
+      "trend": "+517 total",
+      "tags": []
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "stars": "405",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+405 total",
       "tags": []
     },
     {
       "repo": "dongshuyan/compass-skills",
       "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "stars": "397",
+      "stars": "400",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+397 total",
+      "trend": "+400 total",
       "tags": [
         "agent-memory",
         "agent-skills",
@@ -41,30 +50,21 @@
       ]
     },
     {
-      "repo": "majidmanzarpour/threejs-game-skills",
-      "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "stars": "382",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+382 total",
-      "tags": []
-    },
-    {
       "repo": "nnecrkvenuOX/formcms",
       "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stars": "338",
+      "stars": "355",
       "lang": "C#",
       "license": "MIT",
-      "trend": "+338 total",
+      "trend": "+355 total",
       "tags": []
     },
     {
       "repo": "gykim80/perfectpixel-studio",
       "desc": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "stars": "311",
+      "stars": "325",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+311 total",
+      "trend": "+325 total",
       "tags": [
         "ai",
         "game-development",
@@ -74,30 +74,30 @@
       ]
     },
     {
-      "repo": "fendouai/best-humanizer-handbook",
-      "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "stars": "272",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+272 total",
+      "repo": "leyten/shard",
+      "desc": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "stars": "281",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+281 total",
       "tags": []
     },
     {
-      "repo": "leyten/shard",
-      "desc": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-      "stars": "267",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+267 total",
+      "repo": "fendouai/best-humanizer-handbook",
+      "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "stars": "279",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+279 total",
       "tags": []
     },
     {
       "repo": "Jeidoban/Ironsmith",
       "desc": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
-      "stars": "244",
+      "stars": "246",
       "lang": "Swift",
       "license": "GPL-3.0",
-      "trend": "+244 total",
+      "trend": "+246 total",
       "tags": []
     },
     {
@@ -118,10 +118,10 @@
     {
       "repo": "yolfinance/yolfi-agent",
       "desc": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "stars": "169",
+      "stars": "177",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+169 total",
+      "trend": "+177 total",
       "tags": [
         "ai-agents",
         "checkout",

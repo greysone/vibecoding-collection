@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-21T14:12:11.082Z",
+  "fetchedAt": "2026-06-22T04:18:11.521Z",
   "repos": [
     {
       "repo": "Forsy-AI/agent-apprenticeship",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stars": "581",
+      "stars": "613",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+581 total",
+      "trend": "+613 total",
       "tags": [
         "agent-apprenticeship",
         "agent-economy",
@@ -19,28 +19,19 @@
     {
       "repo": "Plaer1/junction",
       "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "517",
+      "stars": "518",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+517 total",
-      "tags": []
-    },
-    {
-      "repo": "majidmanzarpour/threejs-game-skills",
-      "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "stars": "405",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+405 total",
+      "trend": "+518 total",
       "tags": []
     },
     {
       "repo": "dongshuyan/compass-skills",
       "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "stars": "400",
+      "stars": "442",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+400 total",
+      "trend": "+442 total",
       "tags": [
         "agent-memory",
         "agent-skills",
@@ -52,61 +43,37 @@
     {
       "repo": "nnecrkvenuOX/formcms",
       "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stars": "355",
+      "stars": "363",
       "lang": "C#",
       "license": "MIT",
-      "trend": "+355 total",
+      "trend": "+363 total",
       "tags": []
-    },
-    {
-      "repo": "gykim80/perfectpixel-studio",
-      "desc": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "stars": "325",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+325 total",
-      "tags": [
-        "ai",
-        "game-development",
-        "golang",
-        "pixel-art",
-        "sprite"
-      ]
     },
     {
       "repo": "leyten/shard",
       "desc": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-      "stars": "281",
+      "stars": "300",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+281 total",
+      "trend": "+300 total",
       "tags": []
     },
     {
       "repo": "fendouai/best-humanizer-handbook",
       "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "stars": "279",
+      "stars": "282",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+279 total",
-      "tags": []
-    },
-    {
-      "repo": "Jeidoban/Ironsmith",
-      "desc": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
-      "stars": "246",
-      "lang": "Swift",
-      "license": "GPL-3.0",
-      "trend": "+246 total",
+      "trend": "+282 total",
       "tags": []
     },
     {
       "repo": "Sorathiya123/claude-ai-free-desktop-app",
       "desc": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
-      "stars": "179",
+      "stars": "180",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+179 total",
+      "trend": "+180 total",
       "tags": [
         "claude-code-",
         "claude-code-action",
@@ -118,10 +85,10 @@
     {
       "repo": "yolfinance/yolfi-agent",
       "desc": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "stars": "177",
+      "stars": "180",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+177 total",
+      "trend": "+180 total",
       "tags": [
         "ai-agents",
         "checkout",
@@ -133,10 +100,48 @@
     {
       "repo": "shreyashankar/plain-writing-skill",
       "desc": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
-      "stars": "156",
+      "stars": "164",
       "lang": "HTML",
       "license": "Other",
+      "trend": "+164 total",
+      "tags": []
+    },
+    {
+      "repo": "renee-jia/scholar-loop",
+      "desc": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
+      "stars": "156",
+      "lang": "Python",
+      "license": "MIT",
       "trend": "+156 total",
+      "tags": [
+        "ai-research",
+        "autonomous-agents",
+        "llm-tools",
+        "multi-agent"
+      ]
+    },
+    {
+      "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+      "desc": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial",
+      "stars": "155",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+155 total",
+      "tags": [
+        "anthropic-claude-fable-5",
+        "claude-alternative",
+        "claude-code-free-helper",
+        "claude-code-themes",
+        "claude-desktop-app"
+      ]
+    },
+    {
+      "repo": "frtghyujkiolsas-lab/ai-sdd",
+      "desc": "AI-SDD spec-driven MVP demo: from idea, PRD and prototype to frontend-backend integration, testing and delivery.",
+      "stars": "150",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+150 total",
       "tags": []
     }
   ]

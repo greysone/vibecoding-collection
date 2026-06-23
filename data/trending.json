@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-23T03:36:51.330Z",
+  "fetchedAt": "2026-06-23T14:50:00.912Z",
   "repos": [
     {
       "repo": "Forsy-AI/agent-apprenticeship",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stars": "692",
+      "stars": "796",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+692 total",
+      "trend": "+796 total",
       "tags": [
         "agent-apprenticeship",
         "agent-economy",
@@ -19,28 +19,19 @@
     {
       "repo": "Plaer1/junction",
       "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "526",
+      "stars": "528",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+526 total",
-      "tags": []
-    },
-    {
-      "repo": "nnecrkvenuOX/formcms",
-      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stars": "383",
-      "lang": "C#",
-      "license": "MIT",
-      "trend": "+383 total",
+      "trend": "+528 total",
       "tags": []
     },
     {
       "repo": "sums001/Windows-Copilot-API",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "stars": "380",
+      "stars": "469",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+380 total",
+      "trend": "+469 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -50,12 +41,30 @@
       ]
     },
     {
+      "repo": "yo-WASSUP/Good-Badminton",
+      "desc": "🏸  AI Badminton Hawk-Eye System",
+      "stars": "395",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+395 total",
+      "tags": []
+    },
+    {
+      "repo": "nnecrkvenuOX/formcms",
+      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+      "stars": "394",
+      "lang": "C#",
+      "license": "MIT",
+      "trend": "+394 total",
+      "tags": []
+    },
+    {
       "repo": "raiyanyahya/recall",
       "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": "332",
+      "stars": "369",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+332 total",
+      "trend": "+369 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -63,15 +72,6 @@
         "claude",
         "claude-code"
       ]
-    },
-    {
-      "repo": "yo-WASSUP/Good-Badminton",
-      "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "295",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+295 total",
-      "tags": []
     },
     {
       "repo": "briliwar0/glm-5.2-free-desktop-app",
@@ -91,10 +91,10 @@
     {
       "repo": "zyn26/minimax-m3-desktop-app-free-api",
       "desc": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
-      "stars": "195",
+      "stars": "193",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+195 total",
+      "trend": "+193 total",
       "tags": [
         "ai-app",
         "ai-application-development",
@@ -106,10 +106,10 @@
     {
       "repo": "yolfinance/yolfi-agent",
       "desc": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "stars": "187",
+      "stars": "189",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+187 total",
+      "trend": "+189 total",
       "tags": [
         "ai-agents",
         "checkout",
@@ -136,10 +136,10 @@
     {
       "repo": "dikurdikur/palmier-pro-windows",
       "desc": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx",
-      "stars": "166",
+      "stars": "168",
       "lang": "C#",
       "license": "MIT",
-      "trend": "+166 total",
+      "trend": "+168 total",
       "tags": [
         "ai-video",
         "ai-video-editor",
@@ -149,19 +149,13 @@
       ]
     },
     {
-      "repo": "sneakers-the-rat/ImportantCode",
-      "desc": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
-      "stars": "161",
+      "repo": "JCarterJohnson/vibecoded-design-tells",
+      "desc": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
+      "stars": "165",
       "lang": "Python",
-      "license": "MIT",
-      "trend": "+161 total",
-      "tags": [
-        "agent-friendly",
-        "agentic-ai",
-        "ai",
-        "ai-agents",
-        "banana-pudding"
-      ]
+      "license": "NOASSERTION",
+      "trend": "+165 total",
+      "tags": []
     }
   ]
 }

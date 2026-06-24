@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-24T03:37:54.214Z",
+  "fetchedAt": "2026-06-24T14:31:17.715Z",
   "repos": [
     {
       "repo": "Forsy-AI/agent-apprenticeship",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stars": "867",
+      "stars": "893",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+867 total",
+      "trend": "+893 total",
       "tags": [
         "agent-apprenticeship",
         "agent-economy",
@@ -19,10 +19,10 @@
     {
       "repo": "sums001/Windows-Copilot-API",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "stars": "552",
+      "stars": "613",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+552 total",
+      "trend": "+613 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -43,19 +43,19 @@
     {
       "repo": "yo-WASSUP/Good-Badminton",
       "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "426",
+      "stars": "462",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+426 total",
+      "trend": "+462 total",
       "tags": []
     },
     {
       "repo": "raiyanyahya/recall",
       "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": "418",
+      "stars": "448",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+418 total",
+      "trend": "+448 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -67,28 +67,43 @@
     {
       "repo": "nnecrkvenuOX/formcms",
       "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stars": "402",
+      "stars": "403",
       "lang": "C#",
       "license": "MIT",
-      "trend": "+402 total",
+      "trend": "+403 total",
       "tags": []
     },
     {
-      "repo": "i5ting/learn-ai-practice",
-      "desc": "(暂无描述)",
-      "stars": "146",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+146 total",
+      "repo": "Valorant-AI/valorant-ai-aimbot-undetected",
+      "desc": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
+      "stars": "337",
+      "lang": "C++",
+      "license": "Apache-2.0",
+      "trend": "+337 total",
       "tags": []
+    },
+    {
+      "repo": "shy3130/tickflow-stock-panel",
+      "desc": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
+      "stars": "205",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+205 total",
+      "tags": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "backtesting",
+        "duckdb"
+      ]
     },
     {
       "repo": "Karovia/fullstack-ai-agent-roadmap",
       "desc": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "stars": "145",
+      "stars": "167",
       "lang": "Other",
       "license": "Other",
-      "trend": "+145 total",
+      "trend": "+167 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -98,36 +113,21 @@
       ]
     },
     {
-      "repo": "frtghyujkiolsas-lab/ai-sdd",
-      "desc": "AI-SDD spec-driven product delivery sample: from idea, PRD and prototype to frontend-backend integration, testing and delivery.",
-      "stars": "145",
-      "lang": "TypeScript",
+      "repo": "i5ting/learn-ai-practice",
+      "desc": "(暂无描述)",
+      "stars": "160",
+      "lang": "Other",
       "license": "Other",
-      "trend": "+145 total",
+      "trend": "+160 total",
       "tags": []
     },
     {
-      "repo": "flatkey-ai/awesome-images",
-      "desc": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-      "stars": "139",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+139 total",
-      "tags": [
-        "affordable-ai",
-        "affordable-ai-platform",
-        "ai-api",
-        "gpt-image-2",
-        "gpt-image-2-api"
-      ]
-    },
-    {
       "repo": "Johell1NS/browser-search",
-      "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited.",
-      "stars": "137",
+      "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stars": "154",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+137 total",
+      "trend": "+154 total",
       "tags": [
         "ai-agent",
         "ai-tools",
@@ -137,13 +137,19 @@
       ]
     },
     {
-      "repo": "itssosunny/im-not-strange-ai",
-      "desc": "(暂无描述)",
-      "stars": "118",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+118 total",
-      "tags": []
+      "repo": "flatkey-ai/awesome-images",
+      "desc": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+      "stars": "149",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+149 total",
+      "tags": [
+        "affordable-ai",
+        "affordable-ai-platform",
+        "ai-api",
+        "gpt-image-2",
+        "gpt-image-2-api"
+      ]
     }
   ]
 }

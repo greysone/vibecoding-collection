@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-24T14:31:17.715Z",
+  "fetchedAt": "2026-06-25T03:36:31.066Z",
   "repos": [
     {
       "repo": "Forsy-AI/agent-apprenticeship",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stars": "893",
+      "stars": "914",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+893 total",
+      "trend": "+914 total",
       "tags": [
         "agent-apprenticeship",
         "agent-economy",
@@ -19,10 +19,10 @@
     {
       "repo": "sums001/Windows-Copilot-API",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "stars": "613",
+      "stars": "676",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+613 total",
+      "trend": "+676 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -32,30 +32,12 @@
       ]
     },
     {
-      "repo": "Plaer1/junction",
-      "desc": "VS Code chat sidebar for local AI coding agents",
-      "stars": "532",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+532 total",
-      "tags": []
-    },
-    {
-      "repo": "yo-WASSUP/Good-Badminton",
-      "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "462",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+462 total",
-      "tags": []
-    },
-    {
       "repo": "raiyanyahya/recall",
       "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": "448",
+      "stars": "487",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+448 total",
+      "trend": "+487 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -65,30 +47,21 @@
       ]
     },
     {
-      "repo": "nnecrkvenuOX/formcms",
-      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stars": "403",
-      "lang": "C#",
-      "license": "MIT",
-      "trend": "+403 total",
-      "tags": []
-    },
-    {
-      "repo": "Valorant-AI/valorant-ai-aimbot-undetected",
-      "desc": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
-      "stars": "337",
-      "lang": "C++",
+      "repo": "yo-WASSUP/Good-Badminton",
+      "desc": "🏸  AI Badminton Hawk-Eye System",
+      "stars": "482",
+      "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+337 total",
+      "trend": "+482 total",
       "tags": []
     },
     {
       "repo": "shy3130/tickflow-stock-panel",
       "desc": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
-      "stars": "205",
+      "stars": "225",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+205 total",
+      "trend": "+225 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -98,12 +71,42 @@
       ]
     },
     {
+      "repo": "benchflow-ai/awesome-evals",
+      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stars": "190",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+190 total",
+      "tags": [
+        "agent-evaluation",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "benchmarks"
+      ]
+    },
+    {
+      "repo": "iart-ai/motion-skills",
+      "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "stars": "188",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+188 total",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "motion-graphics",
+        "remotion",
+        "skills"
+      ]
+    },
+    {
       "repo": "Karovia/fullstack-ai-agent-roadmap",
       "desc": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "stars": "167",
+      "stars": "178",
       "lang": "Other",
       "license": "Other",
-      "trend": "+167 total",
+      "trend": "+178 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -115,19 +118,19 @@
     {
       "repo": "i5ting/learn-ai-practice",
       "desc": "(暂无描述)",
-      "stars": "160",
+      "stars": "169",
       "lang": "Other",
       "license": "Other",
-      "trend": "+160 total",
+      "trend": "+169 total",
       "tags": []
     },
     {
       "repo": "Johell1NS/browser-search",
       "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stars": "154",
+      "stars": "162",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+154 total",
+      "trend": "+162 total",
       "tags": [
         "ai-agent",
         "ai-tools",
@@ -139,10 +142,10 @@
     {
       "repo": "flatkey-ai/awesome-images",
       "desc": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-      "stars": "149",
+      "stars": "161",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+149 total",
+      "trend": "+161 total",
       "tags": [
         "affordable-ai",
         "affordable-ai-platform",
@@ -150,6 +153,15 @@
         "gpt-image-2",
         "gpt-image-2-api"
       ]
+    },
+    {
+      "repo": "trotsky1997/OpenFugu",
+      "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stars": "157",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+157 total",
+      "tags": []
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-25T14:34:25.369Z",
+  "fetchedAt": "2026-06-26T03:43:43.131Z",
   "repos": [
     {
       "repo": "Forsy-AI/agent-apprenticeship",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stars": "927",
+      "stars": "944",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+927 total",
+      "trend": "+944 total",
       "tags": [
         "agent-apprenticeship",
         "agent-economy",
@@ -19,10 +19,10 @@
     {
       "repo": "sums001/Windows-Copilot-API",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "stars": "723",
+      "stars": "748",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+723 total",
+      "trend": "+748 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -34,10 +34,10 @@
     {
       "repo": "raiyanyahya/recall",
       "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": "518",
+      "stars": "548",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+518 total",
+      "trend": "+548 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -49,34 +49,19 @@
     {
       "repo": "yo-WASSUP/Good-Badminton",
       "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "509",
+      "stars": "523",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+509 total",
+      "trend": "+523 total",
       "tags": []
-    },
-    {
-      "repo": "shy3130/tickflow-stock-panel",
-      "desc": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
-      "stars": "259",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+259 total",
-      "tags": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "backtesting",
-        "duckdb"
-      ]
     },
     {
       "repo": "benchflow-ai/awesome-evals",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "243",
+      "stars": "318",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+243 total",
+      "trend": "+318 total",
       "tags": [
         "agent-evaluation",
         "ai-agents",
@@ -88,19 +73,19 @@
     {
       "repo": "trotsky1997/OpenFugu",
       "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "stars": "212",
+      "stars": "234",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+212 total",
+      "trend": "+234 total",
       "tags": []
     },
     {
       "repo": "iart-ai/motion-skills",
       "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-      "stars": "202",
+      "stars": "209",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+202 total",
+      "trend": "+209 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -112,10 +97,10 @@
     {
       "repo": "Karovia/fullstack-ai-agent-roadmap",
       "desc": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "stars": "193",
+      "stars": "197",
       "lang": "Other",
       "license": "Other",
-      "trend": "+193 total",
+      "trend": "+197 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -127,40 +112,49 @@
     {
       "repo": "i5ting/learn-ai-practice",
       "desc": "(暂无描述)",
-      "stars": "177",
+      "stars": "182",
       "lang": "Other",
       "license": "Other",
-      "trend": "+177 total",
+      "trend": "+182 total",
       "tags": []
-    },
-    {
-      "repo": "flatkey-ai/awesome-images",
-      "desc": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-      "stars": "170",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+170 total",
-      "tags": [
-        "affordable-ai",
-        "affordable-ai-platform",
-        "ai-api",
-        "gpt-image-2",
-        "gpt-image-2-api"
-      ]
     },
     {
       "repo": "Johell1NS/browser-search",
       "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stars": "166",
+      "stars": "172",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+166 total",
+      "trend": "+172 total",
       "tags": [
         "ai-agent",
         "ai-tools",
         "browser-automation",
         "camoufox",
         "cloakbrowser"
+      ]
+    },
+    {
+      "repo": "binghe1980/AI-Canvas",
+      "desc": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
+      "stars": "158",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+158 total",
+      "tags": []
+    },
+    {
+      "repo": "Env-Kit/envkit-releases",
+      "desc": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+      "stars": "154",
+      "lang": "Shell",
+      "license": "Other",
+      "trend": "+154 total",
+      "tags": [
+        "apache",
+        "development-environment",
+        "herd-alternative",
+        "laragon-alternative",
+        "laravel"
       ]
     }
   ]

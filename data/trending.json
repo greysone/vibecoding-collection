@@ -1,67 +1,22 @@
 {
-  "fetchedAt": "2026-06-26T14:25:44.089Z",
+  "fetchedAt": "2026-06-27T03:30:42.499Z",
   "repos": [
-    {
-      "repo": "Forsy-AI/agent-apprenticeship",
-      "desc": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
-      "stars": "961",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+961 total",
-      "tags": [
-        "agent-apprenticeship",
-        "agent-economy",
-        "agent-experience",
-        "agent-learning",
-        "agent-traces"
-      ]
-    },
-    {
-      "repo": "sums001/Windows-Copilot-API",
-      "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "stars": "782",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+782 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "api",
-        "copilot",
-        "llm"
-      ]
-    },
-    {
-      "repo": "raiyanyahya/recall",
-      "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "stars": "562",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+562 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code"
-      ]
-    },
     {
       "repo": "yo-WASSUP/Good-Badminton",
       "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "543",
+      "stars": "552",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+543 total",
+      "trend": "+552 total",
       "tags": []
     },
     {
       "repo": "benchflow-ai/awesome-evals",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "421",
+      "stars": "472",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+421 total",
+      "trend": "+472 total",
       "tags": [
         "agent-evaluation",
         "ai-agents",
@@ -73,10 +28,10 @@
     {
       "repo": "winsznx/theeleven",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "334",
+      "stars": "467",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+334 total",
+      "trend": "+467 total",
       "tags": [
         "ai-agents",
         "defi",
@@ -88,19 +43,28 @@
     {
       "repo": "trotsky1997/OpenFugu",
       "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "stars": "245",
+      "stars": "251",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+245 total",
+      "trend": "+251 total",
+      "tags": []
+    },
+    {
+      "repo": "Pluviobyte/video-production-skills",
+      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": "227",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+227 total",
       "tags": []
     },
     {
       "repo": "iart-ai/motion-skills",
       "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-      "stars": "210",
+      "stars": "213",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+210 total",
+      "trend": "+213 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -110,27 +74,12 @@
       ]
     },
     {
-      "repo": "Karovia/fullstack-ai-agent-roadmap",
-      "desc": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "stars": "199",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+199 total",
-      "tags": [
-        "ai",
-        "ai-agent",
-        "chinese",
-        "claude",
-        "fastapi"
-      ]
-    },
-    {
       "repo": "i5ting/learn-ai-practice",
       "desc": "(暂无描述)",
-      "stars": "187",
+      "stars": "190",
       "lang": "Other",
       "license": "Other",
-      "trend": "+187 total",
+      "trend": "+190 total",
       "tags": []
     },
     {
@@ -151,16 +100,49 @@
     {
       "repo": "Env-Kit/envkit-releases",
       "desc": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-      "stars": "161",
+      "stars": "167",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+161 total",
+      "trend": "+167 total",
       "tags": [
         "apache",
         "development-environment",
         "herd-alternative",
         "laragon-alternative",
         "laravel"
+      ]
+    },
+    {
+      "repo": "binghe1980/AI-Canvas",
+      "desc": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
+      "stars": "162",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+162 total",
+      "tags": []
+    },
+    {
+      "repo": "tutusagi/ai-fishing-game",
+      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": "155",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+155 total",
+      "tags": []
+    },
+    {
+      "repo": "NotASithLord/peerd",
+      "desc": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+      "stars": "149",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+149 total",
+      "tags": [
+        "agentic",
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-extension"
       ]
     }
   ]

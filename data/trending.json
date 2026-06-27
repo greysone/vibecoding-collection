@@ -1,37 +1,13 @@
 {
-  "fetchedAt": "2026-06-27T03:30:42.499Z",
+  "fetchedAt": "2026-06-27T13:44:04.951Z",
   "repos": [
-    {
-      "repo": "yo-WASSUP/Good-Badminton",
-      "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "552",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+552 total",
-      "tags": []
-    },
-    {
-      "repo": "benchflow-ai/awesome-evals",
-      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "472",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+472 total",
-      "tags": [
-        "agent-evaluation",
-        "ai-agents",
-        "awesome",
-        "awesome-list",
-        "benchmarks"
-      ]
-    },
     {
       "repo": "winsznx/theeleven",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "467",
+      "stars": "576",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+467 total",
+      "trend": "+576 total",
       "tags": [
         "ai-agents",
         "defi",
@@ -41,30 +17,54 @@
       ]
     },
     {
-      "repo": "trotsky1997/OpenFugu",
-      "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "stars": "251",
+      "repo": "yo-WASSUP/Good-Badminton",
+      "desc": "🏸  AI Badminton Hawk-Eye System",
+      "stars": "558",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+251 total",
+      "trend": "+558 total",
       "tags": []
+    },
+    {
+      "repo": "benchflow-ai/awesome-evals",
+      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stars": "520",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+520 total",
+      "tags": [
+        "agent-evaluation",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "benchmarks"
+      ]
     },
     {
       "repo": "Pluviobyte/video-production-skills",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "227",
+      "stars": "289",
       "lang": "Python",
       "license": "Other",
-      "trend": "+227 total",
+      "trend": "+289 total",
+      "tags": []
+    },
+    {
+      "repo": "trotsky1997/OpenFugu",
+      "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stars": "258",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+258 total",
       "tags": []
     },
     {
       "repo": "iart-ai/motion-skills",
       "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-      "stars": "213",
+      "stars": "215",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+213 total",
+      "trend": "+215 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -74,21 +74,30 @@
       ]
     },
     {
+      "repo": "tutusagi/ai-fishing-game",
+      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": "193",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+193 total",
+      "tags": []
+    },
+    {
       "repo": "i5ting/learn-ai-practice",
       "desc": "(暂无描述)",
-      "stars": "190",
+      "stars": "191",
       "lang": "Other",
       "license": "Other",
-      "trend": "+190 total",
+      "trend": "+191 total",
       "tags": []
     },
     {
       "repo": "Johell1NS/browser-search",
       "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stars": "178",
+      "stars": "180",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+178 total",
+      "trend": "+180 total",
       "tags": [
         "agent-skills",
         "ai-agent",
@@ -98,12 +107,27 @@
       ]
     },
     {
+      "repo": "NotASithLord/peerd",
+      "desc": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+      "stars": "174",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+174 total",
+      "tags": [
+        "agentic",
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-extension"
+      ]
+    },
+    {
       "repo": "Env-Kit/envkit-releases",
       "desc": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-      "stars": "167",
+      "stars": "169",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+167 total",
+      "trend": "+169 total",
       "tags": [
         "apache",
         "development-environment",
@@ -115,35 +139,11 @@
     {
       "repo": "binghe1980/AI-Canvas",
       "desc": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
-      "stars": "162",
+      "stars": "164",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+162 total",
+      "trend": "+164 total",
       "tags": []
-    },
-    {
-      "repo": "tutusagi/ai-fishing-game",
-      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stars": "155",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+155 total",
-      "tags": []
-    },
-    {
-      "repo": "NotASithLord/peerd",
-      "desc": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "stars": "149",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+149 total",
-      "tags": [
-        "agentic",
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "firefox-extension"
-      ]
     }
   ]
 }

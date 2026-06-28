@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-27T13:44:04.951Z",
+  "fetchedAt": "2026-06-28T03:53:38.379Z",
   "repos": [
     {
       "repo": "winsznx/theeleven",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "576",
+      "stars": "645",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+576 total",
+      "trend": "+645 total",
       "tags": [
         "ai-agents",
         "defi",
@@ -17,21 +17,12 @@
       ]
     },
     {
-      "repo": "yo-WASSUP/Good-Badminton",
-      "desc": "🏸  AI Badminton Hawk-Eye System",
-      "stars": "558",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+558 total",
-      "tags": []
-    },
-    {
       "repo": "benchflow-ai/awesome-evals",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "520",
+      "stars": "537",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+520 total",
+      "trend": "+537 total",
       "tags": [
         "agent-evaluation",
         "ai-agents",
@@ -43,28 +34,52 @@
     {
       "repo": "Pluviobyte/video-production-skills",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "289",
+      "stars": "339",
       "lang": "Python",
       "license": "Other",
-      "trend": "+289 total",
+      "trend": "+339 total",
       "tags": []
     },
     {
       "repo": "trotsky1997/OpenFugu",
       "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "stars": "258",
+      "stars": "267",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+258 total",
+      "trend": "+267 total",
+      "tags": []
+    },
+    {
+      "repo": "eli-labz/Godcoder",
+      "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
+      "stars": "240",
+      "lang": "Rust",
+      "license": "NOASSERTION",
+      "trend": "+240 total",
+      "tags": [
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first"
+      ]
+    },
+    {
+      "repo": "tutusagi/ai-fishing-game",
+      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": "225",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+225 total",
       "tags": []
     },
     {
       "repo": "iart-ai/motion-skills",
       "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-      "stars": "215",
+      "stars": "218",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+215 total",
+      "trend": "+218 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -74,45 +89,12 @@
       ]
     },
     {
-      "repo": "tutusagi/ai-fishing-game",
-      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stars": "193",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+193 total",
-      "tags": []
-    },
-    {
-      "repo": "i5ting/learn-ai-practice",
-      "desc": "(暂无描述)",
-      "stars": "191",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+191 total",
-      "tags": []
-    },
-    {
-      "repo": "Johell1NS/browser-search",
-      "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stars": "180",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+180 total",
-      "tags": [
-        "agent-skills",
-        "ai-agent",
-        "ai-tools",
-        "browser-automation",
-        "camoufox"
-      ]
-    },
-    {
       "repo": "NotASithLord/peerd",
       "desc": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "stars": "174",
+      "stars": "195",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+174 total",
+      "trend": "+195 total",
       "tags": [
         "agentic",
         "ai-agent",
@@ -122,27 +104,49 @@
       ]
     },
     {
-      "repo": "Env-Kit/envkit-releases",
-      "desc": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-      "stars": "169",
-      "lang": "Shell",
+      "repo": "i5ting/learn-ai-practice",
+      "desc": "(暂无描述)",
+      "stars": "193",
+      "lang": "Other",
       "license": "Other",
-      "trend": "+169 total",
+      "trend": "+193 total",
+      "tags": []
+    },
+    {
+      "repo": "Johell1NS/browser-search",
+      "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stars": "182",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+182 total",
       "tags": [
-        "apache",
-        "development-environment",
-        "herd-alternative",
-        "laragon-alternative",
-        "laravel"
+        "agent-skills",
+        "ai-agent",
+        "ai-tools",
+        "browser-automation",
+        "camoufox"
       ]
     },
     {
-      "repo": "binghe1980/AI-Canvas",
-      "desc": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
-      "stars": "164",
+      "repo": "lemma-work/lemma-platform",
+      "desc": "The open-source workspace where humans and AI agents work as one team.",
+      "stars": "143",
+      "lang": "Python",
+      "license": "AGPL-3.0",
+      "trend": "+143 total",
+      "tags": [
+        "ai",
+        "harness",
+        "harness-ai"
+      ]
+    },
+    {
+      "repo": "humation-labs/humation",
+      "desc": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
+      "stars": "140",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+164 total",
+      "trend": "+140 total",
       "tags": []
     }
   ]

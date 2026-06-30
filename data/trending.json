@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-29T15:48:12.744Z",
+  "fetchedAt": "2026-06-30T03:41:24.950Z",
   "repos": [
     {
       "repo": "winsznx/theeleven",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "713",
+      "stars": "715",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+713 total",
+      "trend": "+715 total",
       "tags": [
         "ai-agents",
         "defi",
@@ -19,10 +19,10 @@
     {
       "repo": "benchflow-ai/awesome-evals",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "580",
+      "stars": "590",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+580 total",
+      "trend": "+590 total",
       "tags": [
         "agent-evaluation",
         "ai-agents",
@@ -34,37 +34,28 @@
     {
       "repo": "Pluviobyte/video-production-skills",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "412",
+      "stars": "455",
       "lang": "Python",
       "license": "Other",
-      "trend": "+412 total",
-      "tags": []
-    },
-    {
-      "repo": "trotsky1997/OpenFugu",
-      "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "stars": "307",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+307 total",
+      "trend": "+455 total",
       "tags": []
     },
     {
       "repo": "tutusagi/ai-fishing-game",
       "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stars": "303",
+      "stars": "313",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+303 total",
+      "trend": "+313 total",
       "tags": []
     },
     {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "250",
+      "stars": "251",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+250 total",
+      "trend": "+251 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -74,57 +65,27 @@
       ]
     },
     {
-      "repo": "NotASithLord/peerd",
-      "desc": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "stars": "235",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+235 total",
-      "tags": [
-        "agentic",
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "firefox-extension"
-      ]
-    },
-    {
-      "repo": "iart-ai/motion-skills",
-      "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "repo": "lycorp-jp/sim-use",
+      "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
       "stars": "224",
-      "lang": "HTML",
-      "license": "MIT",
+      "lang": "Swift",
+      "license": "Apache-2.0",
       "trend": "+224 total",
       "tags": [
+        "accessibility",
         "ai-agents",
-        "claude-code",
-        "motion-graphics",
-        "remotion",
-        "skills"
+        "ai-development",
+        "android-emulator",
+        "ios-simulator"
       ]
     },
     {
-      "repo": "Johell1NS/browser-search",
-      "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stars": "220",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+220 total",
-      "tags": [
-        "agent-skills",
-        "ai-agent",
-        "ai-tools",
-        "browser-automation",
-        "camoufox"
-      ]
-    },
-    {
-      "repo": "i5ting/learn-ai-practice",
-      "desc": "(暂无描述)",
-      "stars": "198",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+198 total",
+      "repo": "kentjuno/ainovel-cli",
+      "desc": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "stars": "194",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+194 total",
       "tags": []
     },
     {
@@ -137,11 +98,38 @@
       "tags": []
     },
     {
-      "repo": "kentjuno/ainovel-cli",
-      "desc": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
+      "repo": "giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "desc": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
       "stars": "188",
-      "lang": "Go",
-      "license": "Apache-2.0",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+188 total",
+      "tags": []
+    },
+    {
+      "repo": "joker-alahram/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "desc": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": "188",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+188 total",
+      "tags": []
+    },
+    {
+      "repo": "Selva-rc/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "desc": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": "188",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+188 total",
+      "tags": []
+    },
+    {
+      "repo": "alex-carneiro/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "desc": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
+      "stars": "188",
+      "lang": "Python",
+      "license": "MIT",
       "trend": "+188 total",
       "tags": []
     }

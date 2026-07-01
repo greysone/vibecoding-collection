@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-30T14:20:13.284Z",
+  "fetchedAt": "2026-07-01T03:57:12.340Z",
   "repos": [
     {
       "repo": "winsznx/theeleven",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "716",
+      "stars": "692",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+716 total",
+      "trend": "+692 total",
       "tags": [
         "ai-agents",
         "defi",
@@ -17,12 +17,24 @@
       ]
     },
     {
+      "repo": "TianhangZhuzth/Fundamental-Ava",
+      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stars": "616",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+616 total",
+      "tags": [
+        "ai",
+        "ai-agents"
+      ]
+    },
+    {
       "repo": "benchflow-ai/awesome-evals",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "597",
+      "stars": "608",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+597 total",
+      "trend": "+608 total",
       "tags": [
         "agent-evaluation",
         "ai-agents",
@@ -34,40 +46,19 @@
     {
       "repo": "Pluviobyte/video-production-skills",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "478",
+      "stars": "484",
       "lang": "Python",
       "license": "Other",
-      "trend": "+478 total",
-      "tags": []
-    },
-    {
-      "repo": "TianhangZhuzth/Fundamental-Ava",
-      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
-      "stars": "470",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+470 total",
-      "tags": [
-        "ai",
-        "ai-agents"
-      ]
-    },
-    {
-      "repo": "tutusagi/ai-fishing-game",
-      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stars": "325",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+325 total",
+      "trend": "+484 total",
       "tags": []
     },
     {
       "repo": "lycorp-jp/sim-use",
       "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stars": "310",
+      "stars": "342",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+310 total",
+      "trend": "+342 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -77,12 +68,21 @@
       ]
     },
     {
+      "repo": "tutusagi/ai-fishing-game",
+      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": "334",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+334 total",
+      "tags": []
+    },
+    {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "253",
+      "stars": "256",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+253 total",
+      "trend": "+256 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -94,10 +94,10 @@
     {
       "repo": "ik190/macos-chatgpt-overlay-bar",
       "desc": "ChatGPT for Mac, living in your menubar.",
-      "stars": "212",
+      "stars": "233",
       "lang": "Other",
       "license": "Other",
-      "trend": "+212 total",
+      "trend": "+233 total",
       "tags": [
         "ai",
         "chatgpt",
@@ -107,44 +107,40 @@
       ]
     },
     {
-      "repo": "hanlinwenyuan/hlwy-ai-checker",
-      "desc": "检查第三方AI API是否掺假以及渠道一致",
-      "stars": "202",
-      "lang": "HTML",
-      "license": "LGPL-2.1",
-      "trend": "+202 total",
-      "tags": []
-    },
-    {
-      "repo": "kentjuno/ainovel-cli",
-      "desc": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "stars": "201",
-      "lang": "Go",
-      "license": "Apache-2.0",
-      "trend": "+201 total",
-      "tags": []
-    },
-    {
-      "repo": "revfactory/webtoon-harness",
-      "desc": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
-      "stars": "195",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+195 total",
-      "tags": []
-    },
-    {
-      "repo": "lemma-work/lemma-platform",
-      "desc": "The open-source workspace where humans and AI agents work as one team.",
-      "stars": "194",
+      "repo": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "desc": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
+      "stars": "223",
       "lang": "Python",
-      "license": "AGPL-3.0",
-      "trend": "+194 total",
-      "tags": [
-        "ai",
-        "harness",
-        "harness-ai"
-      ]
+      "license": "MIT",
+      "trend": "+223 total",
+      "tags": []
+    },
+    {
+      "repo": "arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
+      "desc": "Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.",
+      "stars": "223",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+223 total",
+      "tags": []
+    },
+    {
+      "repo": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "desc": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass.",
+      "stars": "221",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+221 total",
+      "tags": []
+    },
+    {
+      "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "desc": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
+      "stars": "221",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+221 total",
+      "tags": []
     }
   ]
 }

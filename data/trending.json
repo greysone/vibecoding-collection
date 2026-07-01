@@ -1,13 +1,25 @@
 {
-  "fetchedAt": "2026-07-01T03:57:12.340Z",
+  "fetchedAt": "2026-07-01T14:36:43.508Z",
   "repos": [
+    {
+      "repo": "TianhangZhuzth/Fundamental-Ava",
+      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stars": "692",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+692 total",
+      "tags": [
+        "ai",
+        "ai-agents"
+      ]
+    },
     {
       "repo": "winsznx/theeleven",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "692",
+      "stars": "681",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+692 total",
+      "trend": "+681 total",
       "tags": [
         "ai-agents",
         "defi",
@@ -17,24 +29,12 @@
       ]
     },
     {
-      "repo": "TianhangZhuzth/Fundamental-Ava",
-      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "616",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+616 total",
-      "tags": [
-        "ai",
-        "ai-agents"
-      ]
-    },
-    {
       "repo": "benchflow-ai/awesome-evals",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "608",
+      "stars": "612",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+608 total",
+      "trend": "+612 total",
       "tags": [
         "agent-evaluation",
         "ai-agents",
@@ -44,21 +44,30 @@
       ]
     },
     {
+      "repo": "Kulaxyz/self-learning-skills",
+      "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "stars": "558",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+558 total",
+      "tags": []
+    },
+    {
       "repo": "Pluviobyte/video-production-skills",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "484",
+      "stars": "491",
       "lang": "Python",
       "license": "Other",
-      "trend": "+484 total",
+      "trend": "+491 total",
       "tags": []
     },
     {
       "repo": "lycorp-jp/sim-use",
       "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stars": "342",
+      "stars": "386",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+342 total",
+      "trend": "+386 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -70,19 +79,19 @@
     {
       "repo": "tutusagi/ai-fishing-game",
       "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stars": "334",
+      "stars": "342",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+334 total",
+      "trend": "+342 total",
       "tags": []
     },
     {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "256",
+      "stars": "260",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+256 total",
+      "trend": "+260 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -90,6 +99,24 @@
         "llm",
         "local-first"
       ]
+    },
+    {
+      "repo": "revfactory/webtoon-harness",
+      "desc": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+      "stars": "235",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+235 total",
+      "tags": []
+    },
+    {
+      "repo": "hanlinwenyuan/hlwy-ai-checker",
+      "desc": "检查第三方AI API是否掺假以及渠道一致",
+      "stars": "233",
+      "lang": "HTML",
+      "license": "LGPL-2.1",
+      "trend": "+233 total",
+      "tags": []
     },
     {
       "repo": "ik190/macos-chatgpt-overlay-bar",
@@ -107,39 +134,12 @@
       ]
     },
     {
-      "repo": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
-      "desc": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
+      "repo": "JasonLiu0826/ackem",
+      "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
       "stars": "223",
-      "lang": "Python",
-      "license": "MIT",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
       "trend": "+223 total",
-      "tags": []
-    },
-    {
-      "repo": "arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
-      "desc": "Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.",
-      "stars": "223",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+223 total",
-      "tags": []
-    },
-    {
-      "repo": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
-      "desc": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass.",
-      "stars": "221",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+221 total",
-      "tags": []
-    },
-    {
-      "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
-      "desc": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
-      "stars": "221",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+221 total",
       "tags": []
     }
   ]

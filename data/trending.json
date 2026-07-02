@@ -1,52 +1,52 @@
 {
-  "fetchedAt": "2026-07-02T03:37:54.714Z",
+  "fetchedAt": "2026-07-02T14:01:36.877Z",
   "repos": [
     {
       "repo": "Kulaxyz/self-learning-skills",
       "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stars": "761",
+      "stars": "858",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+761 total",
+      "trend": "+858 total",
       "tags": []
     },
     {
       "repo": "TianhangZhuzth/Fundamental-Ava",
       "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "721",
+      "stars": "743",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+721 total",
+      "trend": "+743 total",
       "tags": [
         "ai",
         "ai-agents"
       ]
     },
     {
-      "repo": "Pluviobyte/video-production-skills",
-      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "492",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+492 total",
+      "repo": "tryOpenRAM/OpenRAM",
+      "desc": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+      "stars": "552",
+      "lang": "Vue",
+      "license": "MIT",
+      "trend": "+552 total",
       "tags": []
     },
     {
-      "repo": "Leron-X/leronx",
-      "desc": "LeronX — AI Image & Video Generation Platform",
-      "stars": "418",
+      "repo": "Pluviobyte/video-production-skills",
+      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": "496",
       "lang": "Python",
-      "license": "MIT",
-      "trend": "+418 total",
+      "license": "Other",
+      "trend": "+496 total",
       "tags": []
     },
     {
       "repo": "lycorp-jp/sim-use",
       "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stars": "404",
+      "stars": "437",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+404 total",
+      "trend": "+437 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -56,21 +56,60 @@
       ]
     },
     {
-      "repo": "tryOpenRAM/OpenRAM",
-      "desc": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
-      "stars": "334",
-      "lang": "Vue",
+      "repo": "Leron-X/leronx",
+      "desc": "LeronX — AI Image & Video Generation Platform",
+      "stars": "425",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+334 total",
+      "trend": "+425 total",
       "tags": []
+    },
+    {
+      "repo": "ik190/macos-chatgpt-overlay-bar",
+      "desc": "ChatGPT for Mac, living in your menubar.",
+      "stars": "312",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+312 total",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "chatgpt-bar-mac",
+        "chatgpt-menubar-mac",
+        "chatgpt-quick-access-mac"
+      ]
+    },
+    {
+      "repo": "JasonLiu0826/ackem",
+      "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
+      "stars": "281",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+281 total",
+      "tags": []
+    },
+    {
+      "repo": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "stars": "281",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+281 total",
+      "tags": [
+        "seedance",
+        "seedance-2",
+        "seedance-2-0",
+        "seedance-2-0-api",
+        "seedance-2-api"
+      ]
     },
     {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "268",
+      "stars": "270",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+268 total",
+      "trend": "+270 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -80,48 +119,21 @@
       ]
     },
     {
-      "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
-      "desc": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
-      "stars": "259",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+259 total",
-      "tags": []
-    },
-    {
       "repo": "scolwell/Captcha_Solver_AI",
       "desc": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
-      "stars": "258",
+      "stars": "260",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+258 total",
+      "trend": "+260 total",
       "tags": []
     },
     {
-      "repo": "montez27albert-collab/Arsenal_-_Aimbot___ESP",
-      "desc": "Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil.",
-      "stars": "258",
+      "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
+      "desc": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
+      "stars": "260",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+258 total",
-      "tags": []
-    },
-    {
-      "repo": "Neshke/BedWars_-_Auto-Farm___Aimbot",
-      "desc": "Auto-farm and aimbot for BedWars, the competitive PvP game with 11.3 billion visits[reference:20]. Automatically break beds, farm resources, and eliminate enemies with perfect aim.",
-      "stars": "258",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+258 total",
-      "tags": []
-    },
-    {
-      "repo": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
-      "desc": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round.",
-      "stars": "258",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+258 total",
+      "trend": "+260 total",
       "tags": []
     }
   ]

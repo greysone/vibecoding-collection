@@ -1,73 +1,52 @@
 {
-  "fetchedAt": "2026-07-01T14:36:43.508Z",
+  "fetchedAt": "2026-07-02T03:37:54.714Z",
   "repos": [
+    {
+      "repo": "Kulaxyz/self-learning-skills",
+      "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "stars": "761",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+761 total",
+      "tags": []
+    },
     {
       "repo": "TianhangZhuzth/Fundamental-Ava",
       "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "692",
+      "stars": "721",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+692 total",
+      "trend": "+721 total",
       "tags": [
         "ai",
         "ai-agents"
       ]
     },
     {
-      "repo": "winsznx/theeleven",
-      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": "681",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+681 total",
-      "tags": [
-        "ai-agents",
-        "defi",
-        "eip-3009",
-        "erc-8257",
-        "football"
-      ]
-    },
-    {
-      "repo": "benchflow-ai/awesome-evals",
-      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": "612",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+612 total",
-      "tags": [
-        "agent-evaluation",
-        "ai-agents",
-        "awesome",
-        "awesome-list",
-        "benchmarks"
-      ]
-    },
-    {
-      "repo": "Kulaxyz/self-learning-skills",
-      "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stars": "558",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+558 total",
+      "repo": "Pluviobyte/video-production-skills",
+      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": "492",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+492 total",
       "tags": []
     },
     {
-      "repo": "Pluviobyte/video-production-skills",
-      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "491",
+      "repo": "Leron-X/leronx",
+      "desc": "LeronX — AI Image & Video Generation Platform",
+      "stars": "418",
       "lang": "Python",
-      "license": "Other",
-      "trend": "+491 total",
+      "license": "MIT",
+      "trend": "+418 total",
       "tags": []
     },
     {
       "repo": "lycorp-jp/sim-use",
       "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stars": "386",
+      "stars": "404",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+386 total",
+      "trend": "+404 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -77,21 +56,21 @@
       ]
     },
     {
-      "repo": "tutusagi/ai-fishing-game",
-      "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stars": "342",
-      "lang": "Python",
+      "repo": "tryOpenRAM/OpenRAM",
+      "desc": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+      "stars": "334",
+      "lang": "Vue",
       "license": "MIT",
-      "trend": "+342 total",
+      "trend": "+334 total",
       "tags": []
     },
     {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "260",
+      "stars": "268",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+260 total",
+      "trend": "+268 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -101,45 +80,48 @@
       ]
     },
     {
-      "repo": "revfactory/webtoon-harness",
-      "desc": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
-      "stars": "235",
-      "lang": "HTML",
+      "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
+      "desc": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
+      "stars": "259",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+235 total",
+      "trend": "+259 total",
       "tags": []
     },
     {
-      "repo": "hanlinwenyuan/hlwy-ai-checker",
-      "desc": "检查第三方AI API是否掺假以及渠道一致",
-      "stars": "233",
-      "lang": "HTML",
-      "license": "LGPL-2.1",
-      "trend": "+233 total",
+      "repo": "scolwell/Captcha_Solver_AI",
+      "desc": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
+      "stars": "258",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+258 total",
       "tags": []
     },
     {
-      "repo": "ik190/macos-chatgpt-overlay-bar",
-      "desc": "ChatGPT for Mac, living in your menubar.",
-      "stars": "233",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+233 total",
-      "tags": [
-        "ai",
-        "chatgpt",
-        "chatgpt-bar-mac",
-        "chatgpt-menubar-mac",
-        "chatgpt-quick-access-mac"
-      ]
+      "repo": "montez27albert-collab/Arsenal_-_Aimbot___ESP",
+      "desc": "Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil.",
+      "stars": "258",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+258 total",
+      "tags": []
     },
     {
-      "repo": "JasonLiu0826/ackem",
-      "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
-      "stars": "223",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+223 total",
+      "repo": "Neshke/BedWars_-_Auto-Farm___Aimbot",
+      "desc": "Auto-farm and aimbot for BedWars, the competitive PvP game with 11.3 billion visits[reference:20]. Automatically break beds, farm resources, and eliminate enemies with perfect aim.",
+      "stars": "258",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+258 total",
+      "tags": []
+    },
+    {
+      "repo": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+      "desc": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round.",
+      "stars": "258",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+258 total",
       "tags": []
     }
   ]

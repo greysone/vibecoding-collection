@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-07-02T14:01:36.877Z",
+  "fetchedAt": "2026-07-03T03:18:21.645Z",
   "repos": [
     {
       "repo": "Kulaxyz/self-learning-skills",
       "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stars": "858",
+      "stars": "900",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+858 total",
+      "trend": "+900 total",
       "tags": []
     },
     {
       "repo": "TianhangZhuzth/Fundamental-Ava",
       "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "743",
+      "stars": "755",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+743 total",
+      "trend": "+755 total",
       "tags": [
         "ai",
         "ai-agents"
@@ -25,28 +25,28 @@
     {
       "repo": "tryOpenRAM/OpenRAM",
       "desc": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
-      "stars": "552",
+      "stars": "566",
       "lang": "Vue",
       "license": "MIT",
-      "trend": "+552 total",
+      "trend": "+566 total",
       "tags": []
     },
     {
       "repo": "Pluviobyte/video-production-skills",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stars": "496",
+      "stars": "497",
       "lang": "Python",
       "license": "Other",
-      "trend": "+496 total",
+      "trend": "+497 total",
       "tags": []
     },
     {
       "repo": "lycorp-jp/sim-use",
       "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stars": "437",
+      "stars": "472",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+437 total",
+      "trend": "+472 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -58,10 +58,10 @@
     {
       "repo": "Leron-X/leronx",
       "desc": "LeronX — AI Image & Video Generation Platform",
-      "stars": "425",
+      "stars": "433",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+425 total",
+      "trend": "+433 total",
       "tags": []
     },
     {
@@ -82,19 +82,19 @@
     {
       "repo": "JasonLiu0826/ackem",
       "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
-      "stars": "281",
+      "stars": "294",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+281 total",
+      "trend": "+294 total",
       "tags": []
     },
     {
       "repo": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
       "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stars": "281",
+      "stars": "289",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+281 total",
+      "trend": "+289 total",
       "tags": [
         "seedance",
         "seedance-2",
@@ -104,12 +104,21 @@
       ]
     },
     {
+      "repo": "lingbol088-spec/reverse-flow-skill",
+      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": "281",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+281 total",
+      "tags": []
+    },
+    {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "270",
+      "stars": "272",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+270 total",
+      "trend": "+272 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -121,19 +130,10 @@
     {
       "repo": "scolwell/Captcha_Solver_AI",
       "desc": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
-      "stars": "260",
+      "stars": "259",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+260 total",
-      "tags": []
-    },
-    {
-      "repo": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
-      "desc": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
-      "stars": "260",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+260 total",
+      "trend": "+259 total",
       "tags": []
     }
   ]

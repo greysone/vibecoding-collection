@@ -1,31 +1,40 @@
 {
-  "fetchedAt": "2026-07-04T02:57:02.275Z",
+  "fetchedAt": "2026-07-04T13:26:56.106Z",
   "repos": [
     {
       "repo": "Kulaxyz/self-learning-skills",
       "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stars": "804",
+      "stars": "820",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+804 total",
+      "trend": "+820 total",
       "tags": []
     },
     {
       "repo": "HUANGCHIHHUNGLeo/claude-real-video",
       "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stars": "540",
+      "stars": "670",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+540 total",
+      "trend": "+670 total",
+      "tags": []
+    },
+    {
+      "repo": "jamesob/local-llm",
+      "desc": "Everything I know about running LLMs locally",
+      "stars": "550",
+      "lang": "Shell",
+      "license": "Other",
+      "trend": "+550 total",
       "tags": []
     },
     {
       "repo": "TianhangZhuzth/Fundamental-Ava",
       "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "520",
+      "stars": "522",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+520 total",
+      "trend": "+522 total",
       "tags": [
         "ai",
         "ai-agents"
@@ -34,10 +43,10 @@
     {
       "repo": "uzairansaruzi/hermex",
       "desc": "Native iPhone app for your Hermes agent",
-      "stars": "450",
+      "stars": "488",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+450 total",
+      "trend": "+488 total",
       "tags": [
         "hermes",
         "hermes-agent",
@@ -47,21 +56,12 @@
       ]
     },
     {
-      "repo": "jamesob/local-llm",
-      "desc": "Everything I know about running LLMs locally",
-      "stars": "365",
-      "lang": "Shell",
-      "license": "Other",
-      "trend": "+365 total",
-      "tags": []
-    },
-    {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "335",
+      "stars": "453",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+335 total",
+      "trend": "+453 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -71,30 +71,30 @@
       ]
     },
     {
-      "repo": "JasonLiu0826/ackem",
-      "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
-      "stars": "319",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+319 total",
+      "repo": "lingbol088-spec/reverse-flow-skill",
+      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": "333",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+333 total",
       "tags": []
     },
     {
-      "repo": "lingbol088-spec/reverse-flow-skill",
-      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stars": "318",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+318 total",
+      "repo": "JasonLiu0826/ackem",
+      "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
+      "stars": "329",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+329 total",
       "tags": []
     },
     {
       "repo": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
       "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stars": "294",
+      "stars": "296",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+294 total",
+      "trend": "+296 total",
       "tags": [
         "seedance",
         "seedance-2",
@@ -106,10 +106,10 @@
     {
       "repo": "eli-labz/Godcoder",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "277",
+      "stars": "279",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+277 total",
+      "trend": "+279 total",
       "tags": [
         "ai",
         "coding-agent",
@@ -128,12 +128,12 @@
       "tags": []
     },
     {
-      "repo": "SuperJJ007/CSswitch",
-      "desc": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
-      "stars": "167",
+      "repo": "SuperJJ007/CSSwitch",
+      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "stars": "197",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+167 total",
+      "trend": "+197 total",
       "tags": [
         "anthropic",
         "claude",

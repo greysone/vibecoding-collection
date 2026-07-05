@@ -1,67 +1,40 @@
 {
-  "fetchedAt": "2026-07-04T13:26:56.106Z",
+  "fetchedAt": "2026-07-05T03:27:00.602Z",
   "repos": [
     {
       "repo": "Kulaxyz/self-learning-skills",
       "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stars": "820",
+      "stars": "826",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+820 total",
-      "tags": []
-    },
-    {
-      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
-      "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stars": "670",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+670 total",
+      "trend": "+826 total",
       "tags": []
     },
     {
       "repo": "jamesob/local-llm",
       "desc": "Everything I know about running LLMs locally",
-      "stars": "550",
+      "stars": "771",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+550 total",
+      "trend": "+771 total",
       "tags": []
     },
     {
-      "repo": "TianhangZhuzth/Fundamental-Ava",
-      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "522",
+      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+      "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "stars": "757",
       "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+522 total",
-      "tags": [
-        "ai",
-        "ai-agents"
-      ]
-    },
-    {
-      "repo": "uzairansaruzi/hermex",
-      "desc": "Native iPhone app for your Hermes agent",
-      "stars": "488",
-      "lang": "Swift",
       "license": "MIT",
-      "trend": "+488 total",
-      "tags": [
-        "hermes",
-        "hermes-agent",
-        "hermex",
-        "ios",
-        "llm"
-      ]
+      "trend": "+757 total",
+      "tags": []
     },
     {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "453",
+      "stars": "594",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+453 total",
+      "trend": "+594 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -71,30 +44,48 @@
       ]
     },
     {
-      "repo": "lingbol088-spec/reverse-flow-skill",
-      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stars": "333",
-      "lang": "Python",
+      "repo": "uzairansaruzi/hermex",
+      "desc": "Native iPhone app for your Hermes agent",
+      "stars": "556",
+      "lang": "Swift",
       "license": "MIT",
-      "trend": "+333 total",
-      "tags": []
+      "trend": "+556 total",
+      "tags": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm"
+      ]
     },
     {
-      "repo": "JasonLiu0826/ackem",
-      "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
-      "stars": "329",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+329 total",
+      "repo": "TianhangZhuzth/Fundamental-Ava",
+      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stars": "523",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+523 total",
+      "tags": [
+        "ai",
+        "ai-agents"
+      ]
+    },
+    {
+      "repo": "lingbol088-spec/reverse-flow-skill",
+      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": "352",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+352 total",
       "tags": []
     },
     {
       "repo": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
       "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stars": "296",
+      "stars": "299",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+296 total",
+      "trend": "+299 total",
       "tags": [
         "seedance",
         "seedance-2",
@@ -104,36 +95,36 @@
       ]
     },
     {
-      "repo": "eli-labz/Godcoder",
-      "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "279",
-      "lang": "Rust",
-      "license": "NOASSERTION",
-      "trend": "+279 total",
+      "repo": "elder-plinius/T3MP3ST",
+      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stars": "270",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+270 total",
       "tags": [
+        "agents",
         "ai",
-        "coding-agent",
-        "desktop-app",
-        "llm",
-        "local-first"
+        "multi-agent",
+        "offensive-security",
+        "redteam"
       ]
     },
     {
       "repo": "revfactory/webtoon-harness",
       "desc": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
-      "stars": "250",
+      "stars": "251",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+250 total",
+      "trend": "+251 total",
       "tags": []
     },
     {
       "repo": "SuperJJ007/CSSwitch",
       "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "stars": "197",
+      "stars": "223",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+197 total",
+      "trend": "+223 total",
       "tags": [
         "anthropic",
         "claude",
@@ -141,6 +132,15 @@
         "dashscope",
         "deepseek"
       ]
+    },
+    {
+      "repo": "haiou-666/haiou2.0-Claude-Code-",
+      "desc": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，跨平台支持 Windows/macOS/Linux，自动备份原配置，可一键卸载恢复，无侵入式安装。MIT License，仅供学习交流。",
+      "stars": "174",
+      "lang": "Shell",
+      "license": "MIT",
+      "trend": "+174 total",
+      "tags": []
     }
   ]
 }

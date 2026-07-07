@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-07T03:26:06.447Z",
+  "fetchedAt": "2026-07-07T14:34:40.400Z",
   "repos": [
     {
       "repo": "elder-plinius/T3MP3ST",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "2.7k",
+      "stars": "3.0k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+2.7k total",
+      "trend": "+3.0k total",
       "tags": [
         "agents",
         "ai",
@@ -26,21 +26,12 @@
       "tags": []
     },
     {
-      "repo": "jamesob/local-llm",
-      "desc": "Everything I know about running LLMs locally",
-      "stars": "1.1k",
-      "lang": "Shell",
-      "license": "Other",
-      "trend": "+1.1k total",
-      "tags": []
-    },
-    {
       "repo": "synthetic-sciences/openscience",
       "desc": "The open-source AI workbench for scientific research",
-      "stars": "819",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+819 total",
+      "trend": "+1.1k total",
       "tags": [
         "agent",
         "ai",
@@ -50,12 +41,36 @@
       ]
     },
     {
+      "repo": "jamesob/local-llm",
+      "desc": "Everything I know about running LLMs locally",
+      "stars": "1.1k",
+      "lang": "Shell",
+      "license": "Other",
+      "trend": "+1.1k total",
+      "tags": []
+    },
+    {
+      "repo": "isjiamu/gzh-design-skill",
+      "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+      "stars": "809",
+      "lang": "HTML",
+      "license": "NOASSERTION",
+      "trend": "+809 total",
+      "tags": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "cursor"
+      ]
+    },
+    {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "722",
+      "stars": "723",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+722 total",
+      "trend": "+723 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -67,10 +82,10 @@
     {
       "repo": "uzairansaruzi/hermex",
       "desc": "Native iPhone app for your Hermes agent",
-      "stars": "658",
+      "stars": "672",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+658 total",
+      "trend": "+672 total",
       "tags": [
         "hermes",
         "hermes-agent",
@@ -80,73 +95,58 @@
       ]
     },
     {
+      "repo": "HKUDS/OpenOPC",
+      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "stars": "554",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+554 total",
+      "tags": []
+    },
+    {
       "repo": "TianhangZhuzth/Fundamental-Ava",
       "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "527",
+      "stars": "529",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+527 total",
+      "trend": "+529 total",
       "tags": [
         "ai",
         "ai-agents"
       ]
     },
     {
-      "repo": "HKUDS/OpenOPC",
-      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "stars": "519",
+      "repo": "lingbol088-spec/reverse-flow-skill",
+      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": "433",
       "lang": "Python",
-      "license": "Other",
-      "trend": "+519 total",
+      "license": "MIT",
+      "trend": "+433 total",
       "tags": []
     },
     {
-      "repo": "lingbol088-spec/reverse-flow-skill",
-      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stars": "419",
-      "lang": "Python",
+      "repo": "simonlin1212/Vibe-Research",
+      "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "stars": "370",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+419 total",
-      "tags": []
+      "trend": "+370 total",
+      "tags": [
+        "a-stock",
+        "ai-agent",
+        "dashboard",
+        "fastapi",
+        "fintech"
+      ]
     },
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "334",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+334 total",
-      "tags": []
-    },
-    {
-      "repo": "SuperJJ007/CSSwitch",
-      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "stars": "290",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+290 total",
-      "tags": [
-        "anthropic",
-        "claude",
-        "claude-science",
-        "dashscope",
-        "deepseek"
-      ]
-    },
-    {
-      "repo": "ai4s-research/open-science",
-      "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "stars": "243",
-      "lang": "TypeScript",
+      "stars": "355",
+      "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+243 total",
-      "tags": [
-        "ai-agent",
-        "ai-for-science",
-        "ai-scientist",
-        "ai4s",
-        "claude-science"
-      ]
+      "trend": "+355 total",
+      "tags": []
     }
   ]
 }

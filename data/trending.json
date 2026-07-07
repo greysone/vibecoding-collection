@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-06T15:33:53.571Z",
+  "fetchedAt": "2026-07-07T03:26:06.447Z",
   "repos": [
     {
       "repo": "elder-plinius/T3MP3ST",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "2.3k",
+      "stars": "2.7k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+2.3k total",
+      "trend": "+2.7k total",
       "tags": [
         "agents",
         "ai",
@@ -19,28 +19,43 @@
     {
       "repo": "HUANGCHIHHUNGLeo/claude-real-video",
       "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": []
     },
     {
       "repo": "jamesob/local-llm",
       "desc": "Everything I know about running LLMs locally",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": []
+    },
+    {
+      "repo": "synthetic-sciences/openscience",
+      "desc": "The open-source AI workbench for scientific research",
+      "stars": "819",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+819 total",
+      "tags": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli"
+      ]
     },
     {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "720",
+      "stars": "722",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+720 total",
+      "trend": "+722 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -52,10 +67,10 @@
     {
       "repo": "uzairansaruzi/hermex",
       "desc": "Native iPhone app for your Hermes agent",
-      "stars": "645",
+      "stars": "658",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+645 total",
+      "trend": "+658 total",
       "tags": [
         "hermes",
         "hermes-agent",
@@ -65,27 +80,12 @@
       ]
     },
     {
-      "repo": "synthetic-sciences/openscience",
-      "desc": "The open-source AI workbench for scientific research",
-      "stars": "599",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+599 total",
-      "tags": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "bun",
-        "cli"
-      ]
-    },
-    {
       "repo": "TianhangZhuzth/Fundamental-Ava",
       "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "525",
+      "stars": "527",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+525 total",
+      "trend": "+527 total",
       "tags": [
         "ai",
         "ai-agents"
@@ -94,58 +94,58 @@
     {
       "repo": "HKUDS/OpenOPC",
       "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "stars": "478",
+      "stars": "519",
       "lang": "Python",
       "license": "Other",
-      "trend": "+478 total",
+      "trend": "+519 total",
       "tags": []
-    },
-    {
-      "repo": "oomol-lab/open-connector",
-      "desc": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "stars": "466",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+466 total",
-      "tags": [
-        "agent-tools",
-        "ai-agents",
-        "api-gateway",
-        "automation",
-        "cli"
-      ]
     },
     {
       "repo": "lingbol088-spec/reverse-flow-skill",
       "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stars": "407",
+      "stars": "419",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+407 total",
+      "trend": "+419 total",
       "tags": []
     },
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "310",
+      "stars": "334",
       "lang": "Other",
       "license": "Other",
-      "trend": "+310 total",
+      "trend": "+334 total",
       "tags": []
     },
     {
-      "repo": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stars": "302",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+302 total",
+      "repo": "SuperJJ007/CSSwitch",
+      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "stars": "290",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+290 total",
       "tags": [
-        "seedance",
-        "seedance-2",
-        "seedance-2-0",
-        "seedance-2-0-api",
-        "seedance-2-api"
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek"
+      ]
+    },
+    {
+      "repo": "ai4s-research/open-science",
+      "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "stars": "243",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+243 total",
+      "tags": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science"
       ]
     }
   ]

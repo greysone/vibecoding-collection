@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-07T14:34:40.400Z",
+  "fetchedAt": "2026-07-08T02:42:59.297Z",
   "repos": [
     {
       "repo": "elder-plinius/T3MP3ST",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "3.0k",
+      "stars": "3.3k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+3.0k total",
+      "trend": "+3.3k total",
       "tags": [
         "agents",
         "ai",
@@ -17,21 +17,12 @@
       ]
     },
     {
-      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
-      "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stars": "1.3k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.3k total",
-      "tags": []
-    },
-    {
       "repo": "synthetic-sciences/openscience",
       "desc": "The open-source AI workbench for scientific research",
-      "stars": "1.1k",
+      "stars": "1.4k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.1k total",
+      "trend": "+1.4k total",
       "tags": [
         "agent",
         "ai",
@@ -43,19 +34,19 @@
     {
       "repo": "jamesob/local-llm",
       "desc": "Everything I know about running LLMs locally",
-      "stars": "1.1k",
+      "stars": "1.2k",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+1.1k total",
+      "trend": "+1.2k total",
       "tags": []
     },
     {
       "repo": "isjiamu/gzh-design-skill",
       "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-      "stars": "809",
+      "stars": "1.1k",
       "lang": "HTML",
       "license": "NOASSERTION",
-      "trend": "+809 total",
+      "trend": "+1.1k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -67,10 +58,10 @@
     {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "723",
+      "stars": "724",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+723 total",
+      "trend": "+724 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -82,10 +73,10 @@
     {
       "repo": "uzairansaruzi/hermex",
       "desc": "Native iPhone app for your Hermes agent",
-      "stars": "672",
+      "stars": "680",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+672 total",
+      "trend": "+680 total",
       "tags": [
         "hermes",
         "hermes-agent",
@@ -97,40 +88,19 @@
     {
       "repo": "HKUDS/OpenOPC",
       "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "stars": "554",
+      "stars": "575",
       "lang": "Python",
       "license": "Other",
-      "trend": "+554 total",
-      "tags": []
-    },
-    {
-      "repo": "TianhangZhuzth/Fundamental-Ava",
-      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stars": "529",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+529 total",
-      "tags": [
-        "ai",
-        "ai-agents"
-      ]
-    },
-    {
-      "repo": "lingbol088-spec/reverse-flow-skill",
-      "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stars": "433",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+433 total",
+      "trend": "+575 total",
       "tags": []
     },
     {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "370",
+      "stars": "463",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+370 total",
+      "trend": "+463 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -142,11 +112,56 @@
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "355",
+      "stars": "364",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+355 total",
+      "trend": "+364 total",
       "tags": []
+    },
+    {
+      "repo": "ai4s-research/open-science",
+      "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "stars": "319",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+319 total",
+      "tags": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science"
+      ]
+    },
+    {
+      "repo": "SuperJJ007/CSSwitch",
+      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "stars": "305",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+305 total",
+      "tags": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek"
+      ]
+    },
+    {
+      "repo": "OStudi/short-video-generator-AI",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stars": "298",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+298 total",
+      "tags": [
+        "ai-video",
+        "clip-generator",
+        "money-printer",
+        "opus",
+        "short-videos"
+      ]
     }
   ]
 }

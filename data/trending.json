@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-09T03:19:34.717Z",
+  "fetchedAt": "2026-07-09T15:10:30.277Z",
   "repos": [
     {
       "repo": "elder-plinius/T3MP3ST",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "3.9k",
+      "stars": "4.1k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+3.9k total",
+      "trend": "+4.1k total",
       "tags": [
         "agents",
         "ai",
@@ -19,10 +19,10 @@
     {
       "repo": "synthetic-sciences/openscience",
       "desc": "The open-source AI workbench for scientific research",
-      "stars": "1.8k",
+      "stars": "1.9k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.8k total",
+      "trend": "+1.9k total",
       "tags": [
         "agent",
         "ai",
@@ -43,10 +43,10 @@
     {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "785",
+      "stars": "809",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+785 total",
+      "trend": "+809 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -58,10 +58,10 @@
     {
       "repo": "uzairansaruzi/hermex",
       "desc": "Native iPhone app for your Hermes agent",
-      "stars": "700",
+      "stars": "707",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+700 total",
+      "trend": "+707 total",
       "tags": [
         "hermes",
         "hermes-agent",
@@ -73,10 +73,10 @@
     {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "556",
+      "stars": "579",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+556 total",
+      "trend": "+579 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -87,11 +87,11 @@
     },
     {
       "repo": "ai4s-research/open-science",
-      "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "stars": "398",
+      "desc": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "stars": "472",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+398 total",
+      "trend": "+472 total",
       "tags": [
         "ai-agent",
         "ai-for-science",
@@ -103,11 +103,41 @@
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "382",
+      "stars": "389",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+382 total",
+      "trend": "+389 total",
       "tags": []
+    },
+    {
+      "repo": "nexu-io/motion-anything",
+      "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "stars": "334",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+334 total",
+      "tags": [
+        "ai-agent",
+        "animation",
+        "claude",
+        "design-tools",
+        "figma-motion-alternative"
+      ]
+    },
+    {
+      "repo": "SuperJJ007/CSSwitch",
+      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "stars": "320",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+320 total",
+      "tags": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek"
+      ]
     },
     {
       "repo": "SmileLikeYe/agent-chief",
@@ -121,36 +151,6 @@
         "harness-engineering",
         "llm",
         "local-first"
-      ]
-    },
-    {
-      "repo": "SuperJJ007/CSSwitch",
-      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "stars": "315",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+315 total",
-      "tags": [
-        "anthropic",
-        "claude",
-        "claude-science",
-        "dashscope",
-        "deepseek"
-      ]
-    },
-    {
-      "repo": "nexu-io/motion-anything",
-      "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stars": "308",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+308 total",
-      "tags": [
-        "ai-agent",
-        "animation",
-        "claude",
-        "design-tools",
-        "figma-motion-alternative"
       ]
     },
     {

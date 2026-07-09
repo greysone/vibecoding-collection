@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-08T14:07:59.970Z",
+  "fetchedAt": "2026-07-09T03:19:34.717Z",
   "repos": [
     {
       "repo": "elder-plinius/T3MP3ST",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "3.7k",
+      "stars": "3.9k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+3.7k total",
+      "trend": "+3.9k total",
       "tags": [
         "agents",
         "ai",
@@ -19,10 +19,10 @@
     {
       "repo": "synthetic-sciences/openscience",
       "desc": "The open-source AI workbench for scientific research",
-      "stars": "1.6k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.6k total",
+      "trend": "+1.8k total",
       "tags": [
         "agent",
         "ai",
@@ -32,36 +32,21 @@
       ]
     },
     {
-      "repo": "isjiamu/gzh-design-skill",
-      "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-      "stars": "1.4k",
-      "lang": "HTML",
-      "license": "NOASSERTION",
-      "trend": "+1.4k total",
-      "tags": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "codex",
-        "cursor"
-      ]
-    },
-    {
       "repo": "jamesob/local-llm",
       "desc": "Everything I know about running LLMs locally",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Shell",
       "license": "Other",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": []
     },
     {
       "repo": "jmerelnyc/Talos",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "721",
+      "stars": "785",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+721 total",
+      "trend": "+785 total",
       "tags": [
         "ai",
         "distributed-computing",
@@ -73,10 +58,10 @@
     {
       "repo": "uzairansaruzi/hermex",
       "desc": "Native iPhone app for your Hermes agent",
-      "stars": "690",
+      "stars": "700",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+690 total",
+      "trend": "+700 total",
       "tags": [
         "hermes",
         "hermes-agent",
@@ -86,21 +71,12 @@
       ]
     },
     {
-      "repo": "HKUDS/OpenOPC",
-      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "stars": "591",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+591 total",
-      "tags": []
-    },
-    {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "529",
+      "stars": "556",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+529 total",
+      "trend": "+556 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -110,21 +86,12 @@
       ]
     },
     {
-      "repo": "Pluviobyte/rnskill",
-      "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "380",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+380 total",
-      "tags": []
-    },
-    {
       "repo": "ai4s-research/open-science",
       "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "stars": "364",
+      "stars": "398",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+364 total",
+      "trend": "+398 total",
       "tags": [
         "ai-agent",
         "ai-for-science",
@@ -134,33 +101,71 @@
       ]
     },
     {
-      "repo": "OStudi/short-video-generator-AI",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stars": "322",
+      "repo": "Pluviobyte/rnskill",
+      "desc": "雪踏乌云的 AI Agent Skills 集合",
+      "stars": "382",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+382 total",
+      "tags": []
+    },
+    {
+      "repo": "SmileLikeYe/agent-chief",
+      "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "stars": "319",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+322 total",
+      "trend": "+319 total",
       "tags": [
-        "ai-video",
-        "clip-generator",
-        "money-printer",
-        "opus",
-        "short-videos"
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
       ]
     },
     {
       "repo": "SuperJJ007/CSSwitch",
       "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "stars": "312",
+      "stars": "315",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+312 total",
+      "trend": "+315 total",
       "tags": [
         "anthropic",
         "claude",
         "claude-science",
         "dashscope",
         "deepseek"
+      ]
+    },
+    {
+      "repo": "nexu-io/motion-anything",
+      "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "stars": "308",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+308 total",
+      "tags": [
+        "ai-agent",
+        "animation",
+        "claude",
+        "design-tools",
+        "figma-motion-alternative"
+      ]
+    },
+    {
+      "repo": "eli-labz/Cognitive-Core-Skills",
+      "desc": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
+      "stars": "273",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+273 total",
+      "tags": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-safety",
+        "artificial-intelligence"
       ]
     }
   ]

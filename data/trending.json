@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T03:21:31.691Z",
+  "fetchedAt": "2026-07-10T14:27:06.924Z",
   "repos": [
     {
       "repo": "synthetic-sciences/openscience",
@@ -28,10 +28,10 @@
     {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "594",
+      "stars": "631",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+594 total",
+      "trend": "+631 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -43,10 +43,10 @@
     {
       "repo": "ai4s-research/open-science",
       "desc": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "stars": "515",
+      "stars": "567",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+515 total",
+      "trend": "+567 total",
       "tags": [
         "ai-agent",
         "ai-for-science",
@@ -58,19 +58,33 @@
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "392",
+      "stars": "393",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+392 total",
+      "trend": "+393 total",
       "tags": []
+    },
+    {
+      "repo": "SmileLikeYe/agent-chief",
+      "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "stars": "380",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+380 total",
+      "tags": [
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
+      ]
     },
     {
       "repo": "nexu-io/motion-anything",
       "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stars": "345",
+      "stars": "358",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+345 total",
+      "trend": "+358 total",
       "tags": [
         "ai-agent",
         "animation",
@@ -80,17 +94,33 @@
       ]
     },
     {
-      "repo": "SmileLikeYe/agent-chief",
-      "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "stars": "320",
+      "repo": "ronak-create/FableCut",
+      "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "stars": "285",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+285 total",
+      "tags": [
+        "ai-agent",
+        "canvas",
+        "claude",
+        "ffmpeg",
+        "javascript"
+      ]
+    },
+    {
+      "repo": "Doriandarko/texts-to-transformer",
+      "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "stars": "274",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+320 total",
+      "trend": "+274 total",
       "tags": [
-        "harness",
-        "harness-engineering",
-        "llm",
-        "local-first"
+        "apple-silicon",
+        "imessage",
+        "local-first",
+        "machine-learning",
+        "mlx"
       ]
     },
     {
@@ -111,10 +141,10 @@
     {
       "repo": "wassermanproductions/motion-previs-studio",
       "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-      "stars": "245",
+      "stars": "269",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+245 total",
+      "trend": "+269 total",
       "tags": [
         "aiprevis",
         "aivideocreation",
@@ -122,42 +152,13 @@
       ]
     },
     {
-      "repo": "ronak-create/FableCut",
-      "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "stars": "235",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+235 total",
-      "tags": [
-        "ai-agent",
-        "canvas",
-        "claude",
-        "ffmpeg",
-        "javascript"
-      ]
-    },
-    {
       "repo": "OmarH-creator/Autonomous-Forge",
       "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-      "stars": "229",
+      "stars": "231",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+229 total",
+      "trend": "+231 total",
       "tags": []
-    },
-    {
-      "repo": "fendouai/humanize-text-skill",
-      "desc": "Free AI Humanizer: Humanize AI Text Online",
-      "stars": "209",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+209 total",
-      "tags": [
-        "ai-humanize",
-        "humanize-ai",
-        "humanize-text",
-        "humanizer"
-      ]
     }
   ]
 }

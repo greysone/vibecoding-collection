@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-07-09T15:10:30.277Z",
+  "fetchedAt": "2026-07-10T03:21:31.691Z",
   "repos": [
-    {
-      "repo": "elder-plinius/T3MP3ST",
-      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "4.1k",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+4.1k total",
-      "tags": [
-        "agents",
-        "ai",
-        "multi-agent",
-        "offensive-security",
-        "redteam"
-      ]
-    },
     {
       "repo": "synthetic-sciences/openscience",
       "desc": "The open-source AI workbench for scientific research",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": [
         "agent",
         "ai",
@@ -41,42 +26,12 @@
       "tags": []
     },
     {
-      "repo": "jmerelnyc/Talos",
-      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "809",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+809 total",
-      "tags": [
-        "ai",
-        "distributed-computing",
-        "gpu",
-        "llm",
-        "ollama"
-      ]
-    },
-    {
-      "repo": "uzairansaruzi/hermex",
-      "desc": "Native iPhone app for your Hermes agent",
-      "stars": "707",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+707 total",
-      "tags": [
-        "hermes",
-        "hermes-agent",
-        "hermex",
-        "ios",
-        "llm"
-      ]
-    },
-    {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "579",
+      "stars": "594",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+579 total",
+      "trend": "+594 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -88,10 +43,10 @@
     {
       "repo": "ai4s-research/open-science",
       "desc": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "stars": "472",
+      "stars": "515",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+472 total",
+      "trend": "+515 total",
       "tags": [
         "ai-agent",
         "ai-for-science",
@@ -103,19 +58,19 @@
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "389",
+      "stars": "392",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+389 total",
+      "trend": "+392 total",
       "tags": []
     },
     {
       "repo": "nexu-io/motion-anything",
       "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stars": "334",
+      "stars": "345",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+334 total",
+      "trend": "+345 total",
       "tags": [
         "ai-agent",
         "animation",
@@ -125,27 +80,12 @@
       ]
     },
     {
-      "repo": "SuperJJ007/CSSwitch",
-      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "stars": "320",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+320 total",
-      "tags": [
-        "anthropic",
-        "claude",
-        "claude-science",
-        "dashscope",
-        "deepseek"
-      ]
-    },
-    {
       "repo": "SmileLikeYe/agent-chief",
       "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "stars": "319",
+      "stars": "320",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+319 total",
+      "trend": "+320 total",
       "tags": [
         "harness",
         "harness-engineering",
@@ -166,6 +106,57 @@
         "ai-agents",
         "ai-safety",
         "artificial-intelligence"
+      ]
+    },
+    {
+      "repo": "wassermanproductions/motion-previs-studio",
+      "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stars": "245",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+245 total",
+      "tags": [
+        "aiprevis",
+        "aivideocreation",
+        "previsualization"
+      ]
+    },
+    {
+      "repo": "ronak-create/FableCut",
+      "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "stars": "235",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+235 total",
+      "tags": [
+        "ai-agent",
+        "canvas",
+        "claude",
+        "ffmpeg",
+        "javascript"
+      ]
+    },
+    {
+      "repo": "OmarH-creator/Autonomous-Forge",
+      "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "stars": "229",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+229 total",
+      "tags": []
+    },
+    {
+      "repo": "fendouai/humanize-text-skill",
+      "desc": "Free AI Humanizer: Humanize AI Text Online",
+      "stars": "209",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+209 total",
+      "tags": [
+        "ai-humanize",
+        "humanize-ai",
+        "humanize-text",
+        "humanizer"
       ]
     }
   ]

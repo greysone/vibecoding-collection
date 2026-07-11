@@ -1,37 +1,13 @@
 {
-  "fetchedAt": "2026-07-10T14:27:06.924Z",
+  "fetchedAt": "2026-07-11T02:39:50.919Z",
   "repos": [
-    {
-      "repo": "synthetic-sciences/openscience",
-      "desc": "The open-source AI workbench for scientific research",
-      "stars": "2.0k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+2.0k total",
-      "tags": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "bun",
-        "cli"
-      ]
-    },
-    {
-      "repo": "jamesob/local-llm",
-      "desc": "Everything I know about running LLMs locally",
-      "stars": "1.3k",
-      "lang": "Shell",
-      "license": "Other",
-      "trend": "+1.3k total",
-      "tags": []
-    },
     {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "631",
+      "stars": "681",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+631 total",
+      "trend": "+681 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -41,36 +17,12 @@
       ]
     },
     {
-      "repo": "ai4s-research/open-science",
-      "desc": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "stars": "567",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+567 total",
-      "tags": [
-        "ai-agent",
-        "ai-for-science",
-        "ai-scientist",
-        "ai4s",
-        "claude-science"
-      ]
-    },
-    {
-      "repo": "Pluviobyte/rnskill",
-      "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "393",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+393 total",
-      "tags": []
-    },
-    {
       "repo": "SmileLikeYe/agent-chief",
       "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "stars": "380",
+      "stars": "430",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+380 total",
+      "trend": "+430 total",
       "tags": [
         "harness",
         "harness-engineering",
@@ -79,12 +31,21 @@
       ]
     },
     {
+      "repo": "Pluviobyte/rnskill",
+      "desc": "雪踏乌云的 AI Agent Skills 集合",
+      "stars": "397",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+397 total",
+      "tags": []
+    },
+    {
       "repo": "nexu-io/motion-anything",
       "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stars": "358",
+      "stars": "369",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+358 total",
+      "trend": "+369 total",
       "tags": [
         "ai-agent",
         "animation",
@@ -94,12 +55,27 @@
       ]
     },
     {
+      "repo": "Doriandarko/texts-to-transformer",
+      "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "stars": "316",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+316 total",
+      "tags": [
+        "apple-silicon",
+        "imessage",
+        "local-first",
+        "machine-learning",
+        "mlx"
+      ]
+    },
+    {
       "repo": "ronak-create/FableCut",
       "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "stars": "285",
+      "stars": "309",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+285 total",
+      "trend": "+309 total",
       "tags": [
         "ai-agent",
         "canvas",
@@ -109,18 +85,16 @@
       ]
     },
     {
-      "repo": "Doriandarko/texts-to-transformer",
-      "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "stars": "274",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+274 total",
+      "repo": "wassermanproductions/motion-previs-studio",
+      "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stars": "275",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+275 total",
       "tags": [
-        "apple-silicon",
-        "imessage",
-        "local-first",
-        "machine-learning",
-        "mlx"
+        "aiprevis",
+        "aivideocreation",
+        "previsualization"
       ]
     },
     {
@@ -139,26 +113,51 @@
       ]
     },
     {
-      "repo": "wassermanproductions/motion-previs-studio",
-      "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-      "stars": "269",
+      "repo": "bkingfilm/lapian-notes",
+      "desc": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "stars": "255",
       "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+269 total",
+      "license": "MIT",
+      "trend": "+255 total",
       "tags": [
-        "aiprevis",
-        "aivideocreation",
-        "previsualization"
+        "ai",
+        "film-analysis",
+        "filmmaking",
+        "react",
+        "screenwriting"
       ]
+    },
+    {
+      "repo": "yusukebe/ax",
+      "desc": "The AI-era curl",
+      "stars": "254",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+254 total",
+      "tags": []
     },
     {
       "repo": "OmarH-creator/Autonomous-Forge",
       "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-      "stars": "231",
+      "stars": "236",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+231 total",
+      "trend": "+236 total",
       "tags": []
+    },
+    {
+      "repo": "lynote-ai/humanize-text-skill",
+      "desc": "Free AI Humanizer: Humanize AI Text Online",
+      "stars": "223",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+223 total",
+      "tags": [
+        "ai-humanize",
+        "humanize-ai",
+        "humanize-text",
+        "humanizer"
+      ]
     }
   ]
 }

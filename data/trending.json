@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-11T02:39:50.919Z",
+  "fetchedAt": "2026-07-11T13:19:32.431Z",
   "repos": [
     {
       "repo": "simonlin1212/Vibe-Research",
       "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "681",
+      "stars": "709",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+681 total",
+      "trend": "+709 total",
       "tags": [
         "a-stock",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "SmileLikeYe/agent-chief",
       "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "stars": "430",
+      "stars": "454",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+430 total",
+      "trend": "+454 total",
       "tags": [
         "harness",
         "harness-engineering",
@@ -33,19 +33,19 @@
     {
       "repo": "Pluviobyte/rnskill",
       "desc": "雪踏乌云的 AI Agent Skills 集合",
-      "stars": "397",
+      "stars": "399",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+397 total",
+      "trend": "+399 total",
       "tags": []
     },
     {
       "repo": "nexu-io/motion-anything",
       "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stars": "369",
+      "stars": "380",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+369 total",
+      "trend": "+380 total",
       "tags": [
         "ai-agent",
         "animation",
@@ -57,10 +57,10 @@
     {
       "repo": "Doriandarko/texts-to-transformer",
       "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "stars": "316",
+      "stars": "337",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+316 total",
+      "trend": "+337 total",
       "tags": [
         "apple-silicon",
         "imessage",
@@ -72,10 +72,10 @@
     {
       "repo": "ronak-create/FableCut",
       "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "stars": "309",
+      "stars": "327",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+309 total",
+      "trend": "+327 total",
       "tags": [
         "ai-agent",
         "canvas",
@@ -85,12 +85,21 @@
       ]
     },
     {
+      "repo": "yusukebe/ax",
+      "desc": "The AI-era curl",
+      "stars": "291",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+291 total",
+      "tags": []
+    },
+    {
       "repo": "wassermanproductions/motion-previs-studio",
       "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-      "stars": "275",
+      "stars": "278",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+275 total",
+      "trend": "+278 total",
       "tags": [
         "aiprevis",
         "aivideocreation",
@@ -115,10 +124,10 @@
     {
       "repo": "bkingfilm/lapian-notes",
       "desc": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "stars": "255",
+      "stars": "263",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+255 total",
+      "trend": "+263 total",
       "tags": [
         "ai",
         "film-analysis",
@@ -128,35 +137,27 @@
       ]
     },
     {
-      "repo": "yusukebe/ax",
-      "desc": "The AI-era curl",
-      "stars": "254",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+254 total",
-      "tags": []
-    },
-    {
       "repo": "OmarH-creator/Autonomous-Forge",
       "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-      "stars": "236",
+      "stars": "243",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+236 total",
+      "trend": "+243 total",
       "tags": []
     },
     {
-      "repo": "lynote-ai/humanize-text-skill",
-      "desc": "Free AI Humanizer: Humanize AI Text Online",
-      "stars": "223",
-      "lang": "JavaScript",
+      "repo": "Raymondhou0917/speak-human-tw",
+      "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "stars": "232",
+      "lang": "Other",
       "license": "MIT",
-      "trend": "+223 total",
+      "trend": "+232 total",
       "tags": [
-        "ai-humanize",
-        "humanize-ai",
-        "humanize-text",
-        "humanizer"
+        "agent-skills",
+        "ai-writing",
+        "claude-code",
+        "codex",
+        "cursor"
       ]
     }
   ]

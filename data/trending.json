@@ -1,28 +1,22 @@
 {
-  "fetchedAt": "2026-07-12T13:20:02.143Z",
+  "fetchedAt": "2026-07-13T02:49:04.865Z",
   "repos": [
     {
-      "repo": "simonlin1212/Vibe-Research",
-      "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stars": "748",
+      "repo": "yusukebe/ax",
+      "desc": "The AI-era curl",
+      "stars": "427",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+748 total",
-      "tags": [
-        "a-stock",
-        "ai-agent",
-        "dashboard",
-        "fastapi",
-        "fintech"
-      ]
+      "trend": "+427 total",
+      "tags": []
     },
     {
       "repo": "nexu-io/motion-anything",
       "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stars": "405",
+      "stars": "421",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+405 total",
+      "trend": "+421 total",
       "tags": [
         "ai-agent",
         "animation",
@@ -32,51 +26,12 @@
       ]
     },
     {
-      "repo": "yusukebe/ax",
-      "desc": "The AI-era curl",
-      "stars": "380",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+380 total",
-      "tags": []
-    },
-    {
-      "repo": "Doriandarko/texts-to-transformer",
-      "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "stars": "360",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+360 total",
-      "tags": [
-        "apple-silicon",
-        "imessage",
-        "local-first",
-        "machine-learning",
-        "mlx"
-      ]
-    },
-    {
-      "repo": "ronak-create/FableCut",
-      "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "stars": "349",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+349 total",
-      "tags": [
-        "ai-agent",
-        "canvas",
-        "claude",
-        "ffmpeg",
-        "javascript"
-      ]
-    },
-    {
       "repo": "Raymondhou0917/speak-human-tw",
       "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "stars": "342",
+      "stars": "397",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+342 total",
+      "trend": "+397 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -88,47 +43,73 @@
     {
       "repo": "CoscoAI/luxy-aisre",
       "desc": "AISRE for Cosco",
-      "stars": "294",
+      "stars": "386",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+294 total",
+      "trend": "+386 total",
       "tags": []
     },
     {
-      "repo": "wassermanproductions/motion-previs-studio",
-      "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-      "stars": "281",
+      "repo": "ronak-create/FableCut",
+      "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "stars": "375",
       "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+281 total",
+      "license": "MIT",
+      "trend": "+375 total",
       "tags": [
-        "aiprevis",
-        "aivideocreation",
-        "previsualization"
+        "ai-agent",
+        "canvas",
+        "claude",
+        "ffmpeg",
+        "javascript"
       ]
     },
     {
-      "repo": "eli-labz/Cognitive-Core-Skills",
-      "desc": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
-      "stars": "275",
+      "repo": "Doriandarko/texts-to-transformer",
+      "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "stars": "369",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+275 total",
+      "trend": "+369 total",
+      "tags": [
+        "apple-silicon",
+        "imessage",
+        "local-first",
+        "machine-learning",
+        "mlx"
+      ]
+    },
+    {
+      "repo": "yetone/kill-ai-slop",
+      "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "stars": "328",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+328 total",
+      "tags": []
+    },
+    {
+      "repo": "Sahir619/fable-method",
+      "desc": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+      "stars": "295",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+295 total",
       "tags": [
         "agent-skills",
-        "agentic-ai",
         "ai-agents",
-        "ai-safety",
-        "artificial-intelligence"
+        "claude",
+        "claude-code",
+        "claude-md"
       ]
     },
     {
       "repo": "bkingfilm/lapian-notes",
       "desc": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "stars": "274",
+      "stars": "289",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+274 total",
+      "trend": "+289 total",
       "tags": [
         "ai",
         "film-analysis",
@@ -138,28 +119,35 @@
       ]
     },
     {
-      "repo": "yetone/kill-ai-slop",
-      "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "271",
-      "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+271 total",
+      "repo": "wassermanproductions/motion-previs-studio",
+      "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stars": "283",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+283 total",
+      "tags": [
+        "aiprevis",
+        "aivideocreation",
+        "previsualization"
+      ]
+    },
+    {
+      "repo": "OmarH-creator/Autonomous-Forge",
+      "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "stars": "249",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+249 total",
       "tags": []
     },
     {
-      "repo": "Sahir619/fable-method",
-      "desc": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-      "stars": "254",
-      "lang": "JavaScript",
+      "repo": "dongguatanglinux/grok-build-auth",
+      "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stars": "193",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+254 total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-md"
-      ]
+      "trend": "+193 total",
+      "tags": []
     }
   ]
 }

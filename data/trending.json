@@ -1,22 +1,13 @@
 {
-  "fetchedAt": "2026-07-14T02:30:49.221Z",
+  "fetchedAt": "2026-07-14T13:43:49.523Z",
   "repos": [
-    {
-      "repo": "William-Lu-stack/LuxyAI",
-      "desc": "AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "554",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+554 total",
-      "tags": []
-    },
     {
       "repo": "AlephAITech/WorkBuddyGuide",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "stars": "519",
+      "stars": "645",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+519 total",
+      "trend": "+645 total",
       "tags": [
         "codex",
         "guide",
@@ -25,12 +16,27 @@
       ]
     },
     {
+      "repo": "William-Lu-stack/LuxyAI",
+      "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "stars": "613",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+613 total",
+      "tags": [
+        "agenticops",
+        "ai",
+        "aiops",
+        "aisre",
+        "cloud"
+      ]
+    },
+    {
       "repo": "Raymondhou0917/speak-human-tw",
       "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "stars": "485",
+      "stars": "498",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+485 total",
+      "trend": "+498 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -42,19 +48,19 @@
     {
       "repo": "yetone/kill-ai-slop",
       "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "401",
+      "stars": "430",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+401 total",
+      "trend": "+430 total",
       "tags": []
     },
     {
       "repo": "Doriandarko/texts-to-transformer",
       "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "stars": "387",
+      "stars": "390",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+387 total",
+      "trend": "+390 total",
       "tags": [
         "apple-silicon",
         "imessage",
@@ -65,11 +71,11 @@
     },
     {
       "repo": "bkingfilm/lapian-notes",
-      "desc": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "stars": "310",
+      "desc": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
+      "stars": "324",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+310 total",
+      "trend": "+324 total",
       "tags": [
         "ai",
         "film-analysis",
@@ -81,19 +87,28 @@
     {
       "repo": "dongguatanglinux/grok-build-auth",
       "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "220",
+      "stars": "222",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+220 total",
+      "trend": "+222 total",
+      "tags": []
+    },
+    {
+      "repo": "xiaolongbao0709/ai-virtual-phone",
+      "desc": "(暂无描述)",
+      "stars": "190",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+190 total",
       "tags": []
     },
     {
       "repo": "EXXETA/exxperts",
       "desc": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-      "stars": "177",
+      "stars": "189",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+177 total",
+      "trend": "+189 total",
       "tags": [
         "agents",
         "ai",
@@ -103,27 +118,12 @@
       ]
     },
     {
-      "repo": "KORAYTEACHER/fintech-advisor",
-      "desc": "ai fintech financial advisor for your portfolio",
-      "stars": "176",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+176 total",
-      "tags": [
-        "ai",
-        "ai-advisor",
-        "ai-financial",
-        "ai-fintech",
-        "fintech"
-      ]
-    },
-    {
       "repo": "chordswallowthrust/undress-design",
       "desc": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stars": "174",
+      "stars": "181",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+174 total",
+      "trend": "+181 total",
       "tags": [
         "ai-undress-porn",
         "ai-undresser-free",
@@ -133,27 +133,33 @@
       ]
     },
     {
-      "repo": "xiaolongbao0709/ai-virtual-phone",
-      "desc": "(暂无描述)",
-      "stars": "173",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+173 total",
-      "tags": []
-    },
-    {
       "repo": "ohad6k/ditto",
       "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "stars": "165",
+      "stars": "170",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+165 total",
+      "trend": "+170 total",
       "tags": [
         "agent-memory",
         "agent-skills",
         "ai",
         "ai-agents",
         "ai-coding"
+      ]
+    },
+    {
+      "repo": "KORAYTEACHER/fintech-advisor",
+      "desc": "ai fintech financial advisor for your portfolio",
+      "stars": "160",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+160 total",
+      "tags": [
+        "ai",
+        "ai-advisor",
+        "ai-financial",
+        "ai-fintech",
+        "fintech"
       ]
     }
   ]

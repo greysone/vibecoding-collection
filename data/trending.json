@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-15T02:28:55.952Z",
+  "fetchedAt": "2026-07-15T13:43:51.165Z",
   "repos": [
     {
       "repo": "AlephAITech/WorkBuddyGuide",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "stars": "704",
+      "stars": "763",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+704 total",
+      "trend": "+763 total",
       "tags": [
         "codex",
         "guide",
@@ -18,10 +18,10 @@
     {
       "repo": "William-Lu-stack/Flawless",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "617",
+      "stars": "621",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+617 total",
+      "trend": "+621 total",
       "tags": [
         "agenticops",
         "ai",
@@ -33,10 +33,10 @@
     {
       "repo": "Raymondhou0917/speak-human-tw",
       "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "stars": "507",
+      "stars": "521",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+507 total",
+      "trend": "+521 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -48,19 +48,19 @@
     {
       "repo": "yetone/kill-ai-slop",
       "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "437",
+      "stars": "453",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+437 total",
+      "trend": "+453 total",
       "tags": []
     },
     {
       "repo": "Doriandarko/texts-to-transformer",
       "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "stars": "394",
+      "stars": "395",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+394 total",
+      "trend": "+395 total",
       "tags": [
         "apple-silicon",
         "imessage",
@@ -72,10 +72,10 @@
     {
       "repo": "bkingfilm/lapian-notes",
       "desc": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "stars": "327",
+      "stars": "333",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+327 total",
+      "trend": "+333 total",
       "tags": [
         "ai",
         "film-analysis",
@@ -85,21 +85,12 @@
       ]
     },
     {
-      "repo": "dongguatanglinux/grok-build-auth",
-      "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "225",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+225 total",
-      "tags": []
-    },
-    {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "216",
+      "stars": "307",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+216 total",
+      "trend": "+307 total",
       "tags": [
         "agents",
         "ai",
@@ -109,12 +100,21 @@
       ]
     },
     {
+      "repo": "dongguatanglinux/grok-build-auth",
+      "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stars": "232",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+232 total",
+      "tags": []
+    },
+    {
       "repo": "xiaolongbao0709/ai-virtual-phone",
       "desc": "(暂无描述)",
-      "stars": "197",
+      "stars": "210",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+197 total",
+      "trend": "+210 total",
       "tags": []
     },
     {
@@ -135,10 +135,10 @@
     {
       "repo": "ohad6k/ditto",
       "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "stars": "180",
+      "stars": "182",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+180 total",
+      "trend": "+182 total",
       "tags": [
         "agent-memory",
         "agent-skills",
@@ -148,18 +148,18 @@
       ]
     },
     {
-      "repo": "geminidesktop/google-gemini-desktop-app",
-      "desc": "google gemini desktop ai desktop-app standalone-utility pwa progressive-web-app chrome-installation edge-apps taskbar-pinning system-shortcut system-integration setup-guide tutorial windows-11 windows-10 workstation-optimization browser-extension-tradeoffs",
-      "stars": "176",
+      "repo": "barretlee/agent-pulse",
+      "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stars": "180",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+176 total",
+      "trend": "+180 total",
       "tags": [
-        "free-gemini-api",
-        "gemini-",
-        "gemini-15-pro",
-        "gemini-2-0-flash",
-        "gemini-2-5-flash"
+        "ai",
+        "ai-agents",
+        "ai-industry",
+        "ai-intelligence",
+        "ai-news"
       ]
     }
   ]

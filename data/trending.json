@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-15T13:43:51.165Z",
+  "fetchedAt": "2026-07-16T02:37:03.618Z",
   "repos": [
     {
       "repo": "AlephAITech/WorkBuddyGuide",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "stars": "763",
+      "stars": "820",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+763 total",
+      "trend": "+820 total",
       "tags": [
         "codex",
         "guide",
@@ -18,10 +18,10 @@
     {
       "repo": "William-Lu-stack/Flawless",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "621",
+      "stars": "642",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+621 total",
+      "trend": "+642 total",
       "tags": [
         "agenticops",
         "ai",
@@ -31,66 +31,21 @@
       ]
     },
     {
-      "repo": "Raymondhou0917/speak-human-tw",
-      "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "stars": "521",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+521 total",
-      "tags": [
-        "agent-skills",
-        "ai-writing",
-        "claude-code",
-        "codex",
-        "cursor"
-      ]
-    },
-    {
       "repo": "yetone/kill-ai-slop",
       "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "453",
+      "stars": "464",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+453 total",
+      "trend": "+464 total",
       "tags": []
-    },
-    {
-      "repo": "Doriandarko/texts-to-transformer",
-      "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "stars": "395",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+395 total",
-      "tags": [
-        "apple-silicon",
-        "imessage",
-        "local-first",
-        "machine-learning",
-        "mlx"
-      ]
-    },
-    {
-      "repo": "bkingfilm/lapian-notes",
-      "desc": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "stars": "333",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+333 total",
-      "tags": [
-        "ai",
-        "film-analysis",
-        "filmmaking",
-        "react",
-        "screenwriting"
-      ]
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "307",
+      "stars": "311",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+307 total",
+      "trend": "+311 total",
       "tags": [
         "agents",
         "ai",
@@ -102,28 +57,43 @@
     {
       "repo": "dongguatanglinux/grok-build-auth",
       "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "232",
+      "stars": "241",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+232 total",
+      "trend": "+241 total",
       "tags": []
     },
     {
       "repo": "xiaolongbao0709/ai-virtual-phone",
       "desc": "(暂无描述)",
-      "stars": "210",
+      "stars": "213",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+210 total",
+      "trend": "+213 total",
       "tags": []
+    },
+    {
+      "repo": "barretlee/agent-pulse",
+      "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stars": "189",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+189 total",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "ai-industry",
+        "ai-intelligence",
+        "ai-news"
+      ]
     },
     {
       "repo": "chordswallowthrust/undress-design",
       "desc": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stars": "184",
+      "stars": "187",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+184 total",
+      "trend": "+187 total",
       "tags": [
         "ai-undress-porn",
         "ai-undresser-free",
@@ -133,33 +103,57 @@
       ]
     },
     {
-      "repo": "ohad6k/ditto",
-      "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "stars": "182",
-      "lang": "Python",
+      "repo": "KORAYTEACHER/fintech-advisor",
+      "desc": "ai fintech financial advisor for your portfolio",
+      "stars": "164",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+182 total",
+      "trend": "+164 total",
       "tags": [
-        "agent-memory",
-        "agent-skills",
         "ai",
-        "ai-agents",
-        "ai-coding"
+        "ai-advisor",
+        "ai-financial",
+        "ai-fintech",
+        "fintech"
       ]
     },
     {
-      "repo": "barretlee/agent-pulse",
-      "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "180",
-      "lang": "TypeScript",
+      "repo": "SilentFleetKK/ai-market-pulse",
+      "desc": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+      "stars": "161",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+180 total",
+      "trend": "+161 total",
       "tags": [
         "ai",
-        "ai-agents",
-        "ai-industry",
-        "ai-intelligence",
-        "ai-news"
+        "akshare",
+        "github-pages",
+        "investment-research",
+        "llm"
+      ]
+    },
+    {
+      "repo": "nihe0909/xiaohongshu-ai-workbench",
+      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stars": "159",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+159 total",
+      "tags": []
+    },
+    {
+      "repo": "Extraltodeus/J-Wash",
+      "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+      "stars": "158",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+158 total",
+      "tags": [
+        "abliteration",
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "huggingface"
       ]
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-16T02:37:03.618Z",
+  "fetchedAt": "2026-07-16T13:50:28.481Z",
   "repos": [
     {
       "repo": "AlephAITech/WorkBuddyGuide",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "stars": "820",
+      "stars": "966",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+820 total",
+      "trend": "+966 total",
       "tags": [
         "codex",
         "guide",
@@ -18,10 +18,10 @@
     {
       "repo": "William-Lu-stack/Flawless",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "642",
+      "stars": "674",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+642 total",
+      "trend": "+674 total",
       "tags": [
         "agenticops",
         "ai",
@@ -33,19 +33,19 @@
     {
       "repo": "yetone/kill-ai-slop",
       "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "464",
+      "stars": "525",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+464 total",
+      "trend": "+525 total",
       "tags": []
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "311",
+      "stars": "314",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+311 total",
+      "trend": "+314 total",
       "tags": [
         "agents",
         "ai",
@@ -57,28 +57,46 @@
     {
       "repo": "dongguatanglinux/grok-build-auth",
       "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "241",
+      "stars": "248",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+241 total",
+      "trend": "+248 total",
       "tags": []
     },
     {
       "repo": "xiaolongbao0709/ai-virtual-phone",
       "desc": "(暂无描述)",
-      "stars": "213",
+      "stars": "220",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+213 total",
+      "trend": "+220 total",
+      "tags": []
+    },
+    {
+      "repo": "nihe0909/xiaohongshu-ai-workbench",
+      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stars": "208",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+208 total",
+      "tags": []
+    },
+    {
+      "repo": "ShenSeanChen/waku-agent",
+      "desc": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
+      "stars": "202",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+202 total",
       "tags": []
     },
     {
       "repo": "barretlee/agent-pulse",
       "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "189",
+      "stars": "194",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+189 total",
+      "trend": "+194 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -90,10 +108,10 @@
     {
       "repo": "chordswallowthrust/undress-design",
       "desc": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stars": "187",
+      "stars": "191",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+187 total",
+      "trend": "+191 total",
       "tags": [
         "ai-undress-porn",
         "ai-undresser-free",
@@ -105,10 +123,10 @@
     {
       "repo": "KORAYTEACHER/fintech-advisor",
       "desc": "ai fintech financial advisor for your portfolio",
-      "stars": "164",
+      "stars": "165",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+164 total",
+      "trend": "+165 total",
       "tags": [
         "ai",
         "ai-advisor",
@@ -118,36 +136,12 @@
       ]
     },
     {
-      "repo": "SilentFleetKK/ai-market-pulse",
-      "desc": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-      "stars": "161",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+161 total",
-      "tags": [
-        "ai",
-        "akshare",
-        "github-pages",
-        "investment-research",
-        "llm"
-      ]
-    },
-    {
-      "repo": "nihe0909/xiaohongshu-ai-workbench",
-      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "159",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+159 total",
-      "tags": []
-    },
-    {
       "repo": "Extraltodeus/J-Wash",
       "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "158",
+      "stars": "163",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+158 total",
+      "trend": "+163 total",
       "tags": [
         "abliteration",
         "ai",

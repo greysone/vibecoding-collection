@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-16T13:50:28.481Z",
+  "fetchedAt": "2026-07-17T02:39:34.882Z",
   "repos": [
     {
       "repo": "AlephAITech/WorkBuddyGuide",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "stars": "966",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+966 total",
+      "trend": "+1.0k total",
       "tags": [
         "codex",
         "guide",
@@ -18,10 +18,10 @@
     {
       "repo": "William-Lu-stack/Flawless",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "674",
+      "stars": "691",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+674 total",
+      "trend": "+691 total",
       "tags": [
         "agenticops",
         "ai",
@@ -33,19 +33,19 @@
     {
       "repo": "yetone/kill-ai-slop",
       "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "525",
+      "stars": "560",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+525 total",
+      "trend": "+560 total",
       "tags": []
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "314",
+      "stars": "316",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+314 total",
+      "trend": "+316 total",
       "tags": [
         "agents",
         "ai",
@@ -55,48 +55,72 @@
       ]
     },
     {
+      "repo": "Blueturboguy07/cue",
+      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stars": "300",
+      "lang": "JavaScript",
+      "license": "GPL-3.0",
+      "trend": "+300 total",
+      "tags": []
+    },
+    {
+      "repo": "PengZhang64/circuit-framework",
+      "desc": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": "296",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+296 total",
+      "tags": []
+    },
+    {
       "repo": "dongguatanglinux/grok-build-auth",
       "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "248",
+      "stars": "255",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+248 total",
-      "tags": []
-    },
-    {
-      "repo": "xiaolongbao0709/ai-virtual-phone",
-      "desc": "(暂无描述)",
-      "stars": "220",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+220 total",
-      "tags": []
-    },
-    {
-      "repo": "nihe0909/xiaohongshu-ai-workbench",
-      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "208",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+208 total",
+      "trend": "+255 total",
       "tags": []
     },
     {
       "repo": "ShenSeanChen/waku-agent",
       "desc": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "stars": "202",
+      "stars": "232",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+202 total",
+      "trend": "+232 total",
       "tags": []
+    },
+    {
+      "repo": "nihe0909/xiaohongshu-ai-workbench",
+      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stars": "225",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+225 total",
+      "tags": []
+    },
+    {
+      "repo": "YZGlobal/jonex",
+      "desc": "All-in-One Multimodal Parsing Engine + Ontology-Powered AI-Ready Knowledge Engine Parse every modality. Compile knowledge with ontology. Reason before retrieval.",
+      "stars": "200",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+200 total",
+      "tags": [
+        "aiready",
+        "cross-modal",
+        "cross-modal-retrieval",
+        "knowledge-graph",
+        "llm"
+      ]
     },
     {
       "repo": "barretlee/agent-pulse",
       "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "194",
+      "stars": "197",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+194 total",
+      "trend": "+197 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -108,46 +132,16 @@
     {
       "repo": "chordswallowthrust/undress-design",
       "desc": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stars": "191",
+      "stars": "194",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+191 total",
+      "trend": "+194 total",
       "tags": [
         "ai-undress-porn",
         "ai-undresser-free",
         "best-free-uncensored-nsfw-ai-image-generators-2026",
         "best-uncensored-ai-image-generators-2026",
         "free-ai-undress"
-      ]
-    },
-    {
-      "repo": "KORAYTEACHER/fintech-advisor",
-      "desc": "ai fintech financial advisor for your portfolio",
-      "stars": "165",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+165 total",
-      "tags": [
-        "ai",
-        "ai-advisor",
-        "ai-financial",
-        "ai-fintech",
-        "fintech"
-      ]
-    },
-    {
-      "repo": "Extraltodeus/J-Wash",
-      "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "163",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+163 total",
-      "tags": [
-        "abliteration",
-        "ai",
-        "anthropic",
-        "artificial-intelligence",
-        "huggingface"
       ]
     }
   ]

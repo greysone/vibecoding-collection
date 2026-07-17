@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T02:39:34.882Z",
+  "fetchedAt": "2026-07-17T13:37:47.689Z",
   "repos": [
     {
       "repo": "AlephAITech/WorkBuddyGuide",
@@ -18,10 +18,10 @@
     {
       "repo": "William-Lu-stack/Flawless",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "691",
+      "stars": "701",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+691 total",
+      "trend": "+701 total",
       "tags": [
         "agenticops",
         "ai",
@@ -33,19 +33,37 @@
     {
       "repo": "yetone/kill-ai-slop",
       "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "560",
+      "stars": "586",
       "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+560 total",
+      "license": "Apache-2.0",
+      "trend": "+586 total",
+      "tags": []
+    },
+    {
+      "repo": "PengZhang64/circuit-framework",
+      "desc": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": "453",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+453 total",
+      "tags": []
+    },
+    {
+      "repo": "Blueturboguy07/cue",
+      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stars": "423",
+      "lang": "JavaScript",
+      "license": "GPL-3.0",
+      "trend": "+423 total",
       "tags": []
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "316",
+      "stars": "319",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+316 total",
+      "trend": "+319 total",
       "tags": [
         "agents",
         "ai",
@@ -55,72 +73,39 @@
       ]
     },
     {
-      "repo": "Blueturboguy07/cue",
-      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "300",
-      "lang": "JavaScript",
-      "license": "GPL-3.0",
-      "trend": "+300 total",
-      "tags": []
-    },
-    {
-      "repo": "PengZhang64/circuit-framework",
-      "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "296",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+296 total",
-      "tags": []
-    },
-    {
       "repo": "dongguatanglinux/grok-build-auth",
       "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "255",
+      "stars": "259",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+255 total",
+      "trend": "+259 total",
       "tags": []
     },
     {
       "repo": "ShenSeanChen/waku-agent",
       "desc": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "stars": "232",
+      "stars": "256",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+232 total",
+      "trend": "+256 total",
       "tags": []
     },
     {
       "repo": "nihe0909/xiaohongshu-ai-workbench",
       "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "225",
+      "stars": "233",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+225 total",
+      "trend": "+233 total",
       "tags": []
-    },
-    {
-      "repo": "YZGlobal/jonex",
-      "desc": "All-in-One Multimodal Parsing Engine + Ontology-Powered AI-Ready Knowledge Engine Parse every modality. Compile knowledge with ontology. Reason before retrieval.",
-      "stars": "200",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+200 total",
-      "tags": [
-        "aiready",
-        "cross-modal",
-        "cross-modal-retrieval",
-        "knowledge-graph",
-        "llm"
-      ]
     },
     {
       "repo": "barretlee/agent-pulse",
       "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "197",
+      "stars": "202",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+197 total",
+      "trend": "+202 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -132,10 +117,10 @@
     {
       "repo": "chordswallowthrust/undress-design",
       "desc": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stars": "194",
+      "stars": "197",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+194 total",
+      "trend": "+197 total",
       "tags": [
         "ai-undress-porn",
         "ai-undresser-free",
@@ -143,6 +128,15 @@
         "best-uncensored-ai-image-generators-2026",
         "free-ai-undress"
       ]
+    },
+    {
+      "repo": "Encod3d-Sec/ClaudeBrain",
+      "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
+      "stars": "187",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+187 total",
+      "tags": []
     }
   ]
 }

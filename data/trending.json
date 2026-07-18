@@ -1,31 +1,43 @@
 {
-  "fetchedAt": "2026-07-18T02:30:27.260Z",
+  "fetchedAt": "2026-07-18T13:15:12.772Z",
   "repos": [
+    {
+      "repo": "nethical6/conversation-steganography",
+      "desc": "Use LLMs to hide secret messages inside normal looking conversations",
+      "stars": "545",
+      "lang": "Go",
+      "license": "GPL-3.0",
+      "trend": "+545 total",
+      "tags": [
+        "llm-tools",
+        "steganography"
+      ]
+    },
     {
       "repo": "Blueturboguy07/cue",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "482",
+      "stars": "520",
       "lang": "JavaScript",
       "license": "GPL-3.0",
-      "trend": "+482 total",
+      "trend": "+520 total",
       "tags": []
     },
     {
       "repo": "PengZhang64/circuit-framework",
       "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "479",
+      "stars": "480",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+479 total",
+      "trend": "+480 total",
       "tags": []
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "324",
+      "stars": "325",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+324 total",
+      "trend": "+325 total",
       "tags": [
         "agents",
         "ai",
@@ -35,30 +47,27 @@
       ]
     },
     {
-      "repo": "nethical6/conversation-steganography",
-      "desc": "Use LLMS to hide secret messages inside normal-looking chat text",
-      "stars": "286",
-      "lang": "Go",
-      "license": "GPL-3.0",
-      "trend": "+286 total",
-      "tags": []
-    },
-    {
-      "repo": "nihe0909/xiaohongshu-ai-workbench",
-      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "234",
-      "lang": "Python",
+      "repo": "PromptPartner/agentsmith",
+      "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stars": "307",
+      "lang": "Shell",
       "license": "MIT",
-      "trend": "+234 total",
-      "tags": []
+      "trend": "+307 total",
+      "tags": [
+        "agentic-ai",
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "automation"
+      ]
     },
     {
       "repo": "yuwen-cool/yuwen-publish-precheck",
       "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "217",
+      "stars": "242",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+217 total",
+      "trend": "+242 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -68,12 +77,49 @@
       ]
     },
     {
-      "repo": "barretlee/agent-pulse",
-      "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "205",
+      "repo": "MIgHTy-alIeN/Trading-Bot",
+      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": "239",
+      "lang": "Solidity",
+      "license": "NOASSERTION",
+      "trend": "+239 total",
+      "tags": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude"
+      ]
+    },
+    {
+      "repo": "nihe0909/xiaohongshu-ai-workbench",
+      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stars": "237",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+237 total",
+      "tags": []
+    },
+    {
+      "repo": "thesysdev/appless",
+      "desc": "What if your phone had no apps",
+      "stars": "220",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+205 total",
+      "trend": "+220 total",
+      "tags": [
+        "generative-ui",
+        "llm",
+        "react-native"
+      ]
+    },
+    {
+      "repo": "barretlee/agent-pulse",
+      "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stars": "210",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+210 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -85,63 +131,20 @@
     {
       "repo": "Encod3d-Sec/ClaudeBrain",
       "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
-      "stars": "194",
+      "stars": "195",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+194 total",
+      "trend": "+195 total",
       "tags": []
-    },
-    {
-      "repo": "thesysdev/appless",
-      "desc": "What if your phone had no apps",
-      "stars": "191",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+191 total",
-      "tags": [
-        "generative-ui",
-        "llm",
-        "react-native"
-      ]
     },
     {
       "repo": "h9-tec/Awesome_ai_learning",
       "desc": "(暂无描述)",
-      "stars": "180",
+      "stars": "191",
       "lang": "Other",
       "license": "Other",
-      "trend": "+180 total",
+      "trend": "+191 total",
       "tags": []
-    },
-    {
-      "repo": "MIgHTy-alIeN/Trading-Bot",
-      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "179",
-      "lang": "Solidity",
-      "license": "NOASSERTION",
-      "trend": "+179 total",
-      "tags": [
-        "ai",
-        "aitradingbot",
-        "bot",
-        "btc",
-        "claude"
-      ]
-    },
-    {
-      "repo": "CodeDrobe/skills",
-      "desc": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-      "stars": "179",
-      "lang": "CSS",
-      "license": "Apache-2.0",
-      "trend": "+179 total",
-      "tags": [
-        "ai-coding",
-        "chromium-devtools-protocol",
-        "codex",
-        "codex-app",
-        "codex-skill"
-      ]
     }
   ]
 }

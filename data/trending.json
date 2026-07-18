@@ -1,69 +1,31 @@
 {
-  "fetchedAt": "2026-07-17T13:37:47.689Z",
+  "fetchedAt": "2026-07-18T02:30:27.260Z",
   "repos": [
     {
-      "repo": "AlephAITech/WorkBuddyGuide",
-      "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "stars": "1.0k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.0k total",
-      "tags": [
-        "codex",
-        "guide",
-        "llm",
-        "workbuddy"
-      ]
-    },
-    {
-      "repo": "William-Lu-stack/Flawless",
-      "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "701",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+701 total",
-      "tags": [
-        "agenticops",
-        "ai",
-        "aiops",
-        "aisre",
-        "cloud"
-      ]
-    },
-    {
-      "repo": "yetone/kill-ai-slop",
-      "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stars": "586",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+586 total",
+      "repo": "Blueturboguy07/cue",
+      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stars": "482",
+      "lang": "JavaScript",
+      "license": "GPL-3.0",
+      "trend": "+482 total",
       "tags": []
     },
     {
       "repo": "PengZhang64/circuit-framework",
       "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "453",
+      "stars": "479",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+453 total",
-      "tags": []
-    },
-    {
-      "repo": "Blueturboguy07/cue",
-      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "423",
-      "lang": "JavaScript",
-      "license": "GPL-3.0",
-      "trend": "+423 total",
+      "trend": "+479 total",
       "tags": []
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "319",
+      "stars": "324",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+319 total",
+      "trend": "+324 total",
       "tags": [
         "agents",
         "ai",
@@ -73,39 +35,45 @@
       ]
     },
     {
-      "repo": "dongguatanglinux/grok-build-auth",
-      "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stars": "259",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+259 total",
-      "tags": []
-    },
-    {
-      "repo": "ShenSeanChen/waku-agent",
-      "desc": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "stars": "256",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+256 total",
+      "repo": "nethical6/conversation-steganography",
+      "desc": "Use LLMS to hide secret messages inside normal-looking chat text",
+      "stars": "286",
+      "lang": "Go",
+      "license": "GPL-3.0",
+      "trend": "+286 total",
       "tags": []
     },
     {
       "repo": "nihe0909/xiaohongshu-ai-workbench",
       "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "233",
+      "stars": "234",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+233 total",
+      "trend": "+234 total",
       "tags": []
+    },
+    {
+      "repo": "yuwen-cool/yuwen-publish-precheck",
+      "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "stars": "217",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+217 total",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance"
+      ]
     },
     {
       "repo": "barretlee/agent-pulse",
       "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "202",
+      "stars": "205",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+202 total",
+      "trend": "+205 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -115,28 +83,65 @@
       ]
     },
     {
-      "repo": "chordswallowthrust/undress-design",
-      "desc": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stars": "197",
-      "lang": "Other",
+      "repo": "Encod3d-Sec/ClaudeBrain",
+      "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
+      "stars": "194",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+197 total",
+      "trend": "+194 total",
+      "tags": []
+    },
+    {
+      "repo": "thesysdev/appless",
+      "desc": "What if your phone had no apps",
+      "stars": "191",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+191 total",
       "tags": [
-        "ai-undress-porn",
-        "ai-undresser-free",
-        "best-free-uncensored-nsfw-ai-image-generators-2026",
-        "best-uncensored-ai-image-generators-2026",
-        "free-ai-undress"
+        "generative-ui",
+        "llm",
+        "react-native"
       ]
     },
     {
-      "repo": "Encod3d-Sec/ClaudeBrain",
-      "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
-      "stars": "187",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+187 total",
+      "repo": "h9-tec/Awesome_ai_learning",
+      "desc": "(暂无描述)",
+      "stars": "180",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+180 total",
       "tags": []
+    },
+    {
+      "repo": "MIgHTy-alIeN/Trading-Bot",
+      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": "179",
+      "lang": "Solidity",
+      "license": "NOASSERTION",
+      "trend": "+179 total",
+      "tags": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude"
+      ]
+    },
+    {
+      "repo": "CodeDrobe/skills",
+      "desc": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
+      "stars": "179",
+      "lang": "CSS",
+      "license": "Apache-2.0",
+      "trend": "+179 total",
+      "tags": [
+        "ai-coding",
+        "chromium-devtools-protocol",
+        "codex",
+        "codex-app",
+        "codex-skill"
+      ]
     }
   ]
 }

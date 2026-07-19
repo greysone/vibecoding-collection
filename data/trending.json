@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-19T02:44:23.323Z",
+  "fetchedAt": "2026-07-19T13:17:53.323Z",
   "repos": [
     {
       "repo": "nethical6/conversation-steganography",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
-      "stars": "705",
+      "stars": "773",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+705 total",
+      "trend": "+773 total",
       "tags": [
         "llm-tools",
         "steganography"
@@ -16,28 +16,52 @@
     {
       "repo": "Blueturboguy07/cue",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "552",
+      "stars": "573",
       "lang": "JavaScript",
       "license": "GPL-3.0",
-      "trend": "+552 total",
+      "trend": "+573 total",
       "tags": []
     },
     {
       "repo": "PengZhang64/circuit-framework",
       "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "481",
+      "stars": "484",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+481 total",
+      "trend": "+484 total",
       "tags": []
+    },
+    {
+      "repo": "v-modal/vmodal_sdk_flutter",
+      "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "stars": "424",
+      "lang": "Dart",
+      "license": "MIT",
+      "trend": "+424 total",
+      "tags": []
+    },
+    {
+      "repo": "MIgHTy-alIeN/Trading-Bot",
+      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": "351",
+      "lang": "Solidity",
+      "license": "NOASSERTION",
+      "trend": "+351 total",
+      "tags": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude"
+      ]
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "327",
+      "stars": "329",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+327 total",
+      "trend": "+329 total",
       "tags": [
         "agents",
         "ai",
@@ -62,27 +86,12 @@
       ]
     },
     {
-      "repo": "MIgHTy-alIeN/Trading-Bot",
-      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "300",
-      "lang": "Solidity",
-      "license": "NOASSERTION",
-      "trend": "+300 total",
-      "tags": [
-        "ai",
-        "aitradingbot",
-        "bot",
-        "btc",
-        "claude"
-      ]
-    },
-    {
       "repo": "yuwen-cool/yuwen-publish-precheck",
       "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "249",
+      "stars": "283",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+249 total",
+      "trend": "+283 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -94,14 +103,29 @@
     {
       "repo": "thesysdev/appless",
       "desc": "What if your phone had no apps",
-      "stars": "243",
+      "stars": "260",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+243 total",
+      "trend": "+260 total",
       "tags": [
         "generative-ui",
         "llm",
         "react-native"
+      ]
+    },
+    {
+      "repo": "erickong/penecho",
+      "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stars": "255",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+255 total",
+      "tags": [
+        "ai",
+        "canvas",
+        "claude",
+        "codex",
+        "education"
       ]
     },
     {
@@ -114,36 +138,12 @@
       "tags": []
     },
     {
-      "repo": "erickong/penecho",
-      "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "stars": "214",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+214 total",
-      "tags": [
-        "ai",
-        "canvas",
-        "claude",
-        "codex",
-        "education"
-      ]
-    },
-    {
       "repo": "h9-tec/Awesome_ai_learning",
       "desc": "(暂无描述)",
-      "stars": "202",
+      "stars": "209",
       "lang": "Other",
       "license": "Other",
-      "trend": "+202 total",
-      "tags": []
-    },
-    {
-      "repo": "Encod3d-Sec/ClaudeBrain",
-      "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
-      "stars": "196",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+196 total",
+      "trend": "+209 total",
       "tags": []
     }
   ]

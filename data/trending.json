@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-18T13:15:12.772Z",
+  "fetchedAt": "2026-07-19T02:44:23.323Z",
   "repos": [
     {
       "repo": "nethical6/conversation-steganography",
-      "desc": "Use LLMs to hide secret messages inside normal looking conversations",
-      "stars": "545",
+      "desc": "Use LLMs to hide messages inside normal looking conversations",
+      "stars": "705",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+545 total",
+      "trend": "+705 total",
       "tags": [
         "llm-tools",
         "steganography"
@@ -16,28 +16,28 @@
     {
       "repo": "Blueturboguy07/cue",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "520",
+      "stars": "552",
       "lang": "JavaScript",
       "license": "GPL-3.0",
-      "trend": "+520 total",
+      "trend": "+552 total",
       "tags": []
     },
     {
       "repo": "PengZhang64/circuit-framework",
       "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "480",
+      "stars": "481",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+480 total",
+      "trend": "+481 total",
       "tags": []
     },
     {
       "repo": "QuantumByteOSS/quantumbyte",
       "desc": "Open-source app builder engine — intent to working app",
-      "stars": "325",
+      "stars": "327",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+325 total",
+      "trend": "+327 total",
       "tags": [
         "agents",
         "ai",
@@ -49,10 +49,10 @@
     {
       "repo": "PromptPartner/agentsmith",
       "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-      "stars": "307",
+      "stars": "308",
       "lang": "Shell",
       "license": "MIT",
-      "trend": "+307 total",
+      "trend": "+308 total",
       "tags": [
         "agentic-ai",
         "agentic-coding",
@@ -62,27 +62,12 @@
       ]
     },
     {
-      "repo": "yuwen-cool/yuwen-publish-precheck",
-      "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "242",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+242 total",
-      "tags": [
-        "agent-skills",
-        "ai",
-        "chinese",
-        "claude",
-        "content-compliance"
-      ]
-    },
-    {
       "repo": "MIgHTy-alIeN/Trading-Bot",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "239",
+      "stars": "300",
       "lang": "Solidity",
       "license": "NOASSERTION",
-      "trend": "+239 total",
+      "trend": "+300 total",
       "tags": [
         "ai",
         "aitradingbot",
@@ -92,21 +77,27 @@
       ]
     },
     {
-      "repo": "nihe0909/xiaohongshu-ai-workbench",
-      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "237",
+      "repo": "yuwen-cool/yuwen-publish-precheck",
+      "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "stars": "249",
       "lang": "Python",
-      "license": "MIT",
-      "trend": "+237 total",
-      "tags": []
+      "license": "NOASSERTION",
+      "trend": "+249 total",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance"
+      ]
     },
     {
       "repo": "thesysdev/appless",
       "desc": "What if your phone had no apps",
-      "stars": "220",
+      "stars": "243",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+220 total",
+      "trend": "+243 total",
       "tags": [
         "generative-ui",
         "llm",
@@ -114,36 +105,45 @@
       ]
     },
     {
-      "repo": "barretlee/agent-pulse",
-      "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "210",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+210 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-industry",
-        "ai-intelligence",
-        "ai-news"
-      ]
-    },
-    {
-      "repo": "Encod3d-Sec/ClaudeBrain",
-      "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
-      "stars": "195",
+      "repo": "nihe0909/xiaohongshu-ai-workbench",
+      "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stars": "240",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+195 total",
+      "trend": "+240 total",
       "tags": []
+    },
+    {
+      "repo": "erickong/penecho",
+      "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stars": "214",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+214 total",
+      "tags": [
+        "ai",
+        "canvas",
+        "claude",
+        "codex",
+        "education"
+      ]
     },
     {
       "repo": "h9-tec/Awesome_ai_learning",
       "desc": "(暂无描述)",
-      "stars": "191",
+      "stars": "202",
       "lang": "Other",
       "license": "Other",
-      "trend": "+191 total",
+      "trend": "+202 total",
+      "tags": []
+    },
+    {
+      "repo": "Encod3d-Sec/ClaudeBrain",
+      "desc": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
+      "stars": "196",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+196 total",
       "tags": []
     }
   ]

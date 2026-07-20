@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-19T13:17:53.323Z",
+  "fetchedAt": "2026-07-20T02:57:33.425Z",
   "repos": [
     {
       "repo": "nethical6/conversation-steganography",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
-      "stars": "773",
+      "stars": "828",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+773 total",
+      "trend": "+828 total",
       "tags": [
         "llm-tools",
         "steganography"
@@ -16,28 +16,28 @@
     {
       "repo": "Blueturboguy07/cue",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "573",
+      "stars": "616",
       "lang": "JavaScript",
       "license": "GPL-3.0",
-      "trend": "+573 total",
-      "tags": []
-    },
-    {
-      "repo": "PengZhang64/circuit-framework",
-      "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "484",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+484 total",
+      "trend": "+616 total",
       "tags": []
     },
     {
       "repo": "v-modal/vmodal_sdk_flutter",
       "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "stars": "424",
+      "stars": "591",
       "lang": "Dart",
       "license": "MIT",
-      "trend": "+424 total",
+      "trend": "+591 total",
+      "tags": []
+    },
+    {
+      "repo": "PengZhang64/circuit-framework",
+      "desc": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": "485",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+485 total",
       "tags": []
     },
     {
@@ -56,70 +56,12 @@
       ]
     },
     {
-      "repo": "QuantumByteOSS/quantumbyte",
-      "desc": "Open-source app builder engine — intent to working app",
-      "stars": "329",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+329 total",
-      "tags": [
-        "agents",
-        "ai",
-        "app-builder",
-        "code-generation",
-        "llm"
-      ]
-    },
-    {
-      "repo": "PromptPartner/agentsmith",
-      "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-      "stars": "308",
-      "lang": "Shell",
-      "license": "MIT",
-      "trend": "+308 total",
-      "tags": [
-        "agentic-ai",
-        "agentic-coding",
-        "ai-agents",
-        "ai-tools",
-        "automation"
-      ]
-    },
-    {
-      "repo": "yuwen-cool/yuwen-publish-precheck",
-      "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "283",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+283 total",
-      "tags": [
-        "agent-skills",
-        "ai",
-        "chinese",
-        "claude",
-        "content-compliance"
-      ]
-    },
-    {
-      "repo": "thesysdev/appless",
-      "desc": "What if your phone had no apps",
-      "stars": "260",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+260 total",
-      "tags": [
-        "generative-ui",
-        "llm",
-        "react-native"
-      ]
-    },
-    {
       "repo": "erickong/penecho",
       "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "stars": "255",
+      "stars": "337",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+255 total",
+      "trend": "+337 total",
       "tags": [
         "ai",
         "canvas",
@@ -129,21 +71,79 @@
       ]
     },
     {
+      "repo": "QuantumByteOSS/quantumbyte",
+      "desc": "Open-source app builder engine — intent to working app",
+      "stars": "331",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+331 total",
+      "tags": [
+        "agents",
+        "ai",
+        "app-builder",
+        "code-generation",
+        "llm"
+      ]
+    },
+    {
+      "repo": "yuwen-cool/yuwen-publish-precheck",
+      "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "stars": "324",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+324 total",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance"
+      ]
+    },
+    {
+      "repo": "PromptPartner/agentsmith",
+      "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stars": "309",
+      "lang": "Shell",
+      "license": "MIT",
+      "trend": "+309 total",
+      "tags": [
+        "agentic-ai",
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "automation"
+      ]
+    },
+    {
+      "repo": "thesysdev/appless",
+      "desc": "What if your phone had no apps",
+      "stars": "272",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+272 total",
+      "tags": [
+        "generative-ui",
+        "llm",
+        "react-native"
+      ]
+    },
+    {
       "repo": "nihe0909/xiaohongshu-ai-workbench",
       "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stars": "240",
+      "stars": "244",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+240 total",
+      "trend": "+244 total",
       "tags": []
     },
     {
       "repo": "h9-tec/Awesome_ai_learning",
       "desc": "(暂无描述)",
-      "stars": "209",
+      "stars": "215",
       "lang": "Other",
       "license": "Other",
-      "trend": "+209 total",
+      "trend": "+215 total",
       "tags": []
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-21T02:42:09.139Z",
+  "fetchedAt": "2026-07-21T13:50:27.699Z",
   "repos": [
     {
       "repo": "nethical6/conversation-steganography",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
-      "stars": "884",
+      "stars": "894",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+884 total",
+      "trend": "+894 total",
       "tags": [
         "llm-tools",
         "steganography"
@@ -16,37 +16,28 @@
     {
       "repo": "Blueturboguy07/cue",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "662",
+      "stars": "690",
       "lang": "JavaScript",
       "license": "GPL-3.0",
-      "trend": "+662 total",
+      "trend": "+690 total",
       "tags": []
     },
     {
       "repo": "v-modal/vmodal_sdk_flutter",
       "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "stars": "622",
+      "stars": "679",
       "lang": "Dart",
       "license": "MIT",
-      "trend": "+622 total",
-      "tags": []
-    },
-    {
-      "repo": "EthanXiang777/circuit-framework",
-      "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "486",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+486 total",
+      "trend": "+679 total",
       "tags": []
     },
     {
       "repo": "MIgHTy-alIeN/Trading-Bot",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "467",
+      "stars": "579",
       "lang": "Solidity",
       "license": "NOASSERTION",
-      "trend": "+467 total",
+      "trend": "+579 total",
       "tags": [
         "ai",
         "aitradingbot",
@@ -56,12 +47,30 @@
       ]
     },
     {
-      "repo": "erickong/penecho",
+      "repo": "EthanXiang777/circuit-framework",
+      "desc": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": "487",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+487 total",
+      "tags": []
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "stars": "467",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+467 total",
+      "tags": []
+    },
+    {
+      "repo": "penecho/penecho",
       "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "stars": "393",
+      "stars": "430",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+393 total",
+      "trend": "+430 total",
       "tags": [
         "ai",
         "canvas",
@@ -71,18 +80,42 @@
       ]
     },
     {
+      "repo": "smixs/pohuy",
+      "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "stars": "420",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+420 total",
+      "tags": []
+    },
+    {
       "repo": "yuwen-cool/yuwen-publish-precheck",
       "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "353",
+      "stars": "364",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+353 total",
+      "trend": "+364 total",
       "tags": [
         "agent-skills",
         "ai",
         "chinese",
         "claude",
         "content-compliance"
+      ]
+    },
+    {
+      "repo": "arcships/light-ocr",
+      "desc": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "stars": "340",
+      "lang": "C++",
+      "license": "Apache-2.0",
+      "trend": "+340 total",
+      "tags": [
+        "apple-silicon",
+        "computer-vision",
+        "coreml",
+        "cpp17",
+        "d3d12"
       ]
     },
     {
@@ -101,50 +134,19 @@
       ]
     },
     {
-      "repo": "PromptPartner/agentsmith",
-      "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-      "stars": "312",
-      "lang": "Shell",
-      "license": "MIT",
-      "trend": "+312 total",
-      "tags": [
-        "agentic-ai",
-        "agentic-coding",
-        "ai-agents",
-        "ai-tools",
-        "automation"
-      ]
-    },
-    {
-      "repo": "thesysdev/appless",
-      "desc": "What if your phone had no apps",
-      "stars": "301",
+      "repo": "Vincentwei1021/video-shotcraft",
+      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "stars": "330",
       "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+301 total",
+      "license": "Apache-2.0",
+      "trend": "+330 total",
       "tags": [
-        "generative-ui",
-        "llm",
-        "react-native"
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills"
       ]
-    },
-    {
-      "repo": "smixs/pohuy",
-      "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-      "stars": "279",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+279 total",
-      "tags": []
-    },
-    {
-      "repo": "Blaizzy/nativ",
-      "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "237",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+237 total",
-      "tags": []
     }
   ]
 }

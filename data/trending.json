@@ -1,43 +1,34 @@
 {
-  "fetchedAt": "2026-07-21T13:50:27.699Z",
+  "fetchedAt": "2026-07-22T02:39:51.477Z",
   "repos": [
     {
       "repo": "nethical6/conversation-steganography",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
-      "stars": "894",
+      "stars": "914",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+894 total",
+      "trend": "+914 total",
       "tags": [
         "llm-tools",
         "steganography"
       ]
     },
     {
-      "repo": "Blueturboguy07/cue",
-      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "690",
-      "lang": "JavaScript",
-      "license": "GPL-3.0",
-      "trend": "+690 total",
-      "tags": []
-    },
-    {
       "repo": "v-modal/vmodal_sdk_flutter",
       "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "stars": "679",
+      "stars": "780",
       "lang": "Dart",
       "license": "MIT",
-      "trend": "+679 total",
+      "trend": "+780 total",
       "tags": []
     },
     {
-      "repo": "MIgHTy-alIeN/Trading-Bot",
+      "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "579",
+      "stars": "739",
       "lang": "Solidity",
       "license": "NOASSERTION",
-      "trend": "+579 total",
+      "trend": "+739 total",
       "tags": [
         "ai",
         "aitradingbot",
@@ -45,6 +36,24 @@
         "btc",
         "claude"
       ]
+    },
+    {
+      "repo": "Blueturboguy07/cue",
+      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stars": "702",
+      "lang": "JavaScript",
+      "license": "GPL-3.0",
+      "trend": "+702 total",
+      "tags": []
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "stars": "631",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+631 total",
+      "tags": []
     },
     {
       "repo": "EthanXiang777/circuit-framework",
@@ -56,45 +65,36 @@
       "tags": []
     },
     {
-      "repo": "Blaizzy/nativ",
-      "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "467",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+467 total",
-      "tags": []
-    },
-    {
-      "repo": "penecho/penecho",
-      "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "stars": "430",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+430 total",
-      "tags": [
-        "ai",
-        "canvas",
-        "claude",
-        "codex",
-        "education"
-      ]
-    },
-    {
       "repo": "smixs/pohuy",
       "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-      "stars": "420",
+      "stars": "468",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+420 total",
+      "trend": "+468 total",
       "tags": []
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "stars": "435",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+435 total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills"
+      ]
     },
     {
       "repo": "yuwen-cool/yuwen-publish-precheck",
       "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "364",
+      "stars": "368",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+364 total",
+      "trend": "+368 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -104,48 +104,40 @@
       ]
     },
     {
-      "repo": "arcships/light-ocr",
-      "desc": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
-      "stars": "340",
-      "lang": "C++",
-      "license": "Apache-2.0",
-      "trend": "+340 total",
-      "tags": [
-        "apple-silicon",
-        "computer-vision",
-        "coreml",
-        "cpp17",
-        "d3d12"
-      ]
+      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "stars": "346",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+346 total",
+      "tags": []
     },
     {
-      "repo": "QuantumByteOSS/quantumbyte",
-      "desc": "Open-source app builder engine — intent to working app",
-      "stars": "334",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+334 total",
-      "tags": [
-        "agents",
-        "ai",
-        "app-builder",
-        "code-generation",
-        "llm"
-      ]
-    },
-    {
-      "repo": "Vincentwei1021/video-shotcraft",
-      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stars": "330",
+      "repo": "thesysdev/appless",
+      "desc": "What if your phone had no apps",
+      "stars": "316",
       "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+330 total",
+      "license": "MIT",
+      "trend": "+316 total",
       "tags": [
-        "agent-skills",
+        "generative-ui",
+        "llm",
+        "react-native"
+      ]
+    },
+    {
+      "repo": "PromptPartner/agentsmith",
+      "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stars": "314",
+      "lang": "Shell",
+      "license": "MIT",
+      "trend": "+314 total",
+      "tags": [
+        "agentic-ai",
+        "agentic-coding",
         "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills"
+        "ai-tools",
+        "automation"
       ]
     }
   ]

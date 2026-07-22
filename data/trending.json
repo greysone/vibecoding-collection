@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-22T02:39:51.477Z",
+  "fetchedAt": "2026-07-22T13:54:04.529Z",
   "repos": [
     {
       "repo": "nethical6/conversation-steganography",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
-      "stars": "914",
+      "stars": "938",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+914 total",
+      "trend": "+938 total",
       "tags": [
         "llm-tools",
         "steganography"
@@ -16,19 +16,19 @@
     {
       "repo": "v-modal/vmodal_sdk_flutter",
       "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "stars": "780",
+      "stars": "850",
       "lang": "Dart",
       "license": "MIT",
-      "trend": "+780 total",
+      "trend": "+850 total",
       "tags": []
     },
     {
       "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "739",
+      "stars": "801",
       "lang": "Solidity",
       "license": "NOASSERTION",
-      "trend": "+739 total",
+      "trend": "+801 total",
       "tags": [
         "ai",
         "aitradingbot",
@@ -40,46 +40,46 @@
     {
       "repo": "Blueturboguy07/cue",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stars": "702",
+      "stars": "717",
       "lang": "JavaScript",
       "license": "GPL-3.0",
-      "trend": "+702 total",
+      "trend": "+717 total",
       "tags": []
     },
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "631",
+      "stars": "703",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+631 total",
-      "tags": []
-    },
-    {
-      "repo": "EthanXiang777/circuit-framework",
-      "desc": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": "487",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+487 total",
+      "trend": "+703 total",
       "tags": []
     },
     {
       "repo": "smixs/pohuy",
       "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-      "stars": "468",
+      "stars": "519",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+468 total",
+      "trend": "+519 total",
+      "tags": []
+    },
+    {
+      "repo": "EthanXiang777/circuit-framework",
+      "desc": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": "489",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+489 total",
       "tags": []
     },
     {
       "repo": "Vincentwei1021/video-shotcraft",
       "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stars": "435",
+      "stars": "485",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+435 total",
+      "trend": "+485 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -89,12 +89,21 @@
       ]
     },
     {
+      "repo": "Jakubantalik/thinking-orbs",
+      "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "stars": "388",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+388 total",
+      "tags": []
+    },
+    {
       "repo": "yuwen-cool/yuwen-publish-precheck",
       "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stars": "368",
+      "stars": "375",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+368 total",
+      "trend": "+375 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -104,41 +113,28 @@
       ]
     },
     {
+      "repo": "0xsline/OpenChatCut",
+      "desc": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+      "stars": "374",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+374 total",
+      "tags": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agent",
+        "ai-video-editor",
+        "claude-code"
+      ]
+    },
+    {
       "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
       "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stars": "346",
+      "stars": "367",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+346 total",
+      "trend": "+367 total",
       "tags": []
-    },
-    {
-      "repo": "thesysdev/appless",
-      "desc": "What if your phone had no apps",
-      "stars": "316",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+316 total",
-      "tags": [
-        "generative-ui",
-        "llm",
-        "react-native"
-      ]
-    },
-    {
-      "repo": "PromptPartner/agentsmith",
-      "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-      "stars": "314",
-      "lang": "Shell",
-      "license": "MIT",
-      "trend": "+314 total",
-      "tags": [
-        "agentic-ai",
-        "agentic-coding",
-        "ai-agents",
-        "ai-tools",
-        "automation"
-      ]
     }
   ]
 }

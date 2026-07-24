@@ -1,19 +1,34 @@
 {
-  "fetchedAt": "2026-07-24T02:41:07.267Z",
+  "fetchedAt": "2026-07-24T13:45:34.768Z",
   "repos": [
     {
       "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Solidity",
       "license": "NOASSERTION",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "ai",
         "aitradingbot",
         "bot",
         "btc",
         "claude"
+      ]
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "stars": "1.3k",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+1.3k total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills"
       ]
     },
     {
@@ -29,45 +44,30 @@
       ]
     },
     {
-      "repo": "Vincentwei1021/video-shotcraft",
-      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stars": "970",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+970 total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills"
-      ]
-    },
-    {
       "repo": "Jakubantalik/thinking-orbs",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stars": "834",
+      "stars": "900",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+834 total",
+      "trend": "+900 total",
       "tags": []
     },
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "818",
+      "stars": "837",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+818 total",
+      "trend": "+837 total",
       "tags": []
     },
     {
       "repo": "pireel/pireel",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "661",
+      "stars": "695",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+661 total",
+      "trend": "+695 total",
       "tags": [
         "ai-video",
         "capcut",
@@ -79,37 +79,37 @@
     {
       "repo": "smixs/pohuy",
       "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-      "stars": "582",
+      "stars": "594",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+582 total",
-      "tags": []
-    },
-    {
-      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
-      "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stars": "396",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+396 total",
+      "trend": "+594 total",
       "tags": []
     },
     {
       "repo": "yc-duan/fastctx",
       "desc": "Fast, context-efficient repository tools for AI agents (MCP)",
-      "stars": "390",
+      "stars": "437",
       "lang": "Rust",
       "license": "Apache-2.0",
-      "trend": "+390 total",
+      "trend": "+437 total",
+      "tags": []
+    },
+    {
+      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "stars": "401",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+401 total",
       "tags": []
     },
     {
       "repo": "Kritt-ai/open-kritt",
       "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "359",
+      "stars": "371",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+359 total",
+      "trend": "+371 total",
       "tags": [
         "agent",
         "agents",
@@ -121,10 +121,10 @@
     {
       "repo": "KlaatAI/klaatcode",
       "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "stars": "270",
+      "stars": "285",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+270 total",
+      "trend": "+285 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -136,10 +136,10 @@
     {
       "repo": "OpenBMB/MiniCPM-Robot",
       "desc": "A Smarter and Faster On-Device AI Brain for Robots",
-      "stars": "234",
+      "stars": "241",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+234 total",
+      "trend": "+241 total",
       "tags": []
     }
   ]

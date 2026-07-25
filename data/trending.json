@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-25T02:39:20.629Z",
+  "fetchedAt": "2026-07-25T13:26:30.150Z",
   "repos": [
     {
       "repo": "Vincentwei1021/video-shotcraft",
       "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -19,28 +19,28 @@
     {
       "repo": "Jakubantalik/thinking-orbs",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stars": "934",
+      "stars": "959",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+934 total",
+      "trend": "+959 total",
       "tags": []
     },
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "863",
+      "stars": "876",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+863 total",
+      "trend": "+876 total",
       "tags": []
     },
     {
       "repo": "pireel/pireel",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "714",
+      "stars": "728",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+714 total",
+      "trend": "+728 total",
       "tags": [
         "ai-video",
         "capcut",
@@ -52,28 +52,28 @@
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "436",
+      "stars": "621",
       "lang": "Python",
       "license": "Other",
-      "trend": "+436 total",
+      "trend": "+621 total",
       "tags": []
     },
     {
       "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
       "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stars": "408",
+      "stars": "416",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+408 total",
+      "trend": "+416 total",
       "tags": []
     },
     {
       "repo": "Kritt-ai/open-kritt",
       "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "374",
+      "stars": "382",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+374 total",
+      "trend": "+382 total",
       "tags": [
         "agent",
         "agents",
@@ -85,19 +85,19 @@
     {
       "repo": "OpenBMB/MiniCPM-Robot",
       "desc": "A Smarter and Faster On-Device AI Brain for Robots",
-      "stars": "243",
+      "stars": "246",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+243 total",
+      "trend": "+246 total",
       "tags": []
     },
     {
       "repo": "TryCaspian/caspian-sdk",
       "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": "218",
+      "stars": "228",
       "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+218 total",
+      "license": "AGPL-3.0",
+      "trend": "+228 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -107,12 +107,21 @@
       ]
     },
     {
+      "repo": "mikiarlo3/ai-copywriter",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": "224",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+224 total",
+      "tags": []
+    },
+    {
       "repo": "livetennisapi/livetennisapi-mcp",
       "desc": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "stars": "205",
+      "stars": "206",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+205 total",
+      "trend": "+206 total",
       "tags": [
         "ai",
         "claude",
@@ -122,33 +131,18 @@
       ]
     },
     {
-      "repo": "eli-labz/Agent-Execution-Partnership",
-      "desc": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-      "stars": "187",
+      "repo": "Role1776/netmon",
+      "desc": "Self-hosted network monitor — hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram.",
+      "stars": "191",
       "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+187 total",
-      "tags": [
-        "agent-safety",
-        "ai-agents",
-        "ai-governance",
-        "ai-safety",
-        "audit-trail"
-      ]
-    },
-    {
-      "repo": "finna/Finn-loop",
-      "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "stars": "183",
-      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+183 total",
+      "trend": "+191 total",
       "tags": [
-        "agentic-workflows",
-        "ai-agents",
-        "claude-code",
-        "github",
-        "linear"
+        "network-monitoring",
+        "nmap",
+        "python",
+        "self-hosted",
+        "speedtest"
       ]
     }
   ]

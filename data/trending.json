@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T02:48:26.810Z",
+  "fetchedAt": "2026-07-26T13:22:24.517Z",
   "repos": [
     {
       "repo": "Vincentwei1021/video-shotcraft",
@@ -17,39 +17,48 @@
       ]
     },
     {
+      "repo": "slvDev/esp32-ai",
+      "desc": "(暂无描述)",
+      "stars": "1.1k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.1k total",
+      "tags": []
+    },
+    {
       "repo": "Jakubantalik/thinking-orbs",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": []
     },
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "885",
+      "stars": "890",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+885 total",
+      "trend": "+890 total",
       "tags": []
     },
     {
-      "repo": "slvDev/esp32-ai",
-      "desc": "(暂无描述)",
-      "stars": "842",
+      "repo": "mikiarlo3/ai-copywriter",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": "766",
       "lang": "Python",
-      "license": "Other",
-      "trend": "+842 total",
+      "license": "MIT",
+      "trend": "+766 total",
       "tags": []
     },
     {
       "repo": "pireel/pireel",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "754",
+      "stars": "761",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+754 total",
+      "trend": "+761 total",
       "tags": [
         "ai-video",
         "capcut",
@@ -59,30 +68,21 @@
       ]
     },
     {
-      "repo": "mikiarlo3/ai-copywriter",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "595",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+595 total",
-      "tags": []
-    },
-    {
       "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
       "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stars": "418",
+      "stars": "421",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+418 total",
+      "trend": "+421 total",
       "tags": []
     },
     {
       "repo": "Kritt-ai/open-kritt",
       "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "391",
+      "stars": "397",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+391 total",
+      "trend": "+397 total",
       "tags": [
         "agent",
         "agents",
@@ -92,27 +92,12 @@
       ]
     },
     {
-      "repo": "TryCaspian/caspian-sdk",
-      "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": "236",
-      "lang": "Python",
-      "license": "AGPL-3.0",
-      "trend": "+236 total",
-      "tags": [
-        "agent",
-        "ai-agent",
-        "ai-agents",
-        "communication",
-        "crewai"
-      ]
-    },
-    {
       "repo": "hahhforest/pi-textbook",
       "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stars": "216",
+      "stars": "319",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+216 total",
+      "trend": "+319 total",
       "tags": [
         "agent-engineering",
         "ai-agent",
@@ -122,33 +107,48 @@
       ]
     },
     {
+      "repo": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": "268",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+268 total",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code"
+      ]
+    },
+    {
+      "repo": "TryCaspian/caspian-sdk",
+      "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+      "stars": "243",
+      "lang": "Python",
+      "license": "AGPL-3.0",
+      "trend": "+243 total",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "communication",
+        "crewai"
+      ]
+    },
+    {
       "repo": "Role1776/netmon",
       "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "stars": "208",
+      "stars": "220",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+208 total",
+      "trend": "+220 total",
       "tags": [
         "discord",
         "discord-bot",
         "network-monitoring",
         "nmap",
         "python"
-      ]
-    },
-    {
-      "repo": "finna/Finn-loop",
-      "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "stars": "202",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+202 total",
-      "tags": [
-        "agentic-workflows",
-        "ai-agents",
-        "claude-code",
-        "github",
-        "linear"
       ]
     }
   ]

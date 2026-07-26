@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-25T13:26:30.150Z",
+  "fetchedAt": "2026-07-26T02:48:26.810Z",
   "repos": [
     {
       "repo": "Vincentwei1021/video-shotcraft",
       "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stars": "1.6k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.6k total",
+      "trend": "+1.8k total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -19,28 +19,37 @@
     {
       "repo": "Jakubantalik/thinking-orbs",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stars": "959",
+      "stars": "1.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+959 total",
+      "trend": "+1.0k total",
       "tags": []
     },
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "876",
+      "stars": "885",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+876 total",
+      "trend": "+885 total",
+      "tags": []
+    },
+    {
+      "repo": "slvDev/esp32-ai",
+      "desc": "(暂无描述)",
+      "stars": "842",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+842 total",
       "tags": []
     },
     {
       "repo": "pireel/pireel",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "728",
+      "stars": "754",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+728 total",
+      "trend": "+754 total",
       "tags": [
         "ai-video",
         "capcut",
@@ -50,30 +59,30 @@
       ]
     },
     {
-      "repo": "slvDev/esp32-ai",
-      "desc": "(暂无描述)",
-      "stars": "621",
+      "repo": "mikiarlo3/ai-copywriter",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": "595",
       "lang": "Python",
-      "license": "Other",
-      "trend": "+621 total",
+      "license": "MIT",
+      "trend": "+595 total",
       "tags": []
     },
     {
       "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
       "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stars": "416",
+      "stars": "418",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+416 total",
+      "trend": "+418 total",
       "tags": []
     },
     {
       "repo": "Kritt-ai/open-kritt",
       "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "382",
+      "stars": "391",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+382 total",
+      "trend": "+391 total",
       "tags": [
         "agent",
         "agents",
@@ -83,21 +92,12 @@
       ]
     },
     {
-      "repo": "OpenBMB/MiniCPM-Robot",
-      "desc": "A Smarter and Faster On-Device AI Brain for Robots",
-      "stars": "246",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+246 total",
-      "tags": []
-    },
-    {
       "repo": "TryCaspian/caspian-sdk",
       "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": "228",
+      "stars": "236",
       "lang": "Python",
       "license": "AGPL-3.0",
-      "trend": "+228 total",
+      "trend": "+236 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -107,42 +107,48 @@
       ]
     },
     {
-      "repo": "mikiarlo3/ai-copywriter",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "224",
-      "lang": "Python",
+      "repo": "hahhforest/pi-textbook",
+      "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "stars": "216",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+224 total",
-      "tags": []
-    },
-    {
-      "repo": "livetennisapi/livetennisapi-mcp",
-      "desc": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "stars": "206",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+206 total",
+      "trend": "+216 total",
       "tags": [
-        "ai",
-        "claude",
-        "live-scores",
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
         "llm",
-        "mcp"
+        "textbook"
       ]
     },
     {
       "repo": "Role1776/netmon",
-      "desc": "Self-hosted network monitor — hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram.",
-      "stars": "191",
+      "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+      "stars": "208",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+191 total",
+      "trend": "+208 total",
       "tags": [
+        "discord",
+        "discord-bot",
         "network-monitoring",
         "nmap",
-        "python",
-        "self-hosted",
-        "speedtest"
+        "python"
+      ]
+    },
+    {
+      "repo": "finna/Finn-loop",
+      "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "stars": "202",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+202 total",
+      "tags": [
+        "agentic-workflows",
+        "ai-agents",
+        "claude-code",
+        "github",
+        "linear"
       ]
     }
   ]

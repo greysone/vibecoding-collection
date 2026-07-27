@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-27T02:55:56.123Z",
+  "fetchedAt": "2026-07-27T14:34:24.683Z",
   "repos": [
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "1.4k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.6k total",
       "tags": []
     },
     {
@@ -22,43 +22,28 @@
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "925",
+      "stars": "940",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+925 total",
+      "trend": "+940 total",
       "tags": []
     },
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "859",
+      "stars": "896",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+859 total",
+      "trend": "+896 total",
       "tags": []
-    },
-    {
-      "repo": "pireel/pireel",
-      "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "774",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+774 total",
-      "tags": [
-        "ai-video",
-        "capcut",
-        "captions",
-        "chatcut",
-        "openchatcut"
-      ]
     },
     {
       "repo": "makecindy/cindy",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": "538",
+      "stars": "795",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+538 total",
+      "trend": "+795 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -68,12 +53,27 @@
       ]
     },
     {
+      "repo": "pireel/pireel",
+      "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "stars": "788",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+788 total",
+      "tags": [
+        "ai-video",
+        "capcut",
+        "captions",
+        "chatcut",
+        "openchatcut"
+      ]
+    },
+    {
       "repo": "hahhforest/pi-textbook",
       "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stars": "474",
+      "stars": "568",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+474 total",
+      "trend": "+568 total",
       "tags": [
         "agent-engineering",
         "ai-agent",
@@ -83,12 +83,21 @@
       ]
     },
     {
+      "repo": "VictorTaelin/OptMem",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": "557",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+557 total",
+      "tags": []
+    },
+    {
       "repo": "Kritt-ai/open-kritt",
       "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "413",
+      "stars": "429",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+413 total",
+      "trend": "+429 total",
       "tags": [
         "agent",
         "agents",
@@ -98,57 +107,42 @@
       ]
     },
     {
-      "repo": "VictorTaelin/OptMem",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "359",
-      "lang": "Python",
+      "repo": "Eversmile12/leaked-llm-prompts",
+      "desc": "collections-of-leaked-prompts",
+      "stars": "283",
+      "lang": "Other",
       "license": "Other",
-      "trend": "+359 total",
+      "trend": "+283 total",
       "tags": []
     },
     {
       "repo": "TryCaspian/caspian-sdk",
-      "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": "247",
+      "desc": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+      "stars": "258",
       "lang": "Python",
       "license": "AGPL-3.0",
-      "trend": "+247 total",
+      "trend": "+258 total",
       "tags": [
-        "agent",
+        "agent-communication",
+        "agent-messaging",
         "ai-agent",
         "ai-agents",
-        "communication",
-        "crewai"
+        "communication"
       ]
     },
     {
       "repo": "Role1776/netmon",
       "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "stars": "225",
+      "stars": "230",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+225 total",
+      "trend": "+230 total",
       "tags": [
         "discord",
         "discord-bot",
         "network-monitoring",
         "nmap",
         "python"
-      ]
-    },
-    {
-      "repo": "finna/Finn-loop",
-      "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "stars": "220",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+220 total",
-      "tags": [
-        "agentic-workflows",
-        "ai-agents",
-        "claude-code",
-        "github",
-        "linear"
       ]
     }
   ]

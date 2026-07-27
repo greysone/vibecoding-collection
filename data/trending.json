@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-07-26T13:22:24.517Z",
+  "fetchedAt": "2026-07-27T02:55:56.123Z",
   "repos": [
-    {
-      "repo": "Vincentwei1021/video-shotcraft",
-      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stars": "1.8k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+1.8k total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills"
-      ]
-    },
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "1.1k",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.4k total",
       "tags": []
     },
     {
@@ -37,28 +22,28 @@
     {
       "repo": "Blaizzy/nativ",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "890",
+      "stars": "925",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+890 total",
+      "trend": "+925 total",
       "tags": []
     },
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "766",
+      "stars": "859",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+766 total",
+      "trend": "+859 total",
       "tags": []
     },
     {
       "repo": "pireel/pireel",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "761",
+      "stars": "774",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+761 total",
+      "trend": "+774 total",
       "tags": [
         "ai-video",
         "capcut",
@@ -68,51 +53,12 @@
       ]
     },
     {
-      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
-      "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stars": "421",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+421 total",
-      "tags": []
-    },
-    {
-      "repo": "Kritt-ai/open-kritt",
-      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "397",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+397 total",
-      "tags": [
-        "agent",
-        "agents",
-        "ai",
-        "bug-bounty",
-        "bugbounty"
-      ]
-    },
-    {
-      "repo": "hahhforest/pi-textbook",
-      "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stars": "319",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+319 total",
-      "tags": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook"
-      ]
-    },
-    {
       "repo": "makecindy/cindy",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": "268",
+      "stars": "538",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+268 total",
+      "trend": "+538 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -122,12 +68,51 @@
       ]
     },
     {
+      "repo": "hahhforest/pi-textbook",
+      "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "stars": "474",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+474 total",
+      "tags": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook"
+      ]
+    },
+    {
+      "repo": "Kritt-ai/open-kritt",
+      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "stars": "413",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+413 total",
+      "tags": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty"
+      ]
+    },
+    {
+      "repo": "VictorTaelin/OptMem",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": "359",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+359 total",
+      "tags": []
+    },
+    {
       "repo": "TryCaspian/caspian-sdk",
       "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": "243",
+      "stars": "247",
       "lang": "Python",
       "license": "AGPL-3.0",
-      "trend": "+243 total",
+      "trend": "+247 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -139,16 +124,31 @@
     {
       "repo": "Role1776/netmon",
       "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "stars": "220",
+      "stars": "225",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+220 total",
+      "trend": "+225 total",
       "tags": [
         "discord",
         "discord-bot",
         "network-monitoring",
         "nmap",
         "python"
+      ]
+    },
+    {
+      "repo": "finna/Finn-loop",
+      "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "stars": "220",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+220 total",
+      "tags": [
+        "agentic-workflows",
+        "ai-agents",
+        "claude-code",
+        "github",
+        "linear"
       ]
     }
   ]

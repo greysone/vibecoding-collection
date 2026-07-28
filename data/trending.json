@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-28T02:32:44.494Z",
+  "fetchedAt": "2026-07-28T14:06:48.888Z",
   "repos": [
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "1.8k",
+      "stars": "2.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.8k total",
+      "trend": "+2.0k total",
       "tags": []
     },
     {
@@ -22,19 +22,19 @@
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "939",
+      "stars": "975",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+939 total",
+      "trend": "+975 total",
       "tags": []
     },
     {
       "repo": "makecindy/cindy",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": "865",
+      "stars": "966",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+865 total",
+      "trend": "+966 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -46,19 +46,19 @@
     {
       "repo": "VictorTaelin/OptMem",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "651",
+      "stars": "720",
       "lang": "Python",
       "license": "Other",
-      "trend": "+651 total",
+      "trend": "+720 total",
       "tags": []
     },
     {
       "repo": "hahhforest/pi-textbook",
       "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stars": "601",
+      "stars": "627",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+601 total",
+      "trend": "+627 total",
       "tags": [
         "agent-engineering",
         "ai-agent",
@@ -70,10 +70,10 @@
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "533",
+      "stars": "577",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+533 total",
+      "trend": "+577 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -85,10 +85,10 @@
     {
       "repo": "0xwilliamortiz/andrej-karpathy-skills",
       "desc": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
-      "stars": "305",
+      "stars": "435",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+305 total",
+      "trend": "+435 total",
       "tags": [
         "andrej-karpathy",
         "claude",
@@ -98,30 +98,21 @@
       ]
     },
     {
-      "repo": "Eversmile12/leaked-llm-prompts",
-      "desc": "collections-of-leaked-prompts",
-      "stars": "291",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+291 total",
-      "tags": []
-    },
-    {
       "repo": "MarcosSete/awesome-free-ai-books",
       "desc": "A curated list of free, legitimate AI/ML books",
-      "stars": "276",
+      "stars": "313",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+276 total",
+      "trend": "+313 total",
       "tags": []
     },
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "255",
+      "stars": "313",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+255 total",
+      "trend": "+313 total",
       "tags": [
         "agent",
         "ai",
@@ -131,19 +122,22 @@
       ]
     },
     {
-      "repo": "Role1776/netmon",
-      "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "stars": "242",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+242 total",
-      "tags": [
-        "discord",
-        "discord-bot",
-        "network-monitoring",
-        "nmap",
-        "python"
-      ]
+      "repo": "Eversmile12/leaked-llm-prompts",
+      "desc": "collections-of-leaked-prompts",
+      "stars": "303",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+303 total",
+      "tags": []
+    },
+    {
+      "repo": "ddcat-ai/open-ai-canvas",
+      "desc": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+      "stars": "288",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+288 total",
+      "tags": []
     }
   ]
 }

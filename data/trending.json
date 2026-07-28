@@ -1,49 +1,40 @@
 {
-  "fetchedAt": "2026-07-27T14:34:24.683Z",
+  "fetchedAt": "2026-07-28T02:32:44.494Z",
   "repos": [
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "1.6k",
+      "stars": "1.8k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.8k total",
       "tags": []
     },
     {
       "repo": "Jakubantalik/thinking-orbs",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stars": "1.1k",
+      "stars": "1.2k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.1k total",
-      "tags": []
-    },
-    {
-      "repo": "Blaizzy/nativ",
-      "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stars": "940",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+940 total",
+      "trend": "+1.2k total",
       "tags": []
     },
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "896",
+      "stars": "939",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+896 total",
+      "trend": "+939 total",
       "tags": []
     },
     {
       "repo": "makecindy/cindy",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": "795",
+      "stars": "865",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+795 total",
+      "trend": "+865 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -53,27 +44,21 @@
       ]
     },
     {
-      "repo": "pireel/pireel",
-      "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stars": "788",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+788 total",
-      "tags": [
-        "ai-video",
-        "capcut",
-        "captions",
-        "chatcut",
-        "openchatcut"
-      ]
+      "repo": "VictorTaelin/OptMem",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": "651",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+651 total",
+      "tags": []
     },
     {
       "repo": "hahhforest/pi-textbook",
       "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stars": "568",
+      "stars": "601",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+568 total",
+      "trend": "+601 total",
       "tags": [
         "agent-engineering",
         "ai-agent",
@@ -83,60 +68,75 @@
       ]
     },
     {
-      "repo": "VictorTaelin/OptMem",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "557",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+557 total",
-      "tags": []
+      "repo": "0xwilliamortiz/openclaude-improved",
+      "desc": "runs anywhere. uses anything",
+      "stars": "533",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+533 total",
+      "tags": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent"
+      ]
     },
     {
-      "repo": "Kritt-ai/open-kritt",
-      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "429",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+429 total",
+      "repo": "0xwilliamortiz/andrej-karpathy-skills",
+      "desc": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+      "stars": "305",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+305 total",
       "tags": [
-        "agent",
-        "agents",
-        "ai",
-        "bug-bounty",
-        "bugbounty"
+        "andrej-karpathy",
+        "claude",
+        "claude-api",
+        "claude-code-plugin",
+        "claude-code-skill"
       ]
     },
     {
       "repo": "Eversmile12/leaked-llm-prompts",
       "desc": "collections-of-leaked-prompts",
-      "stars": "283",
+      "stars": "291",
       "lang": "Other",
       "license": "Other",
-      "trend": "+283 total",
+      "trend": "+291 total",
       "tags": []
     },
     {
-      "repo": "TryCaspian/caspian-sdk",
-      "desc": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-      "stars": "258",
-      "lang": "Python",
-      "license": "AGPL-3.0",
-      "trend": "+258 total",
+      "repo": "MarcosSete/awesome-free-ai-books",
+      "desc": "A curated list of free, legitimate AI/ML books",
+      "stars": "276",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+276 total",
+      "tags": []
+    },
+    {
+      "repo": "deerwork-ai/deer-workflow",
+      "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "stars": "255",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+255 total",
       "tags": [
-        "agent-communication",
-        "agent-messaging",
+        "agent",
+        "ai",
         "ai-agent",
         "ai-agents",
-        "communication"
+        "ai-coding"
       ]
     },
     {
       "repo": "Role1776/netmon",
       "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "stars": "230",
+      "stars": "242",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+230 total",
+      "trend": "+242 total",
       "tags": [
         "discord",
         "discord-bot",

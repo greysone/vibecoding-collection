@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-07-29T02:38:20.317Z",
+  "fetchedAt": "2026-07-29T14:10:13.389Z",
   "repos": [
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "2.1k",
+      "stars": "2.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.2k total",
       "tags": []
     },
     {
       "repo": "makecindy/cindy",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": [
         "agent",
         "ai-agent",
@@ -28,28 +28,28 @@
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "992",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+992 total",
+      "trend": "+1.0k total",
       "tags": []
     },
     {
       "repo": "VictorTaelin/OptMem",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "810",
+      "stars": "844",
       "lang": "Python",
       "license": "Other",
-      "trend": "+810 total",
+      "trend": "+844 total",
       "tags": []
     },
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "583",
+      "stars": "554",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+583 total",
+      "trend": "+554 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -61,10 +61,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "472",
+      "stars": "471",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+472 total",
+      "trend": "+471 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -76,19 +76,19 @@
     {
       "repo": "MarcosSete/awesome-free-ai-books",
       "desc": "A curated list of free, legitimate AI/ML books",
-      "stars": "338",
+      "stars": "359",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+338 total",
+      "trend": "+359 total",
       "tags": []
     },
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "325",
+      "stars": "342",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+325 total",
+      "trend": "+342 total",
       "tags": [
         "agent",
         "ai",
@@ -100,48 +100,48 @@
     {
       "repo": "Eversmile12/leaked-llm-prompts",
       "desc": "collections-of-leaked-prompts",
-      "stars": "314",
+      "stars": "322",
       "lang": "Other",
       "license": "Other",
-      "trend": "+314 total",
+      "trend": "+322 total",
       "tags": []
     },
     {
       "repo": "ddcat-ai/open-ai-canvas",
       "desc": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
-      "stars": "301",
+      "stars": "321",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+301 total",
+      "trend": "+321 total",
       "tags": []
+    },
+    {
+      "repo": "gavamedia/deltafin",
+      "desc": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": "263",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+263 total",
+      "tags": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ]
     },
     {
       "repo": "finna/Finn-loop",
       "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "stars": "232",
+      "stars": "236",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+232 total",
+      "trend": "+236 total",
       "tags": [
         "agentic-workflows",
         "ai-agents",
         "claude-code",
         "github",
         "linear"
-      ]
-    },
-    {
-      "repo": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
-      "desc": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
-      "stars": "166",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+166 total",
-      "tags": [
-        "agi",
-        "deepseek",
-        "liang-wenfeng",
-        "llm"
       ]
     }
   ]

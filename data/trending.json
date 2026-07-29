@@ -1,40 +1,22 @@
 {
-  "fetchedAt": "2026-07-28T14:06:48.888Z",
+  "fetchedAt": "2026-07-29T02:38:20.317Z",
   "repos": [
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.0k total",
-      "tags": []
-    },
-    {
-      "repo": "Jakubantalik/thinking-orbs",
-      "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stars": "1.2k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.2k total",
-      "tags": []
-    },
-    {
-      "repo": "mikiarlo3/ai-copywriter",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "975",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+975 total",
+      "trend": "+2.1k total",
       "tags": []
     },
     {
       "repo": "makecindy/cindy",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": "966",
+      "stars": "1.0k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+966 total",
+      "trend": "+1.0k total",
       "tags": [
         "agent",
         "ai-agent",
@@ -44,36 +26,30 @@
       ]
     },
     {
-      "repo": "VictorTaelin/OptMem",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "720",
+      "repo": "mikiarlo3/ai-copywriter",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": "992",
       "lang": "Python",
-      "license": "Other",
-      "trend": "+720 total",
+      "license": "MIT",
+      "trend": "+992 total",
       "tags": []
     },
     {
-      "repo": "hahhforest/pi-textbook",
-      "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stars": "627",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+627 total",
-      "tags": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook"
-      ]
+      "repo": "VictorTaelin/OptMem",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": "810",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+810 total",
+      "tags": []
     },
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "577",
+      "stars": "583",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+577 total",
+      "trend": "+583 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -83,36 +59,36 @@
       ]
     },
     {
-      "repo": "0xwilliamortiz/andrej-karpathy-skills",
-      "desc": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
-      "stars": "435",
-      "lang": "Other",
+      "repo": "0xwilliamortiz/ponytail-improved",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "472",
+      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+435 total",
+      "trend": "+472 total",
       "tags": [
-        "andrej-karpathy",
-        "claude",
-        "claude-api",
+        "agent-skills",
+        "claude-code",
         "claude-code-plugin",
-        "claude-code-skill"
+        "claude-code-skill",
+        "claude-skills"
       ]
     },
     {
       "repo": "MarcosSete/awesome-free-ai-books",
       "desc": "A curated list of free, legitimate AI/ML books",
-      "stars": "313",
+      "stars": "338",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+313 total",
+      "trend": "+338 total",
       "tags": []
     },
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "313",
+      "stars": "325",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+313 total",
+      "trend": "+325 total",
       "tags": [
         "agent",
         "ai",
@@ -124,20 +100,49 @@
     {
       "repo": "Eversmile12/leaked-llm-prompts",
       "desc": "collections-of-leaked-prompts",
-      "stars": "303",
+      "stars": "314",
       "lang": "Other",
       "license": "Other",
-      "trend": "+303 total",
+      "trend": "+314 total",
       "tags": []
     },
     {
       "repo": "ddcat-ai/open-ai-canvas",
       "desc": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
-      "stars": "288",
+      "stars": "301",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+288 total",
+      "trend": "+301 total",
       "tags": []
+    },
+    {
+      "repo": "finna/Finn-loop",
+      "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "stars": "232",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+232 total",
+      "tags": [
+        "agentic-workflows",
+        "ai-agents",
+        "claude-code",
+        "github",
+        "linear"
+      ]
+    },
+    {
+      "repo": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+      "desc": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+      "stars": "166",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+166 total",
+      "tags": [
+        "agi",
+        "deepseek",
+        "liang-wenfeng",
+        "llm"
+      ]
     }
   ]
 }

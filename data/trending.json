@@ -1,40 +1,40 @@
 {
-  "fetchedAt": "2026-07-30T02:25:03.842Z",
+  "fetchedAt": "2026-07-30T14:02:06.615Z",
   "repos": [
     {
       "repo": "slvDev/esp32-ai",
       "desc": "(暂无描述)",
-      "stars": "2.3k",
+      "stars": "2.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.3k total",
+      "trend": "+2.4k total",
       "tags": []
     },
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "1.0k",
+      "stars": "985",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+985 total",
       "tags": []
     },
     {
       "repo": "VictorTaelin/OptMem",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "880",
+      "stars": "905",
       "lang": "Python",
       "license": "Other",
-      "trend": "+880 total",
+      "trend": "+905 total",
       "tags": []
     },
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "555",
+      "stars": "559",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+555 total",
+      "trend": "+559 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -46,10 +46,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "547",
+      "stars": "557",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+547 total",
+      "trend": "+557 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -61,10 +61,10 @@
     {
       "repo": "mikehasa/agentacct",
       "desc": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "stars": "530",
+      "stars": "534",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+530 total",
+      "trend": "+534 total",
       "tags": [
         "agent-observability",
         "ai-agents",
@@ -76,10 +76,10 @@
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "348",
+      "stars": "356",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+348 total",
+      "trend": "+356 total",
       "tags": [
         "agent",
         "ai",
@@ -89,44 +89,43 @@
       ]
     },
     {
-      "repo": "gavamedia/deltafin",
-      "desc": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
-      "stars": "336",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+336 total",
-      "tags": [
-        "kimi",
-        "kimi-k3",
-        "local-ai",
-        "local-llm"
-      ]
-    },
-    {
       "repo": "Eversmile12/leaked-llm-prompts",
       "desc": "collections-of-leaked-prompts",
-      "stars": "327",
+      "stars": "329",
       "lang": "Other",
       "license": "Other",
-      "trend": "+327 total",
+      "trend": "+329 total",
       "tags": []
     },
     {
       "repo": "qaml-ai/camelAI",
       "desc": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-      "stars": "267",
+      "stars": "289",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+267 total",
+      "trend": "+289 total",
       "tags": []
+    },
+    {
+      "repo": "perplexityai/numbat",
+      "desc": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+      "stars": "270",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+270 total",
+      "tags": [
+        "agent-security",
+        "ai-agent-security",
+        "ai-agents"
+      ]
     },
     {
       "repo": "QwenAudio/qwen-audio-agent",
       "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "212",
+      "stars": "264",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+212 total",
+      "trend": "+264 total",
       "tags": [
         "agent",
         "agentic-ai",
@@ -138,10 +137,10 @@
     {
       "repo": "LYiHub/pub-local-jarvis",
       "desc": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
-      "stars": "205",
+      "stars": "244",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+205 total",
+      "trend": "+244 total",
       "tags": [
         "ai-assistants",
         "cuda",

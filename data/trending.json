@@ -1,31 +1,46 @@
 {
-  "fetchedAt": "2026-07-31T02:50:12.270Z",
+  "fetchedAt": "2026-07-31T14:06:27.541Z",
   "repos": [
     {
       "repo": "mikiarlo3/ai-copywriter",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "988",
+      "stars": "994",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+988 total",
+      "trend": "+994 total",
       "tags": []
     },
     {
       "repo": "VictorTaelin/OptMem",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "934",
+      "stars": "984",
       "lang": "Python",
       "license": "Other",
-      "trend": "+934 total",
+      "trend": "+984 total",
       "tags": []
+    },
+    {
+      "repo": "QwenAudio/qwen-audio-agent",
+      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": "576",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+576 total",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ]
     },
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "564",
+      "stars": "569",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+564 total",
+      "trend": "+569 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -37,10 +52,10 @@
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "562",
+      "stars": "563",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+562 total",
+      "trend": "+563 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -65,27 +80,12 @@
       ]
     },
     {
-      "repo": "QwenAudio/qwen-audio-agent",
-      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "435",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+435 total",
-      "tags": [
-        "agent",
-        "agentic-ai",
-        "voice-agent",
-        "voice-ai",
-        "voice-chat"
-      ]
-    },
-    {
       "repo": "perplexityai/numbat",
       "desc": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "stars": "402",
+      "stars": "470",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+402 total",
+      "trend": "+470 total",
       "tags": [
         "agent-security",
         "ai-agent-security",
@@ -95,10 +95,10 @@
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "358",
+      "stars": "366",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+358 total",
+      "trend": "+366 total",
       "tags": [
         "agent",
         "ai",
@@ -110,28 +110,28 @@
     {
       "repo": "Eversmile12/leaked-llm-prompts",
       "desc": "collections-of-leaked-prompts",
-      "stars": "329",
+      "stars": "328",
       "lang": "Other",
       "license": "Other",
-      "trend": "+329 total",
+      "trend": "+328 total",
       "tags": []
     },
     {
       "repo": "qaml-ai/camelAI",
       "desc": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-      "stars": "298",
+      "stars": "306",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+298 total",
+      "trend": "+306 total",
       "tags": []
     },
     {
       "repo": "LYiHub/pub-local-jarvis",
       "desc": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
-      "stars": "256",
+      "stars": "304",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+256 total",
+      "trend": "+304 total",
       "tags": [
         "ai-assistants",
         "cuda",
@@ -143,10 +143,10 @@
     {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "236",
+      "stars": "242",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+236 total",
+      "trend": "+242 total",
       "tags": []
     }
   ]

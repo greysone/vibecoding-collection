@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-01T02:48:13.274Z",
+  "fetchedAt": "2026-08-01T13:20:51.532Z",
   "repos": [
     {
       "repo": "VictorTaelin/OptMem",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": []
     },
     {
       "repo": "QwenAudio/qwen-audio-agent",
       "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "618",
+      "stars": "765",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+618 total",
+      "trend": "+765 total",
       "tags": [
         "agent",
         "agentic-ai",
@@ -28,10 +28,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "570",
+      "stars": "573",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+570 total",
+      "trend": "+573 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -43,10 +43,10 @@
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "563",
+      "stars": "564",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+563 total",
+      "trend": "+564 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -58,10 +58,10 @@
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "395",
+      "stars": "405",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+395 total",
+      "trend": "+405 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -73,10 +73,10 @@
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "368",
+      "stars": "373",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+368 total",
+      "trend": "+373 total",
       "tags": [
         "agent",
         "ai",
@@ -88,19 +88,19 @@
     {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "247",
+      "stars": "249",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+247 total",
+      "trend": "+249 total",
       "tags": []
     },
     {
       "repo": "starling-build/starling",
       "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "185",
+      "stars": "209",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+185 total",
+      "trend": "+209 total",
       "tags": [
         "ai",
         "compositor",
@@ -112,37 +112,37 @@
     {
       "repo": "Autumn-27/ARTEX",
       "desc": "AI 自主渗透测试系统",
-      "stars": "176",
+      "stars": "179",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+176 total",
+      "trend": "+179 total",
       "tags": []
     },
     {
       "repo": "grafana/ai-sdk",
       "desc": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "stars": "157",
+      "stars": "168",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+157 total",
+      "trend": "+168 total",
       "tags": []
     },
     {
       "repo": "ZihangDong/toolknit-desktop",
       "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stars": "151",
+      "stars": "166",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+151 total",
+      "trend": "+166 total",
       "tags": []
     },
     {
       "repo": "aigclink/geolook",
       "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "150",
+      "stars": "155",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+150 total",
+      "trend": "+155 total",
       "tags": [
         "aeo",
         "ai-search",

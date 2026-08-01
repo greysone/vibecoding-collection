@@ -1,31 +1,22 @@
 {
-  "fetchedAt": "2026-07-31T14:06:27.541Z",
+  "fetchedAt": "2026-08-01T02:48:13.274Z",
   "repos": [
-    {
-      "repo": "mikiarlo3/ai-copywriter",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stars": "994",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+994 total",
-      "tags": []
-    },
     {
       "repo": "VictorTaelin/OptMem",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "984",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+984 total",
+      "trend": "+1.0k total",
       "tags": []
     },
     {
       "repo": "QwenAudio/qwen-audio-agent",
       "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "576",
+      "stars": "618",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+576 total",
+      "trend": "+618 total",
       "tags": [
         "agent",
         "agentic-ai",
@@ -37,10 +28,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "569",
+      "stars": "570",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+569 total",
+      "trend": "+570 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -65,40 +56,27 @@
       ]
     },
     {
-      "repo": "mikehasa/agentacct",
-      "desc": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "stars": "538",
-      "lang": "Python",
+      "repo": "0xwilliamortiz/ratchet",
+      "desc": "Your agent reads the rules. This checks whether it followed them.",
+      "stars": "395",
+      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+538 total",
+      "trend": "+395 total",
       "tags": [
-        "agent-observability",
         "ai-agents",
-        "analytics",
         "claude-code",
-        "cli"
-      ]
-    },
-    {
-      "repo": "perplexityai/numbat",
-      "desc": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "stars": "470",
-      "lang": "Go",
-      "license": "Apache-2.0",
-      "trend": "+470 total",
-      "tags": [
-        "agent-security",
-        "ai-agent-security",
-        "ai-agents"
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality"
       ]
     },
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "366",
+      "stars": "368",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+366 total",
+      "trend": "+368 total",
       "tags": [
         "agent",
         "ai",
@@ -108,46 +86,70 @@
       ]
     },
     {
-      "repo": "Eversmile12/leaked-llm-prompts",
-      "desc": "collections-of-leaked-prompts",
-      "stars": "328",
+      "repo": "elayadesign/ai-design-skills",
+      "desc": "(暂无描述)",
+      "stars": "247",
       "lang": "Other",
-      "license": "Other",
-      "trend": "+328 total",
+      "license": "MIT",
+      "trend": "+247 total",
       "tags": []
     },
     {
-      "repo": "qaml-ai/camelAI",
-      "desc": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-      "stars": "306",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+306 total",
-      "tags": []
-    },
-    {
-      "repo": "LYiHub/pub-local-jarvis",
-      "desc": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
-      "stars": "304",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+304 total",
+      "repo": "starling-build/starling",
+      "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": "185",
+      "lang": "Swift",
+      "license": "Apache-2.0",
+      "trend": "+185 total",
       "tags": [
-        "ai-assistants",
-        "cuda",
-        "desktop-assistant",
-        "local-ai",
-        "minicpm"
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm"
       ]
     },
     {
-      "repo": "elayadesign/ai-design-skills",
-      "desc": "(暂无描述)",
-      "stars": "242",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+242 total",
+      "repo": "Autumn-27/ARTEX",
+      "desc": "AI 自主渗透测试系统",
+      "stars": "176",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+176 total",
       "tags": []
+    },
+    {
+      "repo": "grafana/ai-sdk",
+      "desc": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "stars": "157",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+157 total",
+      "tags": []
+    },
+    {
+      "repo": "ZihangDong/toolknit-desktop",
+      "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
+      "stars": "151",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+151 total",
+      "tags": []
+    },
+    {
+      "repo": "aigclink/geolook",
+      "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "stars": "150",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+150 total",
+      "tags": [
+        "aeo",
+        "ai-search",
+        "ai-visibility",
+        "answer-engine-optimization",
+        "generative-engine-optimization"
+      ]
     }
   ]
 }

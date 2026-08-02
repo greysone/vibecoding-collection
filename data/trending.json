@@ -1,22 +1,13 @@
 {
-  "fetchedAt": "2026-08-01T13:20:51.532Z",
+  "fetchedAt": "2026-08-02T02:47:41.462Z",
   "repos": [
-    {
-      "repo": "VictorTaelin/OptMem",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": "1.1k",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+1.1k total",
-      "tags": []
-    },
     {
       "repo": "QwenAudio/qwen-audio-agent",
       "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "765",
+      "stars": "1.3k",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+765 total",
+      "trend": "+1.3k total",
       "tags": [
         "agent",
         "agentic-ai",
@@ -28,10 +19,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "573",
+      "stars": "577",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+573 total",
+      "trend": "+577 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -43,10 +34,10 @@
     {
       "repo": "0xwilliamortiz/openclaude-improved",
       "desc": "runs anywhere. uses anything",
-      "stars": "564",
+      "stars": "566",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+564 total",
+      "trend": "+566 total",
       "tags": [
         "agentic-ai",
         "ai",
@@ -58,10 +49,10 @@
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "405",
+      "stars": "408",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+405 total",
+      "trend": "+408 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -73,10 +64,10 @@
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "373",
+      "stars": "375",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+373 total",
+      "trend": "+375 total",
       "tags": [
         "agent",
         "ai",
@@ -88,19 +79,19 @@
     {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "249",
+      "stars": "253",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+249 total",
+      "trend": "+253 total",
       "tags": []
     },
     {
       "repo": "starling-build/starling",
       "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "209",
+      "stars": "232",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+209 total",
+      "trend": "+232 total",
       "tags": [
         "ai",
         "compositor",
@@ -112,37 +103,52 @@
     {
       "repo": "Autumn-27/ARTEX",
       "desc": "AI 自主渗透测试系统",
-      "stars": "179",
+      "stars": "181",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+179 total",
+      "trend": "+181 total",
       "tags": []
     },
     {
       "repo": "grafana/ai-sdk",
       "desc": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "stars": "168",
+      "stars": "180",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+168 total",
+      "trend": "+180 total",
       "tags": []
     },
     {
       "repo": "ZihangDong/toolknit-desktop",
       "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stars": "166",
+      "stars": "175",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+166 total",
+      "trend": "+175 total",
       "tags": []
+    },
+    {
+      "repo": "uczltw6/trace-file-lineage",
+      "desc": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "stars": "172",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+172 total",
+      "tags": [
+        "ai-agents",
+        "artifact-tracking",
+        "claude-code",
+        "cli",
+        "codex"
+      ]
     },
     {
       "repo": "aigclink/geolook",
       "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "155",
+      "stars": "168",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+155 total",
+      "trend": "+168 total",
       "tags": [
         "aeo",
         "ai-search",

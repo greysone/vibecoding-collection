@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-02T02:47:41.462Z",
+  "fetchedAt": "2026-08-02T13:21:02.950Z",
   "repos": [
     {
       "repo": "QwenAudio/qwen-audio-agent",
       "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "1.3k",
+      "stars": "1.7k",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+1.3k total",
+      "trend": "+1.7k total",
       "tags": [
         "agent",
         "agentic-ai",
@@ -19,10 +19,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "577",
+      "stars": "579",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+577 total",
+      "trend": "+579 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -49,10 +49,10 @@
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "408",
+      "stars": "409",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+408 total",
+      "trend": "+409 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -64,10 +64,10 @@
     {
       "repo": "deerwork-ai/deer-workflow",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "375",
+      "stars": "377",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+375 total",
+      "trend": "+377 total",
       "tags": [
         "agent",
         "ai",
@@ -79,19 +79,19 @@
     {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "253",
+      "stars": "256",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+253 total",
+      "trend": "+256 total",
       "tags": []
     },
     {
       "repo": "starling-build/starling",
       "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "232",
+      "stars": "245",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+232 total",
+      "trend": "+245 total",
       "tags": [
         "ai",
         "compositor",
@@ -101,54 +101,60 @@
       ]
     },
     {
-      "repo": "Autumn-27/ARTEX",
-      "desc": "AI 自主渗透测试系统",
-      "stars": "181",
-      "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+181 total",
+      "repo": "0xwilliamortiz/humanizer-cli",
+      "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "stars": "199",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+199 total",
+      "tags": [
+        "ai-slop",
+        "ai-slop-detection",
+        "ai-slop-detector",
+        "ai-slop-fixer",
+        "ai-slop-remover"
+      ]
+    },
+    {
+      "repo": "ZihangDong/toolknit-desktop",
+      "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
+      "stars": "191",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+191 total",
       "tags": []
     },
     {
       "repo": "grafana/ai-sdk",
       "desc": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "stars": "180",
+      "stars": "186",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+180 total",
+      "trend": "+186 total",
       "tags": []
     },
     {
-      "repo": "ZihangDong/toolknit-desktop",
-      "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stars": "175",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+175 total",
-      "tags": []
-    },
-    {
-      "repo": "uczltw6/trace-file-lineage",
-      "desc": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
-      "stars": "172",
+      "repo": "Anionex/codex-vision-proxy",
+      "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "stars": "184",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+172 total",
+      "trend": "+184 total",
       "tags": [
-        "ai-agents",
-        "artifact-tracking",
-        "claude-code",
-        "cli",
-        "codex"
+        "agent",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
       ]
     },
     {
       "repo": "aigclink/geolook",
       "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "168",
+      "stars": "182",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+168 total",
+      "trend": "+182 total",
       "tags": [
         "aeo",
         "ai-search",

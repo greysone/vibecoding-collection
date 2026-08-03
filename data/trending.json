@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T13:21:02.950Z",
+  "fetchedAt": "2026-08-03T02:48:38.369Z",
   "repos": [
     {
       "repo": "QwenAudio/qwen-audio-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "579",
+      "stars": "580",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+579 total",
+      "trend": "+580 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -32,81 +32,12 @@
       ]
     },
     {
-      "repo": "0xwilliamortiz/openclaude-improved",
-      "desc": "runs anywhere. uses anything",
-      "stars": "566",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+566 total",
-      "tags": [
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "ai-coding-agent"
-      ]
-    },
-    {
-      "repo": "0xwilliamortiz/ratchet",
-      "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "409",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+409 total",
-      "tags": [
-        "ai-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "code-quality"
-      ]
-    },
-    {
-      "repo": "deerwork-ai/deer-workflow",
-      "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "377",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+377 total",
-      "tags": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding"
-      ]
-    },
-    {
-      "repo": "elayadesign/ai-design-skills",
-      "desc": "(暂无描述)",
-      "stars": "256",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+256 total",
-      "tags": []
-    },
-    {
-      "repo": "starling-build/starling",
-      "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "245",
-      "lang": "Swift",
-      "license": "Apache-2.0",
-      "trend": "+245 total",
-      "tags": [
-        "ai",
-        "compositor",
-        "desktop",
-        "desktop-environment",
-        "drm"
-      ]
-    },
-    {
       "repo": "0xwilliamortiz/humanizer-cli",
       "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "199",
+      "stars": "542",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+199 total",
+      "trend": "+542 total",
       "tags": [
         "ai-slop",
         "ai-slop-detection",
@@ -116,30 +47,66 @@
       ]
     },
     {
-      "repo": "ZihangDong/toolknit-desktop",
-      "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stars": "191",
+      "repo": "0xwilliamortiz/ratchet",
+      "desc": "Your agent reads the rules. This checks whether it followed them.",
+      "stars": "411",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+191 total",
+      "trend": "+411 total",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality"
+      ]
+    },
+    {
+      "repo": "FareedKhan-dev/kimi-k3-in-c",
+      "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars": "287",
+      "lang": "C",
+      "license": "Apache-2.0",
+      "trend": "+287 total",
+      "tags": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning",
+        "from-scratch"
+      ]
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "desc": "(暂无描述)",
+      "stars": "279",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+279 total",
       "tags": []
     },
     {
-      "repo": "grafana/ai-sdk",
-      "desc": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "stars": "186",
-      "lang": "Go",
+      "repo": "starling-build/starling",
+      "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": "256",
+      "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+186 total",
-      "tags": []
+      "trend": "+256 total",
+      "tags": [
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm"
+      ]
     },
     {
       "repo": "Anionex/codex-vision-proxy",
       "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "stars": "184",
+      "stars": "208",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+184 total",
+      "trend": "+208 total",
       "tags": [
         "agent",
         "codex",
@@ -149,12 +116,45 @@
       ]
     },
     {
-      "repo": "aigclink/geolook",
-      "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "182",
+      "repo": "ZihangDong/toolknit-desktop",
+      "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
+      "stars": "205",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+205 total",
+      "tags": []
+    },
+    {
+      "repo": "uczltw6/trace-file-lineage",
+      "desc": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "stars": "202",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+182 total",
+      "trend": "+202 total",
+      "tags": [
+        "ai-agents",
+        "artifact-tracking",
+        "claude-code",
+        "cli",
+        "codex"
+      ]
+    },
+    {
+      "repo": "grafana/ai-sdk",
+      "desc": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "stars": "194",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+194 total",
+      "tags": []
+    },
+    {
+      "repo": "aigclink/geolook",
+      "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "stars": "185",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+185 total",
       "tags": [
         "aeo",
         "ai-search",

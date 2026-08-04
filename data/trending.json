@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-04T02:32:09.554Z",
+  "fetchedAt": "2026-08-04T14:11:22.427Z",
   "repos": [
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "stars": "1.3k",
+      "stars": "1.6k",
       "lang": "C",
       "license": "Apache-2.0",
-      "trend": "+1.3k total",
+      "trend": "+1.6k total",
       "tags": [
         "avx2",
         "c99",
@@ -19,10 +19,10 @@
     {
       "repo": "genspark-ai/genoffice",
       "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stars": "712",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+712 total",
+      "trend": "+1.1k total",
       "tags": [
         "ai",
         "docx",
@@ -34,10 +34,10 @@
     {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "585",
+      "stars": "587",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+585 total",
+      "trend": "+587 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -49,10 +49,10 @@
     {
       "repo": "0xwilliamortiz/humanizer-cli",
       "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "559",
+      "stars": "565",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+559 total",
+      "trend": "+565 total",
       "tags": [
         "ai-slop",
         "ai-slop-detection",
@@ -64,10 +64,10 @@
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "424",
+      "stars": "428",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+424 total",
+      "trend": "+428 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -79,19 +79,37 @@
     {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "296",
+      "stars": "343",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+296 total",
+      "trend": "+343 total",
+      "tags": []
+    },
+    {
+      "repo": "MarcosSete/awesome-free-ai-course-notes",
+      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "stars": "314",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+314 total",
+      "tags": []
+    },
+    {
+      "repo": "sophiamyang/finger-frame-effect-ai",
+      "desc": "(暂无描述)",
+      "stars": "306",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+306 total",
       "tags": []
     },
     {
       "repo": "aigclink/geolook",
       "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "280",
+      "stars": "306",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+280 total",
+      "trend": "+306 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -101,12 +119,21 @@
       ]
     },
     {
+      "repo": "aws/context-ontology-accelerator",
+      "desc": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "stars": "291",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+291 total",
+      "tags": []
+    },
+    {
       "repo": "starling-build/starling",
       "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "277",
+      "stars": "280",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+277 total",
+      "trend": "+280 total",
       "tags": [
         "ai",
         "compositor",
@@ -116,21 +143,12 @@
       ]
     },
     {
-      "repo": "aws/context-ontology-accelerator",
-      "desc": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "stars": "271",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+271 total",
-      "tags": []
-    },
-    {
       "repo": "Anionex/codex-vision-proxy",
-      "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "stars": "260",
+      "desc": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "stars": "272",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+260 total",
+      "trend": "+272 total",
       "tags": [
         "agent",
         "codex",
@@ -138,30 +156,6 @@
         "glm",
         "kimi"
       ]
-    },
-    {
-      "repo": "uczltw6/trace-file-lineage",
-      "desc": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
-      "stars": "237",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+237 total",
-      "tags": [
-        "ai-agents",
-        "artifact-tracking",
-        "claude-code",
-        "cli",
-        "codex"
-      ]
-    },
-    {
-      "repo": "ZihangDong/toolknit-desktop",
-      "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stars": "226",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+226 total",
-      "tags": []
     }
   ]
 }

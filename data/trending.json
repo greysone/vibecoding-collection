@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-08-03T14:38:57.376Z",
+  "fetchedAt": "2026-08-04T02:32:09.554Z",
   "repos": [
-    {
-      "repo": "QwenAudio/qwen-audio-agent",
-      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stars": "1.8k",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+1.8k total",
-      "tags": [
-        "agent",
-        "agentic-ai",
-        "voice-agent",
-        "voice-ai",
-        "voice-chat"
-      ]
-    },
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "stars": "828",
+      "stars": "1.3k",
       "lang": "C",
       "license": "Apache-2.0",
-      "trend": "+828 total",
+      "trend": "+1.3k total",
       "tags": [
         "avx2",
         "c99",
@@ -32,12 +17,27 @@
       ]
     },
     {
+      "repo": "genspark-ai/genoffice",
+      "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "stars": "712",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+712 total",
+      "tags": [
+        "ai",
+        "docx",
+        "electron",
+        "office-suite",
+        "pdf"
+      ]
+    },
+    {
       "repo": "0xwilliamortiz/ponytail-improved",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "584",
+      "stars": "585",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+584 total",
+      "trend": "+585 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -49,10 +49,10 @@
     {
       "repo": "0xwilliamortiz/humanizer-cli",
       "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "545",
+      "stars": "559",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+545 total",
+      "trend": "+559 total",
       "tags": [
         "ai-slop",
         "ai-slop-detection",
@@ -64,10 +64,10 @@
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "416",
+      "stars": "424",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+416 total",
+      "trend": "+424 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -79,73 +79,19 @@
     {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "290",
+      "stars": "296",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+290 total",
-      "tags": []
-    },
-    {
-      "repo": "starling-build/starling",
-      "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "266",
-      "lang": "Swift",
-      "license": "Apache-2.0",
-      "trend": "+266 total",
-      "tags": [
-        "ai",
-        "compositor",
-        "desktop",
-        "desktop-environment",
-        "drm"
-      ]
-    },
-    {
-      "repo": "genspark-ai/genoffice",
-      "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stars": "250",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+250 total",
-      "tags": [
-        "ai",
-        "docx",
-        "electron",
-        "office-suite",
-        "pdf"
-      ]
-    },
-    {
-      "repo": "Anionex/codex-vision-proxy",
-      "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "stars": "241",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+241 total",
-      "tags": [
-        "agent",
-        "codex",
-        "deepseek",
-        "glm",
-        "kimi"
-      ]
-    },
-    {
-      "repo": "aws/context-ontology-accelerator",
-      "desc": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "stars": "229",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+229 total",
+      "trend": "+296 total",
       "tags": []
     },
     {
       "repo": "aigclink/geolook",
       "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "222",
+      "stars": "280",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+222 total",
+      "trend": "+280 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -155,12 +101,66 @@
       ]
     },
     {
+      "repo": "starling-build/starling",
+      "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": "277",
+      "lang": "Swift",
+      "license": "Apache-2.0",
+      "trend": "+277 total",
+      "tags": [
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm"
+      ]
+    },
+    {
+      "repo": "aws/context-ontology-accelerator",
+      "desc": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "stars": "271",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+271 total",
+      "tags": []
+    },
+    {
+      "repo": "Anionex/codex-vision-proxy",
+      "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "stars": "260",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+260 total",
+      "tags": [
+        "agent",
+        "codex",
+        "deepseek",
+        "glm",
+        "kimi"
+      ]
+    },
+    {
+      "repo": "uczltw6/trace-file-lineage",
+      "desc": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "stars": "237",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+237 total",
+      "tags": [
+        "ai-agents",
+        "artifact-tracking",
+        "claude-code",
+        "cli",
+        "codex"
+      ]
+    },
+    {
       "repo": "ZihangDong/toolknit-desktop",
       "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stars": "217",
+      "stars": "226",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+217 total",
+      "trend": "+226 total",
       "tags": []
     }
   ]

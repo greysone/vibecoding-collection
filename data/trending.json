@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-05T02:31:36.255Z",
+  "fetchedAt": "2026-08-05T14:08:53.023Z",
   "repos": [
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "stars": "2.1k",
+      "stars": "2.4k",
       "lang": "C",
       "license": "Apache-2.0",
-      "trend": "+2.1k total",
+      "trend": "+2.4k total",
       "tags": [
         "avx2",
         "c99",
@@ -19,10 +19,10 @@
     {
       "repo": "genspark-ai/genoffice",
       "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stars": "1.4k",
+      "stars": "1.6k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.4k total",
+      "trend": "+1.6k total",
       "tags": [
         "ai",
         "docx",
@@ -32,12 +32,26 @@
       ]
     },
     {
+      "repo": "KKKKhazix/human-writing",
+      "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "stars": "864",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+864 total",
+      "tags": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ]
+    },
+    {
       "repo": "0xwilliamortiz/humanizer-cli",
       "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "569",
+      "stars": "577",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+569 total",
+      "trend": "+577 total",
       "tags": [
         "ai-slop",
         "ai-slop-detection",
@@ -47,21 +61,54 @@
       ]
     },
     {
+      "repo": "sophiamyang/finger-frame-effect-ai",
+      "desc": "(暂无描述)",
+      "stars": "522",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+522 total",
+      "tags": []
+    },
+    {
       "repo": "elayadesign/ai-design-skills",
       "desc": "(暂无描述)",
-      "stars": "445",
+      "stars": "478",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+445 total",
+      "trend": "+478 total",
+      "tags": []
+    },
+    {
+      "repo": "magicrew/doc7",
+      "desc": "Turn documents into AI-ready Markdown with visual understanding",
+      "stars": "446",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+446 total",
+      "tags": [
+        "document-ai",
+        "docx-to-markdown",
+        "local-ai",
+        "markdown",
+        "multimodal"
+      ]
+    },
+    {
+      "repo": "MarcosSete/awesome-free-ai-course-notes",
+      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "stars": "431",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+431 total",
       "tags": []
     },
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "430",
+      "stars": "431",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+430 total",
+      "trend": "+431 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -71,30 +118,12 @@
       ]
     },
     {
-      "repo": "sophiamyang/finger-frame-effect-ai",
-      "desc": "(暂无描述)",
-      "stars": "420",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+420 total",
-      "tags": []
-    },
-    {
-      "repo": "MarcosSete/awesome-free-ai-course-notes",
-      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "390",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+390 total",
-      "tags": []
-    },
-    {
       "repo": "aigclink/geolook",
       "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "316",
+      "stars": "352",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+316 total",
+      "trend": "+352 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -106,10 +135,10 @@
     {
       "repo": "patchy631/time-to-first-token",
       "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "stars": "293",
+      "stars": "321",
       "lang": "HTML",
       "license": "Apache-2.0",
-      "trend": "+293 total",
+      "trend": "+321 total",
       "tags": [
         "learning-resources",
         "llm",
@@ -119,43 +148,13 @@
       ]
     },
     {
-      "repo": "Anionex/codex-vision-proxy",
-      "desc": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "stars": "275",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+275 total",
-      "tags": [
-        "agent",
-        "agent-skills",
-        "codex",
-        "deepseek",
-        "deepseek-v4"
-      ]
-    },
-    {
       "repo": "joeseesun/qiaomu-seo",
       "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "stars": "271",
+      "stars": "307",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+271 total",
+      "trend": "+307 total",
       "tags": []
-    },
-    {
-      "repo": "uczltw6/trace-file-lineage",
-      "desc": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
-      "stars": "250",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+250 total",
-      "tags": [
-        "ai-agents",
-        "artifact-tracking",
-        "claude-code",
-        "cli",
-        "codex"
-      ]
     }
   ]
 }

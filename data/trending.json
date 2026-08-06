@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-05T14:08:53.023Z",
+  "fetchedAt": "2026-08-06T02:34:03.713Z",
   "repos": [
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "stars": "2.4k",
+      "stars": "2.6k",
       "lang": "C",
       "license": "Apache-2.0",
-      "trend": "+2.4k total",
+      "trend": "+2.6k total",
       "tags": [
         "avx2",
         "c99",
@@ -19,10 +19,10 @@
     {
       "repo": "genspark-ai/genoffice",
       "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stars": "1.6k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.6k total",
+      "trend": "+1.8k total",
       "tags": [
         "ai",
         "docx",
@@ -34,10 +34,10 @@
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": "864",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+864 total",
+      "trend": "+1.1k total",
       "tags": [
         "agent-skills",
         "chinese-writing",
@@ -46,12 +46,21 @@
       ]
     },
     {
+      "repo": "Binaryify/open-kimi-ppt-skill",
+      "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "stars": "714",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+714 total",
+      "tags": []
+    },
+    {
       "repo": "0xwilliamortiz/humanizer-cli",
       "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "577",
+      "stars": "578",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+577 total",
+      "trend": "+578 total",
       "tags": [
         "ai-slop",
         "ai-slop-detection",
@@ -63,28 +72,19 @@
     {
       "repo": "sophiamyang/finger-frame-effect-ai",
       "desc": "(暂无描述)",
-      "stars": "522",
+      "stars": "557",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+522 total",
-      "tags": []
-    },
-    {
-      "repo": "elayadesign/ai-design-skills",
-      "desc": "(暂无描述)",
-      "stars": "478",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+478 total",
+      "trend": "+557 total",
       "tags": []
     },
     {
       "repo": "magicrew/doc7",
       "desc": "Turn documents into AI-ready Markdown with visual understanding",
-      "stars": "446",
+      "stars": "457",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+446 total",
+      "trend": "+457 total",
       "tags": [
         "document-ai",
         "docx-to-markdown",
@@ -96,19 +96,19 @@
     {
       "repo": "MarcosSete/awesome-free-ai-course-notes",
       "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "431",
+      "stars": "453",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+431 total",
+      "trend": "+453 total",
       "tags": []
     },
     {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "431",
+      "stars": "432",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+431 total",
+      "trend": "+432 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -118,27 +118,27 @@
       ]
     },
     {
-      "repo": "aigclink/geolook",
-      "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "stars": "352",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+352 total",
+      "repo": "criptogus/HermesOffice",
+      "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "stars": "349",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+349 total",
       "tags": [
-        "aeo",
-        "ai-search",
-        "ai-visibility",
-        "answer-engine-optimization",
-        "generative-engine-optimization"
+        "ai-native",
+        "docx",
+        "electron",
+        "fork",
+        "genoffice"
       ]
     },
     {
       "repo": "patchy631/time-to-first-token",
       "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "stars": "321",
+      "stars": "331",
       "lang": "HTML",
       "license": "Apache-2.0",
-      "trend": "+321 total",
+      "trend": "+331 total",
       "tags": [
         "learning-resources",
         "llm",
@@ -148,12 +148,12 @@
       ]
     },
     {
-      "repo": "joeseesun/qiaomu-seo",
-      "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "stars": "307",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+307 total",
+      "repo": "fuxicodex/Fuxi",
+      "desc": "FuXi is a fast, self-contained AI developer terminal",
+      "stars": "316",
+      "lang": "Other",
+      "license": "Apache-2.0",
+      "trend": "+316 total",
       "tags": []
     }
   ]

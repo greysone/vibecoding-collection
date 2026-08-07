@@ -1,13 +1,22 @@
 {
-  "fetchedAt": "2026-08-06T14:09:27.435Z",
+  "fetchedAt": "2026-08-07T02:39:54.110Z",
   "repos": [
+    {
+      "repo": "trycompai/crm",
+      "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "stars": "7.2k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+7.2k total",
+      "tags": []
+    },
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "stars": "2.7k",
+      "stars": "2.9k",
       "lang": "C",
       "license": "Apache-2.0",
-      "trend": "+2.7k total",
+      "trend": "+2.9k total",
       "tags": [
         "avx2",
         "c99",
@@ -19,10 +28,10 @@
     {
       "repo": "genspark-ai/genoffice",
       "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+2.0k total",
+      "trend": "+2.1k total",
       "tags": [
         "ai",
         "docx",
@@ -34,10 +43,10 @@
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent-skills",
         "chinese-writing",
@@ -48,19 +57,28 @@
     {
       "repo": "Binaryify/open-kimi-ppt-skill",
       "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "stars": "1.1k",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.4k total",
+      "tags": []
+    },
+    {
+      "repo": "sophiamyang/finger-frame-effect-ai",
+      "desc": "(暂无描述)",
+      "stars": "590",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+590 total",
       "tags": []
     },
     {
       "repo": "0xwilliamortiz/humanizer-cli",
       "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "580",
+      "stars": "582",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+580 total",
+      "trend": "+582 total",
       "tags": [
         "ai-slop",
         "ai-slop-detection",
@@ -70,30 +88,12 @@
       ]
     },
     {
-      "repo": "sophiamyang/finger-frame-effect-ai",
-      "desc": "(暂无描述)",
-      "stars": "579",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+579 total",
-      "tags": []
-    },
-    {
-      "repo": "MarcosSete/awesome-free-ai-course-notes",
-      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "481",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+481 total",
-      "tags": []
-    },
-    {
       "repo": "magicrew/doc7",
       "desc": "Turn documents into AI-ready Markdown with visual understanding",
-      "stars": "463",
+      "stars": "552",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+463 total",
+      "trend": "+552 total",
       "tags": [
         "document-ai",
         "docx-to-markdown",
@@ -103,12 +103,21 @@
       ]
     },
     {
+      "repo": "MarcosSete/awesome-free-ai-course-notes",
+      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "stars": "501",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+501 total",
+      "tags": []
+    },
+    {
       "repo": "0xwilliamortiz/ratchet",
       "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "stars": "435",
+      "stars": "436",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+435 total",
+      "trend": "+436 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -120,40 +129,25 @@
     {
       "repo": "fuxicodex/Fuxi",
       "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "408",
+      "stars": "427",
       "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+408 total",
+      "trend": "+427 total",
       "tags": []
     },
     {
       "repo": "criptogus/HermesOffice",
       "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stars": "375",
+      "stars": "396",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+375 total",
+      "trend": "+396 total",
       "tags": [
         "ai-native",
         "docx",
         "electron",
         "fork",
         "genoffice"
-      ]
-    },
-    {
-      "repo": "patchy631/time-to-first-token",
-      "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "stars": "333",
-      "lang": "HTML",
-      "license": "Apache-2.0",
-      "trend": "+333 total",
-      "tags": [
-        "learning-resources",
-        "llm",
-        "llm-inference",
-        "mlops",
-        "roadmap"
       ]
     }
   ]

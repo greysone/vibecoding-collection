@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-09T01:44:19.430Z",
+  "fetchedAt": "2026-08-09T12:50:06.071Z",
   "repos": [
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.0k total",
+      "trend": "+2.1k total",
       "tags": [
         "agent-skills",
         "chinese-writing",
@@ -27,10 +27,10 @@
     {
       "repo": "magicrew/doc7",
       "desc": "Turn documents into AI-ready Markdown with visual understanding",
-      "stars": "729",
+      "stars": "832",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+729 total",
+      "trend": "+832 total",
       "tags": [
         "document-ai",
         "docx-to-markdown",
@@ -42,46 +42,61 @@
     {
       "repo": "sophiamyang/finger-frame-effect-ai",
       "desc": "(暂无描述)",
-      "stars": "624",
+      "stars": "641",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+624 total",
+      "trend": "+641 total",
       "tags": []
     },
     {
       "repo": "MarcosSete/awesome-free-ai-course-notes",
       "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "560",
+      "stars": "568",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+560 total",
+      "trend": "+568 total",
       "tags": []
     },
     {
       "repo": "jd-opensource/JoyAI-Video-Edit",
       "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": "517",
+      "stars": "565",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+517 total",
+      "trend": "+565 total",
       "tags": []
+    },
+    {
+      "repo": "AMAP-ML/LongHorizon-Harness",
+      "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "stars": "464",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+464 total",
+      "tags": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli"
+      ]
     },
     {
       "repo": "fuxicodex/Fuxi",
       "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "440",
+      "stars": "448",
       "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+440 total",
+      "trend": "+448 total",
       "tags": []
     },
     {
       "repo": "criptogus/HermesOffice",
       "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stars": "419",
+      "stars": "423",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+419 total",
+      "trend": "+423 total",
       "tags": [
         "ai-native",
         "docx",
@@ -91,19 +106,13 @@
       ]
     },
     {
-      "repo": "AMAP-ML/LongHorizon-Harness",
-      "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": "411",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+411 total",
-      "tags": [
-        "agent",
-        "claude",
-        "claude-code",
-        "claude-plugin",
-        "cli"
-      ]
+      "repo": "eternityspring/shuohao-skills",
+      "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "stars": "403",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+403 total",
+      "tags": []
     },
     {
       "repo": "patchy631/time-to-first-token",
@@ -127,15 +136,6 @@
       "lang": "Python",
       "license": "MIT",
       "trend": "+325 total",
-      "tags": []
-    },
-    {
-      "repo": "eternityspring/shuohao-skills",
-      "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "stars": "286",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+286 total",
       "tags": []
     }
   ]

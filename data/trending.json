@@ -1,21 +1,6 @@
 {
-  "fetchedAt": "2026-08-08T12:47:50.681Z",
+  "fetchedAt": "2026-08-09T01:44:19.430Z",
   "repos": [
-    {
-      "repo": "FareedKhan-dev/kimi-k3-in-c",
-      "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "stars": "3.5k",
-      "lang": "C",
-      "license": "Apache-2.0",
-      "trend": "+3.5k total",
-      "tags": [
-        "avx2",
-        "c99",
-        "cpu-inference",
-        "deep-learning",
-        "from-scratch"
-      ]
-    },
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -42,10 +27,10 @@
     {
       "repo": "magicrew/doc7",
       "desc": "Turn documents into AI-ready Markdown with visual understanding",
-      "stars": "720",
+      "stars": "729",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+720 total",
+      "trend": "+729 total",
       "tags": [
         "document-ai",
         "docx-to-markdown",
@@ -57,61 +42,46 @@
     {
       "repo": "sophiamyang/finger-frame-effect-ai",
       "desc": "(暂无描述)",
-      "stars": "613",
+      "stars": "624",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+613 total",
+      "trend": "+624 total",
       "tags": []
-    },
-    {
-      "repo": "0xwilliamortiz/humanizer-cli",
-      "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stars": "585",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+585 total",
-      "tags": [
-        "ai-slop",
-        "ai-slop-detection",
-        "ai-slop-detector",
-        "ai-slop-fixer",
-        "ai-slop-remover"
-      ]
     },
     {
       "repo": "MarcosSete/awesome-free-ai-course-notes",
       "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "554",
+      "stars": "560",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+554 total",
+      "trend": "+560 total",
       "tags": []
     },
     {
       "repo": "jd-opensource/JoyAI-Video-Edit",
       "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": "474",
+      "stars": "517",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+474 total",
+      "trend": "+517 total",
       "tags": []
     },
     {
       "repo": "fuxicodex/Fuxi",
       "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "434",
+      "stars": "440",
       "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+434 total",
+      "trend": "+440 total",
       "tags": []
     },
     {
       "repo": "criptogus/HermesOffice",
       "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stars": "417",
+      "stars": "419",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+417 total",
+      "trend": "+419 total",
       "tags": [
         "ai-native",
         "docx",
@@ -123,10 +93,10 @@
     {
       "repo": "AMAP-ML/LongHorizon-Harness",
       "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": "402",
+      "stars": "411",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+402 total",
+      "trend": "+411 total",
       "tags": [
         "agent",
         "claude",
@@ -136,19 +106,37 @@
       ]
     },
     {
-      "repo": "Anionex/agent-vision-toolkit",
-      "desc": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
-      "stars": "354",
+      "repo": "patchy631/time-to-first-token",
+      "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "stars": "349",
+      "lang": "HTML",
+      "license": "Apache-2.0",
+      "trend": "+349 total",
+      "tags": [
+        "learning-resources",
+        "llm",
+        "llm-inference",
+        "mlops",
+        "roadmap"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-seo",
+      "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "stars": "325",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+354 total",
-      "tags": [
-        "agent",
-        "agent-skills",
-        "claude-code",
-        "cli",
-        "codex"
-      ]
+      "trend": "+325 total",
+      "tags": []
+    },
+    {
+      "repo": "eternityspring/shuohao-skills",
+      "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "stars": "286",
+      "lang": "JavaScript",
+      "license": "Apache-2.0",
+      "trend": "+286 total",
+      "tags": []
     }
   ]
 }

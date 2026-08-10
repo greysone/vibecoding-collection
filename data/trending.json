@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-10T01:48:04.213Z",
+  "fetchedAt": "2026-08-10T13:07:20.622Z",
   "repos": [
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": "2.1k",
+      "stars": "2.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.2k total",
       "tags": [
         "agent-skills",
         "chinese-writing",
@@ -27,37 +27,37 @@
     {
       "repo": "jd-opensource/JoyAI-Video-Edit",
       "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": "613",
+      "stars": "680",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+613 total",
-      "tags": []
-    },
-    {
-      "repo": "MarcosSete/awesome-free-ai-course-notes",
-      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "578",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+578 total",
+      "trend": "+680 total",
       "tags": []
     },
     {
       "repo": "eternityspring/shuohao-skills",
       "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "stars": "513",
+      "stars": "623",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+513 total",
+      "trend": "+623 total",
+      "tags": []
+    },
+    {
+      "repo": "MarcosSete/awesome-free-ai-course-notes",
+      "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "stars": "585",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+585 total",
       "tags": []
     },
     {
       "repo": "AMAP-ML/LongHorizon-Harness",
       "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": "508",
+      "stars": "538",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+508 total",
+      "trend": "+538 total",
       "tags": [
         "agent",
         "claude",
@@ -67,12 +67,36 @@
       ]
     },
     {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "desc": "(暂无描述)",
+      "stars": "464",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+464 total",
+      "tags": []
+    },
+    {
+      "repo": "sv-number/mcp-server",
+      "desc": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "stars": "464",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+464 total",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "mcp",
+        "model-context-protocol",
+        "otp"
+      ]
+    },
+    {
       "repo": "fuxicodex/Fuxi",
       "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "452",
+      "stars": "456",
       "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+452 total",
+      "trend": "+456 total",
       "tags": []
     },
     {
@@ -91,46 +115,22 @@
       ]
     },
     {
-      "repo": "joeseesun/qiaomu-seo",
-      "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "stars": "328",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+328 total",
-      "tags": []
-    },
-    {
-      "repo": "EcZachly/databricks-ai-bootcamp-capstone",
-      "desc": "(暂无描述)",
-      "stars": "261",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+261 total",
-      "tags": []
-    },
-    {
       "repo": "mewamew/my_ai_town",
       "desc": "我的AI小镇",
-      "stars": "252",
+      "stars": "341",
       "lang": "GDScript",
       "license": "Other",
-      "trend": "+252 total",
+      "trend": "+341 total",
       "tags": []
     },
     {
-      "repo": "sv-number/mcp-server",
-      "desc": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-      "stars": "250",
-      "lang": "JavaScript",
+      "repo": "joeseesun/qiaomu-seo",
+      "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "stars": "331",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+250 total",
-      "tags": [
-        "ai-agents",
-        "claude-code",
-        "mcp",
-        "model-context-protocol",
-        "otp"
-      ]
+      "trend": "+331 total",
+      "tags": []
     }
   ]
 }

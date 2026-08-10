@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T12:50:06.071Z",
+  "fetchedAt": "2026-08-10T01:48:04.213Z",
   "repos": [
     {
       "repo": "KKKKhazix/human-writing",
@@ -25,54 +25,39 @@
       "tags": []
     },
     {
-      "repo": "magicrew/doc7",
-      "desc": "Turn documents into AI-ready Markdown with visual understanding",
-      "stars": "832",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+832 total",
-      "tags": [
-        "document-ai",
-        "docx-to-markdown",
-        "local-ai",
-        "markdown",
-        "multimodal"
-      ]
-    },
-    {
-      "repo": "sophiamyang/finger-frame-effect-ai",
-      "desc": "(暂无描述)",
-      "stars": "641",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+641 total",
+      "repo": "jd-opensource/JoyAI-Video-Edit",
+      "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "stars": "613",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+613 total",
       "tags": []
     },
     {
       "repo": "MarcosSete/awesome-free-ai-course-notes",
       "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stars": "568",
+      "stars": "578",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+568 total",
+      "trend": "+578 total",
       "tags": []
     },
     {
-      "repo": "jd-opensource/JoyAI-Video-Edit",
-      "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": "565",
-      "lang": "Python",
+      "repo": "eternityspring/shuohao-skills",
+      "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "stars": "513",
+      "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+565 total",
+      "trend": "+513 total",
       "tags": []
     },
     {
       "repo": "AMAP-ML/LongHorizon-Harness",
       "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": "464",
+      "stars": "508",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+464 total",
+      "trend": "+508 total",
       "tags": [
         "agent",
         "claude",
@@ -84,19 +69,19 @@
     {
       "repo": "fuxicodex/Fuxi",
       "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "448",
+      "stars": "452",
       "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+448 total",
+      "trend": "+452 total",
       "tags": []
     },
     {
       "repo": "criptogus/HermesOffice",
       "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stars": "423",
+      "stars": "425",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+423 total",
+      "trend": "+425 total",
       "tags": [
         "ai-native",
         "docx",
@@ -106,37 +91,46 @@
       ]
     },
     {
-      "repo": "eternityspring/shuohao-skills",
-      "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "stars": "403",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+403 total",
-      "tags": []
-    },
-    {
-      "repo": "patchy631/time-to-first-token",
-      "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "stars": "349",
-      "lang": "HTML",
-      "license": "Apache-2.0",
-      "trend": "+349 total",
-      "tags": [
-        "learning-resources",
-        "llm",
-        "llm-inference",
-        "mlops",
-        "roadmap"
-      ]
-    },
-    {
       "repo": "joeseesun/qiaomu-seo",
       "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "stars": "325",
+      "stars": "328",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+325 total",
+      "trend": "+328 total",
       "tags": []
+    },
+    {
+      "repo": "EcZachly/databricks-ai-bootcamp-capstone",
+      "desc": "(暂无描述)",
+      "stars": "261",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+261 total",
+      "tags": []
+    },
+    {
+      "repo": "mewamew/my_ai_town",
+      "desc": "我的AI小镇",
+      "stars": "252",
+      "lang": "GDScript",
+      "license": "Other",
+      "trend": "+252 total",
+      "tags": []
+    },
+    {
+      "repo": "sv-number/mcp-server",
+      "desc": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "stars": "250",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+250 total",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "mcp",
+        "model-context-protocol",
+        "otp"
+      ]
     }
   ]
 }

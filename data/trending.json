@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-11T01:44:34.691Z",
+  "fetchedAt": "2026-08-11T13:04:31.843Z",
   "repos": [
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": "2.3k",
+      "stars": "2.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.3k total",
+      "trend": "+2.4k total",
       "tags": [
         "agent-skills",
         "chinese-writing",
@@ -27,52 +27,37 @@
     {
       "repo": "SMNETSTUDIO/WeChat-AI",
       "desc": "(暂无描述)",
-      "stars": "798",
+      "stars": "1.3k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+798 total",
+      "trend": "+1.3k total",
       "tags": []
     },
     {
       "repo": "jd-opensource/JoyAI-Video-Edit",
       "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": "730",
+      "stars": "786",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+730 total",
+      "trend": "+786 total",
       "tags": []
     },
     {
       "repo": "eternityspring/shuohao-skills",
       "desc": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-      "stars": "648",
+      "stars": "736",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+648 total",
+      "trend": "+736 total",
       "tags": []
-    },
-    {
-      "repo": "AMAP-ML/LongHorizon-Harness",
-      "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": "552",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+552 total",
-      "tags": [
-        "agent",
-        "claude",
-        "claude-code",
-        "claude-plugin",
-        "cli"
-      ]
     },
     {
       "repo": "sv-number/mcp-server",
       "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "stars": "549",
+      "stars": "582",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+549 total",
+      "trend": "+582 total",
       "tags": [
         "ai-agents",
         "claude",
@@ -82,21 +67,36 @@
       ]
     },
     {
+      "repo": "AMAP-ML/LongHorizon-Harness",
+      "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "stars": "571",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+571 total",
+      "tags": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli"
+      ]
+    },
+    {
       "repo": "fuxicodex/Fuxi",
       "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "432",
+      "stars": "445",
       "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+432 total",
+      "trend": "+445 total",
       "tags": []
     },
     {
       "repo": "criptogus/HermesOffice",
       "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stars": "425",
+      "stars": "428",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+425 total",
+      "trend": "+428 total",
       "tags": [
         "ai-native",
         "docx",
@@ -108,40 +108,40 @@
     {
       "repo": "mewamew/my_ai_town",
       "desc": "我的AI小镇",
-      "stars": "365",
+      "stars": "415",
       "lang": "GDScript",
       "license": "Other",
-      "trend": "+365 total",
+      "trend": "+415 total",
       "tags": []
+    },
+    {
+      "repo": "SaladDay/pi-from-scratch",
+      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "stars": "404",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+404 total",
+      "tags": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent"
+      ]
     },
     {
       "repo": "crawfordxx/xiaoma-durex-copywriter",
       "desc": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线",
-      "stars": "334",
+      "stars": "382",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+334 total",
+      "trend": "+382 total",
       "tags": [
         "advertising",
         "chinese-copywriting",
         "claude-code",
         "claude-skill",
         "copywriting"
-      ]
-    },
-    {
-      "repo": "waiterve/wai-play",
-      "desc": "WAI Play - AI web game testing and quality evaluation platform",
-      "stars": "295",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+295 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "game",
-        "game-testing",
-        "python"
       ]
     }
   ]

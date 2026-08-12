@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-12T01:56:35.623Z",
+  "fetchedAt": "2026-08-12T13:08:52.072Z",
   "repos": [
     {
       "repo": "KKKKhazix/human-writing",
       "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": "2.4k",
+      "stars": "2.5k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.4k total",
+      "trend": "+2.5k total",
       "tags": [
         "agent-skills",
         "chinese-writing",
@@ -27,10 +27,10 @@
     {
       "repo": "ShawnPana/phone-harness",
       "desc": "let your agent control your phone",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent",
         "ai",
@@ -41,43 +41,28 @@
     {
       "repo": "SMNETSTUDIO/WeChat-AI",
       "desc": "(暂无描述)",
-      "stars": "1.4k",
+      "stars": "1.5k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.4k total",
+      "trend": "+1.5k total",
       "tags": []
     },
     {
       "repo": "eternityspring/shuohao-skills",
       "desc": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-      "stars": "923",
+      "stars": "1.1k",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+923 total",
+      "trend": "+1.1k total",
       "tags": []
-    },
-    {
-      "repo": "sv-number/mcp-server",
-      "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "stars": "615",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+615 total",
-      "tags": [
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "cline",
-        "cursor"
-      ]
     },
     {
       "repo": "SaladDay/pi-from-scratch",
       "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "stars": "542",
+      "stars": "690",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+542 total",
+      "trend": "+690 total",
       "tags": [
         "agent-loop",
         "ai-agent",
@@ -87,30 +72,60 @@
       ]
     },
     {
-      "repo": "mewamew/my_ai_town",
-      "desc": "我的AI小镇",
-      "stars": "438",
-      "lang": "GDScript",
-      "license": "Other",
-      "trend": "+438 total",
-      "tags": []
+      "repo": "sv-number/mcp-server",
+      "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "stars": "573",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+573 total",
+      "tags": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cline",
+        "cursor"
+      ]
+    },
+    {
+      "repo": "guillaumemeyer/watermarks-remover",
+      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "stars": "552",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+552 total",
+      "tags": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance"
+      ]
     },
     {
       "repo": "shadcn-ui/chatbot-template",
       "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "421",
+      "stars": "529",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+421 total",
+      "trend": "+529 total",
+      "tags": []
+    },
+    {
+      "repo": "mewamew/my_ai_town",
+      "desc": "我的AI小镇",
+      "stars": "472",
+      "lang": "GDScript",
+      "license": "Other",
+      "trend": "+472 total",
       "tags": []
     },
     {
       "repo": "UditAkhourii/neuroarxiv",
       "desc": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "stars": "305",
+      "stars": "313",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+305 total",
+      "trend": "+313 total",
       "tags": [
         "arxiv",
         "arxiv-api",
@@ -120,28 +135,13 @@
       ]
     },
     {
-      "repo": "liujunxibaba/douyin-tiktok-story-skill-agent",
-      "desc": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
-      "stars": "268",
-      "lang": "Python",
+      "repo": "0xnyn/airship",
+      "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "stars": "304",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+268 total",
+      "trend": "+304 total",
       "tags": []
-    },
-    {
-      "repo": "antinomie-lab/pi-book",
-      "desc": "Source-backed architecture notes on building an agent",
-      "stars": "255",
-      "lang": "Vue",
-      "license": "Other",
-      "trend": "+255 total",
-      "tags": [
-        "agent-loop",
-        "ai-agent",
-        "book",
-        "chinese",
-        "code-reading"
-      ]
     }
   ]
 }

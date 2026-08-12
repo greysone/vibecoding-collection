@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T13:04:31.843Z",
+  "fetchedAt": "2026-08-12T01:56:35.623Z",
   "repos": [
     {
       "repo": "KKKKhazix/human-writing",
@@ -25,39 +25,44 @@
       "tags": []
     },
     {
-      "repo": "SMNETSTUDIO/WeChat-AI",
-      "desc": "(暂无描述)",
-      "stars": "1.3k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+1.3k total",
-      "tags": []
+      "repo": "ShawnPana/phone-harness",
+      "desc": "let your agent control your phone",
+      "stars": "1.5k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.5k total",
+      "tags": [
+        "agent",
+        "ai",
+        "automation",
+        "developer-tools"
+      ]
     },
     {
-      "repo": "jd-opensource/JoyAI-Video-Edit",
-      "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": "786",
-      "lang": "Python",
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "desc": "(暂无描述)",
+      "stars": "1.4k",
+      "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+786 total",
+      "trend": "+1.4k total",
       "tags": []
     },
     {
       "repo": "eternityspring/shuohao-skills",
       "desc": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-      "stars": "736",
+      "stars": "923",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+736 total",
+      "trend": "+923 total",
       "tags": []
     },
     {
       "repo": "sv-number/mcp-server",
       "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "stars": "582",
+      "stars": "615",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+582 total",
+      "trend": "+615 total",
       "tags": [
         "ai-agents",
         "claude",
@@ -67,60 +72,12 @@
       ]
     },
     {
-      "repo": "AMAP-ML/LongHorizon-Harness",
-      "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": "571",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+571 total",
-      "tags": [
-        "agent",
-        "claude",
-        "claude-code",
-        "claude-plugin",
-        "cli"
-      ]
-    },
-    {
-      "repo": "fuxicodex/Fuxi",
-      "desc": "FuXi is a fast, self-contained AI developer terminal",
-      "stars": "445",
-      "lang": "Other",
-      "license": "Apache-2.0",
-      "trend": "+445 total",
-      "tags": []
-    },
-    {
-      "repo": "criptogus/HermesOffice",
-      "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stars": "428",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+428 total",
-      "tags": [
-        "ai-native",
-        "docx",
-        "electron",
-        "fork",
-        "genoffice"
-      ]
-    },
-    {
-      "repo": "mewamew/my_ai_town",
-      "desc": "我的AI小镇",
-      "stars": "415",
-      "lang": "GDScript",
-      "license": "Other",
-      "trend": "+415 total",
-      "tags": []
-    },
-    {
       "repo": "SaladDay/pi-from-scratch",
       "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "stars": "404",
+      "stars": "542",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+404 total",
+      "trend": "+542 total",
       "tags": [
         "agent-loop",
         "ai-agent",
@@ -130,18 +87,60 @@
       ]
     },
     {
-      "repo": "crawfordxx/xiaoma-durex-copywriter",
-      "desc": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线",
-      "stars": "382",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+382 total",
+      "repo": "mewamew/my_ai_town",
+      "desc": "我的AI小镇",
+      "stars": "438",
+      "lang": "GDScript",
+      "license": "Other",
+      "trend": "+438 total",
+      "tags": []
+    },
+    {
+      "repo": "shadcn-ui/chatbot-template",
+      "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "stars": "421",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+421 total",
+      "tags": []
+    },
+    {
+      "repo": "UditAkhourii/neuroarxiv",
+      "desc": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "stars": "305",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+305 total",
       "tags": [
-        "advertising",
-        "chinese-copywriting",
-        "claude-code",
-        "claude-skill",
-        "copywriting"
+        "arxiv",
+        "arxiv-api",
+        "llm",
+        "planning",
+        "reasoning"
+      ]
+    },
+    {
+      "repo": "liujunxibaba/douyin-tiktok-story-skill-agent",
+      "desc": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+      "stars": "268",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+268 total",
+      "tags": []
+    },
+    {
+      "repo": "antinomie-lab/pi-book",
+      "desc": "Source-backed architecture notes on building an agent",
+      "stars": "255",
+      "lang": "Vue",
+      "license": "Other",
+      "trend": "+255 total",
+      "tags": [
+        "agent-loop",
+        "ai-agent",
+        "book",
+        "chinese",
+        "code-reading"
       ]
     }
   ]

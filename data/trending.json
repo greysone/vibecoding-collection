@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-13T13:10:13.110Z",
+  "fetchedAt": "2026-08-14T01:56:31.427Z",
   "repos": [
     {
       "repo": "guillaumemeyer/watermarks-remover",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "4.1k",
+      "stars": "5.5k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+4.1k total",
+      "trend": "+5.5k total",
       "tags": [
         "agent-skill",
         "ai",
@@ -40,21 +40,12 @@
       "tags": []
     },
     {
-      "repo": "eternityspring/shuohao-skills",
-      "desc": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "stars": "1.3k",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+1.3k total",
-      "tags": []
-    },
-    {
       "repo": "SaladDay/pi-from-scratch",
       "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "stars": "839",
+      "stars": "893",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+839 total",
+      "trend": "+893 total",
       "tags": [
         "agent-loop",
         "ai-agent",
@@ -66,19 +57,19 @@
     {
       "repo": "shadcn-ui/chatbot-template",
       "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "625",
+      "stars": "655",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+625 total",
+      "trend": "+655 total",
       "tags": []
     },
     {
       "repo": "sv-number/mcp-server",
       "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "stars": "613",
+      "stars": "568",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+613 total",
+      "trend": "+568 total",
       "tags": [
         "ai-agents",
         "claude",
@@ -90,28 +81,28 @@
     {
       "repo": "mewamew/my_ai_town",
       "desc": "我的AI小镇",
-      "stars": "502",
+      "stars": "509",
       "lang": "GDScript",
       "license": "Other",
-      "trend": "+502 total",
+      "trend": "+509 total",
       "tags": []
     },
     {
       "repo": "0xnyn/airship",
       "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-      "stars": "409",
+      "stars": "425",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+409 total",
+      "trend": "+425 total",
       "tags": []
     },
     {
       "repo": "i3T4AN/KADATH",
       "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "stars": "369",
+      "stars": "348",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+369 total",
+      "trend": "+348 total",
       "tags": [
         "agent-evaluation-tools",
         "agent-framework",
@@ -123,10 +114,10 @@
     {
       "repo": "antinomie-lab/pi-book",
       "desc": "Source-backed architecture notes on building an agent",
-      "stars": "283",
+      "stars": "289",
       "lang": "Vue",
       "license": "Other",
-      "trend": "+283 total",
+      "trend": "+289 total",
       "tags": [
         "agent-loop",
         "ai-agent",
@@ -138,16 +129,31 @@
     {
       "repo": "lexmount/moli",
       "desc": "Best browser for AI agents, built in Rust.",
-      "stars": "239",
+      "stars": "257",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+239 total",
+      "trend": "+257 total",
       "tags": [
         "ai-agents",
         "ai-tools",
         "browser",
         "browser-automation",
         "cloud-browser"
+      ]
+    },
+    {
+      "repo": "elie222/rakazo",
+      "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "stars": "244",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+244 total",
+      "tags": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo"
       ]
     }
   ]

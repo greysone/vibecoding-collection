@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-15T12:36:21.682Z",
+  "fetchedAt": "2026-08-16T01:18:05.397Z",
   "repos": [
     {
       "repo": "guillaumemeyer/watermarks-remover",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "9.2k",
+      "stars": "9.8k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+9.2k total",
+      "trend": "+9.8k total",
       "tags": [
         "agent-skill",
         "ai",
@@ -28,10 +28,10 @@
     {
       "repo": "SaladDay/pi-from-scratch",
       "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "stars": "996",
+      "stars": "1.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+996 total",
+      "trend": "+1.0k total",
       "tags": [
         "agent-loop",
         "ai-agent",
@@ -41,21 +41,12 @@
       ]
     },
     {
-      "repo": "shadcn-ui/chatbot-template",
-      "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "684",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+684 total",
-      "tags": []
-    },
-    {
       "repo": "vercel-labs/eve-software-factory-template",
       "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "675",
+      "stars": "788",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+675 total",
+      "trend": "+788 total",
       "tags": [
         "agent",
         "ai",
@@ -64,12 +55,36 @@
       ]
     },
     {
+      "repo": "shadcn-ui/chatbot-template",
+      "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "stars": "692",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+692 total",
+      "tags": []
+    },
+    {
+      "repo": "0xsline/awesome-deepseek-harness",
+      "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "stars": "494",
+      "lang": "Python",
+      "license": "CC0-1.0",
+      "trend": "+494 total",
+      "tags": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "awesome"
+      ]
+    },
+    {
       "repo": "DrHazemAli/enterprise-system-design",
       "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "461",
+      "stars": "492",
       "lang": "Other",
       "license": "Other",
-      "trend": "+461 total",
+      "trend": "+492 total",
       "tags": [
         "ai",
         "ai-governance",
@@ -81,10 +96,10 @@
     {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "456",
+      "stars": "490",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+456 total",
+      "trend": "+490 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -94,45 +109,21 @@
       ]
     },
     {
-      "repo": "0xsline/awesome-deepseek-harness",
-      "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "stars": "454",
-      "lang": "Python",
-      "license": "CC0-1.0",
-      "trend": "+454 total",
-      "tags": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "awesome"
-      ]
-    },
-    {
       "repo": "0xnyn/airship",
       "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-      "stars": "443",
+      "stars": "449",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+443 total",
-      "tags": []
-    },
-    {
-      "repo": "xinxinshuhao-create/grok-register",
-      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "stars": "423",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+423 total",
+      "trend": "+449 total",
       "tags": []
     },
     {
       "repo": "decionis/agent-safe-pipeline",
       "desc": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "stars": "415",
+      "stars": "445",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+415 total",
+      "trend": "+445 total",
       "tags": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -142,18 +133,27 @@
       ]
     },
     {
-      "repo": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "stars": "352",
+      "repo": "xinxinshuhao-create/grok-register",
+      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "stars": "433",
       "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+352 total",
+      "license": "MIT",
+      "trend": "+433 total",
+      "tags": []
+    },
+    {
+      "repo": "OpenSparX/MasterAgent",
+      "desc": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+      "stars": "344",
+      "lang": "C++",
+      "license": "NOASSERTION",
+      "trend": "+344 total",
       "tags": [
-        "agent-evaluation-tools",
         "agent-framework",
-        "agent-swarms",
-        "agentic-ai",
-        "agents"
+        "ai-agent",
+        "automotive",
+        "edge-ai",
+        "embedded"
       ]
     }
   ]

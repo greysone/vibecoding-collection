@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-16T01:18:05.397Z",
+  "fetchedAt": "2026-08-16T12:38:05.645Z",
   "repos": [
     {
       "repo": "guillaumemeyer/watermarks-remover",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "9.8k",
+      "stars": "10.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+9.8k total",
+      "trend": "+10.4k total",
       "tags": [
         "agent-skill",
         "ai",
@@ -19,10 +19,10 @@
     {
       "repo": "SMNETSTUDIO/WeChat-AI",
       "desc": "(暂无描述)",
-      "stars": "1.7k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+1.7k total",
+      "trend": "+1.8k total",
       "tags": []
     },
     {
@@ -43,10 +43,10 @@
     {
       "repo": "vercel-labs/eve-software-factory-template",
       "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "788",
+      "stars": "818",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+788 total",
+      "trend": "+818 total",
       "tags": [
         "agent",
         "ai",
@@ -57,19 +57,19 @@
     {
       "repo": "shadcn-ui/chatbot-template",
       "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "692",
+      "stars": "694",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+692 total",
+      "trend": "+694 total",
       "tags": []
     },
     {
       "repo": "0xsline/awesome-deepseek-harness",
       "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "stars": "494",
+      "stars": "566",
       "lang": "Python",
       "license": "CC0-1.0",
-      "trend": "+494 total",
+      "trend": "+566 total",
       "tags": [
         "agent",
         "ai",
@@ -79,27 +79,12 @@
       ]
     },
     {
-      "repo": "DrHazemAli/enterprise-system-design",
-      "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "492",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+492 total",
-      "tags": [
-        "ai",
-        "ai-governance",
-        "ai-security",
-        "ai-systems",
-        "cloud-architecture"
-      ]
-    },
-    {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "490",
+      "stars": "514",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+490 total",
+      "trend": "+514 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -109,21 +94,27 @@
       ]
     },
     {
-      "repo": "0xnyn/airship",
-      "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-      "stars": "449",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+449 total",
-      "tags": []
+      "repo": "DrHazemAli/enterprise-system-design",
+      "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "stars": "509",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+509 total",
+      "tags": [
+        "ai",
+        "ai-governance",
+        "ai-security",
+        "ai-systems",
+        "cloud-architecture"
+      ]
     },
     {
       "repo": "decionis/agent-safe-pipeline",
       "desc": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "stars": "445",
+      "stars": "468",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+445 total",
+      "trend": "+468 total",
       "tags": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -133,27 +124,36 @@
       ]
     },
     {
-      "repo": "xinxinshuhao-create/grok-register",
-      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "stars": "433",
-      "lang": "Python",
+      "repo": "0xnyn/airship",
+      "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "stars": "455",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+433 total",
+      "trend": "+455 total",
       "tags": []
     },
     {
-      "repo": "OpenSparX/MasterAgent",
-      "desc": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-      "stars": "344",
-      "lang": "C++",
+      "repo": "xinxinshuhao-create/grok-register",
+      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "stars": "436",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+436 total",
+      "tags": []
+    },
+    {
+      "repo": "lexmount/moli",
+      "desc": "Best browser for AI agents, built in Rust.",
+      "stars": "389",
+      "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+344 total",
+      "trend": "+389 total",
       "tags": [
-        "agent-framework",
-        "ai-agent",
-        "automotive",
-        "edge-ai",
-        "embedded"
+        "ai-agents",
+        "ai-tools",
+        "browser",
+        "browser-automation",
+        "cloud-browser"
       ]
     }
   ]

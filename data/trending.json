@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-17T01:15:09.678Z",
+  "fetchedAt": "2026-08-17T12:42:43.029Z",
   "repos": [
     {
       "repo": "guillaumemeyer/watermarks-remover",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "11.6k",
+      "stars": "12.8k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+11.6k total",
+      "trend": "+12.8k total",
       "tags": [
         "agent-skill",
         "ai",
@@ -28,10 +28,10 @@
     {
       "repo": "vercel-labs/eve-software-factory-template",
       "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "834",
+      "stars": "849",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+834 total",
+      "trend": "+849 total",
       "tags": [
         "agent",
         "ai",
@@ -42,19 +42,19 @@
     {
       "repo": "shadcn-ui/chatbot-template",
       "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "703",
+      "stars": "711",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+703 total",
+      "trend": "+711 total",
       "tags": []
     },
     {
       "repo": "0xsline/awesome-deepseek-harness",
       "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "stars": "606",
+      "stars": "676",
       "lang": "Python",
       "license": "CC0-1.0",
-      "trend": "+606 total",
+      "trend": "+676 total",
       "tags": [
         "agent",
         "ai",
@@ -66,10 +66,10 @@
     {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "540",
+      "stars": "664",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+540 total",
+      "trend": "+664 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -81,10 +81,10 @@
     {
       "repo": "DrHazemAli/enterprise-system-design",
       "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "531",
+      "stars": "537",
       "lang": "Other",
       "license": "Other",
-      "trend": "+531 total",
+      "trend": "+537 total",
       "tags": [
         "ai",
         "ai-governance",
@@ -96,10 +96,10 @@
     {
       "repo": "decionis/agent-safe-pipeline",
       "desc": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "stars": "484",
+      "stars": "504",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+484 total",
+      "trend": "+504 total",
       "tags": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -111,28 +111,19 @@
     {
       "repo": "0xnyn/airship",
       "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-      "stars": "462",
+      "stars": "466",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+462 total",
-      "tags": []
-    },
-    {
-      "repo": "xinxinshuhao-create/grok-register",
-      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "stars": "443",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+443 total",
+      "trend": "+466 total",
       "tags": []
     },
     {
       "repo": "lexmount/moli",
       "desc": "Best browser for AI agents, built in Rust.",
-      "stars": "407",
+      "stars": "446",
       "lang": "Rust",
       "license": "NOASSERTION",
-      "trend": "+407 total",
+      "trend": "+446 total",
       "tags": [
         "ai-agents",
         "ai-tools",
@@ -142,12 +133,21 @@
       ]
     },
     {
+      "repo": "xinxinshuhao-create/grok-register",
+      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "stars": "446",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+446 total",
+      "tags": []
+    },
+    {
       "repo": "Electricitysheep/dsh-handbook",
       "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "stars": "371",
+      "stars": "438",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+371 total",
+      "trend": "+438 total",
       "tags": [
         "agent",
         "agent-framework",

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-18T01:12:47.552Z",
+  "fetchedAt": "2026-08-18T12:45:18.653Z",
   "repos": [
     {
       "repo": "guillaumemeyer/watermarks-remover",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "13.5k",
+      "stars": "14.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+13.5k total",
+      "trend": "+14.1k total",
       "tags": [
         "agent-skill",
         "ai",
@@ -19,19 +19,19 @@
     {
       "repo": "yetone/cumora",
       "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": "1.3k",
+      "stars": "2.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+2.1k total",
       "tags": []
     },
     {
       "repo": "vercel-labs/eve-software-factory-template",
       "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "884",
+      "stars": "892",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+884 total",
+      "trend": "+892 total",
       "tags": [
         "agent",
         "ai",
@@ -42,10 +42,10 @@
     {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "779",
+      "stars": "821",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+779 total",
+      "trend": "+821 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -57,19 +57,19 @@
     {
       "repo": "shadcn-ui/chatbot-template",
       "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "717",
+      "stars": "719",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+717 total",
+      "trend": "+719 total",
       "tags": []
     },
     {
       "repo": "0xsline/awesome-deepseek-harness",
       "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "stars": "689",
+      "stars": "718",
       "lang": "Python",
       "license": "CC0-1.0",
-      "trend": "+689 total",
+      "trend": "+718 total",
       "tags": [
         "agent",
         "ai",
@@ -81,10 +81,10 @@
     {
       "repo": "DrHazemAli/enterprise-system-design",
       "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "544",
+      "stars": "548",
       "lang": "Other",
       "license": "Other",
-      "trend": "+544 total",
+      "trend": "+548 total",
       "tags": [
         "ai",
         "ai-governance",
@@ -96,10 +96,10 @@
     {
       "repo": "decionis/agent-safe-pipeline",
       "desc": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "stars": "516",
+      "stars": "532",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+516 total",
+      "trend": "+532 total",
       "tags": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -111,10 +111,10 @@
     {
       "repo": "Electricitysheep/dsh-handbook",
       "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "stars": "452",
+      "stars": "485",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+452 total",
+      "trend": "+485 total",
       "tags": [
         "agent",
         "agent-framework",
@@ -126,19 +126,19 @@
     {
       "repo": "xinxinshuhao-create/grok-register",
       "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "stars": "449",
+      "stars": "453",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+449 total",
+      "trend": "+453 total",
       "tags": []
     },
     {
       "repo": "vibeinging/deepseek-harness-desktop-app",
       "desc": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "stars": "311",
+      "stars": "393",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+311 total",
+      "trend": "+393 total",
       "tags": [
         "agentic-workflows",
         "ai-agent",
@@ -150,10 +150,10 @@
     {
       "repo": "jeremy-prt/bloub",
       "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "252",
+      "stars": "320",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+252 total",
+      "trend": "+320 total",
       "tags": [
         "animation",
         "avatar",

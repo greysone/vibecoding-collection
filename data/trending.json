@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-08-18T12:45:18.653Z",
+  "fetchedAt": "2026-08-19T01:14:25.645Z",
   "repos": [
-    {
-      "repo": "guillaumemeyer/watermarks-remover",
-      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "14.1k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+14.1k total",
-      "tags": [
-        "agent-skill",
-        "ai",
-        "c2pa",
-        "claude",
-        "provenance"
-      ]
-    },
     {
       "repo": "yetone/cumora",
       "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": "2.1k",
+      "stars": "2.4k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.4k total",
       "tags": []
     },
     {
       "repo": "vercel-labs/eve-software-factory-template",
       "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "892",
+      "stars": "911",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+892 total",
+      "trend": "+911 total",
       "tags": [
         "agent",
         "ai",
@@ -42,10 +27,10 @@
     {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "821",
+      "stars": "852",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+821 total",
+      "trend": "+852 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -55,36 +40,12 @@
       ]
     },
     {
-      "repo": "shadcn-ui/chatbot-template",
-      "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "stars": "719",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+719 total",
-      "tags": []
-    },
-    {
-      "repo": "0xsline/awesome-deepseek-harness",
-      "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "stars": "718",
-      "lang": "Python",
-      "license": "CC0-1.0",
-      "trend": "+718 total",
-      "tags": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "awesome"
-      ]
-    },
-    {
       "repo": "DrHazemAli/enterprise-system-design",
       "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "548",
+      "stars": "554",
       "lang": "Other",
       "license": "Other",
-      "trend": "+548 total",
+      "trend": "+554 total",
       "tags": [
         "ai",
         "ai-governance",
@@ -96,10 +57,10 @@
     {
       "repo": "decionis/agent-safe-pipeline",
       "desc": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "stars": "532",
+      "stars": "533",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+532 total",
+      "trend": "+533 total",
       "tags": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -111,10 +72,10 @@
     {
       "repo": "Electricitysheep/dsh-handbook",
       "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "stars": "485",
+      "stars": "493",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+485 total",
+      "trend": "+493 total",
       "tags": [
         "agent",
         "agent-framework",
@@ -124,21 +85,12 @@
       ]
     },
     {
-      "repo": "xinxinshuhao-create/grok-register",
-      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "stars": "453",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+453 total",
-      "tags": []
-    },
-    {
       "repo": "vibeinging/deepseek-harness-desktop-app",
       "desc": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "stars": "393",
+      "stars": "487",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+393 total",
+      "trend": "+487 total",
       "tags": [
         "agentic-workflows",
         "ai-agent",
@@ -148,18 +100,66 @@
       ]
     },
     {
+      "repo": "xinxinshuhao-create/grok-register",
+      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "stars": "456",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+456 total",
+      "tags": []
+    },
+    {
       "repo": "jeremy-prt/bloub",
       "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "320",
+      "stars": "408",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+320 total",
+      "trend": "+408 total",
       "tags": [
         "animation",
         "avatar",
         "morphing",
         "svg",
         "svg-animation"
+      ]
+    },
+    {
+      "repo": "browser-use/macos-harness",
+      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "stars": "407",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+407 total",
+      "tags": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use"
+      ]
+    },
+    {
+      "repo": "SigmanticAI/apex-inference-chip",
+      "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "stars": "380",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+380 total",
+      "tags": []
+    },
+    {
+      "repo": "fufankeji/deepseek-harness-studio",
+      "desc": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "stars": "294",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+294 total",
+      "tags": [
+        "ai-agent",
+        "deepseek",
+        "deepseek-harness",
+        "deepseek-harness-studio",
+        "desktop-app"
       ]
     }
   ]

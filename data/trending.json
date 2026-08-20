@@ -1,36 +1,37 @@
 {
-  "fetchedAt": "2026-08-19T12:46:02.368Z",
+  "fetchedAt": "2026-08-20T01:13:06.382Z",
   "repos": [
     {
       "repo": "yetone/cumora",
       "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": "2.6k",
+      "stars": "2.7k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.6k total",
+      "trend": "+2.7k total",
       "tags": []
     },
     {
-      "repo": "vercel-labs/eve-software-factory-template",
-      "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "928",
-      "lang": "TypeScript",
+      "repo": "Leutenegger/watermarks-remover",
+      "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "stars": "912",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+928 total",
+      "trend": "+912 total",
       "tags": [
-        "agent",
-        "ai",
-        "eve",
-        "vercel"
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "codex-cli"
       ]
     },
     {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "867",
+      "stars": "898",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+867 total",
+      "trend": "+898 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -40,18 +41,57 @@
       ]
     },
     {
-      "repo": "DrHazemAli/enterprise-system-design",
-      "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "555",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+555 total",
+      "repo": "wang2122/sprix-sage-router",
+      "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "stars": "607",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+607 total",
       "tags": [
-        "ai",
-        "ai-governance",
-        "ai-security",
-        "ai-systems",
-        "cloud-architecture"
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems"
+      ]
+    },
+    {
+      "repo": "SigmanticAI/apex-inference-chip",
+      "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "stars": "576",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+576 total",
+      "tags": []
+    },
+    {
+      "repo": "vibeinging/deepseek-harness-desktop-app",
+      "desc": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "stars": "553",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+553 total",
+      "tags": [
+        "agentic-workflows",
+        "ai-agent",
+        "ai-workbench",
+        "data-analysis",
+        "deepseek-harness"
+      ]
+    },
+    {
+      "repo": "Electricitysheep/dsh-handbook",
+      "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "stars": "541",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+541 total",
+      "tags": [
+        "agent",
+        "agent-framework",
+        "ai-agents",
+        "beginners",
+        "deepseek"
       ]
     },
     {
@@ -70,51 +110,12 @@
       ]
     },
     {
-      "repo": "Electricitysheep/dsh-handbook",
-      "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "stars": "523",
-      "lang": "HTML",
-      "license": "Other",
-      "trend": "+523 total",
-      "tags": [
-        "agent",
-        "agent-framework",
-        "ai-agents",
-        "beginners",
-        "deepseek"
-      ]
-    },
-    {
-      "repo": "SigmanticAI/apex-inference-chip",
-      "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "498",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+498 total",
-      "tags": []
-    },
-    {
-      "repo": "vibeinging/deepseek-harness-desktop-app",
-      "desc": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "stars": "489",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+489 total",
-      "tags": [
-        "agentic-workflows",
-        "ai-agent",
-        "ai-workbench",
-        "data-analysis",
-        "deepseek-harness"
-      ]
-    },
-    {
       "repo": "jeremy-prt/bloub",
       "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "487",
+      "stars": "533",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+487 total",
+      "trend": "+533 total",
       "tags": [
         "animation",
         "avatar",
@@ -126,10 +127,10 @@
     {
       "repo": "browser-use/macos-harness",
       "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "476",
+      "stars": "527",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+476 total",
+      "trend": "+527 total",
       "tags": [
         "accessibility",
         "agent",
@@ -139,27 +140,33 @@
       ]
     },
     {
-      "repo": "xinxinshuhao-create/grok-register",
-      "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "stars": "459",
-      "lang": "Python",
+      "repo": "CopilotKit/openbot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": "475",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+459 total",
-      "tags": []
+      "trend": "+475 total",
+      "tags": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit"
+      ]
     },
     {
-      "repo": "wang2122/sprix-sage-router",
-      "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "371",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+371 total",
+      "repo": "jaredrhod/barehands",
+      "desc": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+      "stars": "383",
+      "lang": "HTML",
+      "license": "AGPL-3.0",
+      "trend": "+383 total",
       "tags": [
-        "a2a",
-        "agent-orchestration",
-        "agent-routing",
-        "ai-agents",
-        "multi-agent-systems"
+        "ai-assisstant",
+        "augmented-reality",
+        "claude-code",
+        "gesture-control",
+        "hand-tracking"
       ]
     }
   ]

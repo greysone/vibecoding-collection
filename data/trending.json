@@ -1,37 +1,37 @@
 {
-  "fetchedAt": "2026-08-20T01:13:06.382Z",
+  "fetchedAt": "2026-08-20T12:49:32.442Z",
   "repos": [
     {
       "repo": "yetone/cumora",
       "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": "2.7k",
+      "stars": "2.8k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.7k total",
+      "trend": "+2.8k total",
       "tags": []
     },
     {
-      "repo": "Leutenegger/watermarks-remover",
-      "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "stars": "912",
-      "lang": "Python",
+      "repo": "CopilotKit/openbot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": "1.1k",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+912 total",
+      "trend": "+1.1k total",
       "tags": [
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "codex-cli"
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit"
       ]
     },
     {
       "repo": "elie222/rakazo",
       "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "stars": "898",
+      "stars": "919",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+898 total",
+      "trend": "+919 total",
       "tags": [
         "ai-agents",
         "chatgpt",
@@ -41,12 +41,27 @@
       ]
     },
     {
-      "repo": "wang2122/sprix-sage-router",
-      "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "607",
+      "repo": "Leutenegger/watermarks-remover",
+      "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "stars": "917",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+607 total",
+      "trend": "+917 total",
+      "tags": [
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "codex-cli"
+      ]
+    },
+    {
+      "repo": "wang2122/sprix-sage-router",
+      "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "stars": "677",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+677 total",
       "tags": [
         "a2a",
         "agent-orchestration",
@@ -58,19 +73,19 @@
     {
       "repo": "SigmanticAI/apex-inference-chip",
       "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "576",
+      "stars": "618",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+576 total",
+      "trend": "+618 total",
       "tags": []
     },
     {
       "repo": "vibeinging/deepseek-harness-desktop-app",
       "desc": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "stars": "553",
+      "stars": "606",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+553 total",
+      "trend": "+606 total",
       "tags": [
         "agentic-workflows",
         "ai-agent",
@@ -82,16 +97,46 @@
     {
       "repo": "Electricitysheep/dsh-handbook",
       "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "stars": "541",
+      "stars": "565",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+541 total",
+      "trend": "+565 total",
       "tags": [
         "agent",
         "agent-framework",
         "ai-agents",
         "beginners",
         "deepseek"
+      ]
+    },
+    {
+      "repo": "jeremy-prt/bloub",
+      "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "stars": "564",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+564 total",
+      "tags": [
+        "animation",
+        "avatar",
+        "morphing",
+        "svg",
+        "svg-animation"
+      ]
+    },
+    {
+      "repo": "browser-use/macos-harness",
+      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "stars": "549",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+549 total",
+      "tags": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use"
       ]
     },
     {
@@ -110,63 +155,18 @@
       ]
     },
     {
-      "repo": "jeremy-prt/bloub",
-      "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "533",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+533 total",
-      "tags": [
-        "animation",
-        "avatar",
-        "morphing",
-        "svg",
-        "svg-animation"
-      ]
-    },
-    {
-      "repo": "browser-use/macos-harness",
-      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "527",
+      "repo": "bawadou/ai-data-extractor",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stars": "526",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+527 total",
+      "trend": "+526 total",
       "tags": [
-        "accessibility",
-        "agent",
-        "automation",
-        "cdp",
-        "computer-use"
-      ]
-    },
-    {
-      "repo": "CopilotKit/openbot",
-      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": "475",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+475 total",
-      "tags": [
-        "ag-ui",
-        "agent-governance",
-        "ai-agents",
-        "browser-automation",
-        "copilotkit"
-      ]
-    },
-    {
-      "repo": "jaredrhod/barehands",
-      "desc": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-      "stars": "383",
-      "lang": "HTML",
-      "license": "AGPL-3.0",
-      "trend": "+383 total",
-      "tags": [
-        "ai-assisstant",
-        "augmented-reality",
-        "claude-code",
-        "gesture-control",
-        "hand-tracking"
+        "ai",
+        "ai-data-extractor",
+        "claude",
+        "cursor",
+        "cursor-ai"
       ]
     }
   ]

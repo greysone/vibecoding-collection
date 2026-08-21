@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T01:17:09.857Z",
+  "fetchedAt": "2026-08-21T12:46:32.229Z",
   "repos": [
     {
       "repo": "yetone/cumora",
@@ -13,10 +13,10 @@
     {
       "repo": "CopilotKit/OpenBot",
       "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": "1.6k",
+      "stars": "1.9k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.9k total",
       "tags": [
         "ag-ui",
         "agent-governance",
@@ -28,10 +28,10 @@
     {
       "repo": "Leutenegger/watermarks-remover",
       "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "stars": "924",
+      "stars": "929",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+924 total",
+      "trend": "+929 total",
       "tags": [
         "claude",
         "claude-code",
@@ -43,10 +43,10 @@
     {
       "repo": "wang2122/sprix-sage-router",
       "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "678",
+      "stars": "926",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+678 total",
+      "trend": "+926 total",
       "tags": [
         "a2a",
         "agent-orchestration",
@@ -58,19 +58,34 @@
     {
       "repo": "SigmanticAI/apex-inference-chip",
       "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "628",
+      "stars": "654",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+628 total",
+      "trend": "+654 total",
       "tags": []
+    },
+    {
+      "repo": "browser-use/macos-harness",
+      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "stars": "626",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+626 total",
+      "tags": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use"
+      ]
     },
     {
       "repo": "Leutenegger/coldcard-airgap",
       "desc": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-      "stars": "607",
+      "stars": "608",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+607 total",
+      "trend": "+608 total",
       "tags": [
         "airgap",
         "airgap-devkit",
@@ -82,10 +97,10 @@
     {
       "repo": "jeremy-prt/bloub",
       "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "577",
+      "stars": "598",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+577 total",
+      "trend": "+598 total",
       "tags": [
         "animation",
         "avatar",
@@ -95,27 +110,12 @@
       ]
     },
     {
-      "repo": "browser-use/macos-harness",
-      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "570",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+570 total",
-      "tags": [
-        "accessibility",
-        "agent",
-        "automation",
-        "cdp",
-        "computer-use"
-      ]
-    },
-    {
       "repo": "bawadou/ai-data-extractor",
       "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "stars": "528",
+      "stars": "533",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+528 total",
+      "trend": "+533 total",
       "tags": [
         "ai",
         "ai-data-extractor",
@@ -127,10 +127,10 @@
     {
       "repo": "jaredrhod/barehands",
       "desc": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-      "stars": "476",
+      "stars": "511",
       "lang": "HTML",
       "license": "AGPL-3.0",
-      "trend": "+476 total",
+      "trend": "+511 total",
       "tags": [
         "ai-assisstant",
         "augmented-reality",
@@ -142,10 +142,10 @@
     {
       "repo": "fufankeji/deepseek-harness-studio",
       "desc": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "stars": "413",
+      "stars": "426",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+413 total",
+      "trend": "+426 total",
       "tags": [
         "ai-agent",
         "deepseek",
@@ -157,10 +157,10 @@
     {
       "repo": "PC2005-cloud/dsh-pet",
       "desc": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline",
-      "stars": "252",
-      "lang": "JavaScript",
+      "stars": "274",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+252 total",
+      "trend": "+274 total",
       "tags": [
         "deepseek-harness",
         "desktop-pet",

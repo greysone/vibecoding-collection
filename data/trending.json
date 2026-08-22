@@ -1,28 +1,43 @@
 {
-  "fetchedAt": "2026-08-21T12:46:32.229Z",
+  "fetchedAt": "2026-08-22T01:12:38.521Z",
   "repos": [
     {
       "repo": "yetone/cumora",
       "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": "2.8k",
+      "stars": "2.9k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.8k total",
+      "trend": "+2.9k total",
       "tags": []
     },
     {
       "repo": "CopilotKit/OpenBot",
       "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": "1.9k",
+      "stars": "2.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.1k total",
       "tags": [
         "ag-ui",
         "agent-governance",
         "ai-agents",
         "browser-automation",
         "copilotkit"
+      ]
+    },
+    {
+      "repo": "wang2122/sprix-sage-router",
+      "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "stars": "1.0k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.0k total",
+      "tags": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems"
       ]
     },
     {
@@ -41,42 +56,42 @@
       ]
     },
     {
-      "repo": "wang2122/sprix-sage-router",
-      "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "926",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+926 total",
-      "tags": [
-        "a2a",
-        "agent-orchestration",
-        "agent-routing",
-        "ai-agents",
-        "multi-agent-systems"
-      ]
-    },
-    {
-      "repo": "SigmanticAI/apex-inference-chip",
-      "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "654",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+654 total",
-      "tags": []
-    },
-    {
       "repo": "browser-use/macos-harness",
       "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "626",
+      "stars": "686",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+626 total",
+      "trend": "+686 total",
       "tags": [
         "accessibility",
         "agent",
         "automation",
         "cdp",
         "computer-use"
+      ]
+    },
+    {
+      "repo": "SigmanticAI/apex-inference-chip",
+      "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "stars": "668",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+668 total",
+      "tags": []
+    },
+    {
+      "repo": "jeremy-prt/bloub",
+      "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "stars": "613",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+613 total",
+      "tags": [
+        "animation",
+        "avatar",
+        "morphing",
+        "svg",
+        "svg-animation"
       ]
     },
     {
@@ -95,42 +110,12 @@
       ]
     },
     {
-      "repo": "jeremy-prt/bloub",
-      "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "598",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+598 total",
-      "tags": [
-        "animation",
-        "avatar",
-        "morphing",
-        "svg",
-        "svg-animation"
-      ]
-    },
-    {
-      "repo": "bawadou/ai-data-extractor",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "stars": "533",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+533 total",
-      "tags": [
-        "ai",
-        "ai-data-extractor",
-        "claude",
-        "cursor",
-        "cursor-ai"
-      ]
-    },
-    {
       "repo": "jaredrhod/barehands",
       "desc": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-      "stars": "511",
+      "stars": "549",
       "lang": "HTML",
       "license": "AGPL-3.0",
-      "trend": "+511 total",
+      "trend": "+549 total",
       "tags": [
         "ai-assisstant",
         "augmented-reality",
@@ -140,12 +125,27 @@
       ]
     },
     {
+      "repo": "bawadou/ai-data-extractor",
+      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stars": "537",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+537 total",
+      "tags": [
+        "ai",
+        "ai-data-extractor",
+        "claude",
+        "cursor",
+        "cursor-ai"
+      ]
+    },
+    {
       "repo": "fufankeji/deepseek-harness-studio",
       "desc": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "stars": "426",
+      "stars": "435",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+426 total",
+      "trend": "+435 total",
       "tags": [
         "ai-agent",
         "deepseek",
@@ -155,17 +155,18 @@
       ]
     },
     {
-      "repo": "PC2005-cloud/dsh-pet",
-      "desc": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline",
-      "stars": "274",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+274 total",
+      "repo": "Devin-AXIS/deepseek-design",
+      "desc": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "stars": "261",
+      "lang": "JavaScript",
+      "license": "NOASSERTION",
+      "trend": "+261 total",
       "tags": [
+        "ai-design",
+        "deepseek",
         "deepseek-harness",
-        "desktop-pet",
-        "dsh",
-        "dsh-plugin"
+        "design",
+        "design-studio"
       ]
     }
   ]

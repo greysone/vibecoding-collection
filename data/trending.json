@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T01:12:38.521Z",
+  "fetchedAt": "2026-08-22T12:38:08.687Z",
   "repos": [
     {
       "repo": "yetone/cumora",
@@ -13,10 +13,10 @@
     {
       "repo": "CopilotKit/OpenBot",
       "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": "2.1k",
+      "stars": "2.2k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.2k total",
       "tags": [
         "ag-ui",
         "agent-governance",
@@ -28,10 +28,10 @@
     {
       "repo": "wang2122/sprix-sage-router",
       "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": [
         "a2a",
         "agent-orchestration",
@@ -43,10 +43,10 @@
     {
       "repo": "Leutenegger/watermarks-remover",
       "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "stars": "929",
+      "stars": "931",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+929 total",
+      "trend": "+931 total",
       "tags": [
         "claude",
         "claude-code",
@@ -58,10 +58,10 @@
     {
       "repo": "browser-use/macos-harness",
       "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "686",
+      "stars": "700",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+686 total",
+      "trend": "+700 total",
       "tags": [
         "accessibility",
         "agent",
@@ -73,19 +73,19 @@
     {
       "repo": "SigmanticAI/apex-inference-chip",
       "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "668",
+      "stars": "675",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+668 total",
+      "trend": "+675 total",
       "tags": []
     },
     {
       "repo": "jeremy-prt/bloub",
       "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stars": "613",
+      "stars": "635",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+613 total",
+      "trend": "+635 total",
       "tags": [
         "animation",
         "avatar",
@@ -112,10 +112,10 @@
     {
       "repo": "jaredrhod/barehands",
       "desc": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-      "stars": "549",
+      "stars": "573",
       "lang": "HTML",
       "license": "AGPL-3.0",
-      "trend": "+549 total",
+      "trend": "+573 total",
       "tags": [
         "ai-assisstant",
         "augmented-reality",
@@ -142,10 +142,10 @@
     {
       "repo": "fufankeji/deepseek-harness-studio",
       "desc": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "stars": "435",
+      "stars": "452",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+435 total",
+      "trend": "+452 total",
       "tags": [
         "ai-agent",
         "deepseek",
@@ -157,10 +157,10 @@
     {
       "repo": "Devin-AXIS/deepseek-design",
       "desc": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "stars": "261",
+      "stars": "286",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+261 total",
+      "trend": "+286 total",
       "tags": [
         "ai-design",
         "deepseek",

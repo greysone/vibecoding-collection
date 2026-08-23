@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T01:19:06.921Z",
+  "fetchedAt": "2026-08-23T12:38:54.597Z",
   "repos": [
     {
       "repo": "yetone/cumora",
@@ -13,10 +13,10 @@
     {
       "repo": "CopilotKit/OpenBot",
       "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": "2.3k",
+      "stars": "2.4k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.3k total",
+      "trend": "+2.4k total",
       "tags": [
         "ag-ui",
         "agent-governance",
@@ -28,10 +28,10 @@
     {
       "repo": "wang2122/sprix-sage-router",
       "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "1.2k",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.4k total",
       "tags": [
         "a2a",
         "agent-orchestration",
@@ -41,27 +41,12 @@
       ]
     },
     {
-      "repo": "Leutenegger/watermarks-remover",
-      "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "stars": "934",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+934 total",
-      "tags": [
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "codex-cli"
-      ]
-    },
-    {
       "repo": "browser-use/macos-harness",
       "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "709",
+      "stars": "715",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+709 total",
+      "trend": "+715 total",
       "tags": [
         "accessibility",
         "agent",
@@ -73,26 +58,11 @@
     {
       "repo": "SigmanticAI/apex-inference-chip",
       "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "680",
+      "stars": "681",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+680 total",
+      "trend": "+681 total",
       "tags": []
-    },
-    {
-      "repo": "Leutenegger/coldcard-airgap",
-      "desc": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-      "stars": "608",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+608 total",
-      "tags": [
-        "airgap",
-        "airgap-devkit",
-        "airgap-download",
-        "airgap-setup",
-        "airgap-tutorial"
-      ]
     },
     {
       "repo": "bawadou/ai-data-extractor",
@@ -112,10 +82,10 @@
     {
       "repo": "cclank/lanshu-create-ai-presenter-video",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "stars": "281",
+      "stars": "492",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+281 total",
+      "trend": "+492 total",
       "tags": [
         "ai-video",
         "codex",
@@ -125,21 +95,36 @@
       ]
     },
     {
+      "repo": "duty1g/x64dbg-mcp-server",
+      "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "stars": "330",
+      "lang": "Zig",
+      "license": "MIT",
+      "trend": "+330 total",
+      "tags": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code"
+      ]
+    },
+    {
       "repo": "jaredrhod/fullstack-agent",
       "desc": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
-      "stars": "253",
+      "stars": "277",
       "lang": "Shell",
       "license": "AGPL-3.0",
-      "trend": "+253 total",
+      "trend": "+277 total",
       "tags": []
     },
     {
       "repo": "sam70361/emotion-ball",
       "desc": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
-      "stars": "233",
+      "stars": "241",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+233 total",
+      "trend": "+241 total",
       "tags": [
         "ai",
         "ai-agent",
@@ -151,11 +136,26 @@
     {
       "repo": "BigPengSays/bigpeng-hot-gzh",
       "desc": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
-      "stars": "229",
+      "stars": "231",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+229 total",
+      "trend": "+231 total",
       "tags": []
+    },
+    {
+      "repo": "amitshekhariitbhu/llm-inference-engineering",
+      "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "stars": "214",
+      "lang": "Markdown",
+      "license": "Apache-2.0",
+      "trend": "+214 total",
+      "tags": [
+        "inference-engineering",
+        "inference-optimization",
+        "large-language-models",
+        "llm",
+        "llm-engineering"
+      ]
     }
   ]
 }

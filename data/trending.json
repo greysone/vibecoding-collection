@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-23T12:38:54.597Z",
+  "fetchedAt": "2026-08-24T01:16:47.244Z",
   "repos": [
     {
       "repo": "yetone/cumora",
       "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": "2.9k",
+      "stars": "3.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.9k total",
+      "trend": "+3.0k total",
       "tags": []
     },
     {
       "repo": "CopilotKit/OpenBot",
       "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": "2.4k",
+      "stars": "2.5k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.4k total",
+      "trend": "+2.5k total",
       "tags": [
         "ag-ui",
         "agent-governance",
@@ -41,12 +41,42 @@
       ]
     },
     {
-      "repo": "browser-use/macos-harness",
-      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stars": "715",
+      "repo": "duty1g/x64dbg-mcp-server",
+      "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "stars": "885",
+      "lang": "Zig",
+      "license": "MIT",
+      "trend": "+885 total",
+      "tags": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code"
+      ]
+    },
+    {
+      "repo": "ShadowAqueduct/watermark-remover",
+      "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "stars": "760",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+715 total",
+      "trend": "+760 total",
+      "tags": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex"
+      ]
+    },
+    {
+      "repo": "browser-use/macos-harness",
+      "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "stars": "728",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+728 total",
       "tags": [
         "accessibility",
         "agent",
@@ -58,34 +88,19 @@
     {
       "repo": "SigmanticAI/apex-inference-chip",
       "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stars": "681",
+      "stars": "683",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+681 total",
+      "trend": "+683 total",
       "tags": []
-    },
-    {
-      "repo": "bawadou/ai-data-extractor",
-      "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "stars": "541",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+541 total",
-      "tags": [
-        "ai",
-        "ai-data-extractor",
-        "claude",
-        "cursor",
-        "cursor-ai"
-      ]
     },
     {
       "repo": "cclank/lanshu-create-ai-presenter-video",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "stars": "492",
+      "stars": "658",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+492 total",
+      "trend": "+658 total",
       "tags": [
         "ai-video",
         "codex",
@@ -95,66 +110,51 @@
       ]
     },
     {
-      "repo": "duty1g/x64dbg-mcp-server",
-      "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "stars": "330",
-      "lang": "Zig",
-      "license": "MIT",
-      "trend": "+330 total",
-      "tags": [
-        "ai-agents",
-        "ai-debugging",
-        "binary-analysis",
-        "claude",
-        "claude-code"
-      ]
+      "repo": "Forsy-AI/biosecurity-agent",
+      "desc": "AI agent that builds a live biosecurity world around any target.",
+      "stars": "366",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+366 total",
+      "tags": []
     },
     {
       "repo": "jaredrhod/fullstack-agent",
       "desc": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
-      "stars": "277",
-      "lang": "Shell",
+      "stars": "315",
+      "lang": "Batchfile",
       "license": "AGPL-3.0",
-      "trend": "+277 total",
+      "trend": "+315 total",
       "tags": []
+    },
+    {
+      "repo": "Zyrexnn/Cybermes",
+      "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "stars": "264",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+264 total",
+      "tags": [
+        "ai-agent",
+        "appsec",
+        "bug-bounty",
+        "cvss-v3",
+        "cybersecurity"
+      ]
     },
     {
       "repo": "sam70361/emotion-ball",
       "desc": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
-      "stars": "241",
+      "stars": "244",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+241 total",
+      "trend": "+244 total",
       "tags": [
         "ai",
         "ai-agent",
         "animation",
         "bot",
         "chatbot"
-      ]
-    },
-    {
-      "repo": "BigPengSays/bigpeng-hot-gzh",
-      "desc": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
-      "stars": "231",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+231 total",
-      "tags": []
-    },
-    {
-      "repo": "amitshekhariitbhu/llm-inference-engineering",
-      "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-      "stars": "214",
-      "lang": "Markdown",
-      "license": "Apache-2.0",
-      "trend": "+214 total",
-      "tags": [
-        "inference-engineering",
-        "inference-optimization",
-        "large-language-models",
-        "llm",
-        "llm-engineering"
       ]
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-25T01:14:52.403Z",
+  "fetchedAt": "2026-08-25T12:46:33.934Z",
   "repos": [
     {
       "repo": "wang2122/sprix-sage-router",
       "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stars": "1.8k",
+      "stars": "2.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.8k total",
+      "trend": "+2.0k total",
       "tags": [
         "a2a",
         "agent-orchestration",
@@ -19,10 +19,10 @@
     {
       "repo": "duty1g/x64dbg-mcp-server",
       "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Zig",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "ai-agents",
         "ai-debugging",
@@ -34,10 +34,10 @@
     {
       "repo": "cclank/lanshu-create-ai-presenter-video",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "stars": "837",
+      "stars": "892",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+837 total",
+      "trend": "+892 total",
       "tags": [
         "ai-video",
         "codex",
@@ -49,16 +49,31 @@
     {
       "repo": "ShadowAqueduct/watermark-remover",
       "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "771",
+      "stars": "787",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+771 total",
+      "trend": "+787 total",
       "tags": [
         "claude-ai",
         "claude-code",
         "claude-code-plugin",
         "claude-skills",
         "codex"
+      ]
+    },
+    {
+      "repo": "Zyrexnn/Cybermes",
+      "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "stars": "514",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+514 total",
+      "tags": [
+        "ai-agent",
+        "appsec",
+        "bug-bounty",
+        "cvss-v3",
+        "cybersecurity"
       ]
     },
     {
@@ -71,27 +86,12 @@
       "tags": []
     },
     {
-      "repo": "Zyrexnn/Cybermes",
-      "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "stars": "452",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+452 total",
-      "tags": [
-        "ai-agent",
-        "appsec",
-        "bug-bounty",
-        "cvss-v3",
-        "cybersecurity"
-      ]
-    },
-    {
       "repo": "kgoedecke/doop",
       "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stars": "320",
+      "stars": "342",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+320 total",
+      "trend": "+342 total",
       "tags": [
         "ai-agents",
         "canvas",
@@ -103,10 +103,10 @@
     {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "294",
+      "stars": "305",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+294 total",
+      "trend": "+305 total",
       "tags": [
         "agent",
         "agent-os",
@@ -118,10 +118,10 @@
     {
       "repo": "only-cli/oc",
       "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "stars": "283",
+      "stars": "293",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+283 total",
+      "trend": "+293 total",
       "tags": [
         "ai-agents",
         "browser-automation",
@@ -131,27 +131,12 @@
       ]
     },
     {
-      "repo": "sam70361/emotion-ball",
-      "desc": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
-      "stars": "266",
-      "lang": "JavaScript",
-      "license": "NOASSERTION",
-      "trend": "+266 total",
-      "tags": [
-        "ai",
-        "ai-agent",
-        "animation",
-        "bot",
-        "chatbot"
-      ]
-    },
-    {
       "repo": "bam-bam-2/solo-skills",
       "desc": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stars": "251",
+      "stars": "287",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+251 total",
+      "trend": "+287 total",
       "tags": [
         "agent-skills",
         "ai-agent",
@@ -163,16 +148,31 @@
     {
       "repo": "ChenShuo2004/cs-board",
       "desc": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-      "stars": "236",
+      "stars": "273",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+236 total",
+      "trend": "+273 total",
       "tags": [
         "ai-video",
         "chinese",
         "fastapi",
         "index-tts",
         "react"
+      ]
+    },
+    {
+      "repo": "sam70361/emotion-ball",
+      "desc": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "stars": "271",
+      "lang": "JavaScript",
+      "license": "NOASSERTION",
+      "trend": "+271 total",
+      "tags": [
+        "ai",
+        "ai-agent",
+        "animation",
+        "bot",
+        "chatbot"
       ]
     }
   ]

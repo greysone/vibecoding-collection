@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T01:17:45.752Z",
+  "fetchedAt": "2026-08-26T12:51:24.659Z",
   "repos": [
     {
       "repo": "duty1g/x64dbg-mcp-server",
@@ -19,10 +19,10 @@
     {
       "repo": "cclank/lanshu-create-ai-presenter-video",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "stars": "915",
+      "stars": "935",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+915 total",
+      "trend": "+935 total",
       "tags": [
         "ai-video",
         "codex",
@@ -34,10 +34,10 @@
     {
       "repo": "ShadowAqueduct/watermark-remover",
       "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "791",
+      "stars": "795",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+791 total",
+      "trend": "+795 total",
       "tags": [
         "claude-ai",
         "claude-code",
@@ -49,10 +49,10 @@
     {
       "repo": "Zyrexnn/Cybermes",
       "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "stars": "549",
+      "stars": "582",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+549 total",
+      "trend": "+582 total",
       "tags": [
         "ai-agent",
         "appsec",
@@ -73,10 +73,10 @@
     {
       "repo": "kgoedecke/doop",
       "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stars": "364",
+      "stars": "398",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+364 total",
+      "trend": "+398 total",
       "tags": [
         "ai-agents",
         "canvas",
@@ -88,10 +88,10 @@
     {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "334",
+      "stars": "348",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+334 total",
+      "trend": "+348 total",
       "tags": [
         "agent",
         "agent-os",
@@ -101,27 +101,21 @@
       ]
     },
     {
-      "repo": "bam-bam-2/solo-skills",
-      "desc": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stars": "298",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+298 total",
-      "tags": [
-        "agent-skills",
-        "ai-agent",
-        "automation",
-        "claude-code",
-        "korean"
-      ]
+      "repo": "amosblomqvist/learn",
+      "desc": "My AI learning system.",
+      "stars": "347",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+347 total",
+      "tags": []
     },
     {
       "repo": "ChenShuo2004/cs-board",
       "desc": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-      "stars": "298",
+      "stars": "316",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+298 total",
+      "trend": "+316 total",
       "tags": [
         "ai-video",
         "chinese",
@@ -131,37 +125,43 @@
       ]
     },
     {
-      "repo": "amosblomqvist/learn",
-      "desc": "My AI learning system.",
-      "stars": "278",
+      "repo": "halofyai/halofy",
+      "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "stars": "313",
       "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+278 total",
-      "tags": []
+      "license": "AGPL-3.0",
+      "trend": "+313 total",
+      "tags": [
+        "access-control",
+        "agent-governance",
+        "agent-memory",
+        "agent-visibility",
+        "ai-agents"
+      ]
+    },
+    {
+      "repo": "bam-bam-2/solo-skills",
+      "desc": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "stars": "306",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+306 total",
+      "tags": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "korean"
+      ]
     },
     {
       "repo": "alchaincyf/huashu-excel",
       "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stars": "256",
+      "stars": "286",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+256 total",
+      "trend": "+286 total",
       "tags": []
-    },
-    {
-      "repo": "sodiumsun/agenttrail",
-      "desc": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
-      "stars": "232",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+232 total",
-      "tags": [
-        "agent-monitoring",
-        "agent-observability",
-        "ai-agents",
-        "ai-coding-agents",
-        "claude-code"
-      ]
     }
   ]
 }

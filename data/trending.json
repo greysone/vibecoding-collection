@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-27T07:50:48.428Z",
+  "fetchedAt": "2026-08-27T21:51:53.294Z",
   "repos": [
     {
       "repo": "duty1g/x64dbg-mcp-server",
@@ -19,10 +19,10 @@
     {
       "repo": "cclank/lanshu-create-ai-presenter-video",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "stars": "951",
+      "stars": "953",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+951 total",
+      "trend": "+953 total",
       "tags": [
         "ai-video",
         "codex",
@@ -34,10 +34,10 @@
     {
       "repo": "ShadowAqueduct/watermark-remover",
       "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "810",
+      "stars": "819",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+810 total",
+      "trend": "+819 total",
       "tags": [
         "claude-ai",
         "claude-code",
@@ -47,30 +47,30 @@
       ]
     },
     {
-      "repo": "Forsy-AI/biosecurity-agent",
-      "desc": "AI agent that builds a live biosecurity world around any target.",
-      "stars": "512",
+      "repo": "amosblomqvist/learn",
+      "desc": "My AI learning system.",
+      "stars": "518",
       "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+512 total",
+      "license": "Other",
+      "trend": "+518 total",
       "tags": []
     },
     {
-      "repo": "amosblomqvist/learn",
-      "desc": "My AI learning system.",
-      "stars": "440",
+      "repo": "Forsy-AI/biosecurity-agent",
+      "desc": "AI agent that builds a live biosecurity world around any target.",
+      "stars": "510",
       "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+440 total",
+      "license": "Apache-2.0",
+      "trend": "+510 total",
       "tags": []
     },
     {
       "repo": "kgoedecke/doop",
       "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stars": "421",
+      "stars": "454",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+421 total",
+      "trend": "+454 total",
       "tags": [
         "ai-agents",
         "canvas",
@@ -82,10 +82,10 @@
     {
       "repo": "halofyai/halofy",
       "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-      "stars": "377",
+      "stars": "408",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+377 total",
+      "trend": "+408 total",
       "tags": [
         "access-control",
         "agent-governance",
@@ -95,12 +95,21 @@
       ]
     },
     {
+      "repo": "larashero3-dotcom/lieflat-less-ai-tone",
+      "desc": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study",
+      "stars": "395",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+395 total",
+      "tags": []
+    },
+    {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "364",
+      "stars": "374",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+364 total",
+      "trend": "+374 total",
       "tags": [
         "agent",
         "agent-os",
@@ -110,21 +119,12 @@
       ]
     },
     {
-      "repo": "larashero3-dotcom/lieflat-less-ai-tone",
-      "desc": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study",
-      "stars": "359",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+359 total",
-      "tags": []
-    },
-    {
       "repo": "ChenShuo2004/cs-board",
       "desc": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-      "stars": "340",
+      "stars": "346",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+340 total",
+      "trend": "+346 total",
       "tags": [
         "ai-video",
         "chinese",
@@ -136,10 +136,10 @@
     {
       "repo": "bam-bam-2/solo-skills",
       "desc": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stars": "316",
+      "stars": "318",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+316 total",
+      "trend": "+318 total",
       "tags": [
         "agent-skills",
         "ai-agent",
@@ -151,10 +151,10 @@
     {
       "repo": "alchaincyf/huashu-excel",
       "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stars": "306",
+      "stars": "316",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+306 total",
+      "trend": "+316 total",
       "tags": []
     }
   ]

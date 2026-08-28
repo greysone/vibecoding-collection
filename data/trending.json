@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-28T09:55:20.559Z",
+  "fetchedAt": "2026-08-28T21:45:58.223Z",
   "repos": [
     {
       "repo": "duty1g/x64dbg-mcp-server",
       "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "Zig",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
       "tags": [
         "ai-agents",
         "ai-debugging",
@@ -19,10 +19,10 @@
     {
       "repo": "ShadowAqueduct/watermark-remover",
       "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "822",
+      "stars": "826",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+822 total",
+      "trend": "+826 total",
       "tags": [
         "claude-ai",
         "claude-code",
@@ -34,10 +34,10 @@
     {
       "repo": "amosblomqvist/learn",
       "desc": "My AI learning system.",
-      "stars": "560",
+      "stars": "632",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+560 total",
+      "trend": "+632 total",
       "tags": []
     },
     {
@@ -52,10 +52,10 @@
     {
       "repo": "kgoedecke/doop",
       "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stars": "468",
+      "stars": "486",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+468 total",
+      "trend": "+486 total",
       "tags": [
         "ai-agents",
         "canvas",
@@ -65,12 +65,21 @@
       ]
     },
     {
+      "repo": "POUND0423/AI-drama-pound",
+      "desc": "(暂无描述)",
+      "stars": "480",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+480 total",
+      "tags": []
+    },
+    {
       "repo": "halofyai/halofy",
       "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-      "stars": "433",
+      "stars": "454",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+433 total",
+      "trend": "+454 total",
       "tags": [
         "access-control",
         "agent-governance",
@@ -80,21 +89,27 @@
       ]
     },
     {
-      "repo": "POUND0423/AI-drama-pound",
-      "desc": "(暂无描述)",
-      "stars": "405",
-      "lang": "Other",
+      "repo": "gtlhuyidan-sketch/life-ipo",
+      "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "stars": "437",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+405 total",
-      "tags": []
+      "trend": "+437 total",
+      "tags": [
+        "ai-planning",
+        "crm",
+        "health-data",
+        "knowledge-management",
+        "life-ipo"
+      ]
     },
     {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "380",
+      "stars": "382",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+380 total",
+      "trend": "+382 total",
       "tags": [
         "agent",
         "agent-os",
@@ -106,10 +121,10 @@
     {
       "repo": "ChenShuo2004/cs-board",
       "desc": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-      "stars": "350",
+      "stars": "362",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+350 total",
+      "trend": "+362 total",
       "tags": [
         "ai-video",
         "chinese",
@@ -119,42 +134,27 @@
       ]
     },
     {
-      "repo": "alchaincyf/huashu-excel",
-      "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stars": "326",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+326 total",
-      "tags": []
-    },
-    {
-      "repo": "bam-bam-2/solo-skills",
-      "desc": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stars": "321",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+321 total",
-      "tags": [
-        "agent-skills",
-        "ai-agent",
-        "automation",
-        "claude-code",
-        "korean"
-      ]
-    },
-    {
       "repo": "HanyuanWang/LiveStream-Agent-Studio",
       "desc": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
-      "stars": "312",
+      "stars": "333",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+312 total",
+      "trend": "+333 total",
       "tags": [
         "ai-agent",
         "douyin",
         "livestream",
         "speech-to-text"
       ]
+    },
+    {
+      "repo": "alchaincyf/huashu-excel",
+      "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "stars": "330",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+330 total",
+      "tags": []
     }
   ]
 }

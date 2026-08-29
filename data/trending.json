@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T05:54:50.034Z",
+  "fetchedAt": "2026-08-29T16:17:31.446Z",
   "repos": [
     {
       "repo": "duty1g/x64dbg-mcp-server",
@@ -19,10 +19,10 @@
     {
       "repo": "ShadowAqueduct/watermark-remover",
       "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "828",
+      "stars": "831",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+828 total",
+      "trend": "+831 total",
       "tags": [
         "claude-ai",
         "claude-code",
@@ -34,52 +34,19 @@
     {
       "repo": "amosblomqvist/learn",
       "desc": "My AI learning system.",
-      "stars": "668",
+      "stars": "723",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+668 total",
-      "tags": []
-    },
-    {
-      "repo": "Forsy-AI/biosecurity-agent",
-      "desc": "AI agent that builds a live biosecurity world around any target.",
-      "stars": "513",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+513 total",
-      "tags": []
-    },
-    {
-      "repo": "kgoedecke/doop",
-      "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stars": "491",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+491 total",
-      "tags": [
-        "ai-agents",
-        "canvas",
-        "claude",
-        "claude-code",
-        "claude-design"
-      ]
-    },
-    {
-      "repo": "POUND0423/AI-drama-pound",
-      "desc": "(暂无描述)",
-      "stars": "490",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+490 total",
+      "trend": "+723 total",
       "tags": []
     },
     {
       "repo": "Nanako0129/sepia",
       "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "479",
-      "lang": "Shell",
+      "stars": "579",
+      "lang": "Other",
       "license": "MIT",
-      "trend": "+479 total",
+      "trend": "+579 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -89,12 +56,45 @@
       ]
     },
     {
-      "repo": "halofyai/halofy",
-      "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-      "stars": "469",
+      "repo": "Forsy-AI/biosecurity-agent",
+      "desc": "AI agent that builds a live biosecurity world around any target.",
+      "stars": "514",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+514 total",
+      "tags": []
+    },
+    {
+      "repo": "POUND0423/AI-drama-pound",
+      "desc": "(暂无描述)",
+      "stars": "503",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+503 total",
+      "tags": []
+    },
+    {
+      "repo": "kgoedecke/doop",
+      "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "stars": "495",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+469 total",
+      "trend": "+495 total",
+      "tags": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design"
+      ]
+    },
+    {
+      "repo": "halofyai/halofy",
+      "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "stars": "473",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+473 total",
       "tags": [
         "access-control",
         "agent-governance",
@@ -106,10 +106,10 @@
     {
       "repo": "gtlhuyidan-sketch/life-ipo",
       "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "stars": "440",
+      "stars": "447",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+440 total",
+      "trend": "+447 total",
       "tags": [
         "ai-planning",
         "crm",
@@ -121,10 +121,10 @@
     {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "383",
+      "stars": "384",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+383 total",
+      "trend": "+384 total",
       "tags": [
         "agent",
         "agent-os",
@@ -136,10 +136,10 @@
     {
       "repo": "HanyuanWang/LiveStream-Agent-Studio",
       "desc": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
-      "stars": "346",
+      "stars": "374",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+346 total",
+      "trend": "+374 total",
       "tags": [
         "ai-agent",
         "douyin",
@@ -148,18 +148,18 @@
       ]
     },
     {
-      "repo": "leopard627/fire-your-seo-agency",
-      "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stars": "336",
-      "lang": "Other",
+      "repo": "OnlyTerp/opengrok",
+      "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "stars": "353",
+      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+336 total",
+      "trend": "+353 total",
       "tags": [
-        "aeo",
-        "ai-search",
-        "claude-code",
-        "claude-skills",
-        "geo"
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible"
       ]
     }
   ]

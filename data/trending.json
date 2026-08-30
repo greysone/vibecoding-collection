@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-08-30T03:59:16.100Z",
+  "fetchedAt": "2026-08-30T16:09:58.792Z",
   "repos": [
-    {
-      "repo": "ShadowAqueduct/watermark-remover",
-      "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "833",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+833 total",
-      "tags": [
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex"
-      ]
-    },
     {
       "repo": "amosblomqvist/learn",
       "desc": "My AI learning system.",
-      "stars": "790",
+      "stars": "861",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+790 total",
+      "trend": "+861 total",
       "tags": []
     },
     {
       "repo": "Nanako0129/sepia",
       "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "686",
+      "stars": "853",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+686 total",
+      "trend": "+853 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -41,21 +26,36 @@
       ]
     },
     {
+      "repo": "ShadowAqueduct/watermark-remover",
+      "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "stars": "835",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+835 total",
+      "tags": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex"
+      ]
+    },
+    {
       "repo": "POUND0423/AI-drama-pound",
       "desc": "(暂无描述)",
-      "stars": "508",
+      "stars": "512",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+508 total",
+      "trend": "+512 total",
       "tags": []
     },
     {
       "repo": "gtlhuyidan-sketch/life-ipo",
       "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "stars": "452",
+      "stars": "467",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+452 total",
+      "trend": "+467 total",
       "tags": [
         "ai-planning",
         "crm",
@@ -67,10 +67,10 @@
     {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "387",
+      "stars": "389",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+387 total",
+      "trend": "+389 total",
       "tags": [
         "agent",
         "agent-os",
@@ -82,10 +82,10 @@
     {
       "repo": "OnlyTerp/opengrok",
       "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "stars": "369",
+      "stars": "379",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+369 total",
+      "trend": "+379 total",
       "tags": [
         "ai-agents",
         "grok",
@@ -97,10 +97,10 @@
     {
       "repo": "leopard627/fire-your-seo-agency",
       "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stars": "345",
+      "stars": "354",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+345 total",
+      "trend": "+354 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -112,34 +112,19 @@
     {
       "repo": "alchaincyf/huashu-excel",
       "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stars": "342",
+      "stars": "349",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+342 total",
+      "trend": "+349 total",
       "tags": []
-    },
-    {
-      "repo": "S1N6H/pentest-harness",
-      "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "stars": "294",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+294 total",
-      "tags": [
-        "ai-agent",
-        "anthropic-api",
-        "bug-bounty",
-        "infosec",
-        "llm"
-      ]
     },
     {
       "repo": "hkqr/my-free-code",
       "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "274",
+      "stars": "325",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+274 total",
+      "trend": "+325 total",
       "tags": [
         "ai",
         "claude-code",
@@ -151,16 +136,31 @@
     {
       "repo": "damejan80/tokentab",
       "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "stars": "251",
+      "stars": "311",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+251 total",
+      "trend": "+311 total",
       "tags": [
         "ai",
         "claude",
         "claude-code",
         "cursor",
         "python"
+      ]
+    },
+    {
+      "repo": "S1N6H/pentest-harness",
+      "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "stars": "297",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+297 total",
+      "tags": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm"
       ]
     }
   ]

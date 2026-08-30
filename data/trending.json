@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-08-29T16:17:31.446Z",
+  "fetchedAt": "2026-08-30T03:59:16.100Z",
   "repos": [
-    {
-      "repo": "duty1g/x64dbg-mcp-server",
-      "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "stars": "1.7k",
-      "lang": "Zig",
-      "license": "MIT",
-      "trend": "+1.7k total",
-      "tags": [
-        "ai-agents",
-        "ai-debugging",
-        "binary-analysis",
-        "claude",
-        "claude-code"
-      ]
-    },
     {
       "repo": "ShadowAqueduct/watermark-remover",
       "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "831",
+      "stars": "833",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+831 total",
+      "trend": "+833 total",
       "tags": [
         "claude-ai",
         "claude-code",
@@ -34,19 +19,19 @@
     {
       "repo": "amosblomqvist/learn",
       "desc": "My AI learning system.",
-      "stars": "723",
+      "stars": "790",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+723 total",
+      "trend": "+790 total",
       "tags": []
     },
     {
       "repo": "Nanako0129/sepia",
       "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "579",
+      "stars": "686",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+579 total",
+      "trend": "+686 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -56,60 +41,21 @@
       ]
     },
     {
-      "repo": "Forsy-AI/biosecurity-agent",
-      "desc": "AI agent that builds a live biosecurity world around any target.",
-      "stars": "514",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+514 total",
-      "tags": []
-    },
-    {
       "repo": "POUND0423/AI-drama-pound",
       "desc": "(暂无描述)",
-      "stars": "503",
+      "stars": "508",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+503 total",
+      "trend": "+508 total",
       "tags": []
-    },
-    {
-      "repo": "kgoedecke/doop",
-      "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stars": "495",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+495 total",
-      "tags": [
-        "ai-agents",
-        "canvas",
-        "claude",
-        "claude-code",
-        "claude-design"
-      ]
-    },
-    {
-      "repo": "halofyai/halofy",
-      "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-      "stars": "473",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+473 total",
-      "tags": [
-        "access-control",
-        "agent-governance",
-        "agent-memory",
-        "agent-visibility",
-        "ai-agents"
-      ]
     },
     {
       "repo": "gtlhuyidan-sketch/life-ipo",
       "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "stars": "447",
+      "stars": "452",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+447 total",
+      "trend": "+452 total",
       "tags": [
         "ai-planning",
         "crm",
@@ -121,10 +67,10 @@
     {
       "repo": "rome-os/rome",
       "desc": "Rome is the agentic OS.",
-      "stars": "384",
+      "stars": "387",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+384 total",
+      "trend": "+387 total",
       "tags": [
         "agent",
         "agent-os",
@@ -134,32 +80,87 @@
       ]
     },
     {
-      "repo": "HanyuanWang/LiveStream-Agent-Studio",
-      "desc": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
-      "stars": "374",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+374 total",
-      "tags": [
-        "ai-agent",
-        "douyin",
-        "livestream",
-        "speech-to-text"
-      ]
-    },
-    {
       "repo": "OnlyTerp/opengrok",
       "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "stars": "353",
+      "stars": "369",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+353 total",
+      "trend": "+369 total",
       "tags": [
         "ai-agents",
         "grok",
         "llm",
         "model-router",
         "openai-compatible"
+      ]
+    },
+    {
+      "repo": "leopard627/fire-your-seo-agency",
+      "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "stars": "345",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+345 total",
+      "tags": [
+        "aeo",
+        "ai-search",
+        "claude-code",
+        "claude-skills",
+        "geo"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-excel",
+      "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "stars": "342",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+342 total",
+      "tags": []
+    },
+    {
+      "repo": "S1N6H/pentest-harness",
+      "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "stars": "294",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+294 total",
+      "tags": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm"
+      ]
+    },
+    {
+      "repo": "hkqr/my-free-code",
+      "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "stars": "274",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+274 total",
+      "tags": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
+      ]
+    },
+    {
+      "repo": "damejan80/tokentab",
+      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": "251",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+251 total",
+      "tags": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python"
       ]
     }
   ]

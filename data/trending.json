@@ -1,22 +1,13 @@
 {
-  "fetchedAt": "2026-08-30T16:09:58.792Z",
+  "fetchedAt": "2026-08-31T04:03:15.974Z",
   "repos": [
-    {
-      "repo": "amosblomqvist/learn",
-      "desc": "My AI learning system.",
-      "stars": "861",
-      "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+861 total",
-      "tags": []
-    },
     {
       "repo": "Nanako0129/sepia",
       "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "853",
+      "stars": "953",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+853 total",
+      "trend": "+953 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -26,36 +17,21 @@
       ]
     },
     {
-      "repo": "ShadowAqueduct/watermark-remover",
-      "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stars": "835",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+835 total",
-      "tags": [
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex"
-      ]
-    },
-    {
-      "repo": "POUND0423/AI-drama-pound",
-      "desc": "(暂无描述)",
-      "stars": "512",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+512 total",
+      "repo": "amosblomqvist/learn",
+      "desc": "My AI learning system.",
+      "stars": "926",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+926 total",
       "tags": []
     },
     {
       "repo": "gtlhuyidan-sketch/life-ipo",
       "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "stars": "467",
+      "stars": "567",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+467 total",
+      "trend": "+567 total",
       "tags": [
         "ai-planning",
         "crm",
@@ -65,27 +41,51 @@
       ]
     },
     {
-      "repo": "rome-os/rome",
-      "desc": "Rome is the agentic OS.",
-      "stars": "389",
-      "lang": "TypeScript",
+      "repo": "POUND0423/AI-drama-pound",
+      "desc": "(暂无描述)",
+      "stars": "514",
+      "lang": "Other",
       "license": "MIT",
-      "trend": "+389 total",
+      "trend": "+514 total",
+      "tags": []
+    },
+    {
+      "repo": "damejan80/tokentab",
+      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": "394",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+394 total",
       "tags": [
-        "agent",
-        "agent-os",
+        "ai",
+        "claude",
         "claude-code",
-        "codex",
-        "llm"
+        "cursor",
+        "python"
+      ]
+    },
+    {
+      "repo": "hkqr/my-free-code",
+      "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "stars": "387",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+387 total",
+      "tags": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
       ]
     },
     {
       "repo": "OnlyTerp/opengrok",
       "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "stars": "379",
+      "stars": "384",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+379 total",
+      "trend": "+384 total",
       "tags": [
         "ai-agents",
         "grok",
@@ -97,10 +97,10 @@
     {
       "repo": "leopard627/fire-your-seo-agency",
       "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stars": "354",
+      "stars": "371",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+354 total",
+      "trend": "+371 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -110,57 +110,53 @@
       ]
     },
     {
-      "repo": "alchaincyf/huashu-excel",
-      "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stars": "349",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+349 total",
-      "tags": []
-    },
-    {
-      "repo": "hkqr/my-free-code",
-      "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "325",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+325 total",
-      "tags": [
-        "ai",
-        "claude-code",
-        "free-claude-api",
-        "multi-provider",
-        "multi-provider-llm"
-      ]
-    },
-    {
-      "repo": "damejan80/tokentab",
-      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "stars": "311",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+311 total",
-      "tags": [
-        "ai",
-        "claude",
-        "claude-code",
-        "cursor",
-        "python"
-      ]
-    },
-    {
       "repo": "S1N6H/pentest-harness",
       "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "stars": "297",
+      "stars": "302",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+297 total",
+      "trend": "+302 total",
       "tags": [
         "ai-agent",
         "anthropic-api",
         "bug-bounty",
         "infosec",
         "llm"
+      ]
+    },
+    {
+      "repo": "DavidCarliez/trustmebro",
+      "desc": "Bypass llm guardrails by confusing it with fabricated tool output.",
+      "stars": "294",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+294 total",
+      "tags": []
+    },
+    {
+      "repo": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "stars": "264",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+264 total",
+      "tags": [
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
+      ]
+    },
+    {
+      "repo": "LYiHub/Card-master-browser-extension-public",
+      "desc": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "stars": "249",
+      "lang": "TypeScript",
+      "license": "GPL-3.0",
+      "trend": "+249 total",
+      "tags": [
+        "browser-extension"
       ]
     }
   ]

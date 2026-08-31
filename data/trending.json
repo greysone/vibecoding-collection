@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-31T04:03:15.974Z",
+  "fetchedAt": "2026-08-31T18:51:32.672Z",
   "repos": [
     {
       "repo": "Nanako0129/sepia",
-      "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "953",
+      "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stars": "1.2k",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+953 total",
+      "trend": "+1.2k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -19,43 +19,19 @@
     {
       "repo": "amosblomqvist/learn",
       "desc": "My AI learning system.",
-      "stars": "926",
+      "stars": "1.0k",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+926 total",
-      "tags": []
-    },
-    {
-      "repo": "gtlhuyidan-sketch/life-ipo",
-      "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "stars": "567",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+567 total",
-      "tags": [
-        "ai-planning",
-        "crm",
-        "health-data",
-        "knowledge-management",
-        "life-ipo"
-      ]
-    },
-    {
-      "repo": "POUND0423/AI-drama-pound",
-      "desc": "(暂无描述)",
-      "stars": "514",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+514 total",
+      "trend": "+1.0k total",
       "tags": []
     },
     {
       "repo": "damejan80/tokentab",
       "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "stars": "394",
+      "stars": "588",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+394 total",
+      "trend": "+588 total",
       "tags": [
         "ai",
         "claude",
@@ -67,10 +43,10 @@
     {
       "repo": "hkqr/my-free-code",
       "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "387",
+      "stars": "537",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+387 total",
+      "trend": "+537 total",
       "tags": [
         "ai",
         "claude-code",
@@ -80,12 +56,21 @@
       ]
     },
     {
+      "repo": "POUND0423/AI-drama-pound",
+      "desc": "(暂无描述)",
+      "stars": "519",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+519 total",
+      "tags": []
+    },
+    {
       "repo": "OnlyTerp/opengrok",
       "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "stars": "384",
+      "stars": "392",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+384 total",
+      "trend": "+392 total",
       "tags": [
         "ai-agents",
         "grok",
@@ -97,10 +82,10 @@
     {
       "repo": "leopard627/fire-your-seo-agency",
       "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stars": "371",
+      "stars": "380",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+371 total",
+      "trend": "+380 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -110,12 +95,21 @@
       ]
     },
     {
+      "repo": "DavidCarliez/trustmebro",
+      "desc": "Bypass llm guardrails by confusing it with fabricated tool output.",
+      "stars": "353",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+353 total",
+      "tags": []
+    },
+    {
       "repo": "S1N6H/pentest-harness",
       "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "stars": "302",
+      "stars": "311",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+302 total",
+      "trend": "+311 total",
       "tags": [
         "ai-agent",
         "anthropic-api",
@@ -125,21 +119,21 @@
       ]
     },
     {
-      "repo": "DavidCarliez/trustmebro",
-      "desc": "Bypass llm guardrails by confusing it with fabricated tool output.",
-      "stars": "294",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+294 total",
+      "repo": "PAICNI/CFBox",
+      "desc": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "stars": "300",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+300 total",
       "tags": []
     },
     {
       "repo": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
       "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
-      "stars": "264",
+      "stars": "286",
       "lang": "Other",
       "license": "Other",
-      "trend": "+264 total",
+      "trend": "+286 total",
       "tags": [
         "agent",
         "ai-coding",
@@ -149,15 +143,13 @@
       ]
     },
     {
-      "repo": "LYiHub/Card-master-browser-extension-public",
-      "desc": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "stars": "249",
+      "repo": "AgriciDaniel/youtubepro",
+      "desc": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation.",
+      "stars": "278",
       "lang": "TypeScript",
-      "license": "GPL-3.0",
-      "trend": "+249 total",
-      "tags": [
-        "browser-extension"
-      ]
+      "license": "Apache-2.0",
+      "trend": "+278 total",
+      "tags": []
     }
   ]
 }

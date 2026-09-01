@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T03:53:15.259Z",
+  "fetchedAt": "2026-09-01T16:09:23.176Z",
   "repos": [
     {
       "repo": "Nanako0129/sepia",
@@ -19,10 +19,10 @@
     {
       "repo": "damejan80/tokentab",
       "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "stars": "719",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+719 total",
+      "trend": "+1.0k total",
       "tags": [
         "ai",
         "claude",
@@ -34,10 +34,10 @@
     {
       "repo": "hkqr/my-free-code",
       "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "615",
+      "stars": "617",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+615 total",
+      "trend": "+617 total",
       "tags": [
         "ai",
         "claude-code",
@@ -49,19 +49,37 @@
     {
       "repo": "POUND0423/AI-drama-pound",
       "desc": "(暂无描述)",
-      "stars": "522",
+      "stars": "528",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+522 total",
+      "trend": "+528 total",
+      "tags": []
+    },
+    {
+      "repo": "brayonpi/hexstellar",
+      "desc": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "stars": "454",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+454 total",
+      "tags": []
+    },
+    {
+      "repo": "PAICNI/CFBox",
+      "desc": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "stars": "448",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+448 total",
       "tags": []
     },
     {
       "repo": "OnlyTerp/opengrok",
       "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "stars": "397",
+      "stars": "401",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+397 total",
+      "trend": "+401 total",
       "tags": [
         "ai-agents",
         "grok",
@@ -73,10 +91,10 @@
     {
       "repo": "leopard627/fire-your-seo-agency",
       "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stars": "380",
+      "stars": "382",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+380 total",
+      "trend": "+382 total",
       "tags": [
         "aeo",
         "ai-search",
@@ -88,28 +106,19 @@
     {
       "repo": "DavidCarliez/trustmebro",
       "desc": "Bypass llm guardrails by confusing it with fabricated tool output.",
-      "stars": "370",
+      "stars": "382",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+370 total",
-      "tags": []
-    },
-    {
-      "repo": "PAICNI/CFBox",
-      "desc": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
-      "stars": "363",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+363 total",
+      "trend": "+382 total",
       "tags": []
     },
     {
       "repo": "S1N6H/pentest-harness",
       "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "stars": "313",
+      "stars": "317",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+313 total",
+      "trend": "+317 total",
       "tags": [
         "ai-agent",
         "anthropic-api",
@@ -121,10 +130,10 @@
     {
       "repo": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
       "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
-      "stars": "290",
+      "stars": "296",
       "lang": "Other",
       "license": "Other",
-      "trend": "+290 total",
+      "trend": "+296 total",
       "tags": [
         "agent",
         "ai-coding",
@@ -136,22 +145,13 @@
     {
       "repo": "LYiHub/Card-master-browser-extension-public",
       "desc": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "stars": "283",
+      "stars": "295",
       "lang": "TypeScript",
       "license": "GPL-3.0",
-      "trend": "+283 total",
+      "trend": "+295 total",
       "tags": [
         "browser-extension"
       ]
-    },
-    {
-      "repo": "MORTEN-BUUR/nordef-matrix-open-control",
-      "desc": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
-      "stars": "244",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+244 total",
-      "tags": []
     }
   ]
 }

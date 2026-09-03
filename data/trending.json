@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-02T16:04:25.470Z",
+  "fetchedAt": "2026-09-03T03:14:16.362Z",
   "repos": [
     {
       "repo": "Nanako0129/sepia",
       "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -34,10 +34,10 @@
     {
       "repo": "GangTailorUpgrade/undress-service",
       "desc": "Dress AI Sponsor",
-      "stars": "905",
+      "stars": "937",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+905 total",
+      "trend": "+937 total",
       "tags": [
         "18comic",
         "coomer",
@@ -49,19 +49,19 @@
     {
       "repo": "brayonpi/hexstellar",
       "desc": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
-      "stars": "664",
+      "stars": "710",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+664 total",
+      "trend": "+710 total",
       "tags": []
     },
     {
       "repo": "hkqr/my-free-code",
       "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "620",
+      "stars": "623",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+620 total",
+      "trend": "+623 total",
       "tags": [
         "ai",
         "claude-code",
@@ -71,21 +71,12 @@
       ]
     },
     {
-      "repo": "PAICNI/CFBox",
-      "desc": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
-      "stars": "602",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+602 total",
-      "tags": []
-    },
-    {
       "repo": "2akouwu/reverify",
       "desc": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "stars": "545",
+      "stars": "592",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+545 total",
+      "trend": "+592 total",
       "tags": [
         "agentic-workflow",
         "ai-agents",
@@ -95,21 +86,12 @@
       ]
     },
     {
-      "repo": "POUND0423/AI-drama-pound",
-      "desc": "(暂无描述)",
-      "stars": "532",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+532 total",
-      "tags": []
-    },
-    {
       "repo": "Player-YN/PawWork_ZhuaZhua",
       "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "stars": "434",
+      "stars": "524",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+434 total",
+      "trend": "+524 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -121,10 +103,10 @@
     {
       "repo": "OnlyTerp/opengrok",
       "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "stars": "413",
+      "stars": "416",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+413 total",
+      "trend": "+416 total",
       "tags": [
         "ai-agents",
         "grok",
@@ -134,27 +116,63 @@
       ]
     },
     {
-      "repo": "DavidCarliez/trustmebro",
-      "desc": "Bypass llm guardrails by confusing it with fabricated tool output.",
-      "stars": "396",
-      "lang": "Go",
+      "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "desc": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "stars": "341",
+      "lang": "Shell",
       "license": "MIT",
-      "trend": "+396 total",
-      "tags": []
+      "trend": "+341 total",
+      "tags": [
+        "ai-seo",
+        "backlinks",
+        "claude",
+        "claude-skills",
+        "dataforseo"
+      ]
     },
     {
-      "repo": "leopard627/fire-your-seo-agency",
-      "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stars": "389",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+389 total",
+      "repo": "useagenthq/useagent",
+      "desc": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "stars": "275",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+275 total",
       "tags": [
-        "aeo",
-        "ai-search",
-        "claude-code",
-        "claude-skills",
-        "geo"
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-coworker",
+        "automation"
+      ]
+    },
+    {
+      "repo": "JordyZomer/lemmalog",
+      "desc": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "stars": "259",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+259 total",
+      "tags": [
+        "agent-memory",
+        "datalog",
+        "knowledge-graph",
+        "llm",
+        "llm-agents"
+      ]
+    },
+    {
+      "repo": "ZJU-REAL/Easel",
+      "desc": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+      "stars": "252",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+252 total",
+      "tags": [
+        "agent",
+        "agent-skill",
+        "content-automation",
+        "content-creation",
+        "content-generation"
       ]
     }
   ]

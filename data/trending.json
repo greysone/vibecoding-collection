@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:15:55.922Z",
+  "fetchedAt": "2026-09-05T14:42:11.850Z",
   "repos": [
     {
       "repo": "GangTailorUpgrade/undress-service",
@@ -18,26 +18,26 @@
     },
     {
       "repo": "2akouwu/reverify",
-      "desc": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
-      "stars": "891",
+      "desc": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "stars": "917",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+891 total",
+      "trend": "+917 total",
       "tags": [
         "ai",
         "ai-agents",
+        "ai-coding",
         "anti-hallucination",
-        "binary-analysis",
-        "context-engineering"
+        "binary-analysis"
       ]
     },
     {
       "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
       "desc": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "stars": "465",
+      "stars": "492",
       "lang": "Shell",
       "license": "MIT",
-      "trend": "+465 total",
+      "trend": "+492 total",
       "tags": [
         "ai-seo",
         "backlinks",
@@ -49,10 +49,10 @@
     {
       "repo": "Human-Agent-Society/reef",
       "desc": "Continual learning infra for self-improving agents",
-      "stars": "432",
+      "stars": "479",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+432 total",
+      "trend": "+479 total",
       "tags": [
         "agent-infrastructure",
         "ai-agents",
@@ -64,19 +64,19 @@
     {
       "repo": "Albert-Weasker/niubigeo",
       "desc": "Open-source AI brand visibility and competitor reports",
-      "stars": "415",
+      "stars": "448",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+415 total",
+      "trend": "+448 total",
       "tags": []
     },
     {
       "repo": "kydlikebtc/awesome-grokbot",
       "desc": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "stars": "307",
+      "stars": "315",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+307 total",
+      "trend": "+315 total",
       "tags": [
         "agents",
         "ai-agents",
@@ -86,12 +86,27 @@
       ]
     },
     {
+      "repo": "yilujian/easy-writing",
+      "desc": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+      "stars": "297",
+      "lang": "Vue",
+      "license": "AGPL-3.0",
+      "trend": "+297 total",
+      "tags": [
+        "ai-writing",
+        "ai-writing-assistant",
+        "byok",
+        "creative-writing",
+        "desktop-app"
+      ]
+    },
+    {
       "repo": "LunarXuan/image-prompt-reverse",
       "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stars": "285",
+      "stars": "291",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+285 total",
+      "trend": "+291 total",
       "tags": [
         "codex",
         "skill",
@@ -115,57 +130,42 @@
       ]
     },
     {
-      "repo": "yilujian/easy-writing",
-      "desc": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "stars": "277",
-      "lang": "Vue",
-      "license": "AGPL-3.0",
-      "trend": "+277 total",
-      "tags": [
-        "ai-writing",
-        "ai-writing-assistant",
-        "byok",
-        "creative-writing",
-        "desktop-app"
-      ]
-    },
-    {
       "repo": "gozen3ji/consulting-pptx-skill",
       "desc": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "stars": "222",
+      "stars": "235",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+222 total",
+      "trend": "+235 total",
       "tags": []
+    },
+    {
+      "repo": "joeseesun/qiaomu-book-reader",
+      "desc": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
+      "stars": "214",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+214 total",
+      "tags": [
+        "brat",
+        "chinese",
+        "ebook-reader",
+        "epub",
+        "obsidian"
+      ]
     },
     {
       "repo": "Agenta-AI/awesome-ai-agent-platforms",
       "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "stars": "168",
+      "stars": "192",
       "lang": "Astro",
       "license": "CC0-1.0",
-      "trend": "+168 total",
+      "trend": "+192 total",
       "tags": [
         "agent-frameworks",
         "ai-agent-platforms",
         "ai-agents",
         "ai-coworker",
         "awesome"
-      ]
-    },
-    {
-      "repo": "Vuk97/forward-implementation-first",
-      "desc": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-      "stars": "163",
-      "lang": "Shell",
-      "license": "MIT",
-      "trend": "+163 total",
-      "tags": [
-        "agent-skills",
-        "agents",
-        "agentskills",
-        "ai-agents",
-        "anthropic"
       ]
     }
   ]

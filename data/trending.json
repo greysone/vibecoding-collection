@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-09-04T15:51:41.029Z",
+  "fetchedAt": "2026-09-05T03:15:55.922Z",
   "repos": [
-    {
-      "repo": "Nanako0129/sepia",
-      "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stars": "2.0k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+2.0k total",
-      "tags": [
-        "agent-skills",
-        "ai-writing",
-        "antigravity",
-        "claude-code",
-        "codex"
-      ]
-    },
     {
       "repo": "GangTailorUpgrade/undress-service",
       "desc": "Dress AI Sponsor",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": [
         "18comic",
         "coomer",
@@ -32,27 +17,12 @@
       ]
     },
     {
-      "repo": "Player-YN/PawWork_ZhuaZhua",
-      "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "stars": "1.0k",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+1.0k total",
-      "tags": [
-        "ai-agent",
-        "browser-agent",
-        "byok",
-        "chrome-extension",
-        "llm"
-      ]
-    },
-    {
       "repo": "2akouwu/reverify",
       "desc": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
-      "stars": "859",
+      "stars": "891",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+859 total",
+      "trend": "+891 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -64,10 +34,10 @@
     {
       "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
       "desc": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "stars": "443",
+      "stars": "465",
       "lang": "Shell",
       "license": "MIT",
-      "trend": "+443 total",
+      "trend": "+465 total",
       "tags": [
         "ai-seo",
         "backlinks",
@@ -79,10 +49,10 @@
     {
       "repo": "Human-Agent-Society/reef",
       "desc": "Continual learning infra for self-improving agents",
-      "stars": "377",
+      "stars": "432",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+377 total",
+      "trend": "+432 total",
       "tags": [
         "agent-infrastructure",
         "ai-agents",
@@ -94,40 +64,39 @@
     {
       "repo": "Albert-Weasker/niubigeo",
       "desc": "Open-source AI brand visibility and competitor reports",
-      "stars": "359",
+      "stars": "415",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+359 total",
+      "trend": "+415 total",
       "tags": []
     },
     {
-      "repo": "ZJU-REAL/Easel",
-      "desc": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
-      "stars": "345",
+      "repo": "kydlikebtc/awesome-grokbot",
+      "desc": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "stars": "307",
       "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+345 total",
+      "license": "NOASSERTION",
+      "trend": "+307 total",
       "tags": [
-        "agent",
-        "agent-skill",
-        "content-automation",
-        "content-creation",
-        "content-generation"
+        "agents",
+        "ai-agents",
+        "ai-tools",
+        "awesome",
+        "awesome-list"
       ]
     },
     {
-      "repo": "carloslfu/slotstream",
-      "desc": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
-      "stars": "287",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+287 total",
+      "repo": "LunarXuan/image-prompt-reverse",
+      "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+      "stars": "285",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+285 total",
       "tags": [
-        "apple-silicon",
-        "llm",
-        "llm-inference",
-        "local-llm",
-        "macos"
+        "codex",
+        "skill",
+        "skill-md",
+        "skills"
       ]
     },
     {
@@ -148,10 +117,10 @@
     {
       "repo": "yilujian/easy-writing",
       "desc": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "stars": "265",
+      "stars": "277",
       "lang": "Vue",
       "license": "AGPL-3.0",
-      "trend": "+265 total",
+      "trend": "+277 total",
       "tags": [
         "ai-writing",
         "ai-writing-assistant",
@@ -161,17 +130,42 @@
       ]
     },
     {
-      "repo": "LunarXuan/image-prompt-reverse",
-      "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stars": "259",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+259 total",
+      "repo": "gozen3ji/consulting-pptx-skill",
+      "desc": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "stars": "222",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+222 total",
+      "tags": []
+    },
+    {
+      "repo": "Agenta-AI/awesome-ai-agent-platforms",
+      "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+      "stars": "168",
+      "lang": "Astro",
+      "license": "CC0-1.0",
+      "trend": "+168 total",
       "tags": [
-        "codex",
-        "skill",
-        "skill-md",
-        "skills"
+        "agent-frameworks",
+        "ai-agent-platforms",
+        "ai-agents",
+        "ai-coworker",
+        "awesome"
+      ]
+    },
+    {
+      "repo": "Vuk97/forward-implementation-first",
+      "desc": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+      "stars": "163",
+      "lang": "Shell",
+      "license": "MIT",
+      "trend": "+163 total",
+      "tags": [
+        "agent-skills",
+        "agents",
+        "agentskills",
+        "ai-agents",
+        "anthropic"
       ]
     }
   ]

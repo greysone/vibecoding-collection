@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-07T03:13:52.878Z",
+  "fetchedAt": "2026-09-07T17:22:06.966Z",
   "repos": [
     {
       "repo": "GangTailorUpgrade/undress-service",
       "desc": "Dress AI Sponsor",
-      "stars": "1.1k",
+      "stars": "1.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.2k total",
       "tags": [
         "18comic",
         "coomer",
@@ -17,27 +17,12 @@
       ]
     },
     {
-      "repo": "2akouwu/reverify",
-      "desc": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "stars": "969",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+969 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-coding",
-        "anti-hallucination",
-        "binary-analysis"
-      ]
-    },
-    {
       "repo": "pierrenade/short-video-generator-AI",
       "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stars": "947",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+947 total",
+      "trend": "+1.1k total",
       "tags": [
         "ai",
         "ai-video",
@@ -47,21 +32,27 @@
       ]
     },
     {
-      "repo": "Albert-Weasker/niubigeo",
-      "desc": "Open-source AI brand visibility and competitor reports",
-      "stars": "611",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+611 total",
-      "tags": []
+      "repo": "2akouwu/reverify",
+      "desc": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "stars": "1.0k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.0k total",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "anti-hallucination",
+        "binary-analysis"
+      ]
     },
     {
       "repo": "Human-Agent-Society/reef",
       "desc": "Continual learning infra for self-improving agents",
-      "stars": "577",
+      "stars": "688",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+577 total",
+      "trend": "+688 total",
       "tags": [
         "agent-infrastructure",
         "ai-agents",
@@ -71,12 +62,30 @@
       ]
     },
     {
+      "repo": "Albert-Weasker/niubigeo",
+      "desc": "Open-source AI brand visibility and competitor reports",
+      "stars": "663",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+663 total",
+      "tags": []
+    },
+    {
+      "repo": "okf-memory/okf-agent-memory",
+      "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "stars": "447",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+447 total",
+      "tags": []
+    },
+    {
       "repo": "yilujian/easy-writing",
       "desc": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "stars": "393",
+      "stars": "432",
       "lang": "Vue",
       "license": "AGPL-3.0",
-      "trend": "+393 total",
+      "trend": "+432 total",
       "tags": [
         "ai-writing",
         "ai-writing-assistant",
@@ -86,13 +95,19 @@
       ]
     },
     {
-      "repo": "okf-memory/okf-agent-memory",
-      "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "stars": "369",
-      "lang": "Go",
+      "repo": "BoardUI/boardui",
+      "desc": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "stars": "337",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+369 total",
-      "tags": []
+      "trend": "+337 total",
+      "tags": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-chat",
+        "boardui",
+        "design-system"
+      ]
     },
     {
       "repo": "kydlikebtc/awesome-grokbot",
@@ -110,26 +125,21 @@
       ]
     },
     {
-      "repo": "LunarXuan/image-prompt-reverse",
-      "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stars": "307",
-      "lang": "Other",
-      "license": "GPL-3.0",
-      "trend": "+307 total",
-      "tags": [
-        "codex",
-        "skill",
-        "skill-md",
-        "skills"
-      ]
+      "repo": "yizhi-chengzi/video-ai-talking",
+      "desc": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。",
+      "stars": "325",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+325 total",
+      "tags": []
     },
     {
       "repo": "adtexterry-lgtm/unigit-ecosystem",
       "desc": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "stars": "305",
+      "stars": "316",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+305 total",
+      "trend": "+316 total",
       "tags": [
         "agentic-ai",
         "ai-tools",
@@ -139,22 +149,18 @@
       ]
     },
     {
-      "repo": "yizhi-chengzi/video-ai-talking",
-      "desc": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。",
-      "stars": "260",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+260 total",
-      "tags": []
-    },
-    {
-      "repo": "gozen3ji/consulting-pptx-skill",
-      "desc": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "stars": "248",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+248 total",
-      "tags": []
+      "repo": "LunarXuan/image-prompt-reverse",
+      "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+      "stars": "315",
+      "lang": "Other",
+      "license": "GPL-3.0",
+      "trend": "+315 total",
+      "tags": [
+        "codex",
+        "skill",
+        "skill-md",
+        "skills"
+      ]
     }
   ]
 }

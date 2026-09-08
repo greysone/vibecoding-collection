@@ -1,46 +1,37 @@
 {
-  "fetchedAt": "2026-09-08T03:21:48.789Z",
+  "fetchedAt": "2026-09-08T16:06:33.029Z",
   "repos": [
-    {
-      "repo": "pierrenade/short-video-generator-AI",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stars": "1.2k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.2k total",
-      "tags": [
-        "ai",
-        "ai-video",
-        "python",
-        "short-video-maker",
-        "video-generation"
-      ]
-    },
     {
       "repo": "Albert-Weasker/niubigeo",
       "desc": "Open-source AI brand visibility and competitor reports",
-      "stars": "679",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+679 total",
+      "trend": "+1.8k total",
       "tags": []
     },
     {
       "repo": "okf-memory/okf-agent-memory",
       "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "stars": "465",
+      "stars": "486",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+465 total",
-      "tags": []
+      "trend": "+486 total",
+      "tags": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools"
+      ]
     },
     {
       "repo": "adtexterry-lgtm/unigit-ecosystem",
       "desc": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "stars": "413",
+      "stars": "419",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+413 total",
+      "trend": "+419 total",
       "tags": [
         "agentic-ai",
         "ai-tools",
@@ -52,10 +43,10 @@
     {
       "repo": "BoardUI/boardui",
       "desc": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "stars": "378",
+      "stars": "387",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+378 total",
+      "trend": "+387 total",
       "tags": [
         "agentic-ai",
         "ai-agent",
@@ -67,10 +58,10 @@
     {
       "repo": "kydlikebtc/awesome-grokbot",
       "desc": "635 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "stars": "332",
+      "stars": "336",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+332 total",
+      "trend": "+336 total",
       "tags": [
         "agents",
         "ai-agents",
@@ -82,10 +73,10 @@
     {
       "repo": "LunarXuan/image-prompt-reverse",
       "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stars": "321",
+      "stars": "335",
       "lang": "Other",
       "license": "GPL-3.0",
-      "trend": "+321 total",
+      "trend": "+335 total",
       "tags": [
         "codex",
         "skill",
@@ -96,34 +87,37 @@
     {
       "repo": "carnot-tech/consulting-pptx-skill",
       "desc": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "stars": "276",
+      "stars": "308",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+276 total",
+      "trend": "+308 total",
       "tags": []
     },
     {
-      "repo": "Agenta-AI/awesome-ai-agent-platforms",
-      "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "stars": "265",
-      "lang": "Astro",
-      "license": "CC0-1.0",
-      "trend": "+265 total",
-      "tags": [
-        "agent-frameworks",
-        "ai-agent-platforms",
-        "ai-agents",
-        "ai-coworker",
-        "awesome"
-      ]
+      "repo": "lfzk550/fanzha-ai-proxy",
+      "desc": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "stars": "269",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+269 total",
+      "tags": []
+    },
+    {
+      "repo": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "desc": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
+      "stars": "259",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+259 total",
+      "tags": []
     },
     {
       "repo": "joeseesun/qiaomu-book-reader",
       "desc": "在 Obsidian 中阅读 EPUB、FB2 与 PDF，划线批注、就地问 AI、笔记回到原文 | Read EPUB/FB2/PDF in Obsidian: highlights, inline AI Q&A, and notes that link back to the source.",
-      "stars": "236",
+      "stars": "240",
       "lang": "CSS",
       "license": "GPL-3.0",
-      "trend": "+236 total",
+      "trend": "+240 total",
       "tags": [
         "ai-assistant",
         "brat",
@@ -133,21 +127,27 @@
       ]
     },
     {
-      "repo": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
-      "desc": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
-      "stars": "195",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+195 total",
-      "tags": []
+      "repo": "Agenta-AI/awesome-ai-agent-platforms",
+      "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+      "stars": "235",
+      "lang": "Astro",
+      "license": "CC0-1.0",
+      "trend": "+235 total",
+      "tags": [
+        "agent-frameworks",
+        "ai-agent-platforms",
+        "ai-agents",
+        "ai-coworker",
+        "awesome"
+      ]
     },
     {
-      "repo": "jarrenrocks/bot-crossing",
-      "desc": "A video game for AI agents.",
-      "stars": "192",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+192 total",
+      "repo": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "desc": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+      "stars": "219",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+219 total",
       "tags": []
     }
   ]

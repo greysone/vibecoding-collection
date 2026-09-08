@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-09-07T17:22:06.966Z",
+  "fetchedAt": "2026-09-08T03:21:48.789Z",
   "repos": [
     {
-      "repo": "GangTailorUpgrade/undress-service",
-      "desc": "Dress AI Sponsor",
+      "repo": "pierrenade/short-video-generator-AI",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "stars": "1.2k",
       "lang": "Python",
       "license": "MIT",
       "trend": "+1.2k total",
-      "tags": [
-        "18comic",
-        "coomer",
-        "coomer-downloader",
-        "coomer-party",
-        "coomer-porn"
-      ]
-    },
-    {
-      "repo": "pierrenade/short-video-generator-AI",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stars": "1.1k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.1k total",
       "tags": [
         "ai",
         "ai-video",
@@ -32,75 +17,45 @@
       ]
     },
     {
-      "repo": "2akouwu/reverify",
-      "desc": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "stars": "1.0k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.0k total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-coding",
-        "anti-hallucination",
-        "binary-analysis"
-      ]
-    },
-    {
-      "repo": "Human-Agent-Society/reef",
-      "desc": "Continual learning infra for self-improving agents",
-      "stars": "688",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+688 total",
-      "tags": [
-        "agent-infrastructure",
-        "ai-agents",
-        "continual-learning",
-        "inference",
-        "llm"
-      ]
-    },
-    {
       "repo": "Albert-Weasker/niubigeo",
       "desc": "Open-source AI brand visibility and competitor reports",
-      "stars": "663",
+      "stars": "679",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+663 total",
+      "trend": "+679 total",
       "tags": []
     },
     {
       "repo": "okf-memory/okf-agent-memory",
       "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "stars": "447",
+      "stars": "465",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+447 total",
+      "trend": "+465 total",
       "tags": []
     },
     {
-      "repo": "yilujian/easy-writing",
-      "desc": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "stars": "432",
-      "lang": "Vue",
-      "license": "AGPL-3.0",
-      "trend": "+432 total",
+      "repo": "adtexterry-lgtm/unigit-ecosystem",
+      "desc": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "stars": "413",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+413 total",
       "tags": [
-        "ai-writing",
-        "ai-writing-assistant",
-        "byok",
-        "creative-writing",
-        "desktop-app"
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp"
       ]
     },
     {
       "repo": "BoardUI/boardui",
       "desc": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "stars": "337",
+      "stars": "378",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+337 total",
+      "trend": "+378 total",
       "tags": [
         "agentic-ai",
         "ai-agent",
@@ -111,11 +66,11 @@
     },
     {
       "repo": "kydlikebtc/awesome-grokbot",
-      "desc": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "stars": "331",
+      "desc": "635 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "stars": "332",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+331 total",
+      "trend": "+332 total",
       "tags": [
         "agents",
         "ai-agents",
@@ -125,42 +80,75 @@
       ]
     },
     {
-      "repo": "yizhi-chengzi/video-ai-talking",
-      "desc": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。",
-      "stars": "325",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+325 total",
-      "tags": []
-    },
-    {
-      "repo": "adtexterry-lgtm/unigit-ecosystem",
-      "desc": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "stars": "316",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+316 total",
-      "tags": [
-        "agentic-ai",
-        "ai-tools",
-        "ai-workbench",
-        "ecosystem",
-        "mcp"
-      ]
-    },
-    {
       "repo": "LunarXuan/image-prompt-reverse",
       "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stars": "315",
+      "stars": "321",
       "lang": "Other",
       "license": "GPL-3.0",
-      "trend": "+315 total",
+      "trend": "+321 total",
       "tags": [
         "codex",
         "skill",
         "skill-md",
         "skills"
       ]
+    },
+    {
+      "repo": "carnot-tech/consulting-pptx-skill",
+      "desc": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "stars": "276",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+276 total",
+      "tags": []
+    },
+    {
+      "repo": "Agenta-AI/awesome-ai-agent-platforms",
+      "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+      "stars": "265",
+      "lang": "Astro",
+      "license": "CC0-1.0",
+      "trend": "+265 total",
+      "tags": [
+        "agent-frameworks",
+        "ai-agent-platforms",
+        "ai-agents",
+        "ai-coworker",
+        "awesome"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-book-reader",
+      "desc": "在 Obsidian 中阅读 EPUB、FB2 与 PDF，划线批注、就地问 AI、笔记回到原文 | Read EPUB/FB2/PDF in Obsidian: highlights, inline AI Q&A, and notes that link back to the source.",
+      "stars": "236",
+      "lang": "CSS",
+      "license": "GPL-3.0",
+      "trend": "+236 total",
+      "tags": [
+        "ai-assistant",
+        "brat",
+        "chinese",
+        "ebook-reader",
+        "epub"
+      ]
+    },
+    {
+      "repo": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "desc": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
+      "stars": "195",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+195 total",
+      "tags": []
+    },
+    {
+      "repo": "jarrenrocks/bot-crossing",
+      "desc": "A video game for AI agents.",
+      "stars": "192",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+192 total",
+      "tags": []
     }
   ]
 }

@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-09-09T16:01:17.790Z",
+  "fetchedAt": "2026-09-10T03:23:36.348Z",
   "repos": [
     {
       "repo": "Albert-Weasker/niubigeo",
       "desc": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "stars": "2.2k",
+      "stars": "2.3k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+2.2k total",
+      "trend": "+2.3k total",
       "tags": []
-    },
-    {
-      "repo": "adtexterry-lgtm/unigit-ecosystem",
-      "desc": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "stars": "556",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+556 total",
-      "tags": [
-        "agentic-ai",
-        "ai-tools",
-        "ai-workbench",
-        "ecosystem",
-        "mcp"
-      ]
     },
     {
       "repo": "okf-memory/okf-agent-memory",
       "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "stars": "509",
+      "stars": "523",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+509 total",
+      "trend": "+523 total",
       "tags": [
         "agent-memory",
         "ai-agents",
@@ -41,72 +26,63 @@
       ]
     },
     {
-      "repo": "carnot-tech/consulting-pptx-skill",
-      "desc": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "stars": "400",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+400 total",
-      "tags": []
-    },
-    {
       "repo": "lfzk550/fanzha-ai-proxy",
       "desc": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
-      "stars": "376",
+      "stars": "391",
       "lang": "Other",
       "license": "Other",
-      "trend": "+376 total",
+      "trend": "+391 total",
       "tags": []
     },
     {
-      "repo": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
-      "desc": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
-      "stars": "304",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+304 total",
-      "tags": []
+      "repo": "yudaprasetya007/routeVSCODE",
+      "desc": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "stars": "326",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+326 total",
+      "tags": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot"
+      ]
     },
     {
       "repo": "i-am-manware/Manware-s-AI-Learning-Toolkit",
       "desc": "An AI toolkit that turns agents into teachers rather than code yapping machines",
-      "stars": "280",
+      "stars": "298",
       "lang": "Other",
       "license": "Other",
-      "trend": "+280 total",
+      "trend": "+298 total",
       "tags": []
     },
     {
       "repo": "ScottStevenson/SuperAstra",
       "desc": "Change SNES games with AI while you play them.",
-      "stars": "235",
+      "stars": "242",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+235 total",
+      "trend": "+242 total",
       "tags": []
     },
     {
-      "repo": "Agenta-AI/awesome-ai-agent-platforms",
-      "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "stars": "207",
-      "lang": "Astro",
-      "license": "CC0-1.0",
-      "trend": "+207 total",
-      "tags": [
-        "agent-frameworks",
-        "ai-agent-platforms",
-        "ai-agents",
-        "ai-coworker",
-        "awesome"
-      ]
+      "repo": "ikevss/wechat-ai-memory",
+      "desc": "本地优先的 Windows 微信个人记忆库：筛选、归档并导出可追溯的聊天上下文",
+      "stars": "187",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+187 total",
+      "tags": []
     },
     {
       "repo": "noskillish/bankmcp",
       "desc": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
-      "stars": "171",
+      "stars": "173",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+171 total",
+      "trend": "+173 total",
       "tags": [
         "chatgpt",
         "claude",
@@ -131,13 +107,37 @@
       ]
     },
     {
-      "repo": "ikevss/wechat-ai-memory",
-      "desc": "本地优先的 Windows 微信个人记忆库：筛选、归档并导出可追溯的聊天上下文",
-      "stars": "142",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+142 total",
+      "repo": "blendi-remade/unreel",
+      "desc": "Your personal AI video streaming service",
+      "stars": "140",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+140 total",
       "tags": []
+    },
+    {
+      "repo": "xflare-bot/pokemonlive",
+      "desc": "Local Pokemon battle prototype with AI-generated cinematics",
+      "stars": "136",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+136 total",
+      "tags": []
+    },
+    {
+      "repo": "chigwell/Penelopa.ai",
+      "desc": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
+      "stars": "114",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+114 total",
+      "tags": [
+        "agent-improvement",
+        "agent-observability",
+        "ai-agents",
+        "ai-recommendations",
+        "claude-code"
+      ]
     }
   ]
 }

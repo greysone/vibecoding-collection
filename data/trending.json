@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-09-16T03:39:25.376Z",
+  "fetchedAt": "2026-09-16T16:16:02.144Z",
   "repos": [
     {
       "repo": "ai-sucks-butt/ai-sucks-butt",
       "desc": "If you think AI sucks, star the repo.",
-      "stars": "864",
-      "lang": "Other",
+      "stars": "1.0k",
+      "lang": "Python",
       "license": "Other",
-      "trend": "+864 total",
+      "trend": "+1.0k total",
       "tags": []
     },
     {
       "repo": "kruzovic7/ai-data-extractor",
       "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "stars": "823",
+      "stars": "825",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+823 total",
+      "trend": "+825 total",
       "tags": [
         "ai",
         "ai-data-extraction",
@@ -25,36 +25,21 @@
       ]
     },
     {
-      "repo": "eternityspring/reelbench-skills",
-      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "stars": "698",
-      "lang": "HTML",
-      "license": "Apache-2.0",
-      "trend": "+698 total",
-      "tags": [
-        "ai-video",
-        "claude-skills",
-        "ffmpeg",
-        "shot-analysis",
-        "video-analysis"
-      ]
-    },
-    {
       "repo": "zjwzcx/Awesome-Astra-Embodied-AI",
       "desc": "GPT-6 Astra for embodied AI and robotics.",
-      "stars": "696",
+      "stars": "757",
       "lang": "Other",
       "license": "Other",
-      "trend": "+696 total",
+      "trend": "+757 total",
       "tags": []
     },
     {
       "repo": "unstablebuild/rune",
       "desc": "the development environment for pros",
-      "stars": "639",
+      "stars": "719",
       "lang": "Go",
       "license": "GPL-3.0",
-      "trend": "+639 total",
+      "trend": "+719 total",
       "tags": [
         "agent-orchestration",
         "ai",
@@ -64,21 +49,36 @@
       ]
     },
     {
+      "repo": "eternityspring/reelbench-skills",
+      "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "stars": "705",
+      "lang": "HTML",
+      "license": "Apache-2.0",
+      "trend": "+705 total",
+      "tags": [
+        "ai-video",
+        "claude-skills",
+        "ffmpeg",
+        "shot-analysis",
+        "video-analysis"
+      ]
+    },
+    {
       "repo": "agentverse-os/AgentVerse-OS",
       "desc": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "stars": "605",
+      "stars": "657",
       "lang": "Rust",
       "license": "Apache-2.0",
-      "trend": "+605 total",
+      "trend": "+657 total",
       "tags": []
     },
     {
       "repo": "youngyangyang04/llm-master",
       "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "stars": "490",
+      "stars": "557",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+490 total",
+      "trend": "+557 total",
       "tags": [
         "agent",
         "large-language-models",
@@ -90,19 +90,19 @@
     {
       "repo": "yi1108/printfilm",
       "desc": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "stars": "481",
+      "stars": "500",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+481 total",
+      "trend": "+500 total",
       "tags": []
     },
     {
       "repo": "atria-asi/Atria-Dawn-Preview",
       "desc": "(暂无描述)",
-      "stars": "336",
+      "stars": "407",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+336 total",
+      "trend": "+407 total",
       "tags": [
         "llm",
         "llm-agent"
@@ -126,10 +126,10 @@
     {
       "repo": "Qiuner/birdview",
       "desc": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "stars": "286",
+      "stars": "307",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+286 total",
+      "trend": "+307 total",
       "tags": [
         "agent-tools",
         "ai-workflow",
@@ -139,19 +139,13 @@
       ]
     },
     {
-      "repo": "groundboxerrespect/Dlls5-auto",
-      "desc": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
-      "stars": "246",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+246 total",
-      "tags": [
-        "dlls",
-        "dlls-5",
-        "dlls-enabler",
-        "dlls-neural-rendering",
-        "dlls-swapper"
-      ]
+      "repo": "yjz211/vivid-figures-skill",
+      "desc": "让 AI 用你的数据生成科研图表：108 个配方，鲜艳与稳重两种风格，多套配色，交付图片与源码。仅限个人非商业使用。",
+      "stars": "270",
+      "lang": "HTML",
+      "license": "NOASSERTION",
+      "trend": "+270 total",
+      "tags": []
     }
   ]
 }

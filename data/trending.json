@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-09-22T16:24:15.627Z",
+  "fetchedAt": "2026-09-23T03:37:22.781Z",
   "repos": [
     {
       "repo": "zai-org/ZCode",
       "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "stars": "6.2k",
+      "stars": "6.4k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+6.2k total",
+      "trend": "+6.4k total",
       "tags": []
     },
     {
       "repo": "mizorewww/laya-mlx",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "stars": "5.2k",
+      "stars": "5.5k",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+5.2k total",
+      "trend": "+5.5k total",
       "tags": [
         "apple-silicon",
         "decision-model",
@@ -28,10 +28,10 @@
     {
       "repo": "jev-chat/jev-chat-jarvis",
       "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "stars": "3.5k",
+      "stars": "4.2k",
       "lang": "Kotlin",
       "license": "MIT",
-      "trend": "+3.5k total",
+      "trend": "+4.2k total",
       "tags": [
         "accessibility-service",
         "android",
@@ -43,28 +43,28 @@
     {
       "repo": "Mak5er/AirCard",
       "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "stars": "2.7k",
+      "stars": "2.9k",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+2.7k total",
+      "trend": "+2.9k total",
       "tags": []
     },
     {
       "repo": "jarrodwatts/jev-trader",
       "desc": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.0k total",
+      "trend": "+2.1k total",
       "tags": []
     },
     {
       "repo": "yibie/awesome-jev",
       "desc": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "awesome",
         "awesome-list",
@@ -75,19 +75,28 @@
     {
       "repo": "hydra-db/open-glean",
       "desc": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "stars": "817",
+      "stars": "845",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+817 total",
+      "trend": "+845 total",
+      "tags": []
+    },
+    {
+      "repo": "Lumid-Off/AirCard-Windows",
+      "desc": "(暂无描述)",
+      "stars": "670",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+670 total",
       "tags": []
     },
     {
       "repo": "v-modal/awesome-jev-tools",
       "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "637",
+      "stars": "660",
       "lang": "Other",
       "license": "Other",
-      "trend": "+637 total",
+      "trend": "+660 total",
       "tags": [
         "awesome",
         "awesome-list",
@@ -99,10 +108,10 @@
     {
       "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "stars": "621",
+      "stars": "626",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+621 total",
+      "trend": "+626 total",
       "tags": [
         "ai",
         "ai-engineering",
@@ -112,21 +121,12 @@
       ]
     },
     {
-      "repo": "Lumid-Off/AirCard-Windows",
-      "desc": "(暂无描述)",
-      "stars": "611",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+611 total",
-      "tags": []
-    },
-    {
       "repo": "devagrawal09/jev-review",
       "desc": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "stars": "537",
+      "stars": "556",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+537 total",
+      "trend": "+556 total",
       "tags": [
         "ai",
         "code-review",
@@ -136,12 +136,12 @@
       ]
     },
     {
-      "repo": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-      "desc": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
-      "stars": "526",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+526 total",
+      "repo": "Mak5er/AirCard-iOS",
+      "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "stars": "540",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+540 total",
       "tags": []
     }
   ]

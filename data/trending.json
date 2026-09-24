@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-09-24T03:28:06.966Z",
+  "fetchedAt": "2026-09-24T16:36:53.815Z",
   "repos": [
     {
       "repo": "zai-org/ZCode",
       "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "stars": "6.6k",
+      "stars": "6.7k",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+6.6k total",
+      "trend": "+6.7k total",
       "tags": []
     },
     {
       "repo": "mizorewww/laya-mlx",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "stars": "6.0k",
+      "stars": "6.2k",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+6.0k total",
+      "trend": "+6.2k total",
       "tags": [
         "apple-silicon",
         "decision-model",
@@ -28,10 +28,10 @@
     {
       "repo": "jev-chat/jev-chat-jarvis",
       "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "stars": "5.4k",
+      "stars": "5.9k",
       "lang": "Kotlin",
       "license": "MIT",
-      "trend": "+5.4k total",
+      "trend": "+5.9k total",
       "tags": [
         "accessibility-service",
         "android",
@@ -43,10 +43,10 @@
     {
       "repo": "yibie/awesome-jev",
       "desc": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "awesome",
         "awesome-list",
@@ -66,19 +66,19 @@
     {
       "repo": "Lumid-Off/AirCard-Windows",
       "desc": "(暂无描述)",
-      "stars": "795",
+      "stars": "853",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+795 total",
+      "trend": "+853 total",
       "tags": []
     },
     {
       "repo": "v-modal/awesome-jev-tools",
       "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "697",
+      "stars": "709",
       "lang": "Other",
       "license": "Other",
-      "trend": "+697 total",
+      "trend": "+709 total",
       "tags": [
         "awesome",
         "awesome-list",
@@ -88,51 +88,21 @@
       ]
     },
     {
-      "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "stars": "640",
-      "lang": "Markdown",
-      "license": "Apache-2.0",
-      "trend": "+640 total",
-      "tags": [
-        "ai",
-        "ai-engineering",
-        "ai-engineering-interview",
-        "ai-interview",
-        "ai-interview-questions"
-      ]
-    },
-    {
       "repo": "Mak5er/AirCard-iOS",
       "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-      "stars": "620",
+      "stars": "694",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+620 total",
+      "trend": "+694 total",
       "tags": []
-    },
-    {
-      "repo": "wfzyx/von",
-      "desc": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-      "stars": "593",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+593 total",
-      "tags": [
-        "decision-model",
-        "jev",
-        "machine-learning",
-        "python",
-        "rlcd"
-      ]
     },
     {
       "repo": "freestylefly/WeChatBridge",
       "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "stars": "580",
+      "stars": "649",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+580 total",
+      "trend": "+649 total",
       "tags": [
         "ai-agent",
         "chat-history",
@@ -142,13 +112,49 @@
       ]
     },
     {
-      "repo": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-      "desc": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
-      "stars": "533",
+      "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "stars": "646",
+      "lang": "Markdown",
+      "license": "Apache-2.0",
+      "trend": "+646 total",
+      "tags": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions"
+      ]
+    },
+    {
+      "repo": "wfzyx/von",
+      "desc": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+      "stars": "623",
       "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+533 total",
-      "tags": []
+      "license": "Apache-2.0",
+      "trend": "+623 total",
+      "tags": [
+        "decision-model",
+        "jev",
+        "machine-learning",
+        "python",
+        "rlcd"
+      ]
+    },
+    {
+      "repo": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": "549",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+549 total",
+      "tags": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm"
+      ]
     }
   ]
 }

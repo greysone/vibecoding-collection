@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-24T16:36:53.815Z",
+  "fetchedAt": "2026-09-25T03:45:15.160Z",
   "repos": [
     {
       "repo": "zai-org/ZCode",
@@ -27,11 +27,11 @@
     },
     {
       "repo": "jev-chat/jev-chat-jarvis",
-      "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "stars": "5.9k",
+      "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "stars": "6.2k",
       "lang": "Kotlin",
       "license": "MIT",
-      "trend": "+5.9k total",
+      "trend": "+6.2k total",
       "tags": [
         "accessibility-service",
         "android",
@@ -41,44 +41,30 @@
       ]
     },
     {
-      "repo": "yibie/awesome-jev",
-      "desc": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "1.6k",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+1.6k total",
-      "tags": [
-        "awesome",
-        "awesome-list",
-        "jev",
-        "llm"
-      ]
-    },
-    {
-      "repo": "hydra-db/open-glean",
-      "desc": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "stars": "1.5k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+1.5k total",
+      "repo": "Lumid-Off/AirCard-Windows",
+      "desc": "(暂无描述)",
+      "stars": "878",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+878 total",
       "tags": []
     },
     {
-      "repo": "Lumid-Off/AirCard-Windows",
-      "desc": "(暂无描述)",
-      "stars": "853",
-      "lang": "Rust",
+      "repo": "Mak5er/AirCard-iOS",
+      "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "stars": "729",
+      "lang": "Swift",
       "license": "MIT",
-      "trend": "+853 total",
+      "trend": "+729 total",
       "tags": []
     },
     {
       "repo": "v-modal/awesome-jev-tools",
       "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "709",
+      "stars": "713",
       "lang": "Other",
       "license": "Other",
-      "trend": "+709 total",
+      "trend": "+713 total",
       "tags": [
         "awesome",
         "awesome-list",
@@ -88,21 +74,27 @@
       ]
     },
     {
-      "repo": "Mak5er/AirCard-iOS",
-      "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-      "stars": "694",
-      "lang": "Swift",
+      "repo": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": "668",
+      "lang": "Go",
       "license": "MIT",
-      "trend": "+694 total",
-      "tags": []
+      "trend": "+668 total",
+      "tags": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm"
+      ]
     },
     {
       "repo": "freestylefly/WeChatBridge",
       "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "stars": "649",
+      "stars": "665",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+649 total",
+      "trend": "+665 total",
       "tags": [
         "ai-agent",
         "chat-history",
@@ -114,10 +106,10 @@
     {
       "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "stars": "646",
+      "stars": "650",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+646 total",
+      "trend": "+650 total",
       "tags": [
         "ai",
         "ai-engineering",
@@ -129,10 +121,10 @@
     {
       "repo": "wfzyx/von",
       "desc": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-      "stars": "623",
+      "stars": "643",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+623 total",
+      "trend": "+643 total",
       "tags": [
         "decision-model",
         "jev",
@@ -142,18 +134,27 @@
       ]
     },
     {
-      "repo": "yetone/magpie",
-      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": "549",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+549 total",
+      "repo": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "desc": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+      "stars": "535",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+535 total",
+      "tags": []
+    },
+    {
+      "repo": "jev-chat/jev-chat-windows",
+      "desc": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "stars": "533",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+533 total",
       "tags": [
-        "claude-code",
-        "codex",
-        "deepseek",
-        "gemini-cli",
-        "llm"
+        "chat-assistant",
+        "jev",
+        "llm",
+        "local-first",
+        "ocr"
       ]
     }
   ]

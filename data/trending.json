@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T16:42:10.027Z",
+  "fetchedAt": "2026-09-26T03:51:14.989Z",
   "repos": [
     {
       "repo": "zai-org/ZCode",
@@ -28,10 +28,10 @@
     {
       "repo": "mizorewww/laya-mlx",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "stars": "6.3k",
+      "stars": "6.4k",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+6.3k total",
+      "trend": "+6.4k total",
       "tags": [
         "apple-silicon",
         "decision-model",
@@ -43,10 +43,10 @@
     {
       "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "stars": "991",
+      "stars": "1.2k",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+991 total",
+      "trend": "+1.2k total",
       "tags": [
         "ai",
         "ai-engineering",
@@ -56,21 +56,12 @@
       ]
     },
     {
-      "repo": "Lumid-Off/AirCard-Windows",
-      "desc": "(暂无描述)",
-      "stars": "908",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+908 total",
-      "tags": []
-    },
-    {
       "repo": "yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": "780",
+      "stars": "810",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+780 total",
+      "trend": "+810 total",
       "tags": [
         "claude-code",
         "codex",
@@ -82,34 +73,19 @@
     {
       "repo": "Mak5er/AirCard-iOS",
       "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-      "stars": "763",
+      "stars": "778",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+763 total",
+      "trend": "+778 total",
       "tags": []
-    },
-    {
-      "repo": "v-modal/awesome-jev-tools",
-      "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "718",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+718 total",
-      "tags": [
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "jev",
-        "llm"
-      ]
     },
     {
       "repo": "freestylefly/WeChatBridge",
       "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "stars": "707",
+      "stars": "734",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+707 total",
+      "trend": "+734 total",
       "tags": [
         "ai-agent",
         "chat-history",
@@ -119,27 +95,27 @@
       ]
     },
     {
-      "repo": "wfzyx/von",
-      "desc": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-      "stars": "667",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+667 total",
+      "repo": "v-modal/awesome-jev-tools",
+      "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "stars": "720",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+720 total",
       "tags": [
-        "decision-model",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
         "jev",
-        "machine-learning",
-        "python",
-        "rlcd"
+        "llm"
       ]
     },
     {
       "repo": "nokia-applied-research/AnyJev",
       "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
-      "stars": "640",
+      "stars": "720",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+640 total",
+      "trend": "+720 total",
       "tags": [
         "calibration",
         "decision-model",
@@ -149,12 +125,42 @@
       ]
     },
     {
+      "repo": "yukitorido/short-video-generator-AI",
+      "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "stars": "666",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+666 total",
+      "tags": [
+        "ai",
+        "llm",
+        "llm-tools",
+        "opus-clip",
+        "opus-clip-alternative"
+      ]
+    },
+    {
+      "repo": "asokurasu/text-humanizer",
+      "desc": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "stars": "647",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+647 total",
+      "tags": [
+        "ai-detector",
+        "ai-detector-bypass",
+        "ai-detectors",
+        "text-humanizer",
+        "zerogpt"
+      ]
+    },
+    {
       "repo": "jev-chat/jev-chat-windows",
       "desc": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-      "stars": "556",
+      "stars": "559",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+556 total",
+      "trend": "+559 total",
       "tags": [
         "chat-assistant",
         "jev",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T15:55:04.316Z",
+  "fetchedAt": "2026-09-27T04:00:47.760Z",
   "repos": [
     {
       "repo": "zai-org/ZCode",
@@ -13,10 +13,10 @@
     {
       "repo": "jev-chat/jev-chat-jarvis",
       "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "stars": "6.6k",
+      "stars": "6.7k",
       "lang": "Kotlin",
       "license": "MIT",
-      "trend": "+6.6k total",
+      "trend": "+6.7k total",
       "tags": [
         "accessibility-service",
         "android",
@@ -26,51 +26,12 @@
       ]
     },
     {
-      "repo": "mizorewww/laya-mlx",
-      "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "stars": "6.4k",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+6.4k total",
-      "tags": [
-        "apple-silicon",
-        "decision-model",
-        "inference",
-        "laya",
-        "local-ai"
-      ]
-    },
-    {
-      "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "stars": "1.3k",
-      "lang": "Markdown",
-      "license": "Apache-2.0",
-      "trend": "+1.3k total",
-      "tags": [
-        "ai",
-        "ai-engineering",
-        "ai-engineering-interview",
-        "ai-interview",
-        "ai-interview-questions"
-      ]
-    },
-    {
-      "repo": "Mak5er/AirCard-iOS",
-      "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-      "stars": "979",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+979 total",
-      "tags": []
-    },
-    {
       "repo": "yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": "917",
+      "stars": "1.1k",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+917 total",
+      "trend": "+1.1k total",
       "tags": [
         "claude-code",
         "codex",
@@ -80,27 +41,12 @@
       ]
     },
     {
-      "repo": "freestylefly/WeChatBridge",
-      "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "stars": "776",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+776 total",
-      "tags": [
-        "ai-agent",
-        "chat-history",
-        "macos",
-        "obsidian",
-        "share-extension"
-      ]
-    },
-    {
       "repo": "nokia-applied-research/AnyJev",
       "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "stars": "775",
+      "stars": "799",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+775 total",
+      "trend": "+799 total",
       "tags": [
         "calibration",
         "decision-model",
@@ -110,27 +56,27 @@
       ]
     },
     {
-      "repo": "v-modal/awesome-jev-tools",
-      "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-      "stars": "725",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+725 total",
+      "repo": "freestylefly/WeChatBridge",
+      "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "stars": "798",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+798 total",
       "tags": [
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "jev",
-        "llm"
+        "ai-agent",
+        "chat-history",
+        "macos",
+        "obsidian",
+        "share-extension"
       ]
     },
     {
       "repo": "asokurasu/text-humanizer",
       "desc": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "stars": "722",
+      "stars": "732",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+722 total",
+      "trend": "+732 total",
       "tags": [
         "ai-detector",
         "ai-detector-bypass",
@@ -142,10 +88,10 @@
     {
       "repo": "yukitorido/short-video-generator-AI",
       "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "stars": "716",
+      "stars": "718",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+716 total",
+      "trend": "+718 total",
       "tags": [
         "ai",
         "llm",
@@ -155,18 +101,72 @@
       ]
     },
     {
+      "repo": "Rizzo-AI-Academy/rizzo-flow",
+      "desc": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "stars": "625",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+625 total",
+      "tags": []
+    },
+    {
       "repo": "jev-chat/jev-chat-windows",
       "desc": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-      "stars": "587",
+      "stars": "598",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+587 total",
+      "trend": "+598 total",
       "tags": [
         "chat-assistant",
         "jev",
         "llm",
         "local-first",
         "ocr"
+      ]
+    },
+    {
+      "repo": "kydlikebtc/awesome-jev",
+      "desc": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "stars": "495",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+495 total",
+      "tags": [
+        "agent-tools",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "calibration"
+      ]
+    },
+    {
+      "repo": "amitshekhariitbhu/ai-system-design",
+      "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "stars": "425",
+      "lang": "Markdown",
+      "license": "Apache-2.0",
+      "trend": "+425 total",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design"
+      ]
+    },
+    {
+      "repo": "jev-chat/jev-chat-jarvis-mac",
+      "desc": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+      "stars": "411",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+411 total",
+      "tags": [
+        "llm",
+        "local-first",
+        "macos",
+        "ocr",
+        "privacy"
       ]
     }
   ]

@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-09-28T19:19:28.925Z",
+  "fetchedAt": "2026-09-29T04:34:59.594Z",
   "repos": [
-    {
-      "repo": "jev-chat/jev-chat-jarvis",
-      "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "stars": "6.9k",
-      "lang": "Kotlin",
-      "license": "MIT",
-      "trend": "+6.9k total",
-      "tags": [
-        "accessibility-service",
-        "android",
-        "chat-assistant",
-        "llm",
-        "qq"
-      ]
-    },
     {
       "repo": "yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
       "tags": [
         "claude-code",
         "codex",
@@ -32,81 +17,33 @@
       ]
     },
     {
-      "repo": "freestylefly/WeChatBridge",
-      "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "stars": "873",
-      "lang": "Swift",
+      "repo": "KKKKhazix/AIHOT",
+      "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "stars": "1.3k",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+873 total",
+      "trend": "+1.3k total",
       "tags": [
-        "ai-agent",
-        "chat-history",
-        "macos",
-        "obsidian",
-        "share-extension"
+        "ai",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "rss"
       ]
-    },
-    {
-      "repo": "nokia-applied-research/AnyJev",
-      "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "stars": "873",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+873 total",
-      "tags": [
-        "calibration",
-        "decision-model",
-        "jev",
-        "jev-model",
-        "llm"
-      ]
-    },
-    {
-      "repo": "OnlistTeam/ai-manager",
-      "desc": "AI Manager desktop application for AI coding tools",
-      "stars": "734",
-      "lang": "Rust",
-      "license": "AGPL-3.0",
-      "trend": "+734 total",
-      "tags": []
-    },
-    {
-      "repo": "Rizzo-AI-Academy/rizzo-flow",
-      "desc": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
-      "stars": "731",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+731 total",
-      "tags": []
     },
     {
       "repo": "yukitorido/short-video-generator-AI",
       "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "stars": "730",
+      "stars": "732",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+730 total",
+      "trend": "+732 total",
       "tags": [
         "ai",
         "llm",
         "llm-tools",
         "opus-clip",
         "opus-clip-alternative"
-      ]
-    },
-    {
-      "repo": "jev-chat/jev-chat-windows",
-      "desc": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-      "stars": "651",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+651 total",
-      "tags": [
-        "chat-assistant",
-        "jev",
-        "llm",
-        "local-first",
-        "ocr"
       ]
     },
     {
@@ -125,25 +62,27 @@
       ]
     },
     {
-      "repo": "Alex314618-create/JevRev",
-      "desc": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "stars": "576",
-      "lang": "TypeScript",
+      "repo": "kaankiziltug/logo-design-skill",
+      "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "stars": "493",
+      "lang": "HTML",
       "license": "MIT",
-      "trend": "+576 total",
+      "trend": "+493 total",
       "tags": [
-        "jev",
-        "llm",
-        "workflow"
+        "agent-skills",
+        "branding",
+        "claude",
+        "claude-skills",
+        "codex"
       ]
     },
     {
       "repo": "amitshekhariitbhu/ai-system-design",
       "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stars": "461",
+      "stars": "465",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+461 total",
+      "trend": "+465 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -153,18 +92,80 @@
       ]
     },
     {
-      "repo": "jev-chat/jev-chat-jarvis-mac",
-      "desc": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
-      "stars": "431",
+      "repo": "amitshekhariitbhu/ai-engineering-course",
+      "desc": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "stars": "435",
+      "lang": "Markdown",
+      "license": "Apache-2.0",
+      "trend": "+435 total",
+      "tags": [
+        "ai-course",
+        "ai-engineering",
+        "ai-engineering-course",
+        "ai-engineering-curriculum",
+        "large-language-models"
+      ]
+    },
+    {
+      "repo": "glanderness/BeefTV",
+      "desc": "Local-first, lightweight, AI-native video workspace.",
+      "stars": "385",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+385 total",
+      "tags": []
+    },
+    {
+      "repo": "zouyuxuan122/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "stars": "358",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+358 total",
+      "tags": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh"
+      ]
+    },
+    {
+      "repo": "bridge-mind/bridgeclip",
+      "desc": "Open-source AI video clipping desktop app by BridgeMind",
+      "stars": "328",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+431 total",
+      "trend": "+328 total",
+      "tags": []
+    },
+    {
+      "repo": "leter/zh-tech-writing",
+      "desc": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "stars": "305",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+305 total",
       "tags": [
-        "llm",
-        "local-first",
-        "macos",
-        "ocr",
-        "privacy"
+        "agent-skills",
+        "chinese",
+        "claude-code",
+        "documentation",
+        "style-guide"
+      ]
+    },
+    {
+      "repo": "win4r/MuseAI-Skills",
+      "desc": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "stars": "295",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+295 total",
+      "tags": [
+        "agent-skills",
+        "meta",
+        "muse",
+        "skills"
       ]
     }
   ]

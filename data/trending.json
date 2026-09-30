@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-29T17:45:24.950Z",
+  "fetchedAt": "2026-09-30T04:18:38.959Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "2.9k",
+      "stars": "3.5k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.9k total",
+      "trend": "+3.5k total",
       "tags": [
         "ai",
         "llm",
@@ -19,10 +19,10 @@
     {
       "repo": "yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": "2.5k",
+      "stars": "3.0k",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+2.5k total",
+      "trend": "+3.0k total",
       "tags": [
         "claude-code",
         "codex",
@@ -34,10 +34,10 @@
     {
       "repo": "kaankiziltug/logo-design-skill",
       "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stars": "779",
+      "stars": "873",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+779 total",
+      "trend": "+873 total",
       "tags": [
         "agent-skills",
         "branding",
@@ -47,36 +47,21 @@
       ]
     },
     {
-      "repo": "kydlikebtc/awesome-jev",
-      "desc": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "stars": "585",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+585 total",
-      "tags": [
-        "agent-tools",
-        "ai-agents",
-        "awesome",
-        "awesome-list",
-        "calibration"
-      ]
-    },
-    {
       "repo": "glanderness/BeefTV",
       "desc": "Local-first, lightweight, AI-native video workspace.",
-      "stars": "496",
+      "stars": "556",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+496 total",
+      "trend": "+556 total",
       "tags": []
     },
     {
       "repo": "amitshekhariitbhu/ai-system-design",
       "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stars": "468",
+      "stars": "470",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+468 total",
+      "trend": "+470 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -88,10 +73,10 @@
     {
       "repo": "amitshekhariitbhu/ai-engineering-course",
       "desc": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
-      "stars": "445",
+      "stars": "450",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+445 total",
+      "trend": "+450 total",
       "tags": [
         "ai-course",
         "ai-engineering",
@@ -103,10 +88,10 @@
     {
       "repo": "zouyuxuan122/dsh-our-free-model",
       "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "stars": "414",
+      "stars": "431",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+414 total",
+      "trend": "+431 total",
       "tags": [
         "ai-agents",
         "deepseek",
@@ -118,49 +103,63 @@
     {
       "repo": "JoasASantos/Offensive-Security-AI-Models",
       "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "365",
+      "stars": "417",
       "lang": "Other",
       "license": "Other",
-      "trend": "+365 total",
+      "trend": "+417 total",
       "tags": []
+    },
+    {
+      "repo": "CaptureGrubEnchant/SolidWorks",
+      "desc": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
+      "stars": "372",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+372 total",
+      "tags": [
+        "3d-modelling",
+        "3d-modelling-software",
+        "3d-rendering",
+        "3d-rendering-software",
+        "3d-rendering-tools"
+      ]
     },
     {
       "repo": "bridge-mind/bridgeclip",
       "desc": "Open-source AI video clipping desktop app by BridgeMind",
-      "stars": "333",
+      "stars": "341",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+333 total",
+      "trend": "+341 total",
       "tags": []
     },
     {
-      "repo": "timoncool/YuE2-Studio",
-      "desc": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.",
-      "stars": "317",
-      "lang": "TypeScript",
+      "repo": "leter/zh-tech-writing",
+      "desc": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "stars": "310",
+      "lang": "Other",
       "license": "MIT",
-      "trend": "+317 total",
+      "trend": "+310 total",
       "tags": [
-        "abc-notation",
-        "ai-music",
-        "covers",
-        "cuda",
-        "ggml"
+        "agent-skills",
+        "chinese",
+        "claude-code",
+        "documentation",
+        "style-guide"
       ]
     },
     {
-      "repo": "angel291592/Intent-Router",
-      "desc": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
-      "stars": "313",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+313 total",
+      "repo": "win4r/MuseAI-Skills",
+      "desc": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "stars": "305",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+305 total",
       "tags": [
         "agent-skills",
-        "agentic",
-        "ai-agents",
-        "clarification",
-        "claude-code"
+        "meta",
+        "muse",
+        "skills"
       ]
     }
   ]

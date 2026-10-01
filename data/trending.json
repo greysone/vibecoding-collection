@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-01T04:30:30.307Z",
+  "fetchedAt": "2026-10-01T18:07:04.956Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "4.2k",
+      "stars": "4.6k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+4.2k total",
+      "trend": "+4.6k total",
       "tags": [
         "ai",
         "content-curation",
@@ -19,10 +19,10 @@
     {
       "repo": "feder-cr/dots",
       "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "stars": "1.9k",
+      "stars": "2.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.2k total",
       "tags": [
         "ai-agent",
         "ai-agents",
@@ -34,10 +34,10 @@
     {
       "repo": "kaankiziltug/logo-design-skill",
       "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "agent-skills",
         "branding",
@@ -47,99 +47,45 @@
       ]
     },
     {
-      "repo": "glanderness/BeefTV",
-      "desc": "Local-first, lightweight, AI-native video workspace.",
-      "stars": "644",
-      "lang": "TypeScript",
+      "repo": "nanaism/yomiyasu",
+      "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "stars": "892",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+644 total",
-      "tags": []
+      "trend": "+892 total",
+      "tags": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex"
+      ]
     },
     {
       "repo": "echris6/motion-video-kit",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "632",
+      "stars": "844",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+632 total",
+      "trend": "+844 total",
       "tags": []
     },
     {
-      "repo": "zouyuxuan122/dsh-our-free-model",
-      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "stars": "524",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+524 total",
-      "tags": [
-        "ai-agents",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh"
-      ]
-    },
-    {
-      "repo": "nanaism/yomiyasu",
-      "desc": "AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
-      "stars": "510",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+510 total",
-      "tags": [
-        "agent-skills",
-        "ai-writing",
-        "claude-code",
-        "codex",
-        "cursor"
-      ]
-    },
-    {
-      "repo": "JoasASantos/Offensive-Security-AI-Models",
-      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "488",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+488 total",
-      "tags": []
-    },
-    {
-      "repo": "amitshekhariitbhu/ai-system-design",
-      "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stars": "478",
-      "lang": "Markdown",
-      "license": "Apache-2.0",
-      "trend": "+478 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-system",
-        "ai-system-design"
-      ]
-    },
-    {
-      "repo": "CaptureGrubEnchant/SolidWorks",
-      "desc": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
-      "stars": "382",
+      "repo": "glanderness/BeefTV",
+      "desc": "Local-first, lightweight, AI-native video workspace.",
+      "stars": "695",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+382 total",
-      "tags": [
-        "3d-modelling",
-        "3d-modelling-software",
-        "3d-rendering",
-        "3d-rendering-software",
-        "3d-rendering-tools"
-      ]
+      "trend": "+695 total",
+      "tags": []
     },
     {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "353",
+      "stars": "671",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+353 total",
+      "trend": "+671 total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -149,12 +95,60 @@
       ]
     },
     {
+      "repo": "zouyuxuan122/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "stars": "585",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+585 total",
+      "tags": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh"
+      ]
+    },
+    {
+      "repo": "JoasASantos/Offensive-Security-AI-Models",
+      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "stars": "514",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+514 total",
+      "tags": []
+    },
+    {
+      "repo": "amitshekhariitbhu/ai-system-design",
+      "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "stars": "509",
+      "lang": "Markdown",
+      "license": "Apache-2.0",
+      "trend": "+509 total",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design"
+      ]
+    },
+    {
       "repo": "bridge-mind/bridgeclip",
       "desc": "Open-source AI video clipping desktop app by BridgeMind",
-      "stars": "346",
-      "lang": "Python",
+      "stars": "349",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+346 total",
+      "trend": "+349 total",
+      "tags": []
+    },
+    {
+      "repo": "composio-community/open-dot",
+      "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "stars": "348",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+348 total",
       "tags": []
     }
   ]

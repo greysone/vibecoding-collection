@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-01T18:07:04.956Z",
+  "fetchedAt": "2026-10-02T04:23:10.696Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "4.6k",
+      "stars": "4.7k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+4.6k total",
+      "trend": "+4.7k total",
       "tags": [
         "ai",
         "content-curation",
@@ -19,10 +19,10 @@
     {
       "repo": "feder-cr/dots",
       "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "stars": "2.2k",
+      "stars": "2.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.2k total",
+      "trend": "+2.4k total",
       "tags": [
         "ai-agent",
         "ai-agents",
@@ -34,10 +34,10 @@
     {
       "repo": "kaankiziltug/logo-design-skill",
       "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.4k total",
       "tags": [
         "agent-skills",
         "branding",
@@ -49,10 +49,10 @@
     {
       "repo": "nanaism/yomiyasu",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "892",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+892 total",
+      "trend": "+1.0k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -64,28 +64,19 @@
     {
       "repo": "echris6/motion-video-kit",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "844",
+      "stars": "908",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+844 total",
-      "tags": []
-    },
-    {
-      "repo": "glanderness/BeefTV",
-      "desc": "Local-first, lightweight, AI-native video workspace.",
-      "stars": "695",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+695 total",
+      "trend": "+908 total",
       "tags": []
     },
     {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "671",
+      "stars": "696",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+671 total",
+      "trend": "+696 total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -95,36 +86,12 @@
       ]
     },
     {
-      "repo": "zouyuxuan122/dsh-our-free-model",
-      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "stars": "585",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+585 total",
-      "tags": [
-        "ai-agents",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh"
-      ]
-    },
-    {
-      "repo": "JoasASantos/Offensive-Security-AI-Models",
-      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "514",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+514 total",
-      "tags": []
-    },
-    {
       "repo": "amitshekhariitbhu/ai-system-design",
       "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stars": "509",
+      "stars": "543",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+509 total",
+      "trend": "+543 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -134,22 +101,60 @@
       ]
     },
     {
-      "repo": "bridge-mind/bridgeclip",
-      "desc": "Open-source AI video clipping desktop app by BridgeMind",
-      "stars": "349",
+      "repo": "CopilotKit/OpenDots",
+      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stars": "531",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+349 total",
+      "trend": "+531 total",
       "tags": []
+    },
+    {
+      "repo": "JoasASantos/Offensive-Security-AI-Models",
+      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "stars": "528",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+528 total",
+      "tags": []
+    },
+    {
+      "repo": "Edwardxlai/easyread",
+      "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "stars": "521",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+521 total",
+      "tags": [
+        "academic",
+        "arxiv",
+        "chinese",
+        "claude-code",
+        "codex"
+      ]
     },
     {
       "repo": "composio-community/open-dot",
       "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "348",
+      "stars": "393",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+348 total",
+      "trend": "+393 total",
       "tags": []
+    },
+    {
+      "repo": "win4r/MuseAI-Skills",
+      "desc": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "stars": "312",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+312 total",
+      "tags": [
+        "agent-skills",
+        "meta",
+        "muse",
+        "skills"
+      ]
     }
   ]
 }

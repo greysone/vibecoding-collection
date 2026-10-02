@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-02T04:23:10.696Z",
+  "fetchedAt": "2026-10-02T17:32:57.918Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "4.7k",
+      "stars": "4.9k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+4.7k total",
+      "trend": "+4.9k total",
       "tags": [
         "ai",
         "content-curation",
@@ -34,10 +34,10 @@
     {
       "repo": "kaankiziltug/logo-design-skill",
       "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stars": "1.4k",
+      "stars": "1.5k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.5k total",
       "tags": [
         "agent-skills",
         "branding",
@@ -47,12 +47,21 @@
       ]
     },
     {
+      "repo": "CopilotKit/OpenDots",
+      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stars": "1.2k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.2k total",
+      "tags": []
+    },
+    {
       "repo": "nanaism/yomiyasu",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "1.0k",
+      "stars": "1.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+1.2k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -64,19 +73,19 @@
     {
       "repo": "echris6/motion-video-kit",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "908",
+      "stars": "952",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+908 total",
+      "trend": "+952 total",
       "tags": []
     },
     {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "696",
+      "stars": "950",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+696 total",
+      "trend": "+950 total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -88,10 +97,10 @@
     {
       "repo": "amitshekhariitbhu/ai-system-design",
       "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stars": "543",
+      "stars": "602",
       "lang": "Markdown",
       "license": "Apache-2.0",
-      "trend": "+543 total",
+      "trend": "+602 total",
       "tags": [
         "ai",
         "ai-agents",
@@ -101,30 +110,12 @@
       ]
     },
     {
-      "repo": "CopilotKit/OpenDots",
-      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "531",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+531 total",
-      "tags": []
-    },
-    {
-      "repo": "JoasASantos/Offensive-Security-AI-Models",
-      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "528",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+528 total",
-      "tags": []
-    },
-    {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "521",
-      "lang": "JavaScript",
+      "stars": "598",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+521 total",
+      "trend": "+598 total",
       "tags": [
         "academic",
         "arxiv",
@@ -134,26 +125,36 @@
       ]
     },
     {
-      "repo": "composio-community/open-dot",
-      "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "393",
-      "lang": "TypeScript",
+      "repo": "JoasASantos/Offensive-Security-AI-Models",
+      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "stars": "548",
+      "lang": "Other",
       "license": "Other",
-      "trend": "+393 total",
+      "trend": "+548 total",
       "tags": []
     },
     {
-      "repo": "win4r/MuseAI-Skills",
-      "desc": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
-      "stars": "312",
-      "lang": "HTML",
+      "repo": "composio-community/open-dot",
+      "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "stars": "416",
+      "lang": "TypeScript",
       "license": "Other",
-      "trend": "+312 total",
+      "trend": "+416 total",
+      "tags": []
+    },
+    {
+      "repo": "emir/AIKON",
+      "desc": "A 2007 Nokia can't search Google anymore, so I gave it Claude, ChatGPT, Gemini and Grok. J2ME app for Nokia S40/S60 + tiny Go server.",
+      "stars": "315",
+      "lang": "Java",
+      "license": "MIT",
+      "trend": "+315 total",
       "tags": [
-        "agent-skills",
-        "meta",
-        "muse",
-        "skills"
+        "ai-chat",
+        "chatbot",
+        "claude",
+        "cldc",
+        "dumbphone"
       ]
     }
   ]

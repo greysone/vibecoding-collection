@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-03T04:05:10.343Z",
+  "fetchedAt": "2026-10-03T15:49:20.084Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "5.0k",
+      "stars": "5.3k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+5.0k total",
+      "trend": "+5.3k total",
       "tags": [
         "ai",
         "content-curation",
@@ -19,10 +19,10 @@
     {
       "repo": "feder-cr/dots",
       "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "stars": "2.5k",
+      "stars": "2.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.5k total",
+      "trend": "+2.6k total",
       "tags": [
         "ai-agent",
         "ai-agents",
@@ -34,10 +34,10 @@
     {
       "repo": "CopilotKit/OpenDots",
       "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "1.6k",
+      "stars": "2.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+2.1k total",
       "tags": []
     },
     {
@@ -58,10 +58,10 @@
     {
       "repo": "nanaism/yomiyasu",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -73,10 +73,10 @@
     {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "970",
+      "stars": "1.0k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+970 total",
+      "trend": "+1.0k total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -88,19 +88,19 @@
     {
       "repo": "echris6/motion-video-kit",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "965",
+      "stars": "974",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+965 total",
+      "trend": "+974 total",
       "tags": []
     },
     {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "620",
+      "stars": "661",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+620 total",
+      "trend": "+661 total",
       "tags": [
         "academic",
         "arxiv",
@@ -112,43 +112,43 @@
     {
       "repo": "JoasASantos/Offensive-Security-AI-Models",
       "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "550",
+      "stars": "557",
       "lang": "Other",
       "license": "Other",
-      "trend": "+550 total",
-      "tags": []
-    },
-    {
-      "repo": "composio-community/open-dot",
-      "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "428",
-      "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+428 total",
+      "trend": "+557 total",
       "tags": []
     },
     {
       "repo": "nykooi1/vibe-wise",
       "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "stars": "347",
+      "stars": "496",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+347 total",
+      "trend": "+496 total",
       "tags": []
     },
     {
-      "repo": "emir/AIKON",
-      "desc": "A 2007 Nokia can't search Google anymore, so I gave it Claude, ChatGPT, Gemini and Grok. J2ME app for Nokia S40/S60 + tiny Go server.",
-      "stars": "319",
-      "lang": "Java",
+      "repo": "composio-community/open-dot",
+      "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "stars": "483",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+483 total",
+      "tags": []
+    },
+    {
+      "repo": "alpcanaydin/tusk",
+      "desc": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "stars": "322",
+      "lang": "Rust",
       "license": "MIT",
-      "trend": "+319 total",
+      "trend": "+322 total",
       "tags": [
-        "ai-chat",
-        "chatbot",
-        "claude",
-        "cldc",
-        "dumbphone"
+        "ai-assistant",
+        "clickhouse",
+        "database",
+        "database-client",
+        "database-gui"
       ]
     }
   ]

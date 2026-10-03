@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-02T17:32:57.918Z",
+  "fetchedAt": "2026-10-03T04:05:10.343Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "4.9k",
+      "stars": "5.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+4.9k total",
+      "trend": "+5.0k total",
       "tags": [
         "ai",
         "content-curation",
@@ -19,10 +19,10 @@
     {
       "repo": "feder-cr/dots",
       "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "stars": "2.4k",
+      "stars": "2.5k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.4k total",
+      "trend": "+2.5k total",
       "tags": [
         "ai-agent",
         "ai-agents",
@@ -32,12 +32,21 @@
       ]
     },
     {
+      "repo": "CopilotKit/OpenDots",
+      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stars": "1.6k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.6k total",
+      "tags": []
+    },
+    {
       "repo": "kaankiziltug/logo-design-skill",
       "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent-skills",
         "branding",
@@ -45,15 +54,6 @@
         "claude-skills",
         "codex"
       ]
-    },
-    {
-      "repo": "CopilotKit/OpenDots",
-      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "1.2k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.2k total",
-      "tags": []
     },
     {
       "repo": "nanaism/yomiyasu",
@@ -71,21 +71,12 @@
       ]
     },
     {
-      "repo": "echris6/motion-video-kit",
-      "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "952",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+952 total",
-      "tags": []
-    },
-    {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "950",
+      "stars": "970",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+950 total",
+      "trend": "+970 total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -95,27 +86,21 @@
       ]
     },
     {
-      "repo": "amitshekhariitbhu/ai-system-design",
-      "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stars": "602",
-      "lang": "Markdown",
-      "license": "Apache-2.0",
-      "trend": "+602 total",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-system",
-        "ai-system-design"
-      ]
+      "repo": "echris6/motion-video-kit",
+      "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "stars": "965",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+965 total",
+      "tags": []
     },
     {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "598",
+      "stars": "620",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+598 total",
+      "trend": "+620 total",
       "tags": [
         "academic",
         "arxiv",
@@ -127,28 +112,37 @@
     {
       "repo": "JoasASantos/Offensive-Security-AI-Models",
       "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "548",
+      "stars": "550",
       "lang": "Other",
       "license": "Other",
-      "trend": "+548 total",
+      "trend": "+550 total",
       "tags": []
     },
     {
       "repo": "composio-community/open-dot",
       "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "416",
+      "stars": "428",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+416 total",
+      "trend": "+428 total",
+      "tags": []
+    },
+    {
+      "repo": "nykooi1/vibe-wise",
+      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "stars": "347",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+347 total",
       "tags": []
     },
     {
       "repo": "emir/AIKON",
       "desc": "A 2007 Nokia can't search Google anymore, so I gave it Claude, ChatGPT, Gemini and Grok. J2ME app for Nokia S40/S60 + tiny Go server.",
-      "stars": "315",
+      "stars": "319",
       "lang": "Java",
       "license": "MIT",
-      "trend": "+315 total",
+      "trend": "+319 total",
       "tags": [
         "ai-chat",
         "chatbot",

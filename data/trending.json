@@ -1,28 +1,28 @@
 {
-  "fetchedAt": "2026-10-04T04:38:18.655Z",
+  "fetchedAt": "2026-10-04T16:31:32.445Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "5.5k",
+      "stars": "5.7k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+5.5k total",
+      "trend": "+5.7k total",
       "tags": [
         "ai",
+        "chinese",
         "content-curation",
-        "llm",
-        "mcp",
-        "news-aggregator"
+        "daily-digest",
+        "docker-compose"
       ]
     },
     {
       "repo": "CopilotKit/OpenDots",
       "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "2.6k",
+      "stars": "3.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.6k total",
+      "trend": "+3.0k total",
       "tags": []
     },
     {
@@ -43,10 +43,10 @@
     {
       "repo": "nanaism/yomiyasu",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.4k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -58,10 +58,10 @@
     {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "1.1k",
+      "stars": "1.3k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.3k total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -73,28 +73,43 @@
     {
       "repo": "echris6/motion-video-kit",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "984",
+      "stars": "994",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+984 total",
+      "trend": "+994 total",
       "tags": []
     },
     {
       "repo": "nykooi1/vibe-wise",
       "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "stars": "751",
+      "stars": "918",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+751 total",
+      "trend": "+918 total",
       "tags": []
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": "912",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+912 total",
+      "tags": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "diagram"
+      ]
     },
     {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "681",
+      "stars": "752",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+681 total",
+      "trend": "+752 total",
       "tags": [
         "academic",
         "arxiv",
@@ -106,43 +121,28 @@
     {
       "repo": "JoasASantos/Offensive-Security-AI-Models",
       "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "563",
+      "stars": "576",
       "lang": "Other",
       "license": "Other",
-      "trend": "+563 total",
+      "trend": "+576 total",
       "tags": []
     },
     {
       "repo": "composio-community/open-dot",
       "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "527",
+      "stars": "544",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+527 total",
+      "trend": "+544 total",
       "tags": []
-    },
-    {
-      "repo": "QingYunA/answer-me-with-html",
-      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "477",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+477 total",
-      "tags": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "cli",
-        "diagram"
-      ]
     },
     {
       "repo": "oil-oil/oil-ui",
       "desc": "把 AI 的 UI 设计能力推到极限。",
-      "stars": "360",
+      "stars": "479",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+360 total",
+      "trend": "+479 total",
       "tags": []
     }
   ]

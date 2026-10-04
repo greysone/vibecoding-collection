@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-03T15:49:20.084Z",
+  "fetchedAt": "2026-10-04T04:38:18.655Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "5.3k",
+      "stars": "5.5k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+5.3k total",
+      "trend": "+5.5k total",
       "tags": [
         "ai",
         "content-curation",
@@ -15,6 +15,15 @@
         "mcp",
         "news-aggregator"
       ]
+    },
+    {
+      "repo": "CopilotKit/OpenDots",
+      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stars": "2.6k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+2.6k total",
+      "tags": []
     },
     {
       "repo": "feder-cr/dots",
@@ -29,30 +38,6 @@
         "ai-browser",
         "anti-detect-browser",
         "browser-agent"
-      ]
-    },
-    {
-      "repo": "CopilotKit/OpenDots",
-      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "2.1k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+2.1k total",
-      "tags": []
-    },
-    {
-      "repo": "kaankiziltug/logo-design-skill",
-      "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stars": "1.6k",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+1.6k total",
-      "tags": [
-        "agent-skills",
-        "branding",
-        "claude",
-        "claude-skills",
-        "codex"
       ]
     },
     {
@@ -73,10 +58,10 @@
     {
       "repo": "edenfunf/reelmimic",
       "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": [
         "2d-animation",
         "ai-agents",
@@ -88,19 +73,28 @@
     {
       "repo": "echris6/motion-video-kit",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "974",
+      "stars": "984",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+974 total",
+      "trend": "+984 total",
+      "tags": []
+    },
+    {
+      "repo": "nykooi1/vibe-wise",
+      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "stars": "751",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+751 total",
       "tags": []
     },
     {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "661",
+      "stars": "681",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+661 total",
+      "trend": "+681 total",
       "tags": [
         "academic",
         "arxiv",
@@ -112,44 +106,44 @@
     {
       "repo": "JoasASantos/Offensive-Security-AI-Models",
       "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "557",
+      "stars": "563",
       "lang": "Other",
       "license": "Other",
-      "trend": "+557 total",
-      "tags": []
-    },
-    {
-      "repo": "nykooi1/vibe-wise",
-      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "stars": "496",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+496 total",
+      "trend": "+563 total",
       "tags": []
     },
     {
       "repo": "composio-community/open-dot",
       "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "483",
+      "stars": "527",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+483 total",
+      "trend": "+527 total",
       "tags": []
     },
     {
-      "repo": "alpcanaydin/tusk",
-      "desc": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "stars": "322",
-      "lang": "Rust",
+      "repo": "QingYunA/answer-me-with-html",
+      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": "477",
+      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+322 total",
+      "trend": "+477 total",
       "tags": [
-        "ai-assistant",
-        "clickhouse",
-        "database",
-        "database-client",
-        "database-gui"
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "diagram"
       ]
+    },
+    {
+      "repo": "oil-oil/oil-ui",
+      "desc": "把 AI 的 UI 设计能力推到极限。",
+      "stars": "360",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+360 total",
+      "tags": []
     }
   ]
 }

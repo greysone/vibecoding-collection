@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-04T16:31:32.445Z",
+  "fetchedAt": "2026-10-05T04:24:38.520Z",
   "repos": [
     {
       "repo": "KKKKhazix/AIHOT",
       "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stars": "5.7k",
+      "stars": "5.8k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+5.7k total",
+      "trend": "+5.8k total",
       "tags": [
         "ai",
         "chinese",
@@ -19,10 +19,10 @@
     {
       "repo": "CopilotKit/OpenDots",
       "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "3.0k",
+      "stars": "3.3k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+3.0k total",
+      "trend": "+3.3k total",
       "tags": []
     },
     {
@@ -71,30 +71,12 @@
       ]
     },
     {
-      "repo": "echris6/motion-video-kit",
-      "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stars": "994",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+994 total",
-      "tags": []
-    },
-    {
-      "repo": "nykooi1/vibe-wise",
-      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "stars": "918",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+918 total",
-      "tags": []
-    },
-    {
       "repo": "QingYunA/answer-me-with-html",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "912",
+      "stars": "1.1k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+912 total",
+      "trend": "+1.1k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -104,12 +86,21 @@
       ]
     },
     {
-      "repo": "Edwardxlai/easyread",
-      "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "752",
+      "repo": "nykooi1/vibe-wise",
+      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+752 total",
+      "trend": "+1.1k total",
+      "tags": []
+    },
+    {
+      "repo": "Edwardxlai/easyread",
+      "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "stars": "786",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+786 total",
       "tags": [
         "academic",
         "arxiv",
@@ -119,31 +110,52 @@
       ]
     },
     {
-      "repo": "JoasASantos/Offensive-Security-AI-Models",
-      "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stars": "576",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+576 total",
-      "tags": []
+      "repo": "omlahore/RemoveMacAI",
+      "desc": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "stars": "588",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+588 total",
+      "tags": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27"
+      ]
     },
     {
       "repo": "composio-community/open-dot",
       "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "544",
+      "stars": "562",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+544 total",
+      "trend": "+562 total",
       "tags": []
     },
     {
       "repo": "oil-oil/oil-ui",
       "desc": "把 AI 的 UI 设计能力推到极限。",
-      "stars": "479",
+      "stars": "529",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+479 total",
+      "trend": "+529 total",
       "tags": []
+    },
+    {
+      "repo": "whirlchat/whirl",
+      "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "stars": "459",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+459 total",
+      "tags": [
+        "ai",
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm"
+      ]
     }
   ]
 }

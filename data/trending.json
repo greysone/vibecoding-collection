@@ -1,14 +1,29 @@
 {
-  "fetchedAt": "2026-10-06T05:11:47.585Z",
+  "fetchedAt": "2026-10-06T18:00:02.063Z",
   "repos": [
     {
       "repo": "CopilotKit/OpenDots",
       "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "3.7k",
+      "stars": "3.9k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+3.7k total",
+      "trend": "+3.9k total",
       "tags": []
+    },
+    {
+      "repo": "omlahore/RemoveMacAI",
+      "desc": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "stars": "2.9k",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+2.9k total",
+      "tags": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27"
+      ]
     },
     {
       "repo": "feder-cr/dots",
@@ -26,36 +41,36 @@
       ]
     },
     {
-      "repo": "omlahore/RemoveMacAI",
-      "desc": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
-      "stars": "2.2k",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+2.2k total",
-      "tags": [
-        "apple-intelligence",
-        "cli",
-        "debloat",
-        "macos",
-        "macos-27"
-      ]
-    },
-    {
       "repo": "nykooi1/vibe-wise",
       "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "stars": "1.9k",
+      "stars": "2.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.4k total",
       "tags": []
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": "1.7k",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+1.7k total",
+      "tags": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill"
+      ]
     },
     {
       "repo": "nanaism/yomiyasu",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -65,27 +80,12 @@
       ]
     },
     {
-      "repo": "QingYunA/answer-me-with-html",
-      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "1.5k",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+1.5k total",
-      "tags": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "cli",
-        "diagram"
-      ]
-    },
-    {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "809",
+      "stars": "821",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+809 total",
+      "trend": "+821 total",
       "tags": [
         "academic",
         "arxiv",
@@ -97,28 +97,28 @@
     {
       "repo": "oil-oil/oil-ui",
       "desc": "把 AI 的 UI 设计能力推到极限。",
-      "stars": "648",
+      "stars": "775",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+648 total",
+      "trend": "+775 total",
       "tags": []
     },
     {
       "repo": "composio-community/open-dot",
       "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "578",
+      "stars": "582",
       "lang": "TypeScript",
       "license": "Other",
-      "trend": "+578 total",
+      "trend": "+582 total",
       "tags": []
     },
     {
       "repo": "whirlchat/whirl",
       "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "481",
+      "stars": "487",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+481 total",
+      "trend": "+487 total",
       "tags": [
         "ai",
         "ai-chat",
@@ -130,26 +130,20 @@
     {
       "repo": "zzzz7788990213-ops/EvoVLM",
       "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "stars": "439",
+      "stars": "477",
       "lang": "Python",
       "license": "Other",
-      "trend": "+439 total",
+      "trend": "+477 total",
       "tags": []
     },
     {
-      "repo": "strands-labs/strands-decider",
-      "desc": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-      "stars": "404",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+404 total",
-      "tags": [
-        "ai",
-        "machine-learning",
-        "natural-language-understanding",
-        "python",
-        "strands-agents"
-      ]
+      "repo": "DozenTwelve/Papermorph",
+      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": "424",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+424 total",
+      "tags": []
     }
   ]
 }

@@ -1,61 +1,13 @@
 {
-  "fetchedAt": "2026-10-06T18:00:02.063Z",
+  "fetchedAt": "2026-10-07T04:39:05.599Z",
   "repos": [
-    {
-      "repo": "CopilotKit/OpenDots",
-      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "stars": "3.9k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+3.9k total",
-      "tags": []
-    },
-    {
-      "repo": "omlahore/RemoveMacAI",
-      "desc": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
-      "stars": "2.9k",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+2.9k total",
-      "tags": [
-        "apple-intelligence",
-        "cli",
-        "debloat",
-        "macos",
-        "macos-27"
-      ]
-    },
-    {
-      "repo": "feder-cr/dots",
-      "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "stars": "2.6k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+2.6k total",
-      "tags": [
-        "ai-agent",
-        "ai-agents",
-        "ai-browser",
-        "anti-detect-browser",
-        "browser-agent"
-      ]
-    },
-    {
-      "repo": "nykooi1/vibe-wise",
-      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "stars": "2.4k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+2.4k total",
-      "tags": []
-    },
     {
       "repo": "QingYunA/answer-me-with-html",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "1.7k",
+      "stars": "1.8k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+1.8k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -80,12 +32,27 @@
       ]
     },
     {
-      "repo": "Edwardxlai/easyread",
-      "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "821",
+      "repo": "oil-oil/oil-ui",
+      "desc": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. 把 AI 的 UI 设计能力推到极限。",
+      "stars": "887",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+821 total",
+      "trend": "+887 total",
+      "tags": [
+        "agent-skills",
+        "ai-design",
+        "claude-code",
+        "claude-skills",
+        "codex"
+      ]
+    },
+    {
+      "repo": "Edwardxlai/easyread",
+      "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "stars": "825",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+825 total",
       "tags": [
         "academic",
         "arxiv",
@@ -95,30 +62,21 @@
       ]
     },
     {
-      "repo": "oil-oil/oil-ui",
-      "desc": "把 AI 的 UI 设计能力推到极限。",
-      "stars": "775",
+      "repo": "zzzz7788990213-ops/EvoVLM",
+      "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "stars": "507",
       "lang": "Python",
-      "license": "MIT",
-      "trend": "+775 total",
-      "tags": []
-    },
-    {
-      "repo": "composio-community/open-dot",
-      "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "stars": "582",
-      "lang": "TypeScript",
       "license": "Other",
-      "trend": "+582 total",
+      "trend": "+507 total",
       "tags": []
     },
     {
       "repo": "whirlchat/whirl",
       "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "487",
+      "stars": "490",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+487 total",
+      "trend": "+490 total",
       "tags": [
         "ai",
         "ai-chat",
@@ -128,22 +86,81 @@
       ]
     },
     {
-      "repo": "zzzz7788990213-ops/EvoVLM",
-      "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "stars": "477",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+477 total",
+      "repo": "DozenTwelve/Papermorph",
+      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": "463",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+463 total",
       "tags": []
     },
     {
-      "repo": "DozenTwelve/Papermorph",
-      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "424",
-      "lang": "HTML",
+      "repo": "allenv0/SCM",
+      "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "stars": "413",
+      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+424 total",
+      "trend": "+413 total",
+      "tags": [
+        "electron",
+        "transformers-js",
+        "video-processing",
+        "vlms"
+      ]
+    },
+    {
+      "repo": "genex-games/genex-desktop",
+      "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "stars": "383",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+383 total",
       "tags": []
+    },
+    {
+      "repo": "BootLoops-ai/bootloops",
+      "desc": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "stars": "297",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+297 total",
+      "tags": [
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
+      ]
+    },
+    {
+      "repo": "GanyuanRan/Autoloom",
+      "desc": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "stars": "292",
+      "lang": "JavaScript",
+      "license": "NOASSERTION",
+      "trend": "+292 total",
+      "tags": [
+        "aegis",
+        "agentic-coding",
+        "ai-agent",
+        "ai-coding",
+        "coding-agent"
+      ]
+    },
+    {
+      "repo": "blendi-remade/dioramas",
+      "desc": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "stars": "232",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+232 total",
+      "tags": [
+        "3d",
+        "creative-coding",
+        "fal",
+        "generative-ai",
+        "landing-page"
+      ]
     }
   ]
 }

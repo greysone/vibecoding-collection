@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-07T04:39:05.599Z",
+  "fetchedAt": "2026-10-07T18:31:10.807Z",
   "repos": [
     {
       "repo": "QingYunA/answer-me-with-html",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "1.8k",
+      "stars": "2.0k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.8k total",
+      "trend": "+2.0k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "nanaism/yomiyasu",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -34,10 +34,10 @@
     {
       "repo": "oil-oil/oil-ui",
       "desc": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. 把 AI 的 UI 设计能力推到极限。",
-      "stars": "887",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+887 total",
+      "trend": "+1.0k total",
       "tags": [
         "agent-skills",
         "ai-design",
@@ -49,10 +49,10 @@
     {
       "repo": "Edwardxlai/easyread",
       "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "825",
+      "stars": "835",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+825 total",
+      "trend": "+835 total",
       "tags": [
         "academic",
         "arxiv",
@@ -60,6 +60,15 @@
         "claude-code",
         "codex"
       ]
+    },
+    {
+      "repo": "DozenTwelve/Papermorph",
+      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": "513",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+513 total",
+      "tags": []
     },
     {
       "repo": "zzzz7788990213-ops/EvoVLM",
@@ -73,10 +82,10 @@
     {
       "repo": "whirlchat/whirl",
       "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "490",
+      "stars": "493",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+490 total",
+      "trend": "+493 total",
       "tags": [
         "ai",
         "ai-chat",
@@ -86,21 +95,12 @@
       ]
     },
     {
-      "repo": "DozenTwelve/Papermorph",
-      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "463",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+463 total",
-      "tags": []
-    },
-    {
       "repo": "allenv0/SCM",
       "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "413",
+      "stars": "420",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+413 total",
+      "trend": "+420 total",
       "tags": [
         "electron",
         "transformers-js",
@@ -111,34 +111,19 @@
     {
       "repo": "genex-games/genex-desktop",
       "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "stars": "383",
+      "stars": "409",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+383 total",
+      "trend": "+409 total",
       "tags": []
-    },
-    {
-      "repo": "BootLoops-ai/bootloops",
-      "desc": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
-      "stars": "297",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+297 total",
-      "tags": [
-        "bootloops",
-        "feynman-integrals",
-        "llm-agents",
-        "physics",
-        "scientific-computing"
-      ]
     },
     {
       "repo": "GanyuanRan/Autoloom",
       "desc": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "stars": "292",
+      "stars": "344",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+292 total",
+      "trend": "+344 total",
       "tags": [
         "aegis",
         "agentic-coding",
@@ -148,19 +133,28 @@
       ]
     },
     {
-      "repo": "blendi-remade/dioramas",
-      "desc": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "stars": "232",
-      "lang": "JavaScript",
+      "repo": "BootLoops-ai/bootloops",
+      "desc": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "stars": "303",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+232 total",
+      "trend": "+303 total",
       "tags": [
-        "3d",
-        "creative-coding",
-        "fal",
-        "generative-ai",
-        "landing-page"
+        "bootloops",
+        "feynman-integrals",
+        "llm-agents",
+        "physics",
+        "scientific-computing"
       ]
+    },
+    {
+      "repo": "trevaintdead/ai-game-modding-guides",
+      "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+      "stars": "286",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+286 total",
+      "tags": []
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-08T04:49:52.392Z",
+  "fetchedAt": "2026-10-08T18:30:22.065Z",
   "repos": [
     {
       "repo": "QingYunA/answer-me-with-html",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "2.1k",
+      "stars": "2.3k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.3k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -17,68 +17,12 @@
       ]
     },
     {
-      "repo": "DozenTwelve/Papermorph",
-      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "540",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+540 total",
-      "tags": []
-    },
-    {
-      "repo": "zzzz7788990213-ops/EvoVLM",
-      "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "stars": "507",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+507 total",
-      "tags": []
-    },
-    {
-      "repo": "whirlchat/whirl",
-      "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "497",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+497 total",
-      "tags": [
-        "ai",
-        "ai-chat",
-        "chat",
-        "convex",
-        "llm"
-      ]
-    },
-    {
-      "repo": "allenv0/SCM",
-      "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "430",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+430 total",
-      "tags": [
-        "electron",
-        "transformers-js",
-        "video-processing",
-        "vlms"
-      ]
-    },
-    {
-      "repo": "genex-games/genex-desktop",
-      "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "stars": "418",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+418 total",
-      "tags": []
-    },
-    {
       "repo": "jiwoochris/artex-ko",
       "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "stars": "318",
+      "stars": "645",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+318 total",
+      "trend": "+645 total",
       "tags": [
         "ai-agent",
         "autonomous-agents",
@@ -88,36 +32,87 @@
       ]
     },
     {
-      "repo": "BootLoops-ai/bootloops",
-      "desc": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
-      "stars": "309",
-      "lang": "Python",
+      "repo": "mhtsec/ARTEX",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": "637",
+      "lang": "Go",
+      "license": "AGPL-3.0",
+      "trend": "+637 total",
+      "tags": []
+    },
+    {
+      "repo": "DozenTwelve/Papermorph",
+      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": "573",
+      "lang": "HTML",
       "license": "MIT",
-      "trend": "+309 total",
+      "trend": "+573 total",
+      "tags": []
+    },
+    {
+      "repo": "zzzz7788990213-ops/EvoVLM",
+      "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "stars": "508",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+508 total",
+      "tags": []
+    },
+    {
+      "repo": "whirlchat/whirl",
+      "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "stars": "502",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+502 total",
       "tags": [
-        "bootloops",
-        "feynman-integrals",
-        "llm-agents",
-        "physics",
-        "scientific-computing"
+        "ai",
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm"
       ]
     },
     {
-      "repo": "trevaintdead/ai-game-modding-guides",
-      "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-      "stars": "308",
-      "lang": "Other",
+      "repo": "wuyoscar/AISafetyHot-Hub",
+      "desc": "每天的 AI 安全精选和论文清单（md / bib / json），附 Agent 接入说明 · AI Safety HOT",
+      "stars": "471",
+      "lang": "TeX",
       "license": "NOASSERTION",
-      "trend": "+308 total",
+      "trend": "+471 total",
       "tags": []
+    },
+    {
+      "repo": "genex-games/genex-desktop",
+      "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "stars": "447",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+447 total",
+      "tags": []
+    },
+    {
+      "repo": "allenv0/SCM",
+      "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "stars": "442",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+442 total",
+      "tags": [
+        "transformers-js",
+        "video-agents",
+        "video-processing",
+        "vlms",
+        "yt-dlp"
+      ]
     },
     {
       "repo": "openqodex/openqodex",
       "desc": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
-      "stars": "303",
+      "stars": "406",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+303 total",
+      "trend": "+406 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -129,10 +124,10 @@
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-      "stars": "264",
+      "stars": "353",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+264 total",
+      "trend": "+353 total",
       "tags": [
         "ai",
         "fastapi",
@@ -142,19 +137,13 @@
       ]
     },
     {
-      "repo": "joeseesun/qiaomu-clipper",
-      "desc": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
-      "stars": "238",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+238 total",
-      "tags": [
-        "ai-chat",
-        "chrome-extension",
-        "markdown",
-        "obsidian",
-        "obsidian-clipper"
-      ]
+      "repo": "trevaintdead/ai-game-modding-guides",
+      "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+      "stars": "347",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+347 total",
+      "tags": []
     }
   ]
 }

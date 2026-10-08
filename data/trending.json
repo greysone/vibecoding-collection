@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-07T18:31:10.807Z",
+  "fetchedAt": "2026-10-08T04:49:52.392Z",
   "repos": [
     {
       "repo": "QingYunA/answer-me-with-html",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+2.0k total",
+      "trend": "+2.1k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -17,57 +17,12 @@
       ]
     },
     {
-      "repo": "nanaism/yomiyasu",
-      "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": "1.7k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.7k total",
-      "tags": [
-        "agent-skills",
-        "ai-writing",
-        "antigravity",
-        "claude-code",
-        "codex"
-      ]
-    },
-    {
-      "repo": "oil-oil/oil-ui",
-      "desc": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. 把 AI 的 UI 设计能力推到极限。",
-      "stars": "1.0k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.0k total",
-      "tags": [
-        "agent-skills",
-        "ai-design",
-        "claude-code",
-        "claude-skills",
-        "codex"
-      ]
-    },
-    {
-      "repo": "Edwardxlai/easyread",
-      "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": "835",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+835 total",
-      "tags": [
-        "academic",
-        "arxiv",
-        "chinese",
-        "claude-code",
-        "codex"
-      ]
-    },
-    {
       "repo": "DozenTwelve/Papermorph",
       "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "513",
+      "stars": "540",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+513 total",
+      "trend": "+540 total",
       "tags": []
     },
     {
@@ -82,10 +37,10 @@
     {
       "repo": "whirlchat/whirl",
       "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "493",
+      "stars": "497",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+493 total",
+      "trend": "+497 total",
       "tags": [
         "ai",
         "ai-chat",
@@ -97,10 +52,10 @@
     {
       "repo": "allenv0/SCM",
       "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "420",
+      "stars": "430",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+420 total",
+      "trend": "+430 total",
       "tags": [
         "electron",
         "transformers-js",
@@ -111,34 +66,34 @@
     {
       "repo": "genex-games/genex-desktop",
       "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "stars": "409",
+      "stars": "418",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+409 total",
+      "trend": "+418 total",
       "tags": []
     },
     {
-      "repo": "GanyuanRan/Autoloom",
-      "desc": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "stars": "344",
-      "lang": "JavaScript",
-      "license": "NOASSERTION",
-      "trend": "+344 total",
+      "repo": "jiwoochris/artex-ko",
+      "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "stars": "318",
+      "lang": "Go",
+      "license": "AGPL-3.0",
+      "trend": "+318 total",
       "tags": [
-        "aegis",
-        "agentic-coding",
         "ai-agent",
-        "ai-coding",
-        "coding-agent"
+        "autonomous-agents",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering"
       ]
     },
     {
       "repo": "BootLoops-ai/bootloops",
       "desc": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
-      "stars": "303",
+      "stars": "309",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+303 total",
+      "trend": "+309 total",
       "tags": [
         "bootloops",
         "feynman-integrals",
@@ -150,11 +105,56 @@
     {
       "repo": "trevaintdead/ai-game-modding-guides",
       "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-      "stars": "286",
+      "stars": "308",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+286 total",
+      "trend": "+308 total",
       "tags": []
+    },
+    {
+      "repo": "openqodex/openqodex",
+      "desc": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
+      "stars": "303",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+303 total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "ai-code-review",
+        "claude-code",
+        "claude-code-plugin"
+      ]
+    },
+    {
+      "repo": "LosaLosSantos/aurelio-finance",
+      "desc": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "stars": "264",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+264 total",
+      "tags": [
+        "ai",
+        "fastapi",
+        "fintech",
+        "net-worth",
+        "personal-finance"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-clipper",
+      "desc": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+      "stars": "238",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+238 total",
+      "tags": [
+        "ai-chat",
+        "chrome-extension",
+        "markdown",
+        "obsidian",
+        "obsidian-clipper"
+      ]
     }
   ]
 }

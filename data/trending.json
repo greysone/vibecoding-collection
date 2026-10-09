@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-09T04:52:57.226Z",
+  "fetchedAt": "2026-10-09T18:02:04.446Z",
   "repos": [
     {
       "repo": "QingYunA/answer-me-with-html",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "2.4k",
+      "stars": "2.5k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+2.4k total",
+      "trend": "+2.5k total",
       "tags": [
         "agent-skill",
         "ai-agent",
@@ -19,19 +19,34 @@
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "1.1k",
+      "stars": "2.1k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+1.1k total",
+      "trend": "+2.1k total",
       "tags": []
+    },
+    {
+      "repo": "LosaLosSantos/aurelio-finance",
+      "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "stars": "1.2k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.2k total",
+      "tags": [
+        "ai",
+        "dividends",
+        "etf",
+        "finance",
+        "financial-planning"
+      ]
     },
     {
       "repo": "jiwoochris/artex-ko",
       "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "stars": "744",
+      "stars": "848",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+744 total",
+      "trend": "+848 total",
       "tags": [
         "ai-agent",
         "autonomous-agents",
@@ -41,27 +56,12 @@
       ]
     },
     {
-      "repo": "LosaLosSantos/aurelio-finance",
-      "desc": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-      "stars": "700",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+700 total",
-      "tags": [
-        "ai",
-        "fastapi",
-        "fintech",
-        "net-worth",
-        "personal-finance"
-      ]
-    },
-    {
       "repo": "DozenTwelve/Papermorph",
       "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "589",
+      "stars": "621",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+589 total",
+      "trend": "+621 total",
       "tags": []
     },
     {
@@ -76,10 +76,10 @@
     {
       "repo": "whirlchat/whirl",
       "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "502",
+      "stars": "504",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+502 total",
+      "trend": "+504 total",
       "tags": [
         "ai",
         "ai-chat",
@@ -89,36 +89,12 @@
       ]
     },
     {
-      "repo": "genex-games/genex-desktop",
-      "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "stars": "464",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+464 total",
-      "tags": []
-    },
-    {
-      "repo": "allenv0/SCM",
-      "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "446",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+446 total",
-      "tags": [
-        "transformers-js",
-        "video-agents",
-        "video-processing",
-        "vlms",
-        "yt-dlp"
-      ]
-    },
-    {
       "repo": "openqodex/openqodex",
       "desc": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
-      "stars": "442",
+      "stars": "499",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+442 total",
+      "trend": "+499 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -128,28 +104,46 @@
       ]
     },
     {
-      "repo": "trevaintdead/ai-game-modding-guides",
-      "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-      "stars": "369",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+369 total",
+      "repo": "genex-games/genex-desktop",
+      "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "stars": "481",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+481 total",
       "tags": []
     },
     {
-      "repo": "joeseesun/qiaomu-clipper",
-      "desc": "乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.",
-      "stars": "290",
+      "repo": "ThariqS/ai-newtab",
+      "desc": "Claude generates a daily new tab page based on your browser history.",
+      "stars": "475",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+290 total",
+      "trend": "+475 total",
+      "tags": []
+    },
+    {
+      "repo": "allenv0/SCM",
+      "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "stars": "451",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+451 total",
       "tags": [
-        "ai-chat",
-        "chrome-extension",
-        "markdown",
-        "obsidian",
-        "obsidian-clipper"
+        "transformers-js",
+        "video-agents",
+        "video-processing",
+        "vlms",
+        "yt-dlp"
       ]
+    },
+    {
+      "repo": "trevaintdead/ai-game-modding-guides",
+      "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+      "stars": "404",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+404 total",
+      "tags": []
     }
   ]
 }

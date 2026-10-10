@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-10-09T18:02:04.446Z",
+  "fetchedAt": "2026-10-10T04:38:21.815Z",
   "repos": [
-    {
-      "repo": "QingYunA/answer-me-with-html",
-      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": "2.5k",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+2.5k total",
-      "tags": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "claude-code-skill",
-        "claude-skill"
-      ]
-    },
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "2.1k",
+      "stars": "2.4k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+2.1k total",
+      "trend": "+2.4k total",
       "tags": []
     },
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stars": "1.2k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.6k total",
       "tags": [
         "ai",
         "dividends",
@@ -43,10 +28,10 @@
     {
       "repo": "jiwoochris/artex-ko",
       "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "stars": "848",
+      "stars": "870",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+848 total",
+      "trend": "+870 total",
       "tags": [
         "ai-agent",
         "autonomous-agents",
@@ -58,76 +43,58 @@
     {
       "repo": "DozenTwelve/Papermorph",
       "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "621",
+      "stars": "637",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+621 total",
+      "trend": "+637 total",
       "tags": []
     },
     {
-      "repo": "zzzz7788990213-ops/EvoVLM",
-      "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "stars": "508",
-      "lang": "Python",
+      "repo": "navyofficerpipe/Discord-Server-Raider",
+      "desc": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
+      "stars": "605",
+      "lang": "Other",
       "license": "Other",
-      "trend": "+508 total",
-      "tags": []
-    },
-    {
-      "repo": "whirlchat/whirl",
-      "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stars": "504",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+504 total",
+      "trend": "+605 total",
       "tags": [
-        "ai",
-        "ai-chat",
-        "chat",
-        "convex",
-        "llm"
+        "discord-destroyer",
+        "discordraid",
+        "multi-selfbot-tool",
+        "raid",
+        "raid-discord"
       ]
-    },
-    {
-      "repo": "openqodex/openqodex",
-      "desc": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
-      "stars": "499",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+499 total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "ai-code-review",
-        "claude-code",
-        "claude-code-plugin"
-      ]
-    },
-    {
-      "repo": "genex-games/genex-desktop",
-      "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "stars": "481",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+481 total",
-      "tags": []
     },
     {
       "repo": "ThariqS/ai-newtab",
       "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "475",
+      "stars": "552",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+475 total",
+      "trend": "+552 total",
       "tags": []
+    },
+    {
+      "repo": "franzenzenhofer/big-arrow-on-the-screen",
+      "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "stars": "494",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+494 total",
+      "tags": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex"
+      ]
     },
     {
       "repo": "allenv0/SCM",
       "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "451",
+      "stars": "454",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+451 total",
+      "trend": "+454 total",
       "tags": [
         "transformers-js",
         "video-agents",
@@ -139,10 +106,49 @@
     {
       "repo": "trevaintdead/ai-game-modding-guides",
       "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-      "stars": "404",
+      "stars": "419",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+404 total",
+      "trend": "+419 total",
+      "tags": []
+    },
+    {
+      "repo": "mushigaite/short-video-maker",
+      "desc": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+      "stars": "289",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+289 total",
+      "tags": [
+        "ai-video",
+        "ai-video-editing",
+        "ai-video-generation-api",
+        "money-printer",
+        "short-video"
+      ]
+    },
+    {
+      "repo": "OrgoAI/bops",
+      "desc": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+      "stars": "239",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+239 total",
+      "tags": [
+        "ai-agents",
+        "business-automation",
+        "computer-use",
+        "electron",
+        "mac-app"
+      ]
+    },
+    {
+      "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "stars": "237",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+237 total",
       "tags": []
     }
   ]

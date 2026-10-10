@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-10T04:38:21.815Z",
+  "fetchedAt": "2026-10-10T17:02:05.079Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "2.4k",
+      "stars": "2.9k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+2.4k total",
+      "trend": "+2.9k total",
       "tags": []
     },
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stars": "1.6k",
+      "stars": "1.9k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.9k total",
       "tags": [
         "ai",
         "dividends",
@@ -27,11 +27,11 @@
     },
     {
       "repo": "jiwoochris/artex-ko",
-      "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "stars": "870",
+      "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "stars": "938",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+870 total",
+      "trend": "+938 total",
       "tags": [
         "ai-agent",
         "autonomous-agents",
@@ -43,8 +43,17 @@
     {
       "repo": "DozenTwelve/Papermorph",
       "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "637",
+      "stars": "656",
       "lang": "HTML",
+      "license": "MIT",
+      "trend": "+656 total",
+      "tags": []
+    },
+    {
+      "repo": "ThariqS/ai-newtab",
+      "desc": "Claude generates a daily new tab page based on your browser history.",
+      "stars": "637",
+      "lang": "TypeScript",
       "license": "MIT",
       "trend": "+637 total",
       "tags": []
@@ -65,21 +74,12 @@
       ]
     },
     {
-      "repo": "ThariqS/ai-newtab",
-      "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "552",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+552 total",
-      "tags": []
-    },
-    {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
       "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "494",
+      "stars": "561",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+494 total",
+      "trend": "+561 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -91,10 +91,10 @@
     {
       "repo": "allenv0/SCM",
       "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "454",
+      "stars": "458",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+454 total",
+      "trend": "+458 total",
       "tags": [
         "transformers-js",
         "video-agents",
@@ -106,19 +106,28 @@
     {
       "repo": "trevaintdead/ai-game-modding-guides",
       "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-      "stars": "419",
+      "stars": "438",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+419 total",
+      "trend": "+438 total",
+      "tags": []
+    },
+    {
+      "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "stars": "407",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+407 total",
       "tags": []
     },
     {
       "repo": "mushigaite/short-video-maker",
       "desc": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-      "stars": "289",
+      "stars": "290",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+289 total",
+      "trend": "+290 total",
       "tags": [
         "ai-video",
         "ai-video-editing",
@@ -130,10 +139,10 @@
     {
       "repo": "OrgoAI/bops",
       "desc": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
-      "stars": "239",
+      "stars": "243",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+239 total",
+      "trend": "+243 total",
       "tags": [
         "ai-agents",
         "business-automation",
@@ -141,15 +150,6 @@
         "electron",
         "mac-app"
       ]
-    },
-    {
-      "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
-      "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "stars": "237",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+237 total",
-      "tags": []
     }
   ]
 }

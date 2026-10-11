@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-10T17:02:05.079Z",
+  "fetchedAt": "2026-10-11T04:23:09.112Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "2.9k",
+      "stars": "3.0k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+2.9k total",
+      "trend": "+3.0k total",
       "tags": []
     },
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stars": "1.9k",
+      "stars": "2.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.1k total",
       "tags": [
         "ai",
         "dividends",
@@ -26,36 +26,12 @@
       ]
     },
     {
-      "repo": "jiwoochris/artex-ko",
-      "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "stars": "938",
-      "lang": "Go",
-      "license": "AGPL-3.0",
-      "trend": "+938 total",
-      "tags": [
-        "ai-agent",
-        "autonomous-agents",
-        "blue-team",
-        "cybersecurity",
-        "detection-engineering"
-      ]
-    },
-    {
-      "repo": "DozenTwelve/Papermorph",
-      "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stars": "656",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+656 total",
-      "tags": []
-    },
-    {
       "repo": "ThariqS/ai-newtab",
       "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "637",
+      "stars": "700",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+637 total",
+      "trend": "+700 total",
       "tags": []
     },
     {
@@ -76,10 +52,10 @@
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
       "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "561",
+      "stars": "595",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+561 total",
+      "trend": "+595 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -89,45 +65,36 @@
       ]
     },
     {
-      "repo": "allenv0/SCM",
-      "desc": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stars": "458",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+458 total",
-      "tags": [
-        "transformers-js",
-        "video-agents",
-        "video-processing",
-        "vlms",
-        "yt-dlp"
-      ]
-    },
-    {
-      "repo": "trevaintdead/ai-game-modding-guides",
-      "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-      "stars": "438",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+438 total",
-      "tags": []
-    },
-    {
       "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
       "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "stars": "407",
+      "stars": "499",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+407 total",
+      "trend": "+499 total",
       "tags": []
+    },
+    {
+      "repo": "rociiu/talorys",
+      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "stars": "444",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+444 total",
+      "tags": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant"
+      ]
     },
     {
       "repo": "mushigaite/short-video-maker",
       "desc": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-      "stars": "290",
+      "stars": "291",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+290 total",
+      "trend": "+291 total",
       "tags": [
         "ai-video",
         "ai-video-editing",
@@ -139,16 +106,55 @@
     {
       "repo": "OrgoAI/bops",
       "desc": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
-      "stars": "243",
+      "stars": "247",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+243 total",
+      "trend": "+247 total",
       "tags": [
         "ai-agents",
         "business-automation",
         "computer-use",
         "electron",
         "mac-app"
+      ]
+    },
+    {
+      "repo": "mrzh7/scam-with-your-friends-web",
+      "desc": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+      "stars": "228",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+228 total",
+      "tags": [
+        "ai-game",
+        "browser-game",
+        "call-center",
+        "cloudflare-workers",
+        "coop-game"
+      ]
+    },
+    {
+      "repo": "BinceQu/RoboHarness",
+      "desc": "A robotic harness that gives LLM agents a visual-geometric control panel so that they can directly understand and invoke embodied tasks.",
+      "stars": "224",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+224 total",
+      "tags": []
+    },
+    {
+      "repo": "mrsarac/ff-tracking",
+      "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+      "stars": "222",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+222 total",
+      "tags": [
+        "fframes",
+        "generative-video",
+        "hud",
+        "motion-graphics",
+        "rust"
       ]
     }
   ]

@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-12T04:39:15.061Z",
+  "fetchedAt": "2026-10-12T20:58:44.320Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "3.3k",
+      "stars": "3.5k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+3.3k total",
+      "trend": "+3.5k total",
       "tags": []
     },
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stars": "2.4k",
+      "stars": "2.8k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.4k total",
+      "trend": "+2.8k total",
       "tags": [
         "ai",
         "dividends",
@@ -28,10 +28,10 @@
     {
       "repo": "rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "773",
+      "stars": "884",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+773 total",
+      "trend": "+884 total",
       "tags": [
         "ai-agent",
         "cloudflare",
@@ -43,28 +43,28 @@
     {
       "repo": "ThariqS/ai-newtab",
       "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "745",
+      "stars": "763",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+745 total",
+      "trend": "+763 total",
       "tags": []
     },
     {
       "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
       "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "stars": "656",
+      "stars": "725",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+656 total",
+      "trend": "+725 total",
       "tags": []
     },
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
       "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "630",
+      "stars": "665",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+630 total",
+      "trend": "+665 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -74,81 +74,75 @@
       ]
     },
     {
-      "repo": "navyofficerpipe/Discord-Server-Raider",
-      "desc": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
-      "stars": "605",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+605 total",
+      "repo": "zhuyansen/new-term-radar",
+      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "stars": "501",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+501 total",
       "tags": [
-        "discord-destroyer",
-        "discordraid",
-        "multi-selfbot-tool",
-        "raid",
-        "raid-discord"
+        "ai",
+        "aisa",
+        "github-actions",
+        "keyword-research",
+        "seo"
       ]
+    },
+    {
+      "repo": "jwuthri-cloud/Tracely-ai",
+      "desc": "(暂无描述)",
+      "stars": "481",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+481 total",
+      "tags": []
+    },
+    {
+      "repo": "onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "stars": "479",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+479 total",
+      "tags": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32"
+      ]
+    },
+    {
+      "repo": "gholtzap/lintapple",
+      "desc": "It should be impossible for AI to make a bad UI.",
+      "stars": "453",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+453 total",
+      "tags": []
+    },
+    {
+      "repo": "trhhubsd/ARTEXX",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "stars": "432",
+      "lang": "Go",
+      "license": "AGPL-3.0",
+      "trend": "+432 total",
+      "tags": []
     },
     {
       "repo": "mrsarac/ff-tracking",
       "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-      "stars": "299",
+      "stars": "338",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+299 total",
+      "trend": "+338 total",
       "tags": [
         "fframes",
         "generative-video",
         "hud",
         "motion-graphics",
         "rust"
-      ]
-    },
-    {
-      "repo": "mushigaite/short-video-maker",
-      "desc": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-      "stars": "291",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+291 total",
-      "tags": [
-        "ai-video",
-        "ai-video-editing",
-        "ai-video-generation-api",
-        "money-printer",
-        "short-video"
-      ]
-    },
-    {
-      "repo": "gholtzap/lintapple",
-      "desc": "It should be impossible for AI to make a bad UI.",
-      "stars": "281",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+281 total",
-      "tags": []
-    },
-    {
-      "repo": "jwuthri-cloud/Tracely-ai",
-      "desc": "(暂无描述)",
-      "stars": "269",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+269 total",
-      "tags": []
-    },
-    {
-      "repo": "OrgoAI/bops",
-      "desc": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
-      "stars": "264",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+264 total",
-      "tags": [
-        "ai-agents",
-        "business-automation",
-        "computer-use",
-        "electron",
-        "mac-app"
       ]
     }
   ]

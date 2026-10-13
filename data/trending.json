@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-12T20:58:44.320Z",
+  "fetchedAt": "2026-10-13T05:44:36.662Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "3.5k",
+      "stars": "3.7k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+3.5k total",
+      "trend": "+3.7k total",
       "tags": []
     },
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stars": "2.8k",
+      "stars": "3.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.8k total",
+      "trend": "+3.0k total",
       "tags": [
         "ai",
         "dividends",
@@ -28,10 +28,10 @@
     {
       "repo": "rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "884",
+      "stars": "917",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+884 total",
+      "trend": "+917 total",
       "tags": [
         "ai-agent",
         "cloudflare",
@@ -41,51 +41,75 @@
       ]
     },
     {
+      "repo": "onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "stars": "894",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+894 total",
+      "tags": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32"
+      ]
+    },
+    {
       "repo": "ThariqS/ai-newtab",
       "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "763",
+      "stars": "773",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+763 total",
+      "trend": "+773 total",
       "tags": []
     },
     {
       "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
       "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "stars": "725",
+      "stars": "753",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+725 total",
+      "trend": "+753 total",
       "tags": []
-    },
-    {
-      "repo": "franzenzenhofer/big-arrow-on-the-screen",
-      "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "665",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+665 total",
-      "tags": [
-        "accessibility",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex"
-      ]
     },
     {
       "repo": "zhuyansen/new-term-radar",
       "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stars": "501",
+      "stars": "688",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+501 total",
+      "trend": "+688 total",
       "tags": [
         "ai",
         "aisa",
         "github-actions",
         "keyword-research",
         "seo"
+      ]
+    },
+    {
+      "repo": "trhhubsd/ARTEXX",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "stars": "688",
+      "lang": "Go",
+      "license": "AGPL-3.0",
+      "trend": "+688 total",
+      "tags": []
+    },
+    {
+      "repo": "franzenzenhofer/big-arrow-on-the-screen",
+      "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "stars": "676",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+676 total",
+      "tags": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex"
       ]
     },
     {
@@ -98,52 +122,28 @@
       "tags": []
     },
     {
-      "repo": "onehumanbeing/esp32-iphone-agent",
-      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "479",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+479 total",
+      "repo": "Aquafitzdisconnect/Discord-Server-Raider",
+      "desc": "Discord Server Raider is an AI-driven tool that automates server management and moderation tasks, allowing seamless user experience and efficient resource...",
+      "stars": "475",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+475 total",
       "tags": [
-        "ai-agent",
-        "airplay",
-        "automation",
-        "computer-use",
-        "esp32"
+        "discord-destroyer",
+        "discordraid",
+        "multi-selfbot-tool",
+        "raid",
+        "raid-discord"
       ]
     },
     {
       "repo": "gholtzap/lintapple",
       "desc": "It should be impossible for AI to make a bad UI.",
-      "stars": "453",
+      "stars": "459",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+453 total",
+      "trend": "+459 total",
       "tags": []
-    },
-    {
-      "repo": "trhhubsd/ARTEXX",
-      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "stars": "432",
-      "lang": "Go",
-      "license": "AGPL-3.0",
-      "trend": "+432 total",
-      "tags": []
-    },
-    {
-      "repo": "mrsarac/ff-tracking",
-      "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-      "stars": "338",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+338 total",
-      "tags": [
-        "fframes",
-        "generative-video",
-        "hud",
-        "motion-graphics",
-        "rust"
-      ]
     }
   ]
 }

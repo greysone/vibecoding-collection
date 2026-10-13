@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-13T05:44:36.662Z",
+  "fetchedAt": "2026-10-13T18:57:05.288Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "3.7k",
+      "stars": "3.9k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+3.7k total",
+      "trend": "+3.9k total",
       "tags": []
     },
     {
       "repo": "LosaLosSantos/aurelio-finance",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stars": "3.0k",
+      "stars": "3.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+3.0k total",
+      "trend": "+3.1k total",
       "tags": [
         "ai",
         "dividends",
@@ -26,27 +26,12 @@
       ]
     },
     {
-      "repo": "rociiu/talorys",
-      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "917",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+917 total",
-      "tags": [
-        "ai-agent",
-        "cloudflare",
-        "cloudflare-workers",
-        "durable-objects",
-        "personal-assistant"
-      ]
-    },
-    {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "894",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+894 total",
+      "trend": "+1.4k total",
       "tags": [
         "ai-agent",
         "airplay",
@@ -56,54 +41,78 @@
       ]
     },
     {
-      "repo": "ThariqS/ai-newtab",
-      "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "773",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+773 total",
+      "repo": "trhhubsd/ARTEXX",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "stars": "970",
+      "lang": "Go",
+      "license": "AGPL-3.0",
+      "trend": "+970 total",
       "tags": []
     },
     {
-      "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
-      "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "stars": "753",
-      "lang": "Python",
+      "repo": "rociiu/talorys",
+      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "stars": "940",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+753 total",
-      "tags": []
+      "trend": "+940 total",
+      "tags": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant"
+      ]
     },
     {
       "repo": "zhuyansen/new-term-radar",
       "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stars": "688",
+      "stars": "851",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+688 total",
+      "trend": "+851 total",
       "tags": [
+        "agent-skills",
         "ai",
         "aisa",
-        "github-actions",
-        "keyword-research",
-        "seo"
+        "claude-code",
+        "claude-skills"
       ]
     },
     {
-      "repo": "trhhubsd/ARTEXX",
-      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "stars": "688",
-      "lang": "Go",
-      "license": "AGPL-3.0",
-      "trend": "+688 total",
+      "repo": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "desc": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "stars": "788",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+788 total",
+      "tags": []
+    },
+    {
+      "repo": "ThariqS/ai-newtab",
+      "desc": "Claude generates a daily new tab page based on your browser history.",
+      "stars": "787",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+787 total",
+      "tags": []
+    },
+    {
+      "repo": "jwuthri-cloud/Tracely-ai",
+      "desc": "(暂无描述)",
+      "stars": "732",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+732 total",
       "tags": []
     },
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
       "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "676",
+      "stars": "689",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+676 total",
+      "trend": "+689 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -113,37 +122,28 @@
       ]
     },
     {
-      "repo": "jwuthri-cloud/Tracely-ai",
-      "desc": "(暂无描述)",
-      "stars": "481",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+481 total",
-      "tags": []
-    },
-    {
-      "repo": "Aquafitzdisconnect/Discord-Server-Raider",
-      "desc": "Discord Server Raider is an AI-driven tool that automates server management and moderation tasks, allowing seamless user experience and efficient resource...",
-      "stars": "475",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+475 total",
-      "tags": [
-        "discord-destroyer",
-        "discordraid",
-        "multi-selfbot-tool",
-        "raid",
-        "raid-discord"
-      ]
-    },
-    {
       "repo": "gholtzap/lintapple",
       "desc": "It should be impossible for AI to make a bad UI.",
-      "stars": "459",
+      "stars": "473",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+459 total",
+      "trend": "+473 total",
       "tags": []
+    },
+    {
+      "repo": "mrsarac/ff-tracking",
+      "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+      "stars": "368",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+368 total",
+      "tags": [
+        "fframes",
+        "generative-video",
+        "hud",
+        "motion-graphics",
+        "rust"
+      ]
     }
   ]
 }

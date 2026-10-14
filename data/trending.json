@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-14T03:48:04.191Z",
+  "fetchedAt": "2026-10-14T16:40:09.638Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "3.9k",
+      "stars": "4.1k",
       "lang": "Go",
       "license": "AGPL-3.0",
-      "trend": "+3.9k total",
+      "trend": "+4.1k total",
       "tags": []
     },
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "1.6k",
+      "stars": "2.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+2.0k total",
       "tags": [
         "ai-agent",
         "airplay",
@@ -37,10 +37,10 @@
     {
       "repo": "rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "964",
+      "stars": "987",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+964 total",
+      "trend": "+987 total",
       "tags": [
         "ai-agent",
         "cloudflare",
@@ -52,10 +52,10 @@
     {
       "repo": "zhuyansen/new-term-radar",
       "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stars": "884",
+      "stars": "933",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+884 total",
+      "trend": "+933 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -65,30 +65,45 @@
       ]
     },
     {
-      "repo": "ThariqS/ai-newtab",
-      "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "789",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+789 total",
-      "tags": []
+      "repo": "marclou/mailcheap",
+      "desc": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+      "stars": "923",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+923 total",
+      "tags": [
+        "ai-agents",
+        "email",
+        "mcp",
+        "newsletter",
+        "nextjs"
+      ]
     },
     {
       "repo": "jwuthri-cloud/Tracely-ai",
       "desc": "(暂无描述)",
-      "stars": "758",
+      "stars": "817",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+758 total",
+      "trend": "+817 total",
+      "tags": []
+    },
+    {
+      "repo": "ThariqS/ai-newtab",
+      "desc": "Claude generates a daily new tab page based on your browser history.",
+      "stars": "794",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+794 total",
       "tags": []
     },
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
       "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "717",
+      "stars": "741",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+717 total",
+      "trend": "+741 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -98,48 +113,45 @@
       ]
     },
     {
-      "repo": "gholtzap/lintapple",
-      "desc": "It should be impossible for AI to make a bad UI.",
-      "stars": "482",
-      "lang": "JavaScript",
+      "repo": "deeplethe/solid-glass",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stars": "587",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+482 total",
-      "tags": []
+      "trend": "+587 total",
+      "tags": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system"
+      ]
     },
     {
-      "repo": "nateherkai/roast-room",
-      "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stars": "393",
-      "lang": "JavaScript",
-      "license": "NOASSERTION",
-      "trend": "+393 total",
-      "tags": []
+      "repo": "outcrawlai/scout",
+      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "stars": "555",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+555 total",
+      "tags": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "cdp",
+        "llm"
+      ]
     },
     {
       "repo": "AnkioTomas/qqpet",
       "desc": "QQ宠物单机复刻版(AI)",
-      "stars": "380",
+      "stars": "490",
       "lang": "TypeScript",
       "license": "GPL-3.0",
-      "trend": "+380 total",
+      "trend": "+490 total",
       "tags": [
         "qq",
         "qqpet"
-      ]
-    },
-    {
-      "repo": "mrsarac/ff-tracking",
-      "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-      "stars": "380",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+380 total",
-      "tags": [
-        "fframes",
-        "generative-video",
-        "hud",
-        "motion-graphics",
-        "rust"
       ]
     }
   ]

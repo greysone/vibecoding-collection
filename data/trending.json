@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T16:40:09.638Z",
+  "fetchedAt": "2026-10-15T03:29:29.641Z",
   "repos": [
     {
       "repo": "mhtsec/ARTEX",
@@ -13,10 +13,10 @@
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "2.0k",
-      "lang": "Python",
+      "stars": "2.1k",
+      "lang": "C",
       "license": "MIT",
-      "trend": "+2.0k total",
+      "trend": "+2.1k total",
       "tags": [
         "ai-agent",
         "airplay",
@@ -37,10 +37,10 @@
     {
       "repo": "rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "987",
+      "stars": "1.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+987 total",
+      "trend": "+1.0k total",
       "tags": [
         "ai-agent",
         "cloudflare",
@@ -52,10 +52,10 @@
     {
       "repo": "zhuyansen/new-term-radar",
       "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stars": "933",
+      "stars": "970",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+933 total",
+      "trend": "+970 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -67,10 +67,10 @@
     {
       "repo": "marclou/mailcheap",
       "desc": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-      "stars": "923",
+      "stars": "933",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+923 total",
+      "trend": "+933 total",
       "tags": [
         "ai-agents",
         "email",
@@ -91,19 +91,19 @@
     {
       "repo": "ThariqS/ai-newtab",
       "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "794",
+      "stars": "799",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+794 total",
+      "trend": "+799 total",
       "tags": []
     },
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
       "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "741",
+      "stars": "745",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+741 total",
+      "trend": "+745 total",
       "tags": [
         "accessibility",
         "ai-agents",
@@ -115,10 +115,10 @@
     {
       "repo": "deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "587",
+      "stars": "700",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+587 total",
+      "trend": "+700 total",
       "tags": [
         "agent-ui",
         "ai",
@@ -130,10 +130,10 @@
     {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "555",
+      "stars": "675",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+555 total",
+      "trend": "+675 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -143,16 +143,13 @@
       ]
     },
     {
-      "repo": "AnkioTomas/qqpet",
-      "desc": "QQ宠物单机复刻版(AI)",
-      "stars": "490",
-      "lang": "TypeScript",
-      "license": "GPL-3.0",
-      "trend": "+490 total",
-      "tags": [
-        "qq",
-        "qqpet"
-      ]
+      "repo": "nateherkai/roast-room",
+      "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "stars": "541",
+      "lang": "JavaScript",
+      "license": "NOASSERTION",
+      "trend": "+541 total",
+      "tags": []
     }
   ]
 }

@@ -1,22 +1,13 @@
 {
-  "fetchedAt": "2026-10-15T16:25:35.056Z",
+  "fetchedAt": "2026-10-16T03:25:15.520Z",
   "repos": [
-    {
-      "repo": "mhtsec/ARTEX",
-      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": "4.2k",
-      "lang": "Go",
-      "license": "AGPL-3.0",
-      "trend": "+4.2k total",
-      "tags": []
-    },
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "2.3k",
+      "stars": "2.6k",
       "lang": "C",
       "license": "MIT",
-      "trend": "+2.3k total",
+      "trend": "+2.6k total",
       "tags": [
         "ai-agent",
         "airplay",
@@ -26,27 +17,48 @@
       ]
     },
     {
-      "repo": "trhhubsd/ARTEXX",
-      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "stars": "1.2k",
-      "lang": "Go",
-      "license": "AGPL-3.0",
-      "trend": "+1.2k total",
-      "tags": []
-    },
-    {
       "repo": "rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "1.1k",
+      "stars": "1.2k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.2k total",
       "tags": [
         "ai-agent",
         "cloudflare",
         "cloudflare-workers",
         "durable-objects",
         "personal-assistant"
+      ]
+    },
+    {
+      "repo": "marclou/mailcheap",
+      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "stars": "1.1k",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+1.1k total",
+      "tags": [
+        "ai-agents",
+        "amazon-ses",
+        "beehiiv-alternative",
+        "email",
+        "email-marketing"
+      ]
+    },
+    {
+      "repo": "deeplethe/solid-glass",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stars": "1.1k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.1k total",
+      "tags": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system"
       ]
     },
     {
@@ -65,60 +77,12 @@
       ]
     },
     {
-      "repo": "marclou/mailcheap",
-      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "stars": "976",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+976 total",
-      "tags": [
-        "ai-agents",
-        "amazon-ses",
-        "beehiiv-alternative",
-        "email",
-        "email-marketing"
-      ]
-    },
-    {
-      "repo": "deeplethe/solid-glass",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "953",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+953 total",
-      "tags": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system"
-      ]
-    },
-    {
-      "repo": "ThariqS/ai-newtab",
-      "desc": "Claude generates a daily new tab page based on your browser history.",
-      "stars": "817",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+817 total",
-      "tags": []
-    },
-    {
-      "repo": "jwuthri-cloud/Tracely-ai",
-      "desc": "(暂无描述)",
-      "stars": "816",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+816 total",
-      "tags": []
-    },
-    {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "810",
+      "stars": "838",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+810 total",
+      "trend": "+838 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -128,28 +92,82 @@
       ]
     },
     {
-      "repo": "franzenzenhofer/big-arrow-on-the-screen",
-      "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stars": "751",
-      "lang": "Swift",
+      "repo": "jwuthri-cloud/Tracely-ai",
+      "desc": "(暂无描述)",
+      "stars": "824",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+751 total",
-      "tags": [
-        "accessibility",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex"
-      ]
+      "trend": "+824 total",
+      "tags": []
     },
     {
       "repo": "nateherkai/roast-room",
       "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stars": "587",
+      "stars": "628",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+587 total",
+      "trend": "+628 total",
       "tags": []
+    },
+    {
+      "repo": "mrsarac/ff-tracking",
+      "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+      "stars": "434",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+434 total",
+      "tags": [
+        "fframes",
+        "generative-video",
+        "hud",
+        "motion-graphics",
+        "rust"
+      ]
+    },
+    {
+      "repo": "i12bp8/decomp.wtf",
+      "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "stars": "376",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+376 total",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "decomp",
+        "decompilation",
+        "decompiler"
+      ]
+    },
+    {
+      "repo": "datalab-to/indra",
+      "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "stars": "363",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+363 total",
+      "tags": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx"
+      ]
+    },
+    {
+      "repo": "Ayzzz123/mcd-coupon-strategist",
+      "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "stars": "350",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+350 total",
+      "tags": [
+        "agent",
+        "cost-optimization",
+        "coupon",
+        "llm",
+        "mcd-mcp"
+      ]
     }
   ]
 }

@@ -1,19 +1,34 @@
 {
-  "fetchedAt": "2026-10-16T03:25:15.520Z",
+  "fetchedAt": "2026-10-16T16:10:51.027Z",
   "repos": [
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "2.6k",
+      "stars": "2.8k",
       "lang": "C",
       "license": "MIT",
-      "trend": "+2.6k total",
+      "trend": "+2.8k total",
       "tags": [
         "ai-agent",
         "airplay",
         "automation",
         "computer-use",
         "esp32"
+      ]
+    },
+    {
+      "repo": "deeplethe/solid-glass",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stars": "1.3k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.3k total",
+      "tags": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system"
       ]
     },
     {
@@ -47,27 +62,12 @@
       ]
     },
     {
-      "repo": "deeplethe/solid-glass",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "1.1k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.1k total",
-      "tags": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system"
-      ]
-    },
-    {
       "repo": "zhuyansen/new-term-radar",
       "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stars": "1.0k",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.0k total",
+      "trend": "+1.1k total",
       "tags": [
         "agent-skills",
         "ai",
@@ -77,12 +77,27 @@
       ]
     },
     {
+      "repo": "feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "stars": "1.0k",
+      "lang": "Go",
+      "license": "NOASSERTION",
+      "trend": "+1.0k total",
+      "tags": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion"
+      ]
+    },
+    {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "838",
+      "stars": "885",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+838 total",
+      "trend": "+885 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -94,28 +109,28 @@
     {
       "repo": "jwuthri-cloud/Tracely-ai",
       "desc": "(暂无描述)",
-      "stars": "824",
+      "stars": "829",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+824 total",
+      "trend": "+829 total",
       "tags": []
     },
     {
       "repo": "nateherkai/roast-room",
       "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stars": "628",
+      "stars": "664",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+628 total",
+      "trend": "+664 total",
       "tags": []
     },
     {
       "repo": "mrsarac/ff-tracking",
       "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-      "stars": "434",
+      "stars": "440",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+434 total",
+      "trend": "+440 total",
       "tags": [
         "fframes",
         "generative-video",
@@ -127,10 +142,10 @@
     {
       "repo": "i12bp8/decomp.wtf",
       "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "376",
+      "stars": "439",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+376 total",
+      "trend": "+439 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -140,34 +155,13 @@
       ]
     },
     {
-      "repo": "datalab-to/indra",
-      "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "363",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+363 total",
-      "tags": [
-        "ai",
-        "cpu",
-        "document-parsing",
-        "ocr",
-        "onnx"
-      ]
-    },
-    {
-      "repo": "Ayzzz123/mcd-coupon-strategist",
-      "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-      "stars": "350",
+      "repo": "yeyuxin777/baoyan-agent-benchmark",
+      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stars": "408",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+350 total",
-      "tags": [
-        "agent",
-        "cost-optimization",
-        "coupon",
-        "llm",
-        "mcd-mcp"
-      ]
+      "trend": "+408 total",
+      "tags": []
     }
   ]
 }

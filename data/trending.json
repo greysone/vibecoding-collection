@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-17T03:15:53.378Z",
+  "fetchedAt": "2026-10-17T15:04:11.207Z",
   "repos": [
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "2.9k",
+      "stars": "3.0k",
       "lang": "C",
       "license": "MIT",
-      "trend": "+2.9k total",
+      "trend": "+3.0k total",
       "tags": [
         "ai-agent",
         "airplay",
@@ -19,10 +19,10 @@
     {
       "repo": "deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "1.4k",
+      "stars": "1.7k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.7k total",
       "tags": [
         "agent-ui",
         "ai",
@@ -94,10 +94,10 @@
     {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "896",
+      "stars": "927",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+896 total",
+      "trend": "+927 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -109,52 +109,43 @@
     {
       "repo": "jwuthri-cloud/Tracely-ai",
       "desc": "(暂无描述)",
-      "stars": "829",
+      "stars": "879",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+829 total",
+      "trend": "+879 total",
       "tags": []
     },
     {
       "repo": "nateherkai/roast-room",
       "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stars": "684",
+      "stars": "732",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+684 total",
+      "trend": "+732 total",
       "tags": []
     },
     {
-      "repo": "yeyuxin777/baoyan-agent-benchmark",
-      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "stars": "491",
+      "repo": "Leonxlnx/earshot",
+      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "stars": "574",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+491 total",
-      "tags": []
-    },
-    {
-      "repo": "i12bp8/decomp.wtf",
-      "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "464",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+464 total",
+      "trend": "+574 total",
       "tags": [
         "ai-agents",
+        "audio",
         "claude-code",
-        "decomp",
-        "decompilation",
-        "decompiler"
+        "mcp",
+        "sound-design"
       ]
     },
     {
       "repo": "datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "460",
+      "stars": "538",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+460 total",
+      "trend": "+538 total",
       "tags": [
         "ai",
         "cpu",
@@ -162,6 +153,15 @@
         "ocr",
         "onnx"
       ]
+    },
+    {
+      "repo": "yeyuxin777/baoyan-agent-benchmark",
+      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stars": "504",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+504 total",
+      "tags": []
     }
   ]
 }

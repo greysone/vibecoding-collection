@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-16T16:10:51.027Z",
+  "fetchedAt": "2026-10-17T03:15:53.378Z",
   "repos": [
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "2.8k",
+      "stars": "2.9k",
       "lang": "C",
       "license": "MIT",
-      "trend": "+2.8k total",
+      "trend": "+2.9k total",
       "tags": [
         "ai-agent",
         "airplay",
@@ -19,10 +19,10 @@
     {
       "repo": "deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.4k total",
       "tags": [
         "agent-ui",
         "ai",
@@ -34,10 +34,10 @@
     {
       "repo": "rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "ai-agent",
         "cloudflare",
@@ -49,16 +49,31 @@
     {
       "repo": "marclou/mailcheap",
       "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "stars": "1.1k",
+      "stars": "1.2k",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+1.1k total",
+      "trend": "+1.2k total",
       "tags": [
         "ai-agents",
         "amazon-ses",
         "beehiiv-alternative",
         "email",
         "email-marketing"
+      ]
+    },
+    {
+      "repo": "feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "stars": "1.1k",
+      "lang": "Go",
+      "license": "NOASSERTION",
+      "trend": "+1.1k total",
+      "tags": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion"
       ]
     },
     {
@@ -77,27 +92,12 @@
       ]
     },
     {
-      "repo": "feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "stars": "1.0k",
-      "lang": "Go",
-      "license": "NOASSERTION",
-      "trend": "+1.0k total",
-      "tags": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion"
-      ]
-    },
-    {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "885",
+      "stars": "896",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+885 total",
+      "trend": "+896 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -118,34 +118,28 @@
     {
       "repo": "nateherkai/roast-room",
       "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stars": "664",
+      "stars": "684",
       "lang": "JavaScript",
       "license": "NOASSERTION",
-      "trend": "+664 total",
+      "trend": "+684 total",
       "tags": []
     },
     {
-      "repo": "mrsarac/ff-tracking",
-      "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-      "stars": "440",
-      "lang": "Rust",
+      "repo": "yeyuxin777/baoyan-agent-benchmark",
+      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stars": "491",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+440 total",
-      "tags": [
-        "fframes",
-        "generative-video",
-        "hud",
-        "motion-graphics",
-        "rust"
-      ]
+      "trend": "+491 total",
+      "tags": []
     },
     {
       "repo": "i12bp8/decomp.wtf",
       "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "439",
+      "stars": "464",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+439 total",
+      "trend": "+464 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -155,13 +149,19 @@
       ]
     },
     {
-      "repo": "yeyuxin777/baoyan-agent-benchmark",
-      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "stars": "408",
+      "repo": "datalab-to/indra",
+      "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "stars": "460",
       "lang": "Python",
-      "license": "MIT",
-      "trend": "+408 total",
-      "tags": []
+      "license": "Apache-2.0",
+      "trend": "+460 total",
+      "tags": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx"
+      ]
     }
   ]
 }

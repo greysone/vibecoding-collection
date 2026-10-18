@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T15:04:11.207Z",
+  "fetchedAt": "2026-10-18T03:20:10.692Z",
   "repos": [
     {
       "repo": "onehumanbeing/esp32-iphone-agent",
@@ -19,46 +19,16 @@
     {
       "repo": "deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "1.7k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+1.8k total",
       "tags": [
         "agent-ui",
         "ai",
         "ai-agents",
         "chat-ui",
         "design-system"
-      ]
-    },
-    {
-      "repo": "rociiu/talorys",
-      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stars": "1.3k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.3k total",
-      "tags": [
-        "ai-agent",
-        "cloudflare",
-        "cloudflare-workers",
-        "durable-objects",
-        "personal-assistant"
-      ]
-    },
-    {
-      "repo": "marclou/mailcheap",
-      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "stars": "1.2k",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+1.2k total",
-      "tags": [
-        "ai-agents",
-        "amazon-ses",
-        "beehiiv-alternative",
-        "email",
-        "email-marketing"
       ]
     },
     {
@@ -94,10 +64,10 @@
     {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "927",
+      "stars": "941",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+927 total",
+      "trend": "+941 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -108,29 +78,26 @@
     },
     {
       "repo": "jwuthri-cloud/Tracely-ai",
-      "desc": "(暂无描述)",
-      "stars": "879",
+      "desc": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
+      "stars": "936",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+879 total",
-      "tags": []
-    },
-    {
-      "repo": "nateherkai/roast-room",
-      "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stars": "732",
-      "lang": "JavaScript",
-      "license": "NOASSERTION",
-      "trend": "+732 total",
-      "tags": []
+      "trend": "+936 total",
+      "tags": [
+        "agent-evaluation",
+        "ai-agents",
+        "ai-testing",
+        "ci-cd",
+        "clickhouse"
+      ]
     },
     {
       "repo": "Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "574",
+      "stars": "692",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+574 total",
+      "trend": "+692 total",
       "tags": [
         "ai-agents",
         "audio",
@@ -140,12 +107,27 @@
       ]
     },
     {
+      "repo": "anujasid/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": "640",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+640 total",
+      "tags": [
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation"
+      ]
+    },
+    {
       "repo": "datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "538",
+      "stars": "589",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+538 total",
+      "trend": "+589 total",
       "tags": [
         "ai",
         "cpu",
@@ -157,10 +139,34 @@
     {
       "repo": "yeyuxin777/baoyan-agent-benchmark",
       "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "stars": "504",
+      "stars": "534",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+504 total",
+      "trend": "+534 total",
+      "tags": []
+    },
+    {
+      "repo": "i12bp8/decomp.wtf",
+      "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "stars": "491",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+491 total",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "decomp",
+        "decompilation",
+        "decompiler"
+      ]
+    },
+    {
+      "repo": "BaruqueRodrigues/llm-legislativo",
+      "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+      "stars": "399",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+399 total",
       "tags": []
     }
   ]

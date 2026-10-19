@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-19T03:31:58.568Z",
+  "fetchedAt": "2026-10-19T18:24:26.609Z",
   "repos": [
     {
       "repo": "feder-cr/git-ai",
       "desc": "Git designed for AI agents.",
-      "stars": "2.3k",
+      "stars": "2.4k",
       "lang": "Go",
       "license": "NOASSERTION",
-      "trend": "+2.3k total",
+      "trend": "+2.4k total",
       "tags": [
         "ai-agents",
         "coding-agents",
@@ -19,16 +19,31 @@
     {
       "repo": "deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "2.1k",
+      "stars": "2.3k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.3k total",
       "tags": [
         "agent-ui",
         "ai",
         "ai-agents",
         "chat-ui",
         "design-system"
+      ]
+    },
+    {
+      "repo": "Leonxlnx/earshot",
+      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "stars": "1.4k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.4k total",
+      "tags": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
       ]
     },
     {
@@ -49,10 +64,10 @@
     {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "946",
+      "stars": "948",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+946 total",
+      "trend": "+948 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -62,27 +77,12 @@
       ]
     },
     {
-      "repo": "Leonxlnx/earshot",
-      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "877",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+877 total",
-      "tags": [
-        "ai-agents",
-        "audio",
-        "claude-code",
-        "mcp",
-        "sound-design"
-      ]
-    },
-    {
       "repo": "LiCinCan/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "787",
+      "stars": "932",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+787 total",
+      "trend": "+932 total",
       "tags": [
         "ai-assistant",
         "blender",
@@ -92,12 +92,21 @@
       ]
     },
     {
+      "repo": "yeyuxin777/baoyan-agent-benchmark",
+      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stars": "701",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+701 total",
+      "tags": []
+    },
+    {
       "repo": "datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "633",
+      "stars": "657",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+633 total",
+      "trend": "+657 total",
       "tags": [
         "ai",
         "cpu",
@@ -107,21 +116,21 @@
       ]
     },
     {
-      "repo": "yeyuxin777/baoyan-agent-benchmark",
-      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "stars": "599",
-      "lang": "Python",
+      "repo": "cranebeaker/coop-anything",
+      "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+      "stars": "545",
+      "lang": "C",
       "license": "MIT",
-      "trend": "+599 total",
+      "trend": "+545 total",
       "tags": []
     },
     {
       "repo": "i12bp8/decomp.wtf",
       "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "498",
+      "stars": "506",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+498 total",
+      "trend": "+506 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -131,36 +140,21 @@
       ]
     },
     {
-      "repo": "BreezeSolicitorMap/undress.ai",
-      "desc": "Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.",
-      "stars": "454",
+      "repo": "VITASID57/bluntcore-intimacy-lab",
+      "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+      "stars": "479",
       "lang": "Other",
-      "license": "MIT",
-      "trend": "+454 total",
-      "tags": [
-        "blooket-bot",
-        "coomer-party",
-        "exhentai",
-        "hentai2read",
-        "porn"
-      ]
-    },
-    {
-      "repo": "cranebeaker/coop-anything",
-      "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "427",
-      "lang": "C",
-      "license": "MIT",
-      "trend": "+427 total",
+      "license": "NOASSERTION",
+      "trend": "+479 total",
       "tags": []
     },
     {
       "repo": "BaruqueRodrigues/llm-legislativo",
       "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-      "stars": "415",
+      "stars": "441",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+415 total",
+      "trend": "+441 total",
       "tags": []
     }
   ]

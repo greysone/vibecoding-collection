@@ -1,49 +1,34 @@
 {
-  "fetchedAt": "2026-10-18T15:28:01.266Z",
+  "fetchedAt": "2026-10-19T03:31:58.568Z",
   "repos": [
-    {
-      "repo": "onehumanbeing/esp32-iphone-agent",
-      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stars": "3.1k",
-      "lang": "C",
-      "license": "MIT",
-      "trend": "+3.1k total",
-      "tags": [
-        "ai-agent",
-        "airplay",
-        "automation",
-        "computer-use",
-        "esp32"
-      ]
-    },
-    {
-      "repo": "deeplethe/solid-glass",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "2.0k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+2.0k total",
-      "tags": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system"
-      ]
-    },
     {
       "repo": "feder-cr/git-ai",
       "desc": "Git designed for AI agents.",
-      "stars": "1.5k",
+      "stars": "2.3k",
       "lang": "Go",
       "license": "NOASSERTION",
-      "trend": "+1.5k total",
+      "trend": "+2.3k total",
       "tags": [
         "ai-agents",
         "coding-agents",
         "git",
         "golang",
         "scion"
+      ]
+    },
+    {
+      "repo": "deeplethe/solid-glass",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stars": "2.1k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+2.1k total",
+      "tags": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system"
       ]
     },
     {
@@ -62,27 +47,12 @@
       ]
     },
     {
-      "repo": "jwuthri-cloud/Tracely-ai",
-      "desc": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
-      "stars": "996",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+996 total",
-      "tags": [
-        "agent-evaluation",
-        "ai-agents",
-        "ai-testing",
-        "ci-cd",
-        "clickhouse"
-      ]
-    },
-    {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "944",
+      "stars": "946",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+944 total",
+      "trend": "+946 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -92,27 +62,12 @@
       ]
     },
     {
-      "repo": "LiCinCan/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "747",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+747 total",
-      "tags": [
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai",
-        "blender-automation"
-      ]
-    },
-    {
       "repo": "Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "737",
+      "stars": "877",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+737 total",
+      "trend": "+877 total",
       "tags": [
         "ai-agents",
         "audio",
@@ -122,12 +77,27 @@
       ]
     },
     {
+      "repo": "LiCinCan/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": "787",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+787 total",
+      "tags": [
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation"
+      ]
+    },
+    {
       "repo": "datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "613",
+      "stars": "633",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+613 total",
+      "trend": "+633 total",
       "tags": [
         "ai",
         "cpu",
@@ -148,10 +118,10 @@
     {
       "repo": "i12bp8/decomp.wtf",
       "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "495",
+      "stars": "498",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+495 total",
+      "trend": "+498 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -161,12 +131,36 @@
       ]
     },
     {
+      "repo": "BreezeSolicitorMap/undress.ai",
+      "desc": "Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.",
+      "stars": "454",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+454 total",
+      "tags": [
+        "blooket-bot",
+        "coomer-party",
+        "exhentai",
+        "hentai2read",
+        "porn"
+      ]
+    },
+    {
+      "repo": "cranebeaker/coop-anything",
+      "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+      "stars": "427",
+      "lang": "C",
+      "license": "MIT",
+      "trend": "+427 total",
+      "tags": []
+    },
+    {
       "repo": "BaruqueRodrigues/llm-legislativo",
       "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-      "stars": "404",
+      "stars": "415",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+404 total",
+      "trend": "+415 total",
       "tags": []
     }
   ]

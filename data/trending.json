@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-20T03:42:18.683Z",
+  "fetchedAt": "2026-10-20T16:26:22.901Z",
   "repos": [
     {
       "repo": "feder-cr/git-ai",
       "desc": "Git designed for AI agents.",
-      "stars": "2.5k",
+      "stars": "2.6k",
       "lang": "Go",
       "license": "NOASSERTION",
-      "trend": "+2.5k total",
+      "trend": "+2.6k total",
       "tags": [
         "ai-agents",
         "coding-agents",
@@ -19,10 +19,10 @@
     {
       "repo": "Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "1.6k",
+      "stars": "1.9k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.9k total",
       "tags": [
         "ai-agents",
         "audio",
@@ -34,10 +34,10 @@
     {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "952",
+      "stars": "956",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+952 total",
+      "trend": "+956 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -49,10 +49,10 @@
     {
       "repo": "LiCinCan/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "921",
+      "stars": "936",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+921 total",
+      "trend": "+936 total",
       "tags": [
         "ai-assistant",
         "blender",
@@ -64,10 +64,10 @@
     {
       "repo": "datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "697",
+      "stars": "809",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+697 total",
+      "trend": "+809 total",
       "tags": [
         "ai",
         "cpu",
@@ -79,19 +79,37 @@
     {
       "repo": "cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "594",
+      "stars": "678",
       "lang": "C",
       "license": "MIT",
-      "trend": "+594 total",
+      "trend": "+678 total",
+      "tags": []
+    },
+    {
+      "repo": "mistralai/timestral",
+      "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
+      "stars": "644",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+644 total",
+      "tags": []
+    },
+    {
+      "repo": "VITASID57/bluntcore-intimacy-lab",
+      "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+      "stars": "526",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+526 total",
       "tags": []
     },
     {
       "repo": "i12bp8/decomp.wtf",
       "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "512",
+      "stars": "517",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+512 total",
+      "trend": "+517 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -101,30 +119,27 @@
       ]
     },
     {
-      "repo": "VITASID57/bluntcore-intimacy-lab",
-      "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "stars": "493",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+493 total",
-      "tags": []
-    },
-    {
-      "repo": "BaruqueRodrigues/llm-legislativo",
-      "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-      "stars": "447",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+447 total",
-      "tags": []
+      "repo": "UnderleveledBuilder/awesome-short-drama-skills",
+      "desc": "AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
+      "stars": "461",
+      "lang": "HTML",
+      "license": "CC0-1.0",
+      "trend": "+461 total",
+      "tags": [
+        "agent-skills",
+        "ai-drama",
+        "ai-short-drama",
+        "awesome",
+        "awesome-list"
+      ]
     },
     {
       "repo": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
       "desc": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
-      "stars": "439",
+      "stars": "460",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+439 total",
+      "trend": "+460 total",
       "tags": [
         "ai-agents",
         "cross-border-ecommerce",
@@ -134,34 +149,13 @@
       ]
     },
     {
-      "repo": "AndreSzymanski15/ai-jailbreaks",
-      "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "378",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+378 total",
-      "tags": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy"
-      ]
-    },
-    {
-      "repo": "egotoadcitadel/palette-from-image-ai",
-      "desc": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
-      "stars": "300",
+      "repo": "BaruqueRodrigues/llm-legislativo",
+      "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+      "stars": "452",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+300 total",
-      "tags": [
-        "ai-color-extraction",
-        "ai-color-palette",
-        "color-extraction",
-        "color-palette-generator",
-        "color-picker"
-      ]
+      "trend": "+452 total",
+      "tags": []
     }
   ]
 }

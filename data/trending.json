@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-19T18:24:26.609Z",
+  "fetchedAt": "2026-10-20T03:42:18.683Z",
   "repos": [
     {
       "repo": "feder-cr/git-ai",
       "desc": "Git designed for AI agents.",
-      "stars": "2.4k",
+      "stars": "2.5k",
       "lang": "Go",
       "license": "NOASSERTION",
-      "trend": "+2.4k total",
+      "trend": "+2.5k total",
       "tags": [
         "ai-agents",
         "coding-agents",
@@ -17,27 +17,12 @@
       ]
     },
     {
-      "repo": "deeplethe/solid-glass",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": "2.3k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+2.3k total",
-      "tags": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system"
-      ]
-    },
-    {
       "repo": "Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "1.4k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.6k total",
       "tags": [
         "ai-agents",
         "audio",
@@ -47,27 +32,12 @@
       ]
     },
     {
-      "repo": "zhuyansen/new-term-radar",
-      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stars": "1.1k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.1k total",
-      "tags": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills"
-      ]
-    },
-    {
       "repo": "outcrawlai/scout",
       "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "948",
+      "stars": "952",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+948 total",
+      "trend": "+952 total",
       "tags": [
         "ai-agent",
         "browser-agent",
@@ -79,10 +49,10 @@
     {
       "repo": "LiCinCan/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "932",
+      "stars": "921",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+932 total",
+      "trend": "+921 total",
       "tags": [
         "ai-assistant",
         "blender",
@@ -92,21 +62,12 @@
       ]
     },
     {
-      "repo": "yeyuxin777/baoyan-agent-benchmark",
-      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "stars": "701",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+701 total",
-      "tags": []
-    },
-    {
       "repo": "datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "657",
+      "stars": "697",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+657 total",
+      "trend": "+697 total",
       "tags": [
         "ai",
         "cpu",
@@ -118,19 +79,19 @@
     {
       "repo": "cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "545",
+      "stars": "594",
       "lang": "C",
       "license": "MIT",
-      "trend": "+545 total",
+      "trend": "+594 total",
       "tags": []
     },
     {
       "repo": "i12bp8/decomp.wtf",
       "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "506",
+      "stars": "512",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+506 total",
+      "trend": "+512 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -142,20 +103,65 @@
     {
       "repo": "VITASID57/bluntcore-intimacy-lab",
       "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "stars": "479",
+      "stars": "493",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+479 total",
+      "trend": "+493 total",
       "tags": []
     },
     {
       "repo": "BaruqueRodrigues/llm-legislativo",
       "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-      "stars": "441",
+      "stars": "447",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+441 total",
+      "trend": "+447 total",
       "tags": []
+    },
+    {
+      "repo": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "desc": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "stars": "439",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+439 total",
+      "tags": [
+        "ai-agents",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "llm",
+        "mercado-livre"
+      ]
+    },
+    {
+      "repo": "AndreSzymanski15/ai-jailbreaks",
+      "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "stars": "378",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+378 total",
+      "tags": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy"
+      ]
+    },
+    {
+      "repo": "egotoadcitadel/palette-from-image-ai",
+      "desc": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+      "stars": "300",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+300 total",
+      "tags": [
+        "ai-color-extraction",
+        "ai-color-palette",
+        "color-extraction",
+        "color-palette-generator",
+        "color-picker"
+      ]
     }
   ]
 }

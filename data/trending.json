@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T03:34:22.273Z",
+  "fetchedAt": "2026-10-21T16:43:08.497Z",
   "repos": [
     {
       "repo": "Leonxlnx/earshot",
@@ -17,27 +17,12 @@
       ]
     },
     {
-      "repo": "feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "stars": "1.3k",
-      "lang": "Go",
-      "license": "NOASSERTION",
-      "trend": "+1.3k total",
-      "tags": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion"
-      ]
-    },
-    {
       "repo": "LiCinCan/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "937",
+      "stars": "968",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+937 total",
+      "trend": "+968 total",
       "tags": [
         "ai-assistant",
         "blender",
@@ -47,39 +32,54 @@
       ]
     },
     {
+      "repo": "feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "stars": "906",
+      "lang": "Go",
+      "license": "NOASSERTION",
+      "trend": "+906 total",
+      "tags": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion"
+      ]
+    },
+    {
       "repo": "cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "717",
+      "stars": "768",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+717 total",
+      "trend": "+768 total",
       "tags": []
     },
     {
       "repo": "mistralai/timestral",
       "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
-      "stars": "676",
+      "stars": "707",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+676 total",
+      "trend": "+707 total",
       "tags": []
     },
     {
       "repo": "VITASID57/bluntcore-intimacy-lab",
       "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "stars": "538",
+      "stars": "553",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+538 total",
+      "trend": "+553 total",
       "tags": []
     },
     {
       "repo": "kanaworksai-hue/audio-studio-mcp",
       "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
-      "stars": "364",
+      "stars": "408",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+364 total",
+      "trend": "+408 total",
       "tags": [
         "apple-silicon",
         "audio-generation",
@@ -91,19 +91,28 @@
     {
       "repo": "finereli/whatsapp-mcp",
       "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "stars": "312",
+      "stars": "315",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+312 total",
+      "trend": "+315 total",
+      "tags": []
+    },
+    {
+      "repo": "garycaogan/ai-live-avatar",
+      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "stars": "287",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+287 total",
       "tags": []
     },
     {
       "repo": "MemTensor/MemT-1.0",
       "desc": "Official repository for MemT-1.0",
-      "stars": "219",
+      "stars": "261",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+219 total",
+      "trend": "+261 total",
       "tags": [
         "ai-agents",
         "deepseek",
@@ -115,10 +124,10 @@
     {
       "repo": "joeseesun/lexfridman-cn",
       "desc": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
-      "stars": "210",
+      "stars": "222",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+210 total",
+      "trend": "+222 total",
       "tags": [
         "ai-translation",
         "chinese",
@@ -128,27 +137,12 @@
       ]
     },
     {
-      "repo": "NeuroVision-Studio/NeuraVision",
-      "desc": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
-      "stars": "205",
-      "lang": "PHP",
-      "license": "NOASSERTION",
-      "trend": "+205 total",
-      "tags": [
-        "ab-testing",
-        "ai-platform",
-        "analytics",
-        "backend-api",
-        "oauth"
-      ]
-    },
-    {
-      "repo": "garycaogan/ai-live-avatar",
-      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "194",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+194 total",
+      "repo": "nace-ai/kapitsa",
+      "desc": "Blazing fast Apple Silicon optimized inference engine built for Qwen and Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+      "stars": "207",
+      "lang": "C++",
+      "license": "Apache-2.0",
+      "trend": "+207 total",
       "tags": []
     }
   ]

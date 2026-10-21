@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-10-20T16:26:22.901Z",
+  "fetchedAt": "2026-10-21T03:34:22.273Z",
   "repos": [
-    {
-      "repo": "feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "stars": "2.6k",
-      "lang": "Go",
-      "license": "NOASSERTION",
-      "trend": "+2.6k total",
-      "tags": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion"
-      ]
-    },
     {
       "repo": "Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": [
         "ai-agents",
         "audio",
@@ -32,27 +17,27 @@
       ]
     },
     {
-      "repo": "outcrawlai/scout",
-      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stars": "956",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+956 total",
+      "repo": "feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "stars": "1.3k",
+      "lang": "Go",
+      "license": "NOASSERTION",
+      "trend": "+1.3k total",
       "tags": [
-        "ai-agent",
-        "browser-agent",
-        "browser-automation",
-        "cdp",
-        "llm"
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion"
       ]
     },
     {
       "repo": "LiCinCan/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "936",
+      "stars": "937",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+936 total",
+      "trend": "+937 total",
       "tags": [
         "ai-assistant",
         "blender",
@@ -62,99 +47,108 @@
       ]
     },
     {
-      "repo": "datalab-to/indra",
-      "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "stars": "809",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+809 total",
-      "tags": [
-        "ai",
-        "cpu",
-        "document-parsing",
-        "ocr",
-        "onnx"
-      ]
-    },
-    {
       "repo": "cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "678",
-      "lang": "C",
+      "stars": "717",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+678 total",
+      "trend": "+717 total",
       "tags": []
     },
     {
       "repo": "mistralai/timestral",
       "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
-      "stars": "644",
+      "stars": "676",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+644 total",
+      "trend": "+676 total",
       "tags": []
     },
     {
       "repo": "VITASID57/bluntcore-intimacy-lab",
       "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "stars": "526",
+      "stars": "538",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+526 total",
+      "trend": "+538 total",
       "tags": []
     },
     {
-      "repo": "i12bp8/decomp.wtf",
-      "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stars": "517",
+      "repo": "kanaworksai-hue/audio-studio-mcp",
+      "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+      "stars": "364",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+517 total",
+      "trend": "+364 total",
       "tags": [
-        "ai-agents",
+        "apple-silicon",
+        "audio-generation",
         "claude-code",
-        "decomp",
-        "decompilation",
-        "decompiler"
+        "cuda",
+        "game-audio"
       ]
     },
     {
-      "repo": "UnderleveledBuilder/awesome-short-drama-skills",
-      "desc": "AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
-      "stars": "461",
-      "lang": "HTML",
-      "license": "CC0-1.0",
-      "trend": "+461 total",
-      "tags": [
-        "agent-skills",
-        "ai-drama",
-        "ai-short-drama",
-        "awesome",
-        "awesome-list"
-      ]
-    },
-    {
-      "repo": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-      "desc": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
-      "stars": "460",
-      "lang": "Python",
+      "repo": "finereli/whatsapp-mcp",
+      "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "stars": "312",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+460 total",
+      "trend": "+312 total",
+      "tags": []
+    },
+    {
+      "repo": "MemTensor/MemT-1.0",
+      "desc": "Official repository for MemT-1.0",
+      "stars": "219",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+219 total",
       "tags": [
         "ai-agents",
-        "cross-border-ecommerce",
-        "ecommerce",
+        "deepseek",
         "llm",
-        "mercado-livre"
+        "long-context",
+        "long-term-memory"
       ]
     },
     {
-      "repo": "BaruqueRodrigues/llm-legislativo",
-      "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-      "stars": "452",
+      "repo": "joeseesun/lexfridman-cn",
+      "desc": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
+      "stars": "210",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+210 total",
+      "tags": [
+        "ai-translation",
+        "chinese",
+        "lex-fridman",
+        "podcast",
+        "python"
+      ]
+    },
+    {
+      "repo": "NeuroVision-Studio/NeuraVision",
+      "desc": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
+      "stars": "205",
+      "lang": "PHP",
+      "license": "NOASSERTION",
+      "trend": "+205 total",
+      "tags": [
+        "ab-testing",
+        "ai-platform",
+        "analytics",
+        "backend-api",
+        "oauth"
+      ]
+    },
+    {
+      "repo": "garycaogan/ai-live-avatar",
+      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "stars": "194",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+452 total",
+      "trend": "+194 total",
       "tags": []
     }
   ]

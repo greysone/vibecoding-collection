@@ -1,31 +1,31 @@
 {
-  "fetchedAt": "2026-10-23T03:38:49.646Z",
+  "fetchedAt": "2026-10-23T16:34:44.655Z",
   "repos": [
     {
       "repo": "cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "846",
+      "stars": "980",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+846 total",
+      "trend": "+980 total",
       "tags": []
     },
     {
       "repo": "VITASID57/bluntcore-intimacy-lab",
       "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "stars": "571",
+      "stars": "585",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+571 total",
+      "trend": "+585 total",
       "tags": []
     },
     {
       "repo": "kanaworksai-hue/audio-studio-mcp",
       "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
-      "stars": "444",
+      "stars": "458",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+444 total",
+      "trend": "+458 total",
       "tags": [
         "apple-silicon",
         "audio-generation",
@@ -35,45 +35,12 @@
       ]
     },
     {
-      "repo": "MemTensor/MemT-1.0",
-      "desc": "Official repository for MemT-1.0",
-      "stars": "351",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+351 total",
-      "tags": [
-        "ai-agents",
-        "deepseek",
-        "llm",
-        "long-context",
-        "long-term-memory"
-      ]
-    },
-    {
-      "repo": "nace-ai/kapitsa",
-      "desc": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-      "stars": "348",
-      "lang": "C++",
-      "license": "Apache-2.0",
-      "trend": "+348 total",
-      "tags": []
-    },
-    {
-      "repo": "garycaogan/ai-live-avatar",
-      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "335",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+335 total",
-      "tags": []
-    },
-    {
       "repo": "Alejandros17487/ai-jailbreaks",
       "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "334",
+      "stars": "425",
       "lang": "Other",
       "license": "Other",
-      "trend": "+334 total",
+      "trend": "+425 total",
       "tags": [
         "ai",
         "ai-safety",
@@ -83,21 +50,54 @@
       ]
     },
     {
+      "repo": "nace-ai/kapitsa",
+      "desc": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+      "stars": "376",
+      "lang": "C++",
+      "license": "Apache-2.0",
+      "trend": "+376 total",
+      "tags": []
+    },
+    {
+      "repo": "MemTensor/MemT-1.0",
+      "desc": "Official repository for MemT-1.0",
+      "stars": "369",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+369 total",
+      "tags": [
+        "ai-agents",
+        "deepseek",
+        "llm",
+        "long-context",
+        "long-term-memory"
+      ]
+    },
+    {
+      "repo": "garycaogan/ai-live-avatar",
+      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "stars": "342",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+342 total",
+      "tags": []
+    },
+    {
       "repo": "finereli/whatsapp-mcp",
       "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "stars": "325",
+      "stars": "330",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+325 total",
+      "trend": "+330 total",
       "tags": []
     },
     {
       "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
       "desc": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
-      "stars": "301",
+      "stars": "302",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+301 total",
+      "trend": "+302 total",
       "tags": [
         "roblox"
       ]
@@ -105,10 +105,10 @@
     {
       "repo": "joeseesun/lexfridman-cn",
       "desc": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
-      "stars": "235",
+      "stars": "236",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+235 total",
+      "trend": "+236 total",
       "tags": [
         "ai-translation",
         "chinese",
@@ -120,10 +120,10 @@
     {
       "repo": "qianshuixia/shrimpreel",
       "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "stars": "218",
+      "stars": "231",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+218 total",
+      "trend": "+231 total",
       "tags": [
         "ai-video",
         "cloudflare-d1",
@@ -133,16 +133,18 @@
       ]
     },
     {
-      "repo": "nichochar/ari",
-      "desc": "learn stuff with pen + paper + AI",
-      "stars": "193",
-      "lang": "TypeScript",
+      "repo": "7API/uncensored-ai-api",
+      "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": "222",
+      "lang": "Other",
       "license": "MIT",
-      "trend": "+193 total",
+      "trend": "+222 total",
       "tags": [
-        "ai-tutor",
-        "education",
-        "local-first"
+        "abliterated-models",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api",
+        "claude-code"
       ]
     }
   ]

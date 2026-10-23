@@ -1,70 +1,31 @@
 {
-  "fetchedAt": "2026-10-22T16:43:50.826Z",
+  "fetchedAt": "2026-10-23T03:38:49.646Z",
   "repos": [
-    {
-      "repo": "Leonxlnx/earshot",
-      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": "2.1k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+2.1k total",
-      "tags": [
-        "ai-agents",
-        "audio",
-        "claude-code",
-        "mcp",
-        "sound-design"
-      ]
-    },
-    {
-      "repo": "feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "stars": "960",
-      "lang": "Go",
-      "license": "NOASSERTION",
-      "trend": "+960 total",
-      "tags": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion"
-      ]
-    },
     {
       "repo": "cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "stars": "829",
+      "stars": "846",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+829 total",
-      "tags": []
-    },
-    {
-      "repo": "mistralai/timestral",
-      "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
-      "stars": "750",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+750 total",
+      "trend": "+846 total",
       "tags": []
     },
     {
       "repo": "VITASID57/bluntcore-intimacy-lab",
       "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "stars": "569",
+      "stars": "571",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+569 total",
+      "trend": "+571 total",
       "tags": []
     },
     {
       "repo": "kanaworksai-hue/audio-studio-mcp",
       "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
-      "stars": "438",
+      "stars": "444",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+438 total",
+      "trend": "+444 total",
       "tags": [
         "apple-silicon",
         "audio-generation",
@@ -76,10 +37,10 @@
     {
       "repo": "MemTensor/MemT-1.0",
       "desc": "Official repository for MemT-1.0",
-      "stars": "332",
+      "stars": "351",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+332 total",
+      "trend": "+351 total",
       "tags": [
         "ai-agents",
         "deepseek",
@@ -89,12 +50,30 @@
       ]
     },
     {
+      "repo": "nace-ai/kapitsa",
+      "desc": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+      "stars": "348",
+      "lang": "C++",
+      "license": "Apache-2.0",
+      "trend": "+348 total",
+      "tags": []
+    },
+    {
+      "repo": "garycaogan/ai-live-avatar",
+      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+      "stars": "335",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+335 total",
+      "tags": []
+    },
+    {
       "repo": "Alejandros17487/ai-jailbreaks",
       "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "330",
+      "stars": "334",
       "lang": "Other",
       "license": "Other",
-      "trend": "+330 total",
+      "trend": "+334 total",
       "tags": [
         "ai",
         "ai-safety",
@@ -104,45 +83,66 @@
       ]
     },
     {
-      "repo": "garycaogan/ai-live-avatar",
-      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "329",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+329 total",
-      "tags": []
-    },
-    {
       "repo": "finereli/whatsapp-mcp",
       "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "stars": "323",
+      "stars": "325",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+323 total",
+      "trend": "+325 total",
       "tags": []
     },
     {
-      "repo": "nace-ai/kapitsa",
-      "desc": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-      "stars": "292",
-      "lang": "C++",
-      "license": "Apache-2.0",
-      "trend": "+292 total",
-      "tags": []
+      "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "desc": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
+      "stars": "301",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+301 total",
+      "tags": [
+        "roblox"
+      ]
     },
     {
       "repo": "joeseesun/lexfridman-cn",
       "desc": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
-      "stars": "234",
+      "stars": "235",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+234 total",
+      "trend": "+235 total",
       "tags": [
         "ai-translation",
         "chinese",
         "lex-fridman",
         "podcast",
         "python"
+      ]
+    },
+    {
+      "repo": "qianshuixia/shrimpreel",
+      "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "stars": "218",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+218 total",
+      "tags": [
+        "ai-video",
+        "cloudflare-d1",
+        "cloudflare-r2",
+        "cloudflare-workers",
+        "fal-ai"
+      ]
+    },
+    {
+      "repo": "nichochar/ari",
+      "desc": "learn stuff with pen + paper + AI",
+      "stars": "193",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+193 total",
+      "tags": [
+        "ai-tutor",
+        "education",
+        "local-first"
       ]
     }
   ]

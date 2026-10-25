@@ -1,13 +1,28 @@
 {
-  "fetchedAt": "2026-10-25T03:29:29.038Z",
+  "fetchedAt": "2026-10-25T15:39:09.702Z",
   "repos": [
+    {
+      "repo": "rddmwmddr/android-ad-cleaner",
+      "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stars": "599",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+599 total",
+      "tags": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat"
+      ]
+    },
     {
       "repo": "Alejandros17487/ai-jailbreaks",
       "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "533",
+      "stars": "545",
       "lang": "Other",
       "license": "Other",
-      "trend": "+533 total",
+      "trend": "+545 total",
       "tags": [
         "ai",
         "ai-safety",
@@ -19,10 +34,10 @@
     {
       "repo": "kanaworksai-hue/audio-studio-mcp",
       "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
-      "stars": "480",
+      "stars": "488",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+480 total",
+      "trend": "+488 total",
       "tags": [
         "apple-silicon",
         "audio-generation",
@@ -34,10 +49,10 @@
     {
       "repo": "MemTensor/MemT-1.0",
       "desc": "Official repository for MemT-1.0",
-      "stars": "390",
+      "stars": "397",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+390 total",
+      "trend": "+397 total",
       "tags": [
         "ai-agents",
         "deepseek",
@@ -49,20 +64,50 @@
     {
       "repo": "finereli/whatsapp-mcp",
       "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
-      "stars": "362",
+      "stars": "373",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+362 total",
+      "trend": "+373 total",
       "tags": []
     },
     {
       "repo": "garycaogan/ai-live-avatar",
       "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "349",
+      "stars": "361",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+349 total",
+      "trend": "+361 total",
       "tags": []
+    },
+    {
+      "repo": "routerhubSI/uncensored-ai-api",
+      "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": "334",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+334 total",
+      "tags": [
+        "abliterated-models",
+        "ai-api",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api"
+      ]
+    },
+    {
+      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
+      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stars": "329",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+329 total",
+      "tags": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history"
+      ]
     },
     {
       "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
@@ -76,12 +121,27 @@
       ]
     },
     {
+      "repo": "C4rohan/Lampline",
+      "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+      "stars": "286",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+286 total",
+      "tags": [
+        "agents-as-code",
+        "contact-center",
+        "conversational-ai",
+        "cx-agent-studio",
+        "dialogflow-cx"
+      ]
+    },
+    {
       "repo": "qianshuixia/shrimpreel",
       "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "stars": "261",
+      "stars": "268",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+261 total",
+      "trend": "+268 total",
       "tags": [
         "ai-video",
         "cloudflare-d1",
@@ -103,58 +163,6 @@
         "lex-fridman",
         "podcast",
         "python"
-      ]
-    },
-    {
-      "repo": "7API/uncensored-ai-api",
-      "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "223",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+223 total",
-      "tags": [
-        "abliterated-models",
-        "ai-gateway",
-        "anthropic-compatible",
-        "claude-api",
-        "claude-code"
-      ]
-    },
-    {
-      "repo": "zuhairhalawa/studyai",
-      "desc": "A local-first study platform for university lectures: PowerPoint slides, spaced repetition, exams, and an optional AI tutor on the Gemini free tier.",
-      "stars": "212",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+212 total",
-      "tags": []
-    },
-    {
-      "repo": "nichochar/ari",
-      "desc": "learn stuff with pen + paper + AI",
-      "stars": "203",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+203 total",
-      "tags": [
-        "ai-tutor",
-        "education",
-        "local-first"
-      ]
-    },
-    {
-      "repo": "routerhubSI/uncensored-ai-api",
-      "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "185",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+185 total",
-      "tags": [
-        "abliterated-models",
-        "ai-api",
-        "ai-gateway",
-        "anthropic-compatible",
-        "claude-api"
       ]
     }
   ]

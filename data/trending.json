@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-26T03:32:00.012Z",
+  "fetchedAt": "2026-10-26T18:19:53.161Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "968",
+      "stars": "1.8k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+968 total",
+      "trend": "+1.8k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stars": "543",
+      "stars": "729",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+543 total",
+      "trend": "+729 total",
       "tags": [
         "agent-skills",
         "archives",
@@ -32,12 +32,21 @@
       ]
     },
     {
+      "repo": "andyhuo520/digital-human-koubo",
+      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stars": "583",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+583 total",
+      "tags": []
+    },
+    {
       "repo": "Alejandros17487/ai-jailbreaks",
       "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "485",
+      "stars": "498",
       "lang": "Other",
       "license": "Other",
-      "trend": "+485 total",
+      "trend": "+498 total",
       "tags": [
         "ai",
         "ai-safety",
@@ -49,10 +58,10 @@
     {
       "repo": "MemTensor/MemT-1.0",
       "desc": "Official repository for MemT-1.0",
-      "stars": "402",
+      "stars": "415",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+402 total",
+      "trend": "+415 total",
       "tags": [
         "ai-agents",
         "deepseek",
@@ -64,19 +73,19 @@
     {
       "repo": "garycaogan/ai-live-avatar",
       "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "365",
+      "stars": "374",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+365 total",
+      "trend": "+374 total",
       "tags": []
     },
     {
       "repo": "routerhubSI/uncensored-ai-api",
       "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "365",
+      "stars": "366",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+365 total",
+      "trend": "+366 total",
       "tags": [
         "abliterated-models",
         "ai-api",
@@ -86,83 +95,68 @@
       ]
     },
     {
+      "repo": "hevnsnt/CVEngine",
+      "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "stars": "353",
+      "lang": "Python",
+      "license": "GPL-3.0",
+      "trend": "+353 total",
+      "tags": [
+        "ai",
+        "attack-surface-management",
+        "bbot",
+        "cybersecurity",
+        "mcp"
+      ]
+    },
+    {
       "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
       "desc": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
-      "stars": "304",
+      "stars": "307",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+304 total",
+      "trend": "+307 total",
       "tags": [
         "roblox"
       ]
     },
     {
-      "repo": "qianshuixia/shrimpreel",
-      "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "stars": "270",
+      "repo": "yaojingang/GEOInflow",
+      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "stars": "296",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+270 total",
+      "trend": "+296 total",
       "tags": [
-        "ai-video",
-        "cloudflare-d1",
-        "cloudflare-r2",
-        "cloudflare-workers",
-        "fal-ai"
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted"
       ]
     },
     {
-      "repo": "C4rohan/Lampline",
-      "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
-      "stars": "267",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+267 total",
-      "tags": [
-        "agents-as-code",
-        "contact-center",
-        "conversational-ai",
-        "cx-agent-studio",
-        "dialogflow-cx"
-      ]
-    },
-    {
-      "repo": "kukemc/bili-cli",
-      "desc": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
-      "stars": "230",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+230 total",
-      "tags": [
-        "agent-skills",
-        "ai-agent",
-        "automation",
-        "bilibili",
-        "claude-code"
-      ]
-    },
-    {
-      "repo": "7API/uncensored-ai-api",
-      "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "217",
+      "repo": "free-cracks/Adobe-Acrobat-Pro",
+      "desc": "(暂无描述)",
+      "stars": "287",
       "lang": "Other",
-      "license": "MIT",
-      "trend": "+217 total",
+      "license": "Other",
+      "trend": "+287 total",
       "tags": [
-        "abliterated-models",
-        "ai-gateway",
-        "anthropic-compatible",
-        "claude-api",
-        "claude-code"
+        "adobe-acrobat",
+        "ai",
+        "ilovepdf",
+        "pdf",
+        "pdf-compressor"
       ]
     },
     {
       "repo": "huaxialucaicaizi/ai-startup-skills",
       "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": "216",
+      "stars": "284",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+216 total",
+      "trend": "+284 total",
       "tags": [
         "agent-skills",
         "ai",

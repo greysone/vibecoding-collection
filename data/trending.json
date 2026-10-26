@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-25T15:39:09.702Z",
+  "fetchedAt": "2026-10-26T03:32:00.012Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "599",
+      "stars": "968",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+599 total",
+      "trend": "+968 total",
       "tags": [
         "adb",
         "ai-agent",
@@ -17,12 +17,27 @@
       ]
     },
     {
+      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
+      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stars": "543",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+543 total",
+      "tags": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history"
+      ]
+    },
+    {
       "repo": "Alejandros17487/ai-jailbreaks",
       "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "545",
+      "stars": "485",
       "lang": "Other",
       "license": "Other",
-      "trend": "+545 total",
+      "trend": "+485 total",
       "tags": [
         "ai",
         "ai-safety",
@@ -32,27 +47,12 @@
       ]
     },
     {
-      "repo": "kanaworksai-hue/audio-studio-mcp",
-      "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
-      "stars": "488",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+488 total",
-      "tags": [
-        "apple-silicon",
-        "audio-generation",
-        "claude-code",
-        "cuda",
-        "game-audio"
-      ]
-    },
-    {
       "repo": "MemTensor/MemT-1.0",
       "desc": "Official repository for MemT-1.0",
-      "stars": "397",
+      "stars": "402",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+397 total",
+      "trend": "+402 total",
       "tags": [
         "ai-agents",
         "deepseek",
@@ -62,51 +62,27 @@
       ]
     },
     {
-      "repo": "finereli/whatsapp-mcp",
-      "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
-      "stars": "373",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+373 total",
-      "tags": []
-    },
-    {
       "repo": "garycaogan/ai-live-avatar",
       "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "361",
+      "stars": "365",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+361 total",
+      "trend": "+365 total",
       "tags": []
     },
     {
       "repo": "routerhubSI/uncensored-ai-api",
       "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "334",
+      "stars": "365",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+334 total",
+      "trend": "+365 total",
       "tags": [
         "abliterated-models",
         "ai-api",
         "ai-gateway",
         "anthropic-compatible",
         "claude-api"
-      ]
-    },
-    {
-      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
-      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stars": "329",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+329 total",
-      "tags": [
-        "agent-skills",
-        "archives",
-        "claude-code",
-        "codex",
-        "family-history"
       ]
     },
     {
@@ -121,27 +97,12 @@
       ]
     },
     {
-      "repo": "C4rohan/Lampline",
-      "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
-      "stars": "286",
-      "lang": "Python",
-      "license": "Apache-2.0",
-      "trend": "+286 total",
-      "tags": [
-        "agents-as-code",
-        "contact-center",
-        "conversational-ai",
-        "cx-agent-studio",
-        "dialogflow-cx"
-      ]
-    },
-    {
       "repo": "qianshuixia/shrimpreel",
       "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "stars": "268",
+      "stars": "270",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+268 total",
+      "trend": "+270 total",
       "tags": [
         "ai-video",
         "cloudflare-d1",
@@ -151,18 +112,63 @@
       ]
     },
     {
-      "repo": "joeseesun/lexfridman-cn",
-      "desc": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
-      "stars": "239",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+239 total",
+      "repo": "C4rohan/Lampline",
+      "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+      "stars": "267",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+267 total",
       "tags": [
-        "ai-translation",
-        "chinese",
-        "lex-fridman",
-        "podcast",
-        "python"
+        "agents-as-code",
+        "contact-center",
+        "conversational-ai",
+        "cx-agent-studio",
+        "dialogflow-cx"
+      ]
+    },
+    {
+      "repo": "kukemc/bili-cli",
+      "desc": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+      "stars": "230",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+230 total",
+      "tags": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "bilibili",
+        "claude-code"
+      ]
+    },
+    {
+      "repo": "7API/uncensored-ai-api",
+      "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stars": "217",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+217 total",
+      "tags": [
+        "abliterated-models",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api",
+        "claude-code"
+      ]
+    },
+    {
+      "repo": "huaxialucaicaizi/ai-startup-skills",
+      "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "stars": "216",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+216 total",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "business-plan",
+        "claude-code",
+        "codex"
       ]
     }
   ]

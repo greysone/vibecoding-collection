@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-27T03:57:34.858Z",
+  "fetchedAt": "2026-10-27T17:33:34.656Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "2.1k",
+      "stars": "3.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+3.1k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -17,12 +17,21 @@
       ]
     },
     {
+      "repo": "andyhuo520/digital-human-koubo",
+      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stars": "1.0k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.0k total",
+      "tags": []
+    },
+    {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stars": "804",
+      "stars": "1.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+804 total",
+      "trend": "+1.0k total",
       "tags": [
         "agent-skills",
         "archives",
@@ -32,36 +41,12 @@
       ]
     },
     {
-      "repo": "andyhuo520/digital-human-koubo",
-      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stars": "793",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+793 total",
-      "tags": []
-    },
-    {
-      "repo": "Alejandros17487/ai-jailbreaks",
-      "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "501",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+501 total",
-      "tags": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy"
-      ]
-    },
-    {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "411",
+      "stars": "577",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+411 total",
+      "trend": "+577 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -71,12 +56,42 @@
       ]
     },
     {
+      "repo": "Alejandros17487/ai-jailbreaks",
+      "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "stars": "506",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+506 total",
+      "tags": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy"
+      ]
+    },
+    {
+      "repo": "martinkeith700/ruyiJS",
+      "desc": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
+      "stars": "439",
+      "lang": "C++",
+      "license": "NOASSERTION",
+      "trend": "+439 total",
+      "tags": [
+        "anti-bot",
+        "automation",
+        "browser",
+        "firefox",
+        "headless-browser"
+      ]
+    },
+    {
       "repo": "hevnsnt/CVEngine",
       "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "stars": "387",
+      "stars": "412",
       "lang": "Python",
       "license": "GPL-3.0",
-      "trend": "+387 total",
+      "trend": "+412 total",
       "tags": [
         "ai",
         "attack-surface-management",
@@ -86,12 +101,27 @@
       ]
     },
     {
+      "repo": "huaxialucaicaizi/ai-startup-skills",
+      "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "stars": "382",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+382 total",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "business-plan",
+        "claude-code",
+        "codex"
+      ]
+    },
+    {
       "repo": "routerhubSI/uncensored-ai-api",
       "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "367",
+      "stars": "368",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+367 total",
+      "trend": "+368 total",
       "tags": [
         "abliterated-models",
         "ai-api",
@@ -101,19 +131,22 @@
       ]
     },
     {
-      "repo": "huaxialucaicaizi/ai-startup-skills",
-      "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": "344",
+      "repo": "blakeandersonw/ai-app-playbook",
+      "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stars": "350",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+350 total",
+      "tags": []
+    },
+    {
+      "repo": "zgx949/ai-pojia",
+      "desc": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。",
+      "stars": "335",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+344 total",
-      "tags": [
-        "agent-skills",
-        "ai",
-        "business-plan",
-        "claude-code",
-        "codex"
-      ]
+      "trend": "+335 total",
+      "tags": []
     },
     {
       "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
@@ -125,45 +158,6 @@
       "tags": [
         "roblox"
       ]
-    },
-    {
-      "repo": "free-cracks/Adobe-Acrobat-Pro",
-      "desc": "(暂无描述)",
-      "stars": "288",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+288 total",
-      "tags": [
-        "adobe-acrobat",
-        "ai",
-        "ilovepdf",
-        "pdf",
-        "pdf-compressor"
-      ]
-    },
-    {
-      "repo": "qianshuixia/shrimpreel",
-      "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "stars": "281",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+281 total",
-      "tags": [
-        "ai-video",
-        "cloudflare-d1",
-        "cloudflare-r2",
-        "cloudflare-workers",
-        "fal-ai"
-      ]
-    },
-    {
-      "repo": "blakeandersonw/ai-app-playbook",
-      "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "239",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+239 total",
-      "tags": []
     }
   ]
 }

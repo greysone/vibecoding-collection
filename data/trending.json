@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-26T18:19:53.161Z",
+  "fetchedAt": "2026-10-27T03:57:34.858Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "1.8k",
+      "stars": "2.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.8k total",
+      "trend": "+2.1k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stars": "729",
+      "stars": "804",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+729 total",
+      "trend": "+804 total",
       "tags": [
         "agent-skills",
         "archives",
@@ -34,19 +34,19 @@
     {
       "repo": "andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stars": "583",
+      "stars": "793",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+583 total",
+      "trend": "+793 total",
       "tags": []
     },
     {
       "repo": "Alejandros17487/ai-jailbreaks",
       "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "498",
+      "stars": "501",
       "lang": "Other",
       "license": "Other",
-      "trend": "+498 total",
+      "trend": "+501 total",
       "tags": [
         "ai",
         "ai-safety",
@@ -56,36 +56,42 @@
       ]
     },
     {
-      "repo": "MemTensor/MemT-1.0",
-      "desc": "Official repository for MemT-1.0",
-      "stars": "415",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+415 total",
+      "repo": "yaojingang/GEOInflow",
+      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "stars": "411",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+411 total",
       "tags": [
-        "ai-agents",
-        "deepseek",
-        "llm",
-        "long-context",
-        "long-term-memory"
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted"
       ]
     },
     {
-      "repo": "garycaogan/ai-live-avatar",
-      "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stars": "374",
+      "repo": "hevnsnt/CVEngine",
+      "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "stars": "387",
       "lang": "Python",
-      "license": "MIT",
-      "trend": "+374 total",
-      "tags": []
+      "license": "GPL-3.0",
+      "trend": "+387 total",
+      "tags": [
+        "ai",
+        "attack-surface-management",
+        "bbot",
+        "cybersecurity",
+        "mcp"
+      ]
     },
     {
       "repo": "routerhubSI/uncensored-ai-api",
       "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stars": "366",
+      "stars": "367",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+366 total",
+      "trend": "+367 total",
       "tags": [
         "abliterated-models",
         "ai-api",
@@ -95,18 +101,18 @@
       ]
     },
     {
-      "repo": "hevnsnt/CVEngine",
-      "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "stars": "353",
+      "repo": "huaxialucaicaizi/ai-startup-skills",
+      "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "stars": "344",
       "lang": "Python",
-      "license": "GPL-3.0",
-      "trend": "+353 total",
+      "license": "MIT",
+      "trend": "+344 total",
       "tags": [
+        "agent-skills",
         "ai",
-        "attack-surface-management",
-        "bbot",
-        "cybersecurity",
-        "mcp"
+        "business-plan",
+        "claude-code",
+        "codex"
       ]
     },
     {
@@ -121,27 +127,12 @@
       ]
     },
     {
-      "repo": "yaojingang/GEOInflow",
-      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "296",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+296 total",
-      "tags": [
-        "ai-analytics",
-        "geo",
-        "mit",
-        "postgresql",
-        "self-hosted"
-      ]
-    },
-    {
       "repo": "free-cracks/Adobe-Acrobat-Pro",
       "desc": "(暂无描述)",
-      "stars": "287",
+      "stars": "288",
       "lang": "Other",
       "license": "Other",
-      "trend": "+287 total",
+      "trend": "+288 total",
       "tags": [
         "adobe-acrobat",
         "ai",
@@ -151,19 +142,28 @@
       ]
     },
     {
-      "repo": "huaxialucaicaizi/ai-startup-skills",
-      "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": "284",
-      "lang": "Python",
+      "repo": "qianshuixia/shrimpreel",
+      "desc": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "stars": "281",
+      "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+284 total",
+      "trend": "+281 total",
       "tags": [
-        "agent-skills",
-        "ai",
-        "business-plan",
-        "claude-code",
-        "codex"
+        "ai-video",
+        "cloudflare-d1",
+        "cloudflare-r2",
+        "cloudflare-workers",
+        "fal-ai"
       ]
+    },
+    {
+      "repo": "blakeandersonw/ai-app-playbook",
+      "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stars": "239",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+239 total",
+      "tags": []
     }
   ]
 }

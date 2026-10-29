@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-28T17:57:02.432Z",
+  "fetchedAt": "2026-10-29T04:40:36.227Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "4.2k",
+      "stars": "4.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+4.2k total",
+      "trend": "+4.4k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "1.8k",
+      "stars": "2.1k",
       "lang": "HTML",
       "license": "NOASSERTION",
-      "trend": "+1.8k total",
+      "trend": "+2.1k total",
       "tags": [
         "ai-art",
         "chinese",
@@ -41,21 +41,12 @@
       "tags": []
     },
     {
-      "repo": "CopilotKit/OpenDuet",
-      "desc": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
-      "stars": "1.2k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.2k total",
-      "tags": []
-    },
-    {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stars": "1.1k",
+      "stars": "1.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.2k total",
       "tags": [
         "agent-skills",
         "archives",
@@ -67,10 +58,10 @@
     {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "687",
+      "stars": "695",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+687 total",
+      "trend": "+695 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -80,12 +71,21 @@
       ]
     },
     {
+      "repo": "anonnerdfrenzy/survival-llm",
+      "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+      "stars": "613",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+613 total",
+      "tags": []
+    },
+    {
       "repo": "blakeandersonw/ai-app-playbook",
       "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "559",
+      "stars": "565",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+559 total",
+      "trend": "+565 total",
       "tags": []
     },
     {
@@ -104,27 +104,12 @@
       ]
     },
     {
-      "repo": "Alejandros17487/ai-jailbreaks",
-      "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stars": "514",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+514 total",
-      "tags": [
-        "ai",
-        "ai-safety",
-        "jailbreak",
-        "jailbreaking",
-        "privacy"
-      ]
-    },
-    {
       "repo": "huaxialucaicaizi/ai-startup-skills",
       "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": "473",
+      "stars": "503",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+473 total",
+      "trend": "+503 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -136,10 +121,10 @@
     {
       "repo": "hevnsnt/CVEngine",
       "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "stars": "436",
+      "stars": "448",
       "lang": "Python",
       "license": "GPL-3.0",
-      "trend": "+436 total",
+      "trend": "+448 total",
       "tags": [
         "ai",
         "attack-surface-management",
@@ -149,12 +134,21 @@
       ]
     },
     {
-      "repo": "anonnerdfrenzy/survival-llm",
-      "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
-      "stars": "432",
+      "repo": "zgx949/ai-pojia",
+      "desc": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。",
+      "stars": "417",
       "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+432 total",
+      "license": "MIT",
+      "trend": "+417 total",
+      "tags": []
+    },
+    {
+      "repo": "konlu/story-studio",
+      "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+      "stars": "413",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+413 total",
       "tags": []
     }
   ]

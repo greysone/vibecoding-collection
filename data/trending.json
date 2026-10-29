@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-29T04:40:36.227Z",
+  "fetchedAt": "2026-10-29T18:05:59.821Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "4.4k",
+      "stars": "4.7k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+4.4k total",
+      "trend": "+4.7k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "2.1k",
+      "stars": "3.0k",
       "lang": "HTML",
       "license": "NOASSERTION",
-      "trend": "+2.1k total",
+      "trend": "+3.0k total",
       "tags": [
         "ai-art",
         "chinese",
@@ -34,10 +34,10 @@
     {
       "repo": "andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.4k total",
       "tags": []
     },
     {
@@ -56,12 +56,21 @@
       ]
     },
     {
+      "repo": "anonnerdfrenzy/survival-llm",
+      "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+      "stars": "736",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+736 total",
+      "tags": []
+    },
+    {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "695",
+      "stars": "721",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+695 total",
+      "trend": "+721 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -71,45 +80,36 @@
       ]
     },
     {
-      "repo": "anonnerdfrenzy/survival-llm",
-      "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
-      "stars": "613",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+613 total",
-      "tags": []
-    },
-    {
       "repo": "blakeandersonw/ai-app-playbook",
       "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "565",
+      "stars": "573",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+565 total",
+      "trend": "+573 total",
       "tags": []
     },
     {
-      "repo": "stormydayy/halo-overlay",
-      "desc": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
-      "stars": "516",
-      "lang": "Python",
-      "license": "GPL-3.0",
-      "trend": "+516 total",
+      "repo": "qybaihe/bla",
+      "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "stars": "568",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+568 total",
       "tags": [
-        "ai-overlay",
-        "cheating-daddy",
-        "interview-cheating-tool",
-        "interview-helper",
-        "interview-overlay"
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security"
       ]
     },
     {
       "repo": "huaxialucaicaizi/ai-startup-skills",
       "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": "503",
+      "stars": "552",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+503 total",
+      "trend": "+552 total",
       "tags": [
         "agent-skills",
         "ai",
@@ -119,12 +119,21 @@
       ]
     },
     {
+      "repo": "konlu/story-studio",
+      "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+      "stars": "482",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+482 total",
+      "tags": []
+    },
+    {
       "repo": "hevnsnt/CVEngine",
       "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "stars": "448",
+      "stars": "462",
       "lang": "Python",
       "license": "GPL-3.0",
-      "trend": "+448 total",
+      "trend": "+462 total",
       "tags": [
         "ai",
         "attack-surface-management",
@@ -136,19 +145,10 @@
     {
       "repo": "zgx949/ai-pojia",
       "desc": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。",
-      "stars": "417",
+      "stars": "450",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+417 total",
-      "tags": []
-    },
-    {
-      "repo": "konlu/story-studio",
-      "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "stars": "413",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+413 total",
+      "trend": "+450 total",
       "tags": []
     }
   ]

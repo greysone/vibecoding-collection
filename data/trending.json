@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-30T04:40:20.453Z",
+  "fetchedAt": "2026-10-30T17:45:57.750Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "4.8k",
+      "stars": "5.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+4.8k total",
+      "trend": "+5.0k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -19,16 +19,31 @@
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "3.3k",
+      "stars": "3.9k",
       "lang": "HTML",
       "license": "NOASSERTION",
-      "trend": "+3.3k total",
+      "trend": "+3.9k total",
       "tags": [
         "ai-art",
         "chinese",
         "cloudflare-pages",
         "gallery",
         "i18n"
+      ]
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": "2.3k",
+      "lang": "Dart",
+      "license": "AGPL-3.0",
+      "trend": "+2.3k total",
+      "tags": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek"
       ]
     },
     {
@@ -39,6 +54,21 @@
       "license": "MIT",
       "trend": "+1.5k total",
       "tags": []
+    },
+    {
+      "repo": "qybaihe/bla",
+      "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "stars": "1.3k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.3k total",
+      "tags": [
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security"
+      ]
     },
     {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
@@ -56,36 +86,45 @@
       ]
     },
     {
-      "repo": "qybaihe/bla",
-      "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "stars": "926",
-      "lang": "TypeScript",
+      "repo": "paipiange/nvzhuang",
+      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": "1.1k",
+      "lang": "Go",
       "license": "MIT",
-      "trend": "+926 total",
+      "trend": "+1.1k total",
+      "tags": []
+    },
+    {
+      "repo": "wangzan101/Mika",
+      "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stars": "952",
+      "lang": "Kotlin",
+      "license": "Apache-2.0",
+      "trend": "+952 total",
       "tags": [
-        "adversarial-ai",
-        "claude-code",
-        "cursor",
-        "electron-security",
-        "llm-security"
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose"
       ]
     },
     {
       "repo": "anonnerdfrenzy/survival-llm",
       "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
-      "stars": "778",
+      "stars": "898",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+778 total",
+      "trend": "+898 total",
       "tags": []
     },
     {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "732",
+      "stars": "758",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+732 total",
+      "trend": "+758 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -95,60 +134,21 @@
       ]
     },
     {
+      "repo": "heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": "694",
+      "lang": "JavaScript",
+      "license": "CC-BY-4.0",
+      "trend": "+694 total",
+      "tags": []
+    },
+    {
       "repo": "blakeandersonw/ai-app-playbook",
       "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "579",
+      "stars": "585",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+579 total",
-      "tags": []
-    },
-    {
-      "repo": "konlu/story-studio",
-      "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "stars": "506",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+506 total",
-      "tags": []
-    },
-    {
-      "repo": "hevnsnt/CVEngine",
-      "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "stars": "498",
-      "lang": "Python",
-      "license": "GPL-3.0",
-      "trend": "+498 total",
-      "tags": [
-        "ai",
-        "attack-surface-management",
-        "bbot",
-        "cybersecurity",
-        "mcp"
-      ]
-    },
-    {
-      "repo": "ccch1mneyyy/dsh-go",
-      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
-      "stars": "483",
-      "lang": "Dart",
-      "license": "AGPL-3.0",
-      "trend": "+483 total",
-      "tags": [
-        "ai-agent",
-        "android",
-        "android-app",
-        "coding-agent",
-        "deepseek"
-      ]
-    },
-    {
-      "repo": "zgx949/ai-pojia",
-      "desc": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。",
-      "stars": "465",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+465 total",
+      "trend": "+585 total",
       "tags": []
     }
   ]

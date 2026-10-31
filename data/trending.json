@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-30T17:45:57.750Z",
+  "fetchedAt": "2026-10-31T04:24:25.804Z",
   "repos": [
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stars": "5.0k",
+      "stars": "5.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+5.0k total",
+      "trend": "+5.1k total",
       "tags": [
         "adb",
         "ai-agent",
@@ -19,10 +19,10 @@
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "3.9k",
-      "lang": "HTML",
+      "stars": "4.1k",
+      "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+3.9k total",
+      "trend": "+4.1k total",
       "tags": [
         "ai-art",
         "chinese",
@@ -34,10 +34,10 @@
     {
       "repo": "ccch1mneyyy/dsh-Go",
       "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "stars": "2.3k",
+      "stars": "2.7k",
       "lang": "Dart",
       "license": "AGPL-3.0",
-      "trend": "+2.3k total",
+      "trend": "+2.7k total",
       "tags": [
         "ai-agent",
         "android",
@@ -47,21 +47,36 @@
       ]
     },
     {
+      "repo": "wangzan101/Mika",
+      "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stars": "1.6k",
+      "lang": "Kotlin",
+      "license": "Apache-2.0",
+      "trend": "+1.6k total",
+      "tags": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose"
+      ]
+    },
+    {
       "repo": "andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": []
     },
     {
       "repo": "qybaihe/bla",
       "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "stars": "1.3k",
+      "stars": "1.5k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.5k total",
       "tags": [
         "adversarial-ai",
         "claude-code",
@@ -69,6 +84,15 @@
         "electron-security",
         "llm-security"
       ]
+    },
+    {
+      "repo": "heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": "1.5k",
+      "lang": "JavaScript",
+      "license": "CC-BY-4.0",
+      "trend": "+1.5k total",
+      "tags": []
     },
     {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
@@ -88,43 +112,28 @@
     {
       "repo": "paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stars": "1.1k",
+      "stars": "1.3k",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.3k total",
       "tags": []
-    },
-    {
-      "repo": "wangzan101/Mika",
-      "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "952",
-      "lang": "Kotlin",
-      "license": "Apache-2.0",
-      "trend": "+952 total",
-      "tags": [
-        "accessibility",
-        "ai-agent",
-        "android",
-        "automation",
-        "jetpack-compose"
-      ]
     },
     {
       "repo": "anonnerdfrenzy/survival-llm",
       "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
-      "stars": "898",
+      "stars": "997",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+898 total",
+      "trend": "+997 total",
       "tags": []
     },
     {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "758",
+      "stars": "760",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+758 total",
+      "trend": "+760 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -134,21 +143,12 @@
       ]
     },
     {
-      "repo": "heydamir/unslop",
-      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "694",
-      "lang": "JavaScript",
-      "license": "CC-BY-4.0",
-      "trend": "+694 total",
-      "tags": []
-    },
-    {
       "repo": "blakeandersonw/ai-app-playbook",
       "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "585",
+      "stars": "591",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+585 total",
+      "trend": "+591 total",
       "tags": []
     }
   ]

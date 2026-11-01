@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-01T04:43:04.446Z",
+  "fetchedAt": "2026-11-01T17:41:24.450Z",
   "repos": [
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "4.8k",
+      "stars": "5.1k",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+4.8k total",
+      "trend": "+5.1k total",
       "tags": [
         "ai-art",
         "chinese",
@@ -17,12 +17,21 @@
       ]
     },
     {
+      "repo": "heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": "4.6k",
+      "lang": "JavaScript",
+      "license": "CC-BY-4.0",
+      "trend": "+4.6k total",
+      "tags": []
+    },
+    {
       "repo": "ccch1mneyyy/dsh-Go",
       "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "stars": "3.8k",
+      "stars": "4.5k",
       "lang": "Dart",
       "license": "AGPL-3.0",
-      "trend": "+3.8k total",
+      "trend": "+4.5k total",
       "tags": [
         "ai-agent",
         "android",
@@ -32,21 +41,12 @@
       ]
     },
     {
-      "repo": "heydamir/unslop",
-      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "3.7k",
-      "lang": "JavaScript",
-      "license": "CC-BY-4.0",
-      "trend": "+3.7k total",
-      "tags": []
-    },
-    {
       "repo": "wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "2.9k",
+      "stars": "3.7k",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+2.9k total",
+      "trend": "+3.7k total",
       "tags": [
         "accessibility",
         "ai-agent",
@@ -58,19 +58,19 @@
     {
       "repo": "paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stars": "1.8k",
+      "stars": "1.9k",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+1.8k total",
+      "trend": "+1.9k total",
       "tags": []
     },
     {
       "repo": "qybaihe/bla",
       "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "stars": "1.7k",
+      "stars": "1.8k",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+1.8k total",
       "tags": [
         "adversarial-ai",
         "claude-code",
@@ -106,10 +106,10 @@
     {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "770",
+      "stars": "779",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+770 total",
+      "trend": "+779 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -121,19 +121,19 @@
     {
       "repo": "jacke-pp/open-yoki",
       "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "stars": "705",
+      "stars": "706",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+705 total",
+      "trend": "+706 total",
       "tags": []
     },
     {
       "repo": "jackwener/DSH-Android",
       "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "stars": "638",
+      "stars": "691",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+638 total",
+      "trend": "+691 total",
       "tags": [
         "ai-agent",
         "android",
@@ -143,12 +143,12 @@
       ]
     },
     {
-      "repo": "blakeandersonw/ai-app-playbook",
-      "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "597",
-      "lang": "TypeScript",
+      "repo": "konlu/story-studio",
+      "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+      "stars": "618",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+597 total",
+      "trend": "+618 total",
       "tags": []
     }
   ]

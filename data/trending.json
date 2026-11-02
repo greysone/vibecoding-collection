@@ -1,13 +1,22 @@
 {
-  "fetchedAt": "2026-11-02T04:44:46.472Z",
+  "fetchedAt": "2026-11-02T21:27:03.519Z",
   "repos": [
+    {
+      "repo": "heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": "6.1k",
+      "lang": "JavaScript",
+      "license": "CC-BY-4.0",
+      "trend": "+6.1k total",
+      "tags": []
+    },
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "5.2k",
+      "stars": "5.5k",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+5.2k total",
+      "trend": "+5.5k total",
       "tags": [
         "ai-art",
         "chinese",
@@ -17,21 +26,12 @@
       ]
     },
     {
-      "repo": "heydamir/unslop",
-      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "5.0k",
-      "lang": "JavaScript",
-      "license": "CC-BY-4.0",
-      "trend": "+5.0k total",
-      "tags": []
-    },
-    {
       "repo": "wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "4.2k",
+      "stars": "5.2k",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+4.2k total",
+      "trend": "+5.2k total",
       "tags": [
         "accessibility",
         "ai-agent",
@@ -43,10 +43,10 @@
     {
       "repo": "paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": []
     },
     {
@@ -59,21 +59,45 @@
       "tags": []
     },
     {
+      "repo": "modelflare-ai/AnyModelBot",
+      "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "stars": "1.3k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.3k total",
+      "tags": [
+        "ai-agent",
+        "ai-assistant",
+        "chatbot",
+        "claude",
+        "computer-use"
+      ]
+    },
+    {
       "repo": "jacke-pp/open-yoki",
       "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "stars": "828",
+      "stars": "830",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+828 total",
+      "trend": "+830 total",
+      "tags": []
+    },
+    {
+      "repo": "benjitaylor/skills",
+      "desc": "Skills for AI coding agents.",
+      "stars": "811",
+      "lang": "TypeScript",
+      "license": "Other",
+      "trend": "+811 total",
       "tags": []
     },
     {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "782",
+      "stars": "785",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+782 total",
+      "trend": "+785 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -85,10 +109,10 @@
     {
       "repo": "jackwener/DSH-Android",
       "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "stars": "715",
+      "stars": "749",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+715 total",
+      "trend": "+749 total",
       "tags": [
         "ai-agent",
         "android",
@@ -98,45 +122,21 @@
       ]
     },
     {
-      "repo": "modelflare-ai/AnyModelBot",
-      "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "stars": "695",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+695 total",
-      "tags": [
-        "ai-agent",
-        "ai-assistant",
-        "chatbot",
-        "claude",
-        "computer-use"
-      ]
-    },
-    {
       "repo": "konlu/story-studio",
       "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "stars": "640",
+      "stars": "675",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+640 total",
-      "tags": []
-    },
-    {
-      "repo": "blakeandersonw/ai-app-playbook",
-      "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stars": "604",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+604 total",
+      "trend": "+675 total",
       "tags": []
     },
     {
       "repo": "sleepy-zone/ai-ref-library-cn",
       "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "stars": "595",
+      "stars": "667",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+595 total",
+      "trend": "+667 total",
       "tags": [
         "ai",
         "gpt"

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-01T17:41:24.450Z",
+  "fetchedAt": "2026-11-02T04:44:46.472Z",
   "repos": [
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "5.1k",
+      "stars": "5.2k",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+5.1k total",
+      "trend": "+5.2k total",
       "tags": [
         "ai-art",
         "chinese",
@@ -19,34 +19,19 @@
     {
       "repo": "heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "4.6k",
+      "stars": "5.0k",
       "lang": "JavaScript",
       "license": "CC-BY-4.0",
-      "trend": "+4.6k total",
+      "trend": "+5.0k total",
       "tags": []
-    },
-    {
-      "repo": "ccch1mneyyy/dsh-Go",
-      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "stars": "4.5k",
-      "lang": "Dart",
-      "license": "AGPL-3.0",
-      "trend": "+4.5k total",
-      "tags": [
-        "ai-agent",
-        "android",
-        "android-app",
-        "coding-agent",
-        "deepseek"
-      ]
     },
     {
       "repo": "wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "3.7k",
+      "stars": "4.2k",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+3.7k total",
+      "trend": "+4.2k total",
       "tags": [
         "accessibility",
         "ai-agent",
@@ -65,51 +50,30 @@
       "tags": []
     },
     {
-      "repo": "qybaihe/bla",
-      "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "stars": "1.8k",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+1.8k total",
-      "tags": [
-        "adversarial-ai",
-        "claude-code",
-        "cursor",
-        "electron-security",
-        "llm-security"
-      ]
-    },
-    {
       "repo": "andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
       "tags": []
     },
     {
-      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
-      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stars": "1.4k",
-      "lang": "Python",
+      "repo": "jacke-pp/open-yoki",
+      "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "stars": "828",
+      "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+1.4k total",
-      "tags": [
-        "agent-skills",
-        "archives",
-        "claude-code",
-        "codex",
-        "family-history"
-      ]
+      "trend": "+828 total",
+      "tags": []
     },
     {
       "repo": "yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "779",
+      "stars": "782",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+779 total",
+      "trend": "+782 total",
       "tags": [
         "ai-analytics",
         "geo",
@@ -119,21 +83,12 @@
       ]
     },
     {
-      "repo": "jacke-pp/open-yoki",
-      "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "stars": "706",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+706 total",
-      "tags": []
-    },
-    {
       "repo": "jackwener/DSH-Android",
       "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "stars": "691",
+      "stars": "715",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+691 total",
+      "trend": "+715 total",
       "tags": [
         "ai-agent",
         "android",
@@ -143,13 +98,49 @@
       ]
     },
     {
+      "repo": "modelflare-ai/AnyModelBot",
+      "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "stars": "695",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+695 total",
+      "tags": [
+        "ai-agent",
+        "ai-assistant",
+        "chatbot",
+        "claude",
+        "computer-use"
+      ]
+    },
+    {
       "repo": "konlu/story-studio",
       "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "stars": "618",
+      "stars": "640",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+618 total",
+      "trend": "+640 total",
       "tags": []
+    },
+    {
+      "repo": "blakeandersonw/ai-app-playbook",
+      "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stars": "604",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+604 total",
+      "tags": []
+    },
+    {
+      "repo": "sleepy-zone/ai-ref-library-cn",
+      "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "stars": "595",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+595 total",
+      "tags": [
+        "ai",
+        "gpt"
+      ]
     }
   ]
 }

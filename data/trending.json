@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-11-02T21:27:03.519Z",
+  "fetchedAt": "2026-11-03T05:36:19.435Z",
   "repos": [
     {
       "repo": "heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "6.1k",
+      "stars": "6.5k",
       "lang": "JavaScript",
       "license": "CC-BY-4.0",
-      "trend": "+6.1k total",
+      "trend": "+6.5k total",
       "tags": []
-    },
-    {
-      "repo": "anhao/ai-pose-gallery-zh",
-      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "5.5k",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+5.5k total",
-      "tags": [
-        "ai-art",
-        "chinese",
-        "cloudflare-pages",
-        "gallery",
-        "i18n"
-      ]
     },
     {
       "repo": "wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "5.2k",
+      "stars": "5.6k",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+5.2k total",
+      "trend": "+5.6k total",
       "tags": [
         "accessibility",
         "ai-agent",
@@ -41,30 +26,36 @@
       ]
     },
     {
-      "repo": "paipiange/nvzhuang",
-      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stars": "2.0k",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+2.0k total",
-      "tags": []
+      "repo": "anhao/ai-pose-gallery-zh",
+      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "stars": "5.6k",
+      "lang": "TypeScript",
+      "license": "NOASSERTION",
+      "trend": "+5.6k total",
+      "tags": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n"
+      ]
     },
     {
-      "repo": "andyhuo520/digital-human-koubo",
-      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stars": "1.7k",
-      "lang": "TypeScript",
+      "repo": "paipiange/nvzhuang",
+      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": "2.1k",
+      "lang": "Go",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+2.1k total",
       "tags": []
     },
     {
       "repo": "modelflare-ai/AnyModelBot",
       "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "stars": "1.3k",
+      "stars": "1.7k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.7k total",
       "tags": [
         "ai-agent",
         "ai-assistant",
@@ -76,43 +67,19 @@
     {
       "repo": "jacke-pp/open-yoki",
       "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "stars": "830",
+      "stars": "950",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+830 total",
+      "trend": "+950 total",
       "tags": []
-    },
-    {
-      "repo": "benjitaylor/skills",
-      "desc": "Skills for AI coding agents.",
-      "stars": "811",
-      "lang": "TypeScript",
-      "license": "Other",
-      "trend": "+811 total",
-      "tags": []
-    },
-    {
-      "repo": "yaojingang/GEOInflow",
-      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stars": "785",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+785 total",
-      "tags": [
-        "ai-analytics",
-        "geo",
-        "mit",
-        "postgresql",
-        "self-hosted"
-      ]
     },
     {
       "repo": "jackwener/DSH-Android",
       "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "stars": "749",
+      "stars": "760",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+749 total",
+      "trend": "+760 total",
       "tags": [
         "ai-agent",
         "android",
@@ -122,24 +89,75 @@
       ]
     },
     {
-      "repo": "konlu/story-studio",
-      "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "stars": "675",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+675 total",
-      "tags": []
-    },
-    {
       "repo": "sleepy-zone/ai-ref-library-cn",
       "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "stars": "667",
+      "stars": "679",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+667 total",
+      "trend": "+679 total",
       "tags": [
         "ai",
         "gpt"
+      ]
+    },
+    {
+      "repo": "cutetailbud/ff-ruyijs",
+      "desc": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+      "stars": "634",
+      "lang": "C++",
+      "license": "AGPL-3.0",
+      "trend": "+634 total",
+      "tags": [
+        "anti-bot",
+        "automation",
+        "firefox",
+        "headless-browser",
+        "javascript"
+      ]
+    },
+    {
+      "repo": "N1nEmAn/sapper-v2",
+      "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "stars": "632",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+632 total",
+      "tags": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm"
+      ]
+    },
+    {
+      "repo": "Balanov/uncut",
+      "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "stars": "576",
+      "lang": "Go",
+      "license": "MIT",
+      "trend": "+576 total",
+      "tags": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless"
+      ]
+    },
+    {
+      "repo": "zhanghao123vip/ai-manju-skills",
+      "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "stars": "508",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+508 total",
+      "tags": [
+        "ai-skills",
+        "ai-video",
+        "chinese",
+        "claude-code",
+        "prompt-engineering"
       ]
     }
   ]

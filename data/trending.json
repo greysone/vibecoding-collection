@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-11-03T05:36:19.435Z",
+  "fetchedAt": "2026-11-03T19:09:12.267Z",
   "repos": [
     {
       "repo": "heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "6.5k",
+      "stars": "7.3k",
       "lang": "JavaScript",
       "license": "CC-BY-4.0",
-      "trend": "+6.5k total",
+      "trend": "+7.3k total",
       "tags": []
     },
     {
       "repo": "wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "5.6k",
+      "stars": "6.0k",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+5.6k total",
+      "trend": "+6.0k total",
       "tags": [
         "accessibility",
         "ai-agent",
@@ -28,16 +28,31 @@
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": "5.6k",
+      "stars": "5.8k",
       "lang": "TypeScript",
       "license": "NOASSERTION",
-      "trend": "+5.6k total",
+      "trend": "+5.8k total",
       "tags": [
         "ai-art",
         "chinese",
         "cloudflare-pages",
         "gallery",
         "i18n"
+      ]
+    },
+    {
+      "repo": "modelflare-ai/AnyModelBot",
+      "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "stars": "2.3k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+2.3k total",
+      "tags": [
+        "ai-agent",
+        "ai-assistant",
+        "chatbot",
+        "claude",
+        "computer-use"
       ]
     },
     {
@@ -48,21 +63,6 @@
       "license": "MIT",
       "trend": "+2.1k total",
       "tags": []
-    },
-    {
-      "repo": "modelflare-ai/AnyModelBot",
-      "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "stars": "1.7k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.7k total",
-      "tags": [
-        "ai-agent",
-        "ai-assistant",
-        "chatbot",
-        "claude",
-        "computer-use"
-      ]
     },
     {
       "repo": "jacke-pp/open-yoki",
@@ -76,10 +76,10 @@
     {
       "repo": "jackwener/DSH-Android",
       "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "stars": "760",
+      "stars": "780",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+760 total",
+      "trend": "+780 total",
       "tags": [
         "ai-agent",
         "android",
@@ -91,37 +91,22 @@
     {
       "repo": "sleepy-zone/ai-ref-library-cn",
       "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "stars": "679",
+      "stars": "698",
       "lang": "JavaScript",
       "license": "Other",
-      "trend": "+679 total",
+      "trend": "+698 total",
       "tags": [
         "ai",
         "gpt"
       ]
     },
     {
-      "repo": "cutetailbud/ff-ruyijs",
-      "desc": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-      "stars": "634",
-      "lang": "C++",
-      "license": "AGPL-3.0",
-      "trend": "+634 total",
-      "tags": [
-        "anti-bot",
-        "automation",
-        "firefox",
-        "headless-browser",
-        "javascript"
-      ]
-    },
-    {
       "repo": "N1nEmAn/sapper-v2",
       "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "stars": "632",
+      "stars": "658",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+632 total",
+      "trend": "+658 total",
       "tags": [
         "ai-agents",
         "autonomous-agents",
@@ -131,12 +116,21 @@
       ]
     },
     {
+      "repo": "RikiyaT/lm_understand-logs",
+      "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "stars": "657",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+657 total",
+      "tags": []
+    },
+    {
       "repo": "Balanov/uncut",
       "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "stars": "576",
+      "stars": "589",
       "lang": "Go",
       "license": "MIT",
-      "trend": "+576 total",
+      "trend": "+589 total",
       "tags": [
         "agent-harness",
         "cli",
@@ -146,18 +140,18 @@
       ]
     },
     {
-      "repo": "zhanghao123vip/ai-manju-skills",
-      "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
-      "stars": "508",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+508 total",
+      "repo": "cutetailbud/ff-ruyijs",
+      "desc": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+      "stars": "577",
+      "lang": "C++",
+      "license": "AGPL-3.0",
+      "trend": "+577 total",
       "tags": [
-        "ai-skills",
-        "ai-video",
-        "chinese",
-        "claude-code",
-        "prompt-engineering"
+        "anti-bot",
+        "automation",
+        "firefox",
+        "headless-browser",
+        "javascript"
       ]
     }
   ]

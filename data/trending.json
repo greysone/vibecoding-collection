@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-11-04T05:05:09.811Z",
+  "fetchedAt": "2026-11-04T19:26:10.385Z",
   "repos": [
     {
       "repo": "heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": "7.7k",
+      "stars": "8.5k",
       "lang": "JavaScript",
       "license": "CC-BY-4.0",
-      "trend": "+7.7k total",
+      "trend": "+8.5k total",
       "tags": []
     },
     {
       "repo": "wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": "6.2k",
+      "stars": "6.6k",
       "lang": "Kotlin",
       "license": "Apache-2.0",
-      "trend": "+6.2k total",
+      "trend": "+6.6k total",
       "tags": [
         "accessibility",
         "ai-agent",
@@ -28,11 +28,26 @@
     {
       "repo": "paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stars": "2.1k",
-      "lang": "Go",
+      "stars": "2.2k",
+      "lang": "HTML",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.2k total",
       "tags": []
+    },
+    {
+      "repo": "wquguru/cicada",
+      "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+      "stars": "1.1k",
+      "lang": "Swift",
+      "license": "Apache-2.0",
+      "trend": "+1.1k total",
+      "tags": [
+        "live-captions",
+        "macos",
+        "meeting-notes",
+        "menubar-app",
+        "simultaneous-interpretation"
+      ]
     },
     {
       "repo": "jacke-pp/open-yoki",
@@ -46,46 +61,19 @@
     {
       "repo": "RikiyaT/lm_understand-logs",
       "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "stars": "780",
+      "stars": "893",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+780 total",
+      "trend": "+893 total",
       "tags": []
-    },
-    {
-      "repo": "wquguru/cicada",
-      "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-      "stars": "714",
-      "lang": "Swift",
-      "license": "Apache-2.0",
-      "trend": "+714 total",
-      "tags": [
-        "live-captions",
-        "macos",
-        "meeting-notes",
-        "menubar-app",
-        "simultaneous-interpretation"
-      ]
-    },
-    {
-      "repo": "sleepy-zone/ai-ref-library-cn",
-      "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "stars": "704",
-      "lang": "JavaScript",
-      "license": "Other",
-      "trend": "+704 total",
-      "tags": [
-        "ai",
-        "gpt"
-      ]
     },
     {
       "repo": "N1nEmAn/sapper-v2",
       "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "stars": "673",
+      "stars": "770",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+673 total",
+      "trend": "+770 total",
       "tags": [
         "ai-agents",
         "autonomous-agents",
@@ -95,51 +83,63 @@
       ]
     },
     {
-      "repo": "rerun-build/rerun",
-      "desc": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
-      "stars": "601",
-      "lang": "TypeScript",
-      "license": "AGPL-3.0",
-      "trend": "+601 total",
-      "tags": []
-    },
-    {
-      "repo": "Balanov/uncut",
-      "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "stars": "598",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+598 total",
+      "repo": "JuneYaooo/rea-video",
+      "desc": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+      "stars": "769",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+769 total",
       "tags": [
-        "agent-harness",
-        "cli",
-        "coding-agent",
-        "go",
-        "headless"
+        "agent-skills",
+        "ai-video",
+        "aigc-detection",
+        "claude-code",
+        "codex"
       ]
     },
     {
-      "repo": "hongye007/open-pose-costume",
-      "desc": "A bilingual reference studio for poses, costumes, and AI character creation.",
-      "stars": "578",
-      "lang": "TypeScript",
-      "license": "NOASSERTION",
-      "trend": "+578 total",
+      "repo": "anthropics/FlashProve",
+      "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "stars": "758",
+      "lang": "Lean",
+      "license": "Apache-2.0",
+      "trend": "+758 total",
       "tags": []
     },
     {
-      "repo": "zhanghao123vip/ai-manju-skills",
-      "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
-      "stars": "563",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+563 total",
+      "repo": "sleepy-zone/ai-ref-library-cn",
+      "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "stars": "715",
+      "lang": "JavaScript",
+      "license": "Other",
+      "trend": "+715 total",
       "tags": [
-        "ai-skills",
-        "ai-video",
-        "chinese",
-        "claude-code",
-        "prompt-engineering"
+        "ai",
+        "gpt"
+      ]
+    },
+    {
+      "repo": "rerun-build/rerun",
+      "desc": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "stars": "665",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+665 total",
+      "tags": []
+    },
+    {
+      "repo": "UncensoredLabs/uncensored-ai-api",
+      "desc": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "stars": "652",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+652 total",
+      "tags": [
+        "abliterated-models",
+        "ai-models",
+        "chat-api",
+        "deepseek",
+        "deepseek-flash-uncensored"
       ]
     }
   ]

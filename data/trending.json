@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-06T05:25:53.889Z",
+  "fetchedAt": "2026-11-06T18:57:18.214Z",
   "repos": [
     {
       "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": "2.5k",
+      "stars": "2.8k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+2.5k total",
+      "trend": "+2.8k total",
       "tags": []
     },
     {
@@ -28,10 +28,10 @@
     {
       "repo": "N1nEmAn/sapper-v2",
       "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "stars": "1.4k",
+      "stars": "1.5k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.5k total",
       "tags": [
         "ai-agents",
         "autonomous-agents",
@@ -43,58 +43,43 @@
     {
       "repo": "anthropics/FlashProve",
       "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
-      "stars": "918",
+      "stars": "935",
       "lang": "Lean",
       "license": "Apache-2.0",
-      "trend": "+918 total",
+      "trend": "+935 total",
       "tags": []
     },
     {
-      "repo": "UncensoredLabs/uncensored-ai-api",
-      "desc": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
-      "stars": "889",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+889 total",
+      "repo": "Sandflow-ai/sand3d",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "stars": "722",
+      "lang": "HTML",
+      "license": "Apache-2.0",
+      "trend": "+722 total",
       "tags": [
-        "abliterated-models",
-        "ai-models",
-        "chat-api",
-        "deepseek",
-        "deepseek-flash-uncensored"
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling"
       ]
     },
     {
-      "repo": "andrew-babo/muse4ai",
-      "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
-      "stars": "850",
-      "lang": "TypeScript",
+      "repo": "sqlpxc/airhand",
+      "desc": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "stars": "625",
+      "lang": "Rust",
       "license": "MIT",
-      "trend": "+850 total",
+      "trend": "+625 total",
       "tags": []
-    },
-    {
-      "repo": "Balanov/uncut",
-      "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "stars": "609",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+609 total",
-      "tags": [
-        "agent-harness",
-        "cli",
-        "coding-agent",
-        "go",
-        "headless"
-      ]
     },
     {
       "repo": "zhanghao123vip/ai-manju-skills",
       "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
-      "stars": "592",
+      "stars": "603",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+592 total",
+      "trend": "+603 total",
       "tags": [
         "ai-skills",
         "ai-video",
@@ -106,10 +91,10 @@
     {
       "repo": "op7418/dsh-guizang-design",
       "desc": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
-      "stars": "511",
+      "stars": "547",
       "lang": "HTML",
       "license": "AGPL-3.0",
-      "trend": "+511 total",
+      "trend": "+547 total",
       "tags": [
         "deepseek-harness",
         "design-system",
@@ -118,36 +103,57 @@
       ]
     },
     {
-      "repo": "sqlpxc/airhand",
-      "desc": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "stars": "505",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+505 total",
-      "tags": []
-    },
-    {
-      "repo": "Balanov/shim",
-      "desc": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "stars": "463",
-      "lang": "Go",
-      "license": "MIT",
-      "trend": "+463 total",
-      "tags": []
-    },
-    {
       "repo": "mhfed/vn-law-check",
       "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "stars": "445",
+      "stars": "461",
       "lang": "Shell",
       "license": "NOASSERTION",
-      "trend": "+445 total",
+      "trend": "+461 total",
       "tags": [
         "agent-md",
         "agent-skills",
         "claude-code",
         "claude-plugin",
         "claude-skills"
+      ]
+    },
+    {
+      "repo": "sarpstar/cinecode",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "stars": "457",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+457 total",
+      "tags": []
+    },
+    {
+      "repo": "HerdBuilderEstimate/roblox-studio-mcp",
+      "desc": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "stars": "427",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+427 total",
+      "tags": [
+        "ai-tools",
+        "automation",
+        "claude",
+        "cursor",
+        "developer-tools"
+      ]
+    },
+    {
+      "repo": "Renly1994/xiaotang-daozai",
+      "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "stars": "426",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+426 total",
+      "tags": [
+        "desktop-widget",
+        "dynamic-island",
+        "egui",
+        "productivity",
+        "rust"
       ]
     }
   ]

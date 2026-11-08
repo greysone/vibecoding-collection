@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-11-08T04:47:10.983Z",
+  "fetchedAt": "2026-11-08T17:40:40.492Z",
   "repos": [
     {
       "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": "3.1k",
+      "stars": "3.2k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+3.1k total",
+      "trend": "+3.2k total",
       "tags": []
     },
     {
       "repo": "wquguru/cicada",
       "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "stars": "1.6k",
+      "stars": "1.9k",
       "lang": "Swift",
       "license": "Apache-2.0",
-      "trend": "+1.6k total",
+      "trend": "+1.9k total",
       "tags": [
         "android",
         "linux",
@@ -26,12 +26,21 @@
       ]
     },
     {
+      "repo": "sarpstar/cinecode",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "stars": "1.5k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.5k total",
+      "tags": []
+    },
+    {
       "repo": "Sandflow-ai/sand3d",
       "desc": "3D modeling in Python, built for LLMs.",
-      "stars": "1.1k",
+      "stars": "1.3k",
       "lang": "HTML",
       "license": "Apache-2.0",
-      "trend": "+1.1k total",
+      "trend": "+1.3k total",
       "tags": [
         "3d",
         "blender",
@@ -41,30 +50,30 @@
       ]
     },
     {
-      "repo": "sarpstar/cinecode",
-      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "stars": "975",
+      "repo": "shanselman/gputaskman",
+      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "stars": "782",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+975 total",
+      "trend": "+782 total",
       "tags": []
     },
     {
-      "repo": "shanselman/gputaskman",
-      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "stars": "559",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+559 total",
+      "repo": "DIYgod/pinky",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "stars": "670",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+670 total",
       "tags": []
     },
     {
       "repo": "JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "527",
+      "stars": "586",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+527 total",
+      "trend": "+586 total",
       "tags": [
         "ai-agents",
         "automation",
@@ -76,10 +85,10 @@
     {
       "repo": "zeekk0/OpenAmika",
       "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "stars": "508",
+      "stars": "535",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+508 total",
+      "trend": "+535 total",
       "tags": [
         "ai-companion",
         "live2d",
@@ -91,10 +100,10 @@
     {
       "repo": "Renly1994/xiaotang-daozai",
       "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "stars": "477",
+      "stars": "496",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+477 total",
+      "trend": "+496 total",
       "tags": [
         "desktop-widget",
         "dynamic-island",
@@ -104,27 +113,12 @@
       ]
     },
     {
-      "repo": "mhfed/vn-law-check",
-      "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "stars": "472",
-      "lang": "Shell",
-      "license": "NOASSERTION",
-      "trend": "+472 total",
-      "tags": [
-        "agent-md",
-        "agent-skills",
-        "claude-code",
-        "claude-plugin",
-        "claude-skills"
-      ]
-    },
-    {
       "repo": "SAOS-3624/dsh-see-now",
       "desc": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-      "stars": "470",
+      "stars": "490",
       "lang": "JavaScript",
       "license": "Apache-2.0",
-      "trend": "+470 total",
+      "trend": "+490 total",
       "tags": [
         "ai-agent",
         "dsh",
@@ -134,27 +128,27 @@
       ]
     },
     {
-      "repo": "HerdBuilderEstimate/roblox-studio-mcp",
-      "desc": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
-      "stars": "428",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+428 total",
+      "repo": "mhfed/vn-law-check",
+      "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+      "stars": "480",
+      "lang": "Shell",
+      "license": "NOASSERTION",
+      "trend": "+480 total",
       "tags": [
-        "ai-tools",
-        "automation",
-        "claude",
-        "cursor",
-        "developer-tools"
+        "agent-md",
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills"
       ]
     },
     {
       "repo": "wideeyededi/uncensored-nsfw-ai-video-api",
       "desc": "Uncensored NSFW API for AI video generation — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
-      "stars": "424",
+      "stars": "425",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+424 total",
+      "trend": "+425 total",
       "tags": [
         "123vips",
         "ai-api",

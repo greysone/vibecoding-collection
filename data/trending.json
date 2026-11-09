@@ -1,46 +1,31 @@
 {
-  "fetchedAt": "2026-11-08T17:40:40.492Z",
+  "fetchedAt": "2026-11-09T04:55:51.338Z",
   "repos": [
     {
       "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": "3.2k",
+      "stars": "3.3k",
       "lang": "Python",
       "license": "Other",
-      "trend": "+3.2k total",
+      "trend": "+3.3k total",
       "tags": []
-    },
-    {
-      "repo": "wquguru/cicada",
-      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "stars": "1.9k",
-      "lang": "Swift",
-      "license": "Apache-2.0",
-      "trend": "+1.9k total",
-      "tags": [
-        "android",
-        "linux",
-        "live-captions",
-        "macos",
-        "meeting-notes"
-      ]
     },
     {
       "repo": "sarpstar/cinecode",
       "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": []
     },
     {
       "repo": "Sandflow-ai/sand3d",
       "desc": "3D modeling in Python, built for LLMs.",
-      "stars": "1.3k",
+      "stars": "1.5k",
       "lang": "HTML",
       "license": "Apache-2.0",
-      "trend": "+1.3k total",
+      "trend": "+1.5k total",
       "tags": [
         "3d",
         "blender",
@@ -52,28 +37,28 @@
     {
       "repo": "shanselman/gputaskman",
       "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "stars": "782",
+      "stars": "1.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+782 total",
+      "trend": "+1.1k total",
       "tags": []
     },
     {
       "repo": "DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "670",
+      "stars": "1.0k",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+670 total",
+      "trend": "+1.0k total",
       "tags": []
     },
     {
       "repo": "JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "586",
+      "stars": "621",
       "lang": "JavaScript",
       "license": "AGPL-3.0",
-      "trend": "+586 total",
+      "trend": "+621 total",
       "tags": [
         "ai-agents",
         "automation",
@@ -85,10 +70,10 @@
     {
       "repo": "zeekk0/OpenAmika",
       "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "stars": "535",
+      "stars": "545",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+535 total",
+      "trend": "+545 total",
       "tags": [
         "ai-companion",
         "live2d",
@@ -100,10 +85,10 @@
     {
       "repo": "Renly1994/xiaotang-daozai",
       "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "stars": "496",
+      "stars": "514",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+496 total",
+      "trend": "+514 total",
       "tags": [
         "desktop-widget",
         "dynamic-island",
@@ -113,27 +98,12 @@
       ]
     },
     {
-      "repo": "SAOS-3624/dsh-see-now",
-      "desc": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-      "stars": "490",
-      "lang": "JavaScript",
-      "license": "Apache-2.0",
-      "trend": "+490 total",
-      "tags": [
-        "ai-agent",
-        "dsh",
-        "dsh-plugin",
-        "ffmpeg",
-        "llm"
-      ]
-    },
-    {
       "repo": "mhfed/vn-law-check",
       "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "stars": "480",
+      "stars": "486",
       "lang": "Shell",
       "license": "NOASSERTION",
-      "trend": "+480 total",
+      "trend": "+486 total",
       "tags": [
         "agent-md",
         "agent-skills",
@@ -145,10 +115,10 @@
     {
       "repo": "wideeyededi/uncensored-nsfw-ai-video-api",
       "desc": "Uncensored NSFW API for AI video generation — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
-      "stars": "425",
+      "stars": "426",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+425 total",
+      "trend": "+426 total",
       "tags": [
         "123vips",
         "ai-api",
@@ -156,6 +126,30 @@
         "ai-video",
         "ai-video-api"
       ]
+    },
+    {
+      "repo": "ZSeven-W/dsh-game-studio",
+      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "stars": "426",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+426 total",
+      "tags": [
+        "ai-game-generator",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "game"
+      ]
+    },
+    {
+      "repo": "andrew-babo/muse4ai",
+      "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "stars": "402",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+402 total",
+      "tags": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T21:58:50.387Z",
+  "fetchedAt": "2026-11-10T06:11:54.134Z",
   "repos": [
     {
       "repo": "sarpstar/cinecode",
@@ -13,10 +13,10 @@
     {
       "repo": "Sandflow-ai/sand3d",
       "desc": "3D modeling in Python, built for LLMs.",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "HTML",
       "license": "Apache-2.0",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
       "tags": [
         "3d",
         "blender",
@@ -37,19 +37,19 @@
     {
       "repo": "DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "1.4k",
+      "stars": "1.5k",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+1.4k total",
+      "trend": "+1.5k total",
       "tags": []
     },
     {
       "repo": "JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "747",
+      "stars": "806",
       "lang": "Swift",
       "license": "AGPL-3.0",
-      "trend": "+747 total",
+      "trend": "+806 total",
       "tags": [
         "ai-agents",
         "automation",
@@ -61,10 +61,10 @@
     {
       "repo": "zeekk0/OpenAmika",
       "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "stars": "571",
+      "stars": "580",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+571 total",
+      "trend": "+580 total",
       "tags": [
         "ai-companion",
         "live2d",
@@ -76,10 +76,10 @@
     {
       "repo": "Renly1994/xiaotang-daozai",
       "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "stars": "551",
+      "stars": "564",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+551 total",
+      "trend": "+564 total",
       "tags": [
         "desktop-widget",
         "dynamic-island",
@@ -89,33 +89,42 @@
       ]
     },
     {
-      "repo": "mhfed/vn-law-check",
-      "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "stars": "489",
-      "lang": "Shell",
-      "license": "NOASSERTION",
-      "trend": "+489 total",
-      "tags": [
-        "agent-md",
-        "agent-skills",
-        "claude-code",
-        "claude-plugin",
-        "claude-skills"
-      ]
+      "repo": "andrew-babo/muse4ai",
+      "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "stars": "486",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+486 total",
+      "tags": []
     },
     {
       "repo": "dhruvthakur11/youtube-ai-video-editing-system",
       "desc": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
-      "stars": "480",
+      "stars": "481",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+480 total",
+      "trend": "+481 total",
       "tags": [
         "ai-agents",
         "ai-video-editing",
         "animation",
         "claude-design",
         "design"
+      ]
+    },
+    {
+      "repo": "xebhjb-blip/claude-desktop-toolkit-full",
+      "desc": "Claude AI Local Tools: Full Pre-Activated Desktop Edition, Everything Included",
+      "stars": "480",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+480 total",
+      "tags": [
+        "automation",
+        "claude-jailbreak-2026",
+        "claude-jailbreak-3-5-sonnet",
+        "claude-jailbreak-opus",
+        "claude-jailbreak-sonnet"
       ]
     },
     {
@@ -146,21 +155,6 @@
         "ai-open-source",
         "ai-web-app-builder",
         "ai-web-builder"
-      ]
-    },
-    {
-      "repo": "bhaviammu06-collab/adobe-air-desktop-tool",
-      "desc": "Adobe AIR SDK for Windows: Build Cross-Platform Desktop Apps with AJAX, HTML, and Flash",
-      "stars": "479",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+479 total",
-      "tags": [
-        "adobe-air-installer",
-        "adobe-air-setup",
-        "adobe-air-windows",
-        "ajax",
-        "download-adobe-air"
       ]
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-10T06:11:54.134Z",
+  "fetchedAt": "2026-11-10T19:23:40.948Z",
   "repos": [
     {
       "repo": "sarpstar/cinecode",
       "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": []
     },
     {
@@ -26,30 +26,30 @@
       ]
     },
     {
-      "repo": "shanselman/gputaskman",
-      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "stars": "1.5k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.5k total",
+      "repo": "DIYgod/pinky",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "stars": "1.6k",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+1.6k total",
       "tags": []
     },
     {
-      "repo": "DIYgod/pinky",
-      "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "1.5k",
-      "lang": "Go",
-      "license": "Apache-2.0",
-      "trend": "+1.5k total",
+      "repo": "shanselman/gputaskman",
+      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "stars": "1.6k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.6k total",
       "tags": []
     },
     {
       "repo": "JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "806",
+      "stars": "907",
       "lang": "Swift",
       "license": "AGPL-3.0",
-      "trend": "+806 total",
+      "trend": "+907 total",
       "tags": [
         "ai-agents",
         "automation",
@@ -59,27 +59,12 @@
       ]
     },
     {
-      "repo": "zeekk0/OpenAmika",
-      "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "stars": "580",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+580 total",
-      "tags": [
-        "ai-companion",
-        "live2d",
-        "long-term-memory",
-        "mekahime",
-        "ollama"
-      ]
-    },
-    {
       "repo": "Renly1994/xiaotang-daozai",
       "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "stars": "564",
+      "stars": "611",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+564 total",
+      "trend": "+611 total",
       "tags": [
         "desktop-widget",
         "dynamic-island",
@@ -89,13 +74,58 @@
       ]
     },
     {
+      "repo": "zeekk0/OpenAmika",
+      "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "stars": "590",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+590 total",
+      "tags": [
+        "ai-companion",
+        "live2d",
+        "long-term-memory",
+        "mekahime",
+        "ollama"
+      ]
+    },
+    {
+      "repo": "dabingfy-dot/solo-to-team-skills",
+      "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "stars": "546",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+546 total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "collaboration",
+        "human-in-the-loop",
+        "workflow"
+      ]
+    },
+    {
       "repo": "andrew-babo/muse4ai",
       "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
-      "stars": "486",
+      "stars": "529",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+486 total",
+      "trend": "+529 total",
       "tags": []
+    },
+    {
+      "repo": "AbhiKamane/ai-app-builder-open",
+      "desc": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
+      "stars": "481",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+481 total",
+      "tags": [
+        "ai-app-builder",
+        "ai-code-generation",
+        "ai-open-source",
+        "ai-web-app-builder",
+        "ai-web-builder"
+      ]
     },
     {
       "repo": "dhruvthakur11/youtube-ai-video-editing-system",
@@ -113,48 +143,18 @@
       ]
     },
     {
-      "repo": "xebhjb-blip/claude-desktop-toolkit-full",
-      "desc": "Claude AI Local Tools: Full Pre-Activated Desktop Edition, Everything Included",
-      "stars": "480",
-      "lang": "HTML",
-      "license": "Other",
-      "trend": "+480 total",
-      "tags": [
-        "automation",
-        "claude-jailbreak-2026",
-        "claude-jailbreak-3-5-sonnet",
-        "claude-jailbreak-opus",
-        "claude-jailbreak-sonnet"
-      ]
-    },
-    {
       "repo": "hembramneeraj3-create/aida-64-extreme",
       "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-      "stars": "479",
+      "stars": "480",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+479 total",
+      "trend": "+480 total",
       "tags": [
         "aida64",
         "aida64-extreme-compatibility-check",
         "aida64-extreme-detailed-reporting",
         "aida64-extreme-hardware-diagnostics",
         "aida64-extreme-setup"
-      ]
-    },
-    {
-      "repo": "AbhiKamane/ai-app-builder-open",
-      "desc": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
-      "stars": "479",
-      "lang": "HTML",
-      "license": "Other",
-      "trend": "+479 total",
-      "tags": [
-        "ai-app-builder",
-        "ai-code-generation",
-        "ai-open-source",
-        "ai-web-app-builder",
-        "ai-web-builder"
       ]
     }
   ]

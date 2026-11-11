@@ -1,55 +1,22 @@
 {
-  "fetchedAt": "2026-11-10T19:23:40.948Z",
+  "fetchedAt": "2026-11-11T04:57:30.995Z",
   "repos": [
-    {
-      "repo": "sarpstar/cinecode",
-      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "stars": "2.0k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+2.0k total",
-      "tags": []
-    },
-    {
-      "repo": "Sandflow-ai/sand3d",
-      "desc": "3D modeling in Python, built for LLMs.",
-      "stars": "1.7k",
-      "lang": "HTML",
-      "license": "Apache-2.0",
-      "trend": "+1.7k total",
-      "tags": [
-        "3d",
-        "blender",
-        "cad",
-        "llm",
-        "procedural-modeling"
-      ]
-    },
     {
       "repo": "DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+1.6k total",
-      "tags": []
-    },
-    {
-      "repo": "shanselman/gputaskman",
-      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "stars": "1.6k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
       "tags": []
     },
     {
       "repo": "JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "907",
+      "stars": "937",
       "lang": "Swift",
       "license": "AGPL-3.0",
-      "trend": "+907 total",
+      "trend": "+937 total",
       "tags": [
         "ai-agents",
         "automation",
@@ -59,42 +26,42 @@
       ]
     },
     {
-      "repo": "Renly1994/xiaotang-daozai",
-      "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "stars": "611",
-      "lang": "Rust",
+      "repo": "hembramneeraj3-create/aida-64-extreme",
+      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "stars": "772",
+      "lang": "HTML",
       "license": "MIT",
-      "trend": "+611 total",
+      "trend": "+772 total",
       "tags": [
-        "desktop-widget",
-        "dynamic-island",
-        "egui",
-        "productivity",
-        "rust"
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup"
       ]
     },
     {
-      "repo": "zeekk0/OpenAmika",
-      "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "stars": "590",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+590 total",
+      "repo": "Arda313131882/aion-2-trainer-tool",
+      "desc": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "stars": "772",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+772 total",
       "tags": [
-        "ai-companion",
-        "live2d",
-        "long-term-memory",
-        "mekahime",
-        "ollama"
+        "aion-2",
+        "aion-2-2026",
+        "aion-2-game",
+        "aion-2-optimizer",
+        "aion-2-trainer"
       ]
     },
     {
       "repo": "dabingfy-dot/solo-to-team-skills",
       "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": "546",
+      "stars": "582",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+546 total",
+      "trend": "+582 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -104,13 +71,19 @@
       ]
     },
     {
-      "repo": "andrew-babo/muse4ai",
-      "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
-      "stars": "529",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+529 total",
-      "tags": []
+      "repo": "crewbookkeepercastle/trx-drainer-bot",
+      "desc": "Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software catalog.",
+      "stars": "564",
+      "lang": "Other",
+      "license": "Other",
+      "trend": "+564 total",
+      "tags": [
+        "automation",
+        "developer-tools",
+        "drain-bot",
+        "drain-protocol",
+        "drainer-usdt-tool"
+      ]
     },
     {
       "repo": "AbhiKamane/ai-app-builder-open",
@@ -143,8 +116,8 @@
       ]
     },
     {
-      "repo": "hembramneeraj3-create/aida-64-extreme",
-      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "repo": "hasinthakanakarathna/aida-64-extreme-desktop",
+      "desc": "AIDA-64-Extreme: Pre-Activated Desktop Edition with Full Feature Set",
       "stars": "480",
       "lang": "HTML",
       "license": "MIT",
@@ -156,6 +129,45 @@
         "aida64-extreme-hardware-diagnostics",
         "aida64-extreme-setup"
       ]
+    },
+    {
+      "repo": "ajayuv21/ozone-mastering-suite",
+      "desc": "AI-Assisted Mastering Suite with Spectral Shaping and Codec Preview",
+      "stars": "479",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+479 total",
+      "tags": [
+        "audio-mastering",
+        "audio-plugin",
+        "izotope",
+        "izotope-ozone",
+        "loudness"
+      ]
+    },
+    {
+      "repo": "ZSeven-W/dsh-game-studio",
+      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+      "stars": "468",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+468 total",
+      "tags": [
+        "ai-agent",
+        "ai-game-generator",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "repo": "musubipapi/airpointer",
+      "desc": "(暂无描述)",
+      "stars": "358",
+      "lang": "Swift",
+      "license": "MIT",
+      "trend": "+358 total",
+      "tags": []
     }
   ]
 }

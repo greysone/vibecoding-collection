@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-11-11T04:57:30.995Z",
+  "fetchedAt": "2026-11-11T19:17:54.882Z",
   "repos": [
     {
       "repo": "DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "1.7k",
+      "stars": "1.9k",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+1.7k total",
+      "trend": "+1.9k total",
       "tags": []
-    },
-    {
-      "repo": "JosssphZhou/poki",
-      "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "937",
-      "lang": "Swift",
-      "license": "AGPL-3.0",
-      "trend": "+937 total",
-      "tags": [
-        "ai-agents",
-        "automation",
-        "ios",
-        "iphone",
-        "mcp"
-      ]
     },
     {
       "repo": "hembramneeraj3-create/aida-64-extreme",
       "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-      "stars": "772",
+      "stars": "1.3k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+772 total",
+      "trend": "+1.3k total",
       "tags": [
         "aida64",
         "aida64-extreme-compatibility-check",
@@ -43,10 +28,10 @@
     {
       "repo": "Arda313131882/aion-2-trainer-tool",
       "desc": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
-      "stars": "772",
+      "stars": "1.3k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+772 total",
+      "trend": "+1.3k total",
       "tags": [
         "aion-2",
         "aion-2-2026",
@@ -56,12 +41,27 @@
       ]
     },
     {
+      "repo": "JosssphZhou/poki",
+      "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "stars": "970",
+      "lang": "Swift",
+      "license": "AGPL-3.0",
+      "trend": "+970 total",
+      "tags": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp"
+      ]
+    },
+    {
       "repo": "dabingfy-dot/solo-to-team-skills",
       "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": "582",
+      "stars": "644",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+582 total",
+      "trend": "+644 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -71,18 +71,33 @@
       ]
     },
     {
-      "repo": "crewbookkeepercastle/trx-drainer-bot",
-      "desc": "Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software catalog.",
-      "stars": "564",
-      "lang": "Other",
-      "license": "Other",
-      "trend": "+564 total",
+      "repo": "ZSeven-W/dsh-game-studio",
+      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+      "stars": "488",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+488 total",
       "tags": [
-        "automation",
-        "developer-tools",
-        "drain-bot",
-        "drain-protocol",
-        "drainer-usdt-tool"
+        "ai-agent",
+        "ai-game-generator",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "repo": "dhruvthakur11/youtube-ai-video-editing-system",
+      "desc": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+      "stars": "482",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+482 total",
+      "tags": [
+        "ai-agents",
+        "ai-video-editing",
+        "animation",
+        "claude-design",
+        "design"
       ]
     },
     {
@@ -98,21 +113,6 @@
         "ai-open-source",
         "ai-web-app-builder",
         "ai-web-builder"
-      ]
-    },
-    {
-      "repo": "dhruvthakur11/youtube-ai-video-editing-system",
-      "desc": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
-      "stars": "481",
-      "lang": "HTML",
-      "license": "Other",
-      "trend": "+481 total",
-      "tags": [
-        "ai-agents",
-        "ai-video-editing",
-        "animation",
-        "claude-design",
-        "design"
       ]
     },
     {
@@ -133,10 +133,10 @@
     {
       "repo": "ajayuv21/ozone-mastering-suite",
       "desc": "AI-Assisted Mastering Suite with Spectral Shaping and Codec Preview",
-      "stars": "479",
+      "stars": "480",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+479 total",
+      "trend": "+480 total",
       "tags": [
         "audio-mastering",
         "audio-plugin",
@@ -146,27 +146,27 @@
       ]
     },
     {
-      "repo": "ZSeven-W/dsh-game-studio",
-      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-      "stars": "468",
-      "lang": "TypeScript",
+      "repo": "Dodaios/ste80-humanizer",
+      "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "stars": "390",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+468 total",
+      "trend": "+390 total",
       "tags": [
-        "ai-agent",
-        "ai-game-generator",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills"
       ]
     },
     {
       "repo": "musubipapi/airpointer",
       "desc": "(暂无描述)",
-      "stars": "358",
+      "stars": "370",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+358 total",
+      "trend": "+370 total",
       "tags": []
     }
   ]

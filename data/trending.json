@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-11-12T05:59:26.948Z",
+  "fetchedAt": "2026-11-12T19:36:38.220Z",
   "repos": [
     {
       "repo": "DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": []
     },
     {
       "repo": "hembramneeraj3-create/aida-64-extreme",
       "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-      "stars": "1.3k",
+      "stars": "1.2k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.2k total",
       "tags": [
         "aida64",
         "aida64-extreme-compatibility-check",
@@ -28,10 +28,10 @@
     {
       "repo": "Arda313131882/aion-2-trainer-tool",
       "desc": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
-      "stars": "1.3k",
+      "stars": "1.2k",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.2k total",
       "tags": [
         "aion-2",
         "aion-2-2026",
@@ -41,72 +41,12 @@
       ]
     },
     {
-      "repo": "JosssphZhou/poki",
-      "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "986",
-      "lang": "Swift",
-      "license": "AGPL-3.0",
-      "trend": "+986 total",
-      "tags": [
-        "ai-agents",
-        "automation",
-        "ios",
-        "iphone",
-        "mcp"
-      ]
-    },
-    {
-      "repo": "dabingfy-dot/solo-to-team-skills",
-      "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": "695",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+695 total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "collaboration",
-        "human-in-the-loop",
-        "workflow"
-      ]
-    },
-    {
-      "repo": "FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes. Free and open source.",
-      "stars": "520",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+520 total",
-      "tags": [
-        "electron",
-        "linux",
-        "llama-cpp",
-        "local-ai",
-        "macos"
-      ]
-    },
-    {
-      "repo": "ZSeven-W/dsh-game-studio",
-      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-      "stars": "505",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+505 total",
-      "tags": [
-        "ai-agent",
-        "ai-game-generator",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ]
-    },
-    {
       "repo": "agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "stars": "501",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+501 total",
+      "trend": "+1.1k total",
       "tags": [
         "agentic-ai",
         "ai-agents",
@@ -116,12 +56,102 @@
       ]
     },
     {
+      "repo": "JosssphZhou/poki",
+      "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "stars": "1.0k",
+      "lang": "Swift",
+      "license": "AGPL-3.0",
+      "trend": "+1.0k total",
+      "tags": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp"
+      ]
+    },
+    {
+      "repo": "FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "stars": "854",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+854 total",
+      "tags": [
+        "electron",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "macos"
+      ]
+    },
+    {
+      "repo": "dabingfy-dot/solo-to-team-skills",
+      "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "stars": "772",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+772 total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "collaboration",
+        "human-in-the-loop",
+        "workflow"
+      ]
+    },
+    {
+      "repo": "ZSeven-W/dsh-game-studio",
+      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+      "stars": "529",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+529 total",
+      "tags": [
+        "ai-agent",
+        "ai-game-generator",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "repo": "Dodaios/ste80-humanizer",
+      "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "stars": "449",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+449 total",
+      "tags": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills"
+      ]
+    },
+    {
+      "repo": "qiaoranlaodou-cpu/your-next-point",
+      "desc": "《你的下一分在哪里：AI 时代的公考备考方法》全书免费开放，卷蜂啦·林照 著。",
+      "stars": "389",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+389 total",
+      "tags": [
+        "ai-for-learning",
+        "chinese",
+        "civil-service-exam",
+        "open-book",
+        "study-methods"
+      ]
+    },
+    {
       "repo": "dhruvthakur11/youtube-ai-video-editing-system",
       "desc": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
-      "stars": "483",
+      "stars": "386",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+483 total",
+      "trend": "+386 total",
       "tags": [
         "ai-agents",
         "ai-video-editing",
@@ -133,46 +163,16 @@
     {
       "repo": "AbhiKamane/ai-app-builder-open",
       "desc": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
-      "stars": "481",
+      "stars": "384",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+481 total",
+      "trend": "+384 total",
       "tags": [
         "ai-app-builder",
         "ai-code-generation",
         "ai-open-source",
         "ai-web-app-builder",
         "ai-web-builder"
-      ]
-    },
-    {
-      "repo": "hasinthakanakarathna/aida-64-extreme-desktop",
-      "desc": "AIDA-64-Extreme: Pre-Activated Desktop Edition with Full Feature Set",
-      "stars": "480",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+480 total",
-      "tags": [
-        "aida64",
-        "aida64-extreme-compatibility-check",
-        "aida64-extreme-detailed-reporting",
-        "aida64-extreme-hardware-diagnostics",
-        "aida64-extreme-setup"
-      ]
-    },
-    {
-      "repo": "ajayuv21/ozone-mastering-suite",
-      "desc": "AI-Assisted Mastering Suite with Spectral Shaping and Codec Preview",
-      "stars": "480",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+480 total",
-      "tags": [
-        "audio-mastering",
-        "audio-plugin",
-        "izotope",
-        "izotope-ozone",
-        "loudness"
       ]
     }
   ]

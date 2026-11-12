@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T19:17:54.882Z",
+  "fetchedAt": "2026-11-12T05:59:26.948Z",
   "repos": [
     {
       "repo": "DIYgod/pinky",
@@ -43,10 +43,10 @@
     {
       "repo": "JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": "970",
+      "stars": "986",
       "lang": "Swift",
       "license": "AGPL-3.0",
-      "trend": "+970 total",
+      "trend": "+986 total",
       "tags": [
         "ai-agents",
         "automation",
@@ -58,10 +58,10 @@
     {
       "repo": "dabingfy-dot/solo-to-team-skills",
       "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": "644",
+      "stars": "695",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+644 total",
+      "trend": "+695 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -71,12 +71,27 @@
       ]
     },
     {
-      "repo": "ZSeven-W/dsh-game-studio",
-      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-      "stars": "488",
+      "repo": "FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "stars": "520",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+488 total",
+      "trend": "+520 total",
+      "tags": [
+        "electron",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "macos"
+      ]
+    },
+    {
+      "repo": "ZSeven-W/dsh-game-studio",
+      "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+      "stars": "505",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+505 total",
       "tags": [
         "ai-agent",
         "ai-game-generator",
@@ -86,12 +101,27 @@
       ]
     },
     {
+      "repo": "agentes-chat/agentes-chat",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "stars": "501",
+      "lang": "TypeScript",
+      "license": "AGPL-3.0",
+      "trend": "+501 total",
+      "tags": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude"
+      ]
+    },
+    {
       "repo": "dhruvthakur11/youtube-ai-video-editing-system",
       "desc": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
-      "stars": "482",
+      "stars": "483",
       "lang": "HTML",
       "license": "Other",
-      "trend": "+482 total",
+      "trend": "+483 total",
       "tags": [
         "ai-agents",
         "ai-video-editing",
@@ -144,30 +174,6 @@
         "izotope-ozone",
         "loudness"
       ]
-    },
-    {
-      "repo": "Dodaios/ste80-humanizer",
-      "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "stars": "390",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+390 total",
-      "tags": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills"
-      ]
-    },
-    {
-      "repo": "musubipapi/airpointer",
-      "desc": "(暂无描述)",
-      "stars": "370",
-      "lang": "Swift",
-      "license": "MIT",
-      "trend": "+370 total",
-      "tags": []
     }
   ]
 }

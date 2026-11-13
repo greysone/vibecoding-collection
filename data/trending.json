@@ -1,28 +1,49 @@
 {
-  "fetchedAt": "2026-11-13T05:24:12.102Z",
+  "fetchedAt": "2026-11-13T19:16:24.794Z",
   "repos": [
     {
       "repo": "DIYgod/pinky",
-      "desc": "Let AI agents use your phone, with you in the loop.",
-      "stars": "2.0k",
+      "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "stars": "2.1k",
       "lang": "Go",
       "license": "Apache-2.0",
-      "trend": "+2.0k total",
-      "tags": []
+      "trend": "+2.1k total",
+      "tags": [
+        "ai-agent",
+        "android",
+        "claude-code",
+        "ios",
+        "iphone"
+      ]
     },
     {
       "repo": "agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "agentic-ai",
         "ai-agents",
         "browser-automation",
         "chat",
         "claude"
+      ]
+    },
+    {
+      "repo": "FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "stars": "1.2k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.2k total",
+      "tags": [
+        "ai-meeting-assistant",
+        "electron",
+        "linux",
+        "llama-cpp",
+        "local-ai"
       ]
     },
     {
@@ -56,27 +77,12 @@
       ]
     },
     {
-      "repo": "FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes. Free and open source.",
-      "stars": "1.0k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.0k total",
-      "tags": [
-        "ai-meeting-assistant",
-        "electron",
-        "linux",
-        "llama-cpp",
-        "local-ai"
-      ]
-    },
-    {
       "repo": "dabingfy-dot/solo-to-team-skills",
       "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": "805",
+      "stars": "841",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+805 total",
+      "trend": "+841 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -88,10 +94,10 @@
     {
       "repo": "Dodaios/ste80-humanizer",
       "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "stars": "465",
+      "stars": "486",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+465 total",
+      "trend": "+486 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -103,10 +109,10 @@
     {
       "repo": "qiaoranlaodou-cpu/your-next-point",
       "desc": "《你的下一分在哪里：AI 时代的公考备考方法》全书免费开放，卷蜂啦·林照 著。",
-      "stars": "402",
+      "stars": "457",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+402 total",
+      "trend": "+457 total",
       "tags": [
         "ai-for-learning",
         "chinese",
@@ -118,11 +124,26 @@
     {
       "repo": "musubipapi/airpointer",
       "desc": "(暂无描述)",
-      "stars": "386",
+      "stars": "391",
       "lang": "Swift",
       "license": "MIT",
-      "trend": "+386 total",
+      "trend": "+391 total",
       "tags": []
+    },
+    {
+      "repo": "gogoymh/auto-ontology-mcp",
+      "desc": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "stars": "388",
+      "lang": "Python",
+      "license": "Apache-2.0",
+      "trend": "+388 total",
+      "tags": [
+        "chatgpt",
+        "claude",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol"
+      ]
     },
     {
       "repo": "dhruvthakur11/youtube-ai-video-editing-system",
@@ -152,21 +173,6 @@
         "ai-open-source",
         "ai-web-app-builder",
         "ai-web-builder"
-      ]
-    },
-    {
-      "repo": "hasinthakanakarathna/aida-64-extreme-desktop",
-      "desc": "AIDA-64-Extreme: Pre-Activated Desktop Edition with Full Feature Set",
-      "stars": "383",
-      "lang": "HTML",
-      "license": "MIT",
-      "trend": "+383 total",
-      "tags": [
-        "aida64",
-        "aida64-extreme-compatibility-check",
-        "aida64-extreme-detailed-reporting",
-        "aida64-extreme-hardware-diagnostics",
-        "aida64-extreme-setup"
       ]
     }
   ]

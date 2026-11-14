@@ -1,6 +1,21 @@
 {
-  "fetchedAt": "2026-11-14T05:13:38.709Z",
+  "fetchedAt": "2026-11-14T17:42:48.408Z",
   "repos": [
+    {
+      "repo": "FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "stars": "1.4k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.4k total",
+      "tags": [
+        "ai-meeting-assistant",
+        "ai-notetaker",
+        "electron",
+        "granola-alternative",
+        "linux"
+      ]
+    },
     {
       "repo": "agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
@@ -17,27 +32,12 @@
       ]
     },
     {
-      "repo": "FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "stars": "1.3k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.3k total",
-      "tags": [
-        "ai-meeting-assistant",
-        "ai-notetaker",
-        "electron",
-        "granola-alternative",
-        "linux"
-      ]
-    },
-    {
       "repo": "dabingfy-dot/solo-to-team-skills",
       "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": "850",
+      "stars": "876",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+850 total",
+      "trend": "+876 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -49,10 +49,10 @@
     {
       "repo": "Dodaios/ste80-humanizer",
       "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "stars": "492",
+      "stars": "553",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+492 total",
+      "trend": "+553 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -64,16 +64,70 @@
     {
       "repo": "linknimiball1974/ai-texture-forge",
       "desc": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
-      "stars": "401",
+      "stars": "469",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+401 total",
+      "trend": "+469 total",
       "tags": [
         "dream-textures",
         "dream-textures-addon",
         "dream-textures-ai",
         "dream-textures-blender",
         "dream-textures-diffusion"
+      ]
+    },
+    {
+      "repo": "duwqijlk/muse-protocol",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "stars": "467",
+      "lang": "Python",
+      "license": "NOASSERTION",
+      "trend": "+467 total",
+      "tags": []
+    },
+    {
+      "repo": "berkantay/gpucanvas",
+      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "stars": "381",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+381 total",
+      "tags": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas"
+      ]
+    },
+    {
+      "repo": "op7418/guizang-game-skill",
+      "desc": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "stars": "339",
+      "lang": "JavaScript",
+      "license": "AGPL-3.0",
+      "trend": "+339 total",
+      "tags": [
+        "3d-game",
+        "action-game",
+        "agent-skills",
+        "ai-agents",
+        "ai-generated"
+      ]
+    },
+    {
+      "repo": "ersinkoc/phonebox",
+      "desc": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired Wi-Fi.",
+      "stars": "329",
+      "lang": "C#",
+      "license": "MIT",
+      "trend": "+329 total",
+      "tags": [
+        "android",
+        "claude-code",
+        "codex",
+        "dashboard",
+        "desk-panel"
       ]
     },
     {
@@ -86,27 +140,12 @@
       "tags": []
     },
     {
-      "repo": "op7418/guizang-game-skill",
-      "desc": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
-      "stars": "319",
-      "lang": "JavaScript",
-      "license": "AGPL-3.0",
-      "trend": "+319 total",
-      "tags": [
-        "3d-game",
-        "action-game",
-        "agent-skills",
-        "ai-agents",
-        "ai-generated"
-      ]
-    },
-    {
       "repo": "threerocks/article2media",
       "desc": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
-      "stars": "310",
+      "stars": "313",
       "lang": "JavaScript",
       "license": "MIT",
-      "trend": "+310 total",
+      "trend": "+313 total",
       "tags": [
         "agent-skills",
         "bilibili",
@@ -116,57 +155,18 @@
       ]
     },
     {
-      "repo": "ersinkoc/phonebox",
-      "desc": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired Wi-Fi.",
-      "stars": "309",
-      "lang": "C#",
-      "license": "MIT",
-      "trend": "+309 total",
-      "tags": [
-        "android",
-        "claude-code",
-        "codex",
-        "dashboard",
-        "desk-panel"
-      ]
-    },
-    {
-      "repo": "vzroslieigry/maxagent",
-      "desc": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
-      "stars": "265",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+265 total",
-      "tags": []
-    },
-    {
-      "repo": "huawei-csl/MACaQ",
-      "desc": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
-      "stars": "235",
-      "lang": "C++",
+      "repo": "WinnerBrokerBarrow/ai--manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "stars": "304",
+      "lang": "Other",
       "license": "Apache-2.0",
-      "trend": "+235 total",
+      "trend": "+304 total",
       "tags": [
-        "ascend",
-        "audio",
-        "audio-generation",
-        "diffusers",
-        "gguf"
-      ]
-    },
-    {
-      "repo": "berkantay/gpucanvas",
-      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "stars": "220",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+220 total",
-      "tags": [
+        "ai",
         "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas"
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
       ]
     }
   ]

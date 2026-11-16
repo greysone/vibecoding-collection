@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-11-16T05:03:48.617Z",
+  "fetchedAt": "2026-11-16T21:41:38.631Z",
   "repos": [
-    {
-      "repo": "FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "stars": "1.7k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.7k total",
-      "tags": [
-        "ai-meeting-assistant",
-        "ai-notetaker",
-        "electron",
-        "granola-alternative",
-        "linux"
-      ]
-    },
     {
       "repo": "hitkeeen/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "1.6k",
+      "stars": "2.1k",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+2.1k total",
       "tags": [
         "ai-agents",
         "ai-assistant",
@@ -32,12 +17,27 @@
       ]
     },
     {
+      "repo": "FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "stars": "1.8k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.8k total",
+      "tags": [
+        "ai-meeting-assistant",
+        "ai-notetaker",
+        "electron",
+        "granola-alternative",
+        "linux"
+      ]
+    },
+    {
       "repo": "agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "TypeScript",
       "license": "AGPL-3.0",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "agentic-ai",
         "ai-agents",
@@ -49,28 +49,28 @@
     {
       "repo": "duwqijlk/muse-protocol",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "stars": "1.1k",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+1.1k total",
+      "trend": "+1.4k total",
       "tags": []
     },
     {
       "repo": "ZiChuanLan/freebie-radar",
-      "desc": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "stars": "877",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+877 total",
+      "trend": "+1.1k total",
       "tags": []
     },
     {
       "repo": "Dodaios/ste80-humanizer",
       "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "stars": "701",
+      "stars": "737",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+701 total",
+      "trend": "+737 total",
       "tags": [
         "agent-skills",
         "ai-writing",
@@ -82,10 +82,10 @@
     {
       "repo": "linknimiball1974/ai-texture-forge",
       "desc": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
-      "stars": "682",
+      "stars": "684",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+682 total",
+      "trend": "+684 total",
       "tags": [
         "dream-textures",
         "dream-textures-addon",
@@ -95,12 +95,21 @@
       ]
     },
     {
+      "repo": "haziqahmedqasmi/PeakCut",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "stars": "627",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+627 total",
+      "tags": []
+    },
+    {
       "repo": "credoksopho1984/blender-ai-copilot-studio",
       "desc": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
-      "stars": "513",
+      "stars": "516",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+513 total",
+      "trend": "+516 total",
       "tags": [
         "3d-automation",
         "3d-modeling",
@@ -112,10 +121,10 @@
     {
       "repo": "racdeufindurch198812/Blender-AI-MCP-Studio",
       "desc": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
-      "stars": "511",
+      "stars": "514",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+511 total",
+      "trend": "+514 total",
       "tags": [
         "3d-automation",
         "3d-modeling",
@@ -127,10 +136,10 @@
     {
       "repo": "tiobeharxi1987/blender-ai-copilot-flow",
       "desc": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
-      "stars": "510",
+      "stars": "514",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+510 total",
+      "trend": "+514 total",
       "tags": [
         "3d-automation",
         "3d-modeling",
@@ -142,25 +151,10 @@
     {
       "repo": "zovulrira1974/blender-ai-copilot-assets",
       "desc": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "508",
+      "stars": "510",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+508 total",
-      "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
-      ]
-    },
-    {
-      "repo": "Doug-218/blender-ai-copilot-forge",
-      "desc": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "508",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+508 total",
+      "trend": "+510 total",
       "tags": [
         "3d-automation",
         "3d-modeling",

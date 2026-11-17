@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-11-17T06:51:35.375Z",
+  "fetchedAt": "2026-11-17T20:31:15.392Z",
   "repos": [
-    {
-      "repo": "hitkeeen/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "2.3k",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+2.3k total",
-      "tags": [
-        "ai-agents",
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai"
-      ]
-    },
     {
       "repo": "FrigadeHQ/yogurt",
       "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": [
         "ai-meeting-assistant",
         "ai-notetaker",
@@ -34,29 +19,53 @@
     {
       "repo": "duwqijlk/muse-protocol",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
+      "tags": []
+    },
+    {
+      "repo": "Immortal-Protocols/lastbook",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "stars": "1.6k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.6k total",
       "tags": []
     },
     {
       "repo": "ZiChuanLan/freebie-radar",
       "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "stars": "1.2k",
+      "stars": "1.4k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.4k total",
       "tags": []
     },
     {
       "repo": "haziqahmedqasmi/PeakCut",
       "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "stars": "700",
+      "stars": "843",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+700 total",
+      "trend": "+843 total",
       "tags": []
+    },
+    {
+      "repo": "sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "stars": "843",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+843 total",
+      "tags": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm"
+      ]
     },
     {
       "repo": "linknimiball1974/ai-texture-forge",
@@ -91,10 +100,10 @@
     {
       "repo": "racdeufindurch198812/Blender-AI-MCP-Studio",
       "desc": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
-      "stars": "514",
+      "stars": "515",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+514 total",
+      "trend": "+515 total",
       "tags": [
         "3d-automation",
         "3d-modeling",
@@ -119,6 +128,21 @@
       ]
     },
     {
+      "repo": "berkantay/gpucanvas",
+      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "stars": "514",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+514 total",
+      "tags": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas"
+      ]
+    },
+    {
       "repo": "zovulrira1974/blender-ai-copilot-assets",
       "desc": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
       "stars": "510",
@@ -131,36 +155,6 @@
         "blender",
         "blender-addon",
         "blender-agents"
-      ]
-    },
-    {
-      "repo": "Doug-218/blender-ai-copilot-forge",
-      "desc": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "509",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+509 total",
-      "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
-      ]
-    },
-    {
-      "repo": "berkantay/gpucanvas",
-      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "stars": "508",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+508 total",
-      "tags": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas"
       ]
     }
   ]

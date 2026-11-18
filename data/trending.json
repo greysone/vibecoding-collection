@@ -1,20 +1,14 @@
 {
-  "fetchedAt": "2026-11-17T20:31:15.392Z",
+  "fetchedAt": "2026-11-18T06:11:00.809Z",
   "repos": [
     {
-      "repo": "FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "stars": "2.0k",
-      "lang": "TypeScript",
+      "repo": "Immortal-Protocols/lastbook",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "stars": "1.9k",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+2.0k total",
-      "tags": [
-        "ai-meeting-assistant",
-        "ai-notetaker",
-        "electron",
-        "granola-alternative",
-        "linux"
-      ]
+      "trend": "+1.9k total",
+      "tags": []
     },
     {
       "repo": "duwqijlk/muse-protocol",
@@ -26,39 +20,21 @@
       "tags": []
     },
     {
-      "repo": "Immortal-Protocols/lastbook",
-      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "stars": "1.6k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.6k total",
-      "tags": []
-    },
-    {
       "repo": "ZiChuanLan/freebie-radar",
       "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "stars": "1.4k",
+      "stars": "1.5k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.4k total",
-      "tags": []
-    },
-    {
-      "repo": "haziqahmedqasmi/PeakCut",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "stars": "843",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+843 total",
+      "trend": "+1.5k total",
       "tags": []
     },
     {
       "repo": "sybil-solutions/inference-optimisation-skill",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": "843",
+      "stars": "967",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+843 total",
+      "trend": "+967 total",
       "tags": [
         "agent-skill",
         "benchmarking",
@@ -66,6 +42,15 @@
         "inference",
         "llm"
       ]
+    },
+    {
+      "repo": "haziqahmedqasmi/PeakCut",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "stars": "911",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+911 total",
+      "tags": []
     },
     {
       "repo": "linknimiball1974/ai-texture-forge",
@@ -80,6 +65,36 @@
         "dream-textures-ai",
         "dream-textures-blender",
         "dream-textures-diffusion"
+      ]
+    },
+    {
+      "repo": "boringmarketer/boring-marketing-skills",
+      "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "stars": "567",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+567 total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "copywriting"
+      ]
+    },
+    {
+      "repo": "berkantay/gpucanvas",
+      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "stars": "518",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+518 total",
+      "tags": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas"
       ]
     },
     {
@@ -125,21 +140,6 @@
         "blender",
         "blender-addon",
         "blender-agents"
-      ]
-    },
-    {
-      "repo": "berkantay/gpucanvas",
-      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "stars": "514",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+514 total",
-      "tags": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas"
       ]
     },
     {

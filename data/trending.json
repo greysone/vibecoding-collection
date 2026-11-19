@@ -1,13 +1,22 @@
 {
-  "fetchedAt": "2026-11-18T20:02:54.635Z",
+  "fetchedAt": "2026-11-19T06:12:35.086Z",
   "repos": [
     {
       "repo": "Immortal-Protocols/lastbook",
       "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "stars": "2.1k",
+      "stars": "2.2k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.2k total",
+      "tags": []
+    },
+    {
+      "repo": "ZiChuanLan/freebie-radar",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "stars": "1.7k",
+      "lang": "TypeScript",
+      "license": "MIT",
+      "trend": "+1.7k total",
       "tags": []
     },
     {
@@ -20,13 +29,19 @@
       "tags": []
     },
     {
-      "repo": "ZiChuanLan/freebie-radar",
-      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "stars": "1.6k",
-      "lang": "TypeScript",
+      "repo": "sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "stars": "1.2k",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+1.6k total",
-      "tags": []
+      "trend": "+1.2k total",
+      "tags": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm"
+      ]
     },
     {
       "repo": "haziqahmedqasmi/PeakCut",
@@ -38,42 +53,12 @@
       "tags": []
     },
     {
-      "repo": "sybil-solutions/inference-optimisation-skill",
-      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": "1.1k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.1k total",
-      "tags": [
-        "agent-skill",
-        "benchmarking",
-        "claude-code",
-        "inference",
-        "llm"
-      ]
-    },
-    {
-      "repo": "linknimiball1974/ai-texture-forge",
-      "desc": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
-      "stars": "685",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+685 total",
-      "tags": [
-        "dream-textures",
-        "dream-textures-addon",
-        "dream-textures-ai",
-        "dream-textures-blender",
-        "dream-textures-diffusion"
-      ]
-    },
-    {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "652",
+      "stars": "677",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+652 total",
+      "trend": "+677 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -85,10 +70,10 @@
     {
       "repo": "berkantay/gpucanvas",
       "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "stars": "524",
+      "stars": "529",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+524 total",
+      "trend": "+529 total",
       "tags": [
         "ai-agents",
         "canvas",
@@ -149,6 +134,21 @@
       "lang": "Other",
       "license": "MIT",
       "trend": "+511 total",
+      "tags": [
+        "3d-automation",
+        "3d-modeling",
+        "blender",
+        "blender-addon",
+        "blender-agents"
+      ]
+    },
+    {
+      "repo": "zovulrira1974/blender-ai-copilot-assets",
+      "desc": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "stars": "510",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+510 total",
       "tags": [
         "3d-automation",
         "3d-modeling",

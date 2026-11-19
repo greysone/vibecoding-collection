@@ -1,31 +1,40 @@
 {
-  "fetchedAt": "2026-11-19T06:12:35.086Z",
+  "fetchedAt": "2026-11-19T20:01:23.502Z",
   "repos": [
     {
       "repo": "Immortal-Protocols/lastbook",
       "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "stars": "2.2k",
+      "stars": "2.5k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.2k total",
+      "trend": "+2.5k total",
       "tags": []
     },
     {
       "repo": "ZiChuanLan/freebie-radar",
       "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "stars": "1.7k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+1.8k total",
       "tags": []
     },
     {
       "repo": "duwqijlk/muse-protocol",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "stars": "1.6k",
+      "stars": "1.7k",
       "lang": "Python",
       "license": "NOASSERTION",
-      "trend": "+1.6k total",
+      "trend": "+1.7k total",
+      "tags": []
+    },
+    {
+      "repo": "haziqahmedqasmi/PeakCut",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "stars": "1.3k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.3k total",
       "tags": []
     },
     {
@@ -44,21 +53,12 @@
       ]
     },
     {
-      "repo": "haziqahmedqasmi/PeakCut",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "stars": "1.1k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.1k total",
-      "tags": []
-    },
-    {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "677",
+      "stars": "709",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+677 total",
+      "trend": "+709 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -70,10 +70,10 @@
     {
       "repo": "berkantay/gpucanvas",
       "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "stars": "529",
+      "stars": "535",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+529 total",
+      "trend": "+535 total",
       "tags": [
         "ai-agents",
         "canvas",
@@ -128,12 +128,12 @@
       ]
     },
     {
-      "repo": "Doug-218/blender-ai-copilot-forge",
-      "desc": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "511",
+      "repo": "zovulrira1974/blender-ai-copilot-assets",
+      "desc": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "stars": "510",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+511 total",
+      "trend": "+510 total",
       "tags": [
         "3d-automation",
         "3d-modeling",
@@ -143,12 +143,12 @@
       ]
     },
     {
-      "repo": "zovulrira1974/blender-ai-copilot-assets",
-      "desc": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "510",
+      "repo": "Doug-218/blender-ai-copilot-forge",
+      "desc": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "stars": "509",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+510 total",
+      "trend": "+509 total",
       "tags": [
         "3d-automation",
         "3d-modeling",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T05:58:01.092Z",
+  "fetchedAt": "2026-11-20T19:39:47.658Z",
   "repos": [
     {
       "repo": "duwqijlk/muse-protocol",
@@ -13,11 +13,26 @@
     {
       "repo": "haziqahmedqasmi/PeakCut",
       "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "stars": "1.4k",
+      "stars": "1.5k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.5k total",
       "tags": []
+    },
+    {
+      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": "1.4k",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+1.4k total",
+      "tags": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai"
+      ]
     },
     {
       "repo": "sybil-solutions/inference-optimisation-skill",
@@ -35,27 +50,27 @@
       ]
     },
     {
-      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "824",
-      "lang": "Other",
+      "repo": "iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": "1.2k",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+824 total",
+      "trend": "+1.2k total",
       "tags": [
-        "ai-agents",
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai"
+        "clipping",
+        "ffmpeg",
+        "shorts",
+        "video",
+        "whisper"
       ]
     },
     {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "723",
+      "stars": "737",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+723 total",
+      "trend": "+737 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -65,18 +80,18 @@
       ]
     },
     {
-      "repo": "iamajmeena/neonclipping",
-      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "stars": "536",
+      "repo": "mankidev/antialgorithm",
+      "desc": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+      "stars": "556",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+536 total",
+      "trend": "+556 total",
       "tags": [
-        "clipping",
-        "ffmpeg",
-        "shorts",
-        "video",
-        "whisper"
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex"
       ]
     },
     {
@@ -125,22 +140,7 @@
       ]
     },
     {
-      "repo": "VortexHostFeel/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "472",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+472 total",
-      "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ]
-    },
-    {
-      "repo": "TrooperFilter/Gemini-Config-Checker-",
+      "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "stars": "472",
       "lang": "Makefile",

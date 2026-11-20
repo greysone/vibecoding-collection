@@ -1,24 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T20:01:23.502Z",
+  "fetchedAt": "2026-11-20T05:58:01.092Z",
   "repos": [
-    {
-      "repo": "Immortal-Protocols/lastbook",
-      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "stars": "2.5k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+2.5k total",
-      "tags": []
-    },
-    {
-      "repo": "ZiChuanLan/freebie-radar",
-      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "stars": "1.8k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.8k total",
-      "tags": []
-    },
     {
       "repo": "duwqijlk/muse-protocol",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
@@ -31,19 +13,19 @@
     {
       "repo": "haziqahmedqasmi/PeakCut",
       "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.4k total",
       "tags": []
     },
     {
       "repo": "sybil-solutions/inference-optimisation-skill",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": "1.2k",
+      "stars": "1.3k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.2k total",
+      "trend": "+1.3k total",
       "tags": [
         "agent-skill",
         "benchmarking",
@@ -53,12 +35,27 @@
       ]
     },
     {
+      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": "824",
+      "lang": "Other",
+      "license": "MIT",
+      "trend": "+824 total",
+      "tags": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai"
+      ]
+    },
+    {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "709",
+      "stars": "723",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+709 total",
+      "trend": "+723 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -68,93 +65,108 @@
       ]
     },
     {
-      "repo": "berkantay/gpucanvas",
-      "desc": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-      "stars": "535",
-      "lang": "TypeScript",
+      "repo": "iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": "536",
+      "lang": "Python",
       "license": "MIT",
-      "trend": "+535 total",
+      "trend": "+536 total",
       "tags": [
-        "ai-agents",
-        "canvas",
-        "design-tools",
-        "editor",
-        "html-in-canvas"
+        "clipping",
+        "ffmpeg",
+        "shorts",
+        "video",
+        "whisper"
       ]
     },
     {
-      "repo": "credoksopho1984/blender-ai-copilot-studio",
-      "desc": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
-      "stars": "516",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+516 total",
+      "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "474",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+474 total",
       "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
       ]
     },
     {
-      "repo": "racdeufindurch198812/Blender-AI-MCP-Studio",
-      "desc": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
-      "stars": "516",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+516 total",
+      "repo": "weightcashiercupola/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "473",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+473 total",
       "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
       ]
     },
     {
-      "repo": "tiobeharxi1987/blender-ai-copilot-flow",
-      "desc": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
-      "stars": "514",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+514 total",
+      "repo": "WinnerSpecialist/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "472",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+472 total",
       "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
       ]
     },
     {
-      "repo": "zovulrira1974/blender-ai-copilot-assets",
-      "desc": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "510",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+510 total",
+      "repo": "VortexHostFeel/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "472",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+472 total",
       "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
       ]
     },
     {
-      "repo": "Doug-218/blender-ai-copilot-forge",
-      "desc": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": "509",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+509 total",
+      "repo": "TrooperFilter/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "472",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+472 total",
       "tags": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
+      ]
+    },
+    {
+      "repo": "Violetnyudress/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "472",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+472 total",
+      "tags": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
       ]
     }
   ]

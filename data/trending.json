@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-21T05:52:30.507Z",
+  "fetchedAt": "2026-11-21T18:45:29.367Z",
   "repos": [
     {
       "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "1.8k",
+      "stars": "2.1k",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+1.8k total",
+      "trend": "+2.1k total",
       "tags": [
         "ai-agents",
         "ai-assistant",
@@ -24,6 +24,21 @@
       "license": "NOASSERTION",
       "trend": "+1.7k total",
       "tags": []
+    },
+    {
+      "repo": "iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": "1.7k",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+1.7k total",
+      "tags": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper"
+      ]
     },
     {
       "repo": "haziqahmedqasmi/PeakCut",
@@ -50,27 +65,12 @@
       ]
     },
     {
-      "repo": "iamajmeena/neonclipping",
-      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "stars": "1.3k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.3k total",
-      "tags": [
-        "clipping",
-        "ffmpeg",
-        "shorts",
-        "video",
-        "whisper"
-      ]
-    },
-    {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "747",
+      "stars": "767",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+747 total",
+      "trend": "+767 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -82,10 +82,10 @@
     {
       "repo": "mankidev/antialgorithm",
       "desc": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
-      "stars": "575",
+      "stars": "599",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+575 total",
+      "trend": "+599 total",
       "tags": [
         "agent-skills",
         "claude-code",
@@ -97,10 +97,10 @@
     {
       "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "474",
+      "stars": "472",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+474 total",
+      "trend": "+472 total",
       "tags": [
         "ai",
         "ai-search",
@@ -112,10 +112,10 @@
     {
       "repo": "weightcashiercupola/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "473",
+      "stars": "471",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+473 total",
+      "trend": "+471 total",
       "tags": [
         "ai",
         "ai-search",
@@ -127,10 +127,10 @@
     {
       "repo": "WinnerSpecialist/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "472",
+      "stars": "470",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+472 total",
+      "trend": "+470 total",
       "tags": [
         "ai",
         "ai-search",
@@ -142,10 +142,10 @@
     {
       "repo": "VortexHostFeel/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "472",
+      "stars": "470",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+472 total",
+      "trend": "+470 total",
       "tags": [
         "ai",
         "ai-search",
@@ -157,10 +157,10 @@
     {
       "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "472",
+      "stars": "470",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+472 total",
+      "trend": "+470 total",
       "tags": [
         "ai",
         "ai-search",

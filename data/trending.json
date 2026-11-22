@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-21T18:45:29.367Z",
+  "fetchedAt": "2026-11-22T05:25:56.742Z",
   "repos": [
     {
       "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "2.1k",
+      "stars": "2.6k",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.6k total",
       "tags": [
         "ai-agents",
         "ai-assistant",
@@ -17,21 +17,12 @@
       ]
     },
     {
-      "repo": "duwqijlk/muse-protocol",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "stars": "1.7k",
-      "lang": "Python",
-      "license": "NOASSERTION",
-      "trend": "+1.7k total",
-      "tags": []
-    },
-    {
       "repo": "iamajmeena/neonclipping",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "stars": "1.7k",
+      "stars": "1.8k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+1.8k total",
       "tags": [
         "ai-video-clipper",
         "clipping",
@@ -41,21 +32,12 @@
       ]
     },
     {
-      "repo": "haziqahmedqasmi/PeakCut",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "stars": "1.6k",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+1.6k total",
-      "tags": []
-    },
-    {
       "repo": "sybil-solutions/inference-optimisation-skill",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": "1.4k",
+      "stars": "1.7k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.7k total",
       "tags": [
         "agent-skill",
         "benchmarking",
@@ -67,10 +49,10 @@
     {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "767",
+      "stars": "782",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+767 total",
+      "trend": "+782 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -80,37 +62,7 @@
       ]
     },
     {
-      "repo": "mankidev/antialgorithm",
-      "desc": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
-      "stars": "599",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+599 total",
-      "tags": [
-        "agent-skills",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex"
-      ]
-    },
-    {
       "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "472",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+472 total",
-      "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ]
-    },
-    {
-      "repo": "weightcashiercupola/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "stars": "471",
       "lang": "Makefile",
@@ -125,12 +77,27 @@
       ]
     },
     {
-      "repo": "WinnerSpecialist/Gemini-Config-Checker-",
+      "repo": "weightcashiercupola/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "stars": "470",
       "lang": "Makefile",
       "license": "Apache-2.0",
       "trend": "+470 total",
+      "tags": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
+      ]
+    },
+    {
+      "repo": "WinnerSpecialist/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "469",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+469 total",
       "tags": [
         "ai",
         "ai-search",
@@ -142,10 +109,10 @@
     {
       "repo": "VortexHostFeel/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "470",
+      "stars": "469",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+470 total",
+      "trend": "+469 total",
       "tags": [
         "ai",
         "ai-search",
@@ -157,10 +124,55 @@
     {
       "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "470",
+      "stars": "469",
       "lang": "Makefile",
       "license": "Apache-2.0",
-      "trend": "+470 total",
+      "trend": "+469 total",
+      "tags": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
+      ]
+    },
+    {
+      "repo": "WharfBoulderColander/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "469",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+469 total",
+      "tags": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
+      ]
+    },
+    {
+      "repo": "Violetnyudress/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "469",
+      "lang": "Go",
+      "license": "Apache-2.0",
+      "trend": "+469 total",
+      "tags": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
+      ]
+    },
+    {
+      "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": "469",
+      "lang": "Makefile",
+      "license": "Apache-2.0",
+      "trend": "+469 total",
       "tags": [
         "ai",
         "ai-search",

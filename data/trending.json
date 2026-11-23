@@ -1,28 +1,13 @@
 {
-  "fetchedAt": "2026-11-23T06:03:15.869Z",
+  "fetchedAt": "2026-11-23T23:27:43.367Z",
   "repos": [
-    {
-      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "2.8k",
-      "lang": "Other",
-      "license": "MIT",
-      "trend": "+2.8k total",
-      "tags": [
-        "ai-agents",
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai"
-      ]
-    },
     {
       "repo": "iamajmeena/neonclipping",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "stars": "2.1k",
+      "stars": "2.3k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.1k total",
+      "trend": "+2.3k total",
       "tags": [
         "ai-video-clipper",
         "clipping",
@@ -34,10 +19,10 @@
     {
       "repo": "sybil-solutions/inference-optimisation-skill",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+2.0k total",
+      "trend": "+2.1k total",
       "tags": [
         "agent-skill",
         "benchmarking",
@@ -47,27 +32,12 @@
       ]
     },
     {
-      "repo": "boringmarketer/boring-marketing-skills",
-      "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "799",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+799 total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "copywriting"
-      ]
-    },
-    {
       "repo": "pierridotite/mobile-agent-testers",
       "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-      "stars": "797",
+      "stars": "1.4k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+797 total",
+      "trend": "+1.4k total",
       "tags": [
         "accessibility-testing",
         "ai-agents",
@@ -77,12 +47,27 @@
       ]
     },
     {
+      "repo": "boringmarketer/boring-marketing-skills",
+      "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "stars": "815",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+815 total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "copywriting"
+      ]
+    },
+    {
       "repo": "INK-Q/agy-fast",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": "611",
+      "stars": "777",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+611 total",
+      "trend": "+777 total",
       "tags": [
         "ai-agent",
         "ai-coding",
@@ -93,11 +78,11 @@
     },
     {
       "repo": "ThreatDefence/agentic-attack-detections",
-      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-      "stars": "441",
+      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "stars": "560",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+441 total",
+      "trend": "+560 total",
       "tags": [
         "agentic-ai",
         "ai-security",
@@ -109,10 +94,10 @@
     {
       "repo": "w01fb0ss/PiBot",
       "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": "433",
+      "stars": "499",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+433 total",
+      "trend": "+499 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -122,63 +107,78 @@
       ]
     },
     {
-      "repo": "nick-jonesdev98n2/fortnite-hwid-spoofer-cheat",
-      "desc": "Fortnite Chapter 6 Perm HWID smbios-utility (EAC/BattlEye) + External AI Soft-Aim & Edit Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-      "stars": "422",
-      "lang": "CMake",
-      "license": "NOASSERTION",
-      "trend": "+422 total",
+      "repo": "erkamyaman/safe-anything",
+      "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "stars": "481",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+481 total",
       "tags": [
-        "cmake",
-        "cpp",
-        "directx-11",
-        "directx-12",
-        "edit-macro-fortnite"
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "cli",
+        "codex"
       ]
     },
     {
-      "repo": "G4rdner26/luminar-neo-win",
-      "desc": "Skylum Luminar Neo - photo editing software for AI-powered enhancements, layer editing and raw file processing on Windows 10/11",
-      "stars": "414",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+414 total",
+      "repo": "hoangsvit/google-ai",
+      "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
+      "stars": "428",
+      "lang": "Python",
+      "license": "Other",
+      "trend": "+428 total",
       "tags": [
-        "ai-photo-editor",
-        "color-grading",
-        "illustration",
-        "image-editing",
-        "luminar-2024"
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "google",
+        "google-ai"
       ]
     },
     {
-      "repo": "igwei/topaz-video-ai-win",
-      "desc": "Topaz Labs Topaz Video AI - video enhancement and upscaling software for noise reduction, frame interpolation and resolution upscaling on Windows 10/11",
-      "stars": "411",
-      "lang": "Other",
-      "license": "NOASSERTION",
-      "trend": "+411 total",
+      "repo": "hovocope135-tech/DSH-projects",
+      "desc": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+      "stars": "410",
+      "lang": "JavaScript",
+      "license": "MIT",
+      "trend": "+410 total",
       "tags": [
-        "ai-tools",
-        "daemon",
-        "desktop-app",
-        "media",
-        "nas"
+        "ai-agents",
+        "claude-code",
+        "context-engineering",
+        "deepseek-harness",
+        "task-management"
       ]
     },
     {
-      "repo": "bo-design8152/filmora-win",
-      "desc": "Wondershare Filmora - video editing software for timeline editing, AI-assisted effects and audio mixing on Windows 10/11",
-      "stars": "411",
+      "repo": "fujc683/ai-video-api-gateway",
+      "desc": "One OpenAI-compatible endpoint for Seedance, Kling, Wan, PixVerse and Veo.",
+      "stars": "391",
       "lang": "Other",
       "license": "NOASSERTION",
-      "trend": "+411 total",
+      "trend": "+391 total",
       "tags": [
-        "content-creation",
-        "cursor",
-        "desktop-app",
-        "filmora-ai",
-        "filmora-windows-2026"
+        "ai-api",
+        "ai-video",
+        "api-gateway",
+        "api-proxy",
+        "apimart"
+      ]
+    },
+    {
+      "repo": "youssefco1999-hash/aiseesoft-launch-pro",
+      "desc": "Aiseesoft Launch Pro: Desktop Utility for Aiseesoft Unlocker Operations",
+      "stars": "339",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+339 total",
+      "tags": [
+        "aiseesoft-fonelab-for-ios",
+        "aiseesoft-fonelab-for-whatsapp-recovery",
+        "automation",
+        "desktop",
+        "detector-de-silencio-en-radioboss"
       ]
     }
   ]

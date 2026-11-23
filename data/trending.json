@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-22T19:07:10.129Z",
+  "fetchedAt": "2026-11-23T06:03:15.869Z",
   "repos": [
     {
       "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": "2.7k",
+      "stars": "2.8k",
       "lang": "Other",
       "license": "MIT",
-      "trend": "+2.7k total",
+      "trend": "+2.8k total",
       "tags": [
         "ai-agents",
         "ai-assistant",
@@ -34,10 +34,10 @@
     {
       "repo": "sybil-solutions/inference-optimisation-skill",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+1.9k total",
+      "trend": "+2.0k total",
       "tags": [
         "agent-skill",
         "benchmarking",
@@ -49,10 +49,10 @@
     {
       "repo": "boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": "792",
+      "stars": "799",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+792 total",
+      "trend": "+799 total",
       "tags": [
         "agent-skills",
         "ai-agents",
@@ -62,12 +62,27 @@
       ]
     },
     {
+      "repo": "pierridotite/mobile-agent-testers",
+      "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "stars": "797",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+797 total",
+      "tags": [
+        "accessibility-testing",
+        "ai-agents",
+        "ai-testing",
+        "android",
+        "android-emulator"
+      ]
+    },
+    {
       "repo": "INK-Q/agy-fast",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": "475",
+      "stars": "611",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+475 total",
+      "trend": "+611 total",
       "tags": [
         "ai-agent",
         "ai-coding",
@@ -77,108 +92,93 @@
       ]
     },
     {
-      "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "471",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+471 total",
+      "repo": "ThreatDefence/agentic-attack-detections",
+      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "stars": "441",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+441 total",
       "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
+        "agentic-ai",
+        "ai-security",
+        "blue-team",
+        "defender-xdr",
+        "detection-engineering"
       ]
     },
     {
-      "repo": "weightcashiercupola/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "470",
-      "lang": "Makefile",
+      "repo": "w01fb0ss/PiBot",
+      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "stars": "433",
+      "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+470 total",
+      "trend": "+433 total",
       "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "android"
       ]
     },
     {
-      "repo": "WinnerSpecialist/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "469",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+469 total",
+      "repo": "nick-jonesdev98n2/fortnite-hwid-spoofer-cheat",
+      "desc": "Fortnite Chapter 6 Perm HWID smbios-utility (EAC/BattlEye) + External AI Soft-Aim & Edit Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "stars": "422",
+      "lang": "CMake",
+      "license": "NOASSERTION",
+      "trend": "+422 total",
       "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
+        "cmake",
+        "cpp",
+        "directx-11",
+        "directx-12",
+        "edit-macro-fortnite"
       ]
     },
     {
-      "repo": "TypeTyrantScheme/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "469",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+469 total",
+      "repo": "G4rdner26/luminar-neo-win",
+      "desc": "Skylum Luminar Neo - photo editing software for AI-powered enhancements, layer editing and raw file processing on Windows 10/11",
+      "stars": "414",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+414 total",
       "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
+        "ai-photo-editor",
+        "color-grading",
+        "illustration",
+        "image-editing",
+        "luminar-2024"
       ]
     },
     {
-      "repo": "WingDataVacuum/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "469",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+469 total",
+      "repo": "igwei/topaz-video-ai-win",
+      "desc": "Topaz Labs Topaz Video AI - video enhancement and upscaling software for noise reduction, frame interpolation and resolution upscaling on Windows 10/11",
+      "stars": "411",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+411 total",
       "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
+        "ai-tools",
+        "daemon",
+        "desktop-app",
+        "media",
+        "nas"
       ]
     },
     {
-      "repo": "TurtleReside/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "469",
-      "lang": "Go",
-      "license": "Apache-2.0",
-      "trend": "+469 total",
+      "repo": "bo-design8152/filmora-win",
+      "desc": "Wondershare Filmora - video editing software for timeline editing, AI-assisted effects and audio mixing on Windows 10/11",
+      "stars": "411",
+      "lang": "Other",
+      "license": "NOASSERTION",
+      "trend": "+411 total",
       "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ]
-    },
-    {
-      "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": "469",
-      "lang": "Makefile",
-      "license": "Apache-2.0",
-      "trend": "+469 total",
-      "tags": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
+        "content-creation",
+        "cursor",
+        "desktop-app",
+        "filmora-ai",
+        "filmora-windows-2026"
       ]
     }
   ]

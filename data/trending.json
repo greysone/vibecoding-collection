@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T21:58:00.077Z",
+  "fetchedAt": "2026-11-25T07:17:15.156Z",
   "repos": [
     {
       "repo": "iamajmeena/neonclipping",
@@ -19,10 +19,10 @@
     {
       "repo": "INK-Q/agy-fast",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": "1.1k",
+      "stars": "1.3k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.1k total",
+      "trend": "+1.3k total",
       "tags": [
         "ai-agent",
         "ai-coding",
@@ -32,42 +32,12 @@
       ]
     },
     {
-      "repo": "ThreatDefence/agentic-attack-detections",
-      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-      "stars": "621",
-      "lang": "Python",
-      "license": "MIT",
-      "trend": "+621 total",
-      "tags": [
-        "agentic-ai",
-        "ai-security",
-        "blue-team",
-        "defender-xdr",
-        "detection-engineering"
-      ]
-    },
-    {
-      "repo": "erkamyaman/safe-anything",
-      "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": "618",
-      "lang": "Rust",
-      "license": "MIT",
-      "trend": "+618 total",
-      "tags": [
-        "ai-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "cli",
-        "codex"
-      ]
-    },
-    {
       "repo": "qianyiai/kurocat",
       "desc": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
-      "stars": "600",
+      "stars": "762",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+600 total",
+      "trend": "+762 total",
       "tags": [
         "android",
         "bongo-cat",
@@ -79,10 +49,10 @@
     {
       "repo": "sous-labs/songe",
       "desc": "A training engine for your local model, using your idle compute",
-      "stars": "595",
+      "stars": "751",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+595 total",
+      "trend": "+751 total",
       "tags": [
         "coding-agents",
         "distillation",
@@ -92,27 +62,42 @@
       ]
     },
     {
-      "repo": "w01fb0ss/PiBot",
-      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": "557",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+557 total",
+      "repo": "erkamyaman/safe-anything",
+      "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "stars": "648",
+      "lang": "Rust",
+      "license": "MIT",
+      "trend": "+648 total",
       "tags": [
-        "agent",
-        "ai-agent",
         "ai-agents",
-        "ai-assistant",
-        "android"
+        "claude-code",
+        "claude-code-plugin",
+        "cli",
+        "codex"
+      ]
+    },
+    {
+      "repo": "ThreatDefence/agentic-attack-detections",
+      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "stars": "643",
+      "lang": "Python",
+      "license": "MIT",
+      "trend": "+643 total",
+      "tags": [
+        "agentic-ai",
+        "ai-security",
+        "blue-team",
+        "defender-xdr",
+        "detection-engineering"
       ]
     },
     {
       "repo": "Developing-Gamer/agent-sim",
       "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": "537",
+      "stars": "576",
       "lang": "Rust",
       "license": "Apache-2.0",
-      "trend": "+537 total",
+      "trend": "+576 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -122,33 +107,33 @@
       ]
     },
     {
+      "repo": "w01fb0ss/PiBot",
+      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "stars": "570",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+570 total",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "android"
+      ]
+    },
+    {
       "repo": "hoangsvit/google-ai",
       "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
-      "stars": "495",
+      "stars": "528",
       "lang": "Python",
       "license": "Other",
-      "trend": "+495 total",
+      "trend": "+528 total",
       "tags": [
         "gemini",
         "gemini-ai",
         "gemini-api",
         "google",
         "google-ai"
-      ]
-    },
-    {
-      "repo": "hovocope135-tech/DSH-projects",
-      "desc": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
-      "stars": "448",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+448 total",
-      "tags": [
-        "ai-agents",
-        "claude-code",
-        "context-engineering",
-        "deepseek-harness",
-        "task-management"
       ]
     },
     {
@@ -169,16 +154,31 @@
     {
       "repo": "praseesh369/youtube-ai-video-editing-system",
       "desc": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
-      "stars": "338",
+      "stars": "339",
       "lang": "HTML",
       "license": "MIT",
-      "trend": "+338 total",
+      "trend": "+339 total",
       "tags": [
         "ai-agents",
         "ai-video-editing",
         "animation",
         "claude-design",
         "design"
+      ]
+    },
+    {
+      "repo": "rafiiiakmall-cpu/aida-64-extreme",
+      "desc": "Aida 64 Extreme: Desktop Hardware Diagnostics and System Profiling Suite",
+      "stars": "337",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+337 total",
+      "tags": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup"
       ]
     }
   ]

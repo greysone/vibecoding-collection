@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T21:09:09.151Z",
+  "fetchedAt": "2026-11-26T07:05:21.837Z",
   "repos": [
     {
       "repo": "iamajmeena/neonclipping",
@@ -19,10 +19,10 @@
     {
       "repo": "INK-Q/agy-fast",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": "1.5k",
+      "stars": "1.6k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.5k total",
+      "trend": "+1.6k total",
       "tags": [
         "ai-agent",
         "ai-coding",
@@ -33,26 +33,26 @@
     },
     {
       "repo": "qianyiai/kurocat",
-      "desc": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
-      "stars": "945",
+      "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "stars": "1.1k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+945 total",
+      "trend": "+1.1k total",
       "tags": [
+        "3d",
+        "ai-companion",
         "android",
         "bongo-cat",
-        "bongocat",
-        "cross-platform",
-        "desktop-pet"
+        "bongocat"
       ]
     },
     {
       "repo": "sous-labs/songe",
       "desc": "A training engine for your local model, using your idle compute",
-      "stars": "848",
+      "stars": "881",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+848 total",
+      "trend": "+881 total",
       "tags": [
         "coding-agents",
         "distillation",
@@ -64,10 +64,10 @@
     {
       "repo": "erkamyaman/safe-anything",
       "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": "696",
+      "stars": "736",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+696 total",
+      "trend": "+736 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -79,10 +79,10 @@
     {
       "repo": "ThreatDefence/agentic-attack-detections",
       "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-      "stars": "687",
+      "stars": "716",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+687 total",
+      "trend": "+716 total",
       "tags": [
         "agentic-ai",
         "ai-security",
@@ -92,27 +92,27 @@
       ]
     },
     {
-      "repo": "Developing-Gamer/agent-sim",
-      "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": "596",
-      "lang": "Rust",
-      "license": "Apache-2.0",
-      "trend": "+596 total",
+      "repo": "alesha-pro/llm.asm",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "stars": "633",
+      "lang": "Assembly",
+      "license": "MIT",
+      "trend": "+633 total",
       "tags": [
-        "ai-agents",
-        "claude-code",
-        "ios",
-        "ios-simulator",
-        "linux"
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning"
       ]
     },
     {
       "repo": "w01fb0ss/PiBot",
       "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": "589",
+      "stars": "624",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+589 total",
+      "trend": "+624 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -122,18 +122,18 @@
       ]
     },
     {
-      "repo": "hoangsvit/google-ai",
-      "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
-      "stars": "567",
-      "lang": "Python",
-      "license": "Other",
-      "trend": "+567 total",
+      "repo": "Developing-Gamer/agent-sim",
+      "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "stars": "603",
+      "lang": "Rust",
+      "license": "Apache-2.0",
+      "trend": "+603 total",
       "tags": [
-        "gemini",
-        "gemini-ai",
-        "gemini-api",
-        "google",
-        "google-ai"
+        "ai-agents",
+        "claude-code",
+        "ios",
+        "ios-simulator",
+        "linux"
       ]
     },
     {

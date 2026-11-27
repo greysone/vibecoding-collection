@@ -1,13 +1,28 @@
 {
-  "fetchedAt": "2026-11-27T07:00:20.438Z",
+  "fetchedAt": "2026-11-27T20:44:41.065Z",
   "repos": [
+    {
+      "repo": "nexu-io/opengame",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "stars": "2.1k",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+2.1k total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex"
+      ]
+    },
     {
       "repo": "alesha-pro/llm.asm",
       "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-      "stars": "1.7k",
+      "stars": "2.1k",
       "lang": "Assembly",
       "license": "MIT",
-      "trend": "+1.7k total",
+      "trend": "+2.1k total",
       "tags": [
         "assembly",
         "avx2",
@@ -19,10 +34,10 @@
     {
       "repo": "qianyiai/KuroCat",
       "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-      "stars": "1.6k",
+      "stars": "1.8k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.6k total",
+      "trend": "+1.8k total",
       "tags": [
         "3d",
         "ai-companion",
@@ -32,27 +47,12 @@
       ]
     },
     {
-      "repo": "nexu-io/opengame",
-      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
-      "stars": "1.4k",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+1.4k total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "ai-game-generator",
-        "claude-code",
-        "codex"
-      ]
-    },
-    {
       "repo": "sous-labs/songe",
       "desc": "A training engine for your local model, using your idle compute",
-      "stars": "911",
+      "stars": "925",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+911 total",
+      "trend": "+925 total",
       "tags": [
         "coding-agents",
         "distillation",
@@ -64,10 +64,10 @@
     {
       "repo": "erkamyaman/safe-anything",
       "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": "801",
+      "stars": "824",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+801 total",
+      "trend": "+824 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -79,10 +79,10 @@
     {
       "repo": "ThreatDefence/agentic-attack-detections",
       "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-      "stars": "756",
+      "stars": "785",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+756 total",
+      "trend": "+785 total",
       "tags": [
         "agentic-ai",
         "ai-security",
@@ -94,10 +94,10 @@
     {
       "repo": "w01fb0ss/PiBot",
       "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": "661",
+      "stars": "675",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+661 total",
+      "trend": "+675 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -109,10 +109,10 @@
     {
       "repo": "Developing-Gamer/agent-sim",
       "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": "616",
+      "stars": "627",
       "lang": "Rust",
       "license": "Apache-2.0",
-      "trend": "+616 total",
+      "trend": "+627 total",
       "tags": [
         "ai-agents",
         "claude-code",

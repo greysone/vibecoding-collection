@@ -1,43 +1,13 @@
 {
-  "fetchedAt": "2026-11-26T20:59:21.947Z",
+  "fetchedAt": "2026-11-27T07:00:20.438Z",
   "repos": [
-    {
-      "repo": "iamajmeena/neonclipping",
-      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "stars": "2.7k",
-      "lang": "Python",
-      "license": "AGPL-3.0",
-      "trend": "+2.7k total",
-      "tags": [
-        "ai-video-clipper",
-        "clipping",
-        "faster-whisper",
-        "ffmpeg",
-        "gameplay-clipper"
-      ]
-    },
-    {
-      "repo": "INK-Q/agy-fast",
-      "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": "1.7k",
-      "lang": "TypeScript",
-      "license": "MIT",
-      "trend": "+1.7k total",
-      "tags": [
-        "ai-agent",
-        "ai-coding",
-        "antigravity",
-        "antigravity-cli",
-        "antigravity-ide"
-      ]
-    },
     {
       "repo": "alesha-pro/llm.asm",
       "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-      "stars": "1.4k",
+      "stars": "1.7k",
       "lang": "Assembly",
       "license": "MIT",
-      "trend": "+1.4k total",
+      "trend": "+1.7k total",
       "tags": [
         "assembly",
         "avx2",
@@ -49,10 +19,10 @@
     {
       "repo": "qianyiai/KuroCat",
       "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-      "stars": "1.3k",
+      "stars": "1.6k",
       "lang": "TypeScript",
       "license": "MIT",
-      "trend": "+1.3k total",
+      "trend": "+1.6k total",
       "tags": [
         "3d",
         "ai-companion",
@@ -62,12 +32,27 @@
       ]
     },
     {
+      "repo": "nexu-io/opengame",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "stars": "1.4k",
+      "lang": "TypeScript",
+      "license": "Apache-2.0",
+      "trend": "+1.4k total",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex"
+      ]
+    },
+    {
       "repo": "sous-labs/songe",
       "desc": "A training engine for your local model, using your idle compute",
-      "stars": "903",
+      "stars": "911",
       "lang": "Python",
       "license": "Apache-2.0",
-      "trend": "+903 total",
+      "trend": "+911 total",
       "tags": [
         "coding-agents",
         "distillation",
@@ -79,10 +64,10 @@
     {
       "repo": "erkamyaman/safe-anything",
       "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": "781",
+      "stars": "801",
       "lang": "Rust",
       "license": "MIT",
-      "trend": "+781 total",
+      "trend": "+801 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -94,10 +79,10 @@
     {
       "repo": "ThreatDefence/agentic-attack-detections",
       "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-      "stars": "740",
+      "stars": "756",
       "lang": "Python",
       "license": "MIT",
-      "trend": "+740 total",
+      "trend": "+756 total",
       "tags": [
         "agentic-ai",
         "ai-security",
@@ -107,27 +92,12 @@
       ]
     },
     {
-      "repo": "nexu-io/opengame",
-      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
-      "stars": "708",
-      "lang": "TypeScript",
-      "license": "Apache-2.0",
-      "trend": "+708 total",
-      "tags": [
-        "agent-skills",
-        "ai-agents",
-        "ai-game-generator",
-        "claude-code",
-        "codex"
-      ]
-    },
-    {
       "repo": "w01fb0ss/PiBot",
       "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": "654",
+      "stars": "661",
       "lang": "TypeScript",
       "license": "Apache-2.0",
-      "trend": "+654 total",
+      "trend": "+661 total",
       "tags": [
         "agent",
         "ai-agent",
@@ -139,10 +109,10 @@
     {
       "repo": "Developing-Gamer/agent-sim",
       "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": "615",
+      "stars": "616",
       "lang": "Rust",
       "license": "Apache-2.0",
-      "trend": "+615 total",
+      "trend": "+616 total",
       "tags": [
         "ai-agents",
         "claude-code",
@@ -150,15 +120,6 @@
         "ios-simulator",
         "linux"
       ]
-    },
-    {
-      "repo": "chuspeeism/xiaozao-os",
-      "desc": "大师的AI小灶官网：模拟桌面操作系统的个人主页",
-      "stars": "348",
-      "lang": "JavaScript",
-      "license": "MIT",
-      "trend": "+348 total",
-      "tags": []
     },
     {
       "repo": "youssefco1999-hash/aiseesoft-launch-pro",
@@ -173,6 +134,51 @@
         "automation",
         "desktop",
         "detector-de-silencio-en-radioboss"
+      ]
+    },
+    {
+      "repo": "praseesh369/youtube-ai-video-editing-system",
+      "desc": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
+      "stars": "338",
+      "lang": "HTML",
+      "license": "MIT",
+      "trend": "+338 total",
+      "tags": [
+        "ai-agents",
+        "ai-video-editing",
+        "animation",
+        "claude-design",
+        "design"
+      ]
+    },
+    {
+      "repo": "lebrowndnasty-hash/ai-app-builder",
+      "desc": "AI App Builder: Prompt to Full-Stack Next.js Apps with Hosting, Database, Auth, and Multitenancy",
+      "stars": "336",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+336 total",
+      "tags": [
+        "ai-app-builder",
+        "ai-code-generation",
+        "ai-web-app-builder",
+        "ai-web-builder",
+        "app-builder"
+      ]
+    },
+    {
+      "repo": "ali7080/adobe-air-sdk",
+      "desc": "Adobe AIR SDK: Cross-Platform Desktop App Development with AJAX, HTML, and Flash",
+      "stars": "336",
+      "lang": "HTML",
+      "license": "Other",
+      "trend": "+336 total",
+      "tags": [
+        "adobe-air-installer",
+        "adobe-air-setup",
+        "adobe-air-windows",
+        "ajax",
+        "download-adobe-air"
       ]
     }
   ]
